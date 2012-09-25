@@ -2,35 +2,35 @@ ros-fuerte-actionlib:
 - {docs_url: 'http://www.ros.org/doc/fuerte/api/actionlib/html', location: 'file:///home/eitan/hidof/willow/buildfarm/scripts/docspace/doc/fuerte/api/actionlib/tags/actionlib.tag',
   package: actionlib}
 ros-fuerte-navigation:
-- {docs_url: ../../../api/dwa_local_planner/html, location: 'file:///home/eitan/hidof/willow/buildfarm/scripts/docspace/doc/fuerte/api/dwa_local_planner/tags/dwa_local_planner.tag',
+- {docs_url: ../../../api/dwa_local_planner/html, location: 'http://localhost/fuerte/api/dwa_local_planner/tags/dwa_local_planner.tag',
   package: dwa_local_planner}
-- {docs_url: ../../../api/move_base_msgs/html, location: 'file:///home/eitan/hidof/willow/buildfarm/scripts/docspace/doc/fuerte/api/move_base_msgs/tags/move_base_msgs.tag',
+- {docs_url: ../../../api/move_base_msgs/html, location: 'http://localhost/fuerte/api/move_base_msgs/tags/move_base_msgs.tag',
   package: move_base_msgs}
-- {docs_url: ../../../api/voxel_grid/html, location: 'file:///home/eitan/hidof/willow/buildfarm/scripts/docspace/doc/fuerte/api/voxel_grid/tags/voxel_grid.tag',
+- {docs_url: ../../../api/voxel_grid/html, location: 'http://localhost/fuerte/api/voxel_grid/tags/voxel_grid.tag',
   package: voxel_grid}
-- {docs_url: ../../../api/move_base/html, location: 'file:///home/eitan/hidof/willow/buildfarm/scripts/docspace/doc/fuerte/api/move_base/tags/move_base.tag',
+- {docs_url: ../../../api/move_base/html, location: 'http://localhost/fuerte/api/move_base/tags/move_base.tag',
   package: move_base}
-- {docs_url: ../../../api/rotate_recovery/html, location: 'file:///home/eitan/hidof/willow/buildfarm/scripts/docspace/doc/fuerte/api/rotate_recovery/tags/rotate_recovery.tag',
+- {docs_url: ../../../api/rotate_recovery/html, location: 'http://localhost/fuerte/api/rotate_recovery/tags/rotate_recovery.tag',
   package: rotate_recovery}
-- {docs_url: ../../../api/navfn/html, location: 'file:///home/eitan/hidof/willow/buildfarm/scripts/docspace/doc/fuerte/api/navfn/tags/navfn.tag',
+- {docs_url: ../../../api/navfn/html, location: 'http://localhost/fuerte/api/navfn/tags/navfn.tag',
   package: navfn}
-- {docs_url: ../../../api/robot_pose_ekf/html, location: 'file:///home/eitan/hidof/willow/buildfarm/scripts/docspace/doc/fuerte/api/robot_pose_ekf/tags/robot_pose_ekf.tag',
+- {docs_url: ../../../api/robot_pose_ekf/html, location: 'http://localhost/fuerte/api/robot_pose_ekf/tags/robot_pose_ekf.tag',
   package: robot_pose_ekf}
-- {docs_url: ../../../api/clear_costmap_recovery/html, location: 'file:///home/eitan/hidof/willow/buildfarm/scripts/docspace/doc/fuerte/api/clear_costmap_recovery/tags/clear_costmap_recovery.tag',
+- {docs_url: ../../../api/clear_costmap_recovery/html, location: 'http://localhost/fuerte/api/clear_costmap_recovery/tags/clear_costmap_recovery.tag',
   package: clear_costmap_recovery}
-- {docs_url: ../../../api/amcl/html, location: 'file:///home/eitan/hidof/willow/buildfarm/scripts/docspace/doc/fuerte/api/amcl/tags/amcl.tag',
+- {docs_url: ../../../api/amcl/html, location: 'http://localhost/fuerte/api/amcl/tags/amcl.tag',
   package: amcl}
-- {docs_url: ../../../api/move_slow_and_clear/html, location: 'file:///home/eitan/hidof/willow/buildfarm/scripts/docspace/doc/fuerte/api/move_slow_and_clear/tags/move_slow_and_clear.tag',
+- {docs_url: ../../../api/move_slow_and_clear/html, location: 'http://localhost/fuerte/api/move_slow_and_clear/tags/move_slow_and_clear.tag',
   package: move_slow_and_clear}
-- {docs_url: ../../../api/map_server/html, location: 'file:///home/eitan/hidof/willow/buildfarm/scripts/docspace/doc/fuerte/api/map_server/tags/map_server.tag',
+- {docs_url: ../../../api/map_server/html, location: 'http://localhost/fuerte/api/map_server/tags/map_server.tag',
   package: map_server}
-- {docs_url: ../../../api/nav_core/html, location: 'file:///home/eitan/hidof/willow/buildfarm/scripts/docspace/doc/fuerte/api/nav_core/tags/nav_core.tag',
+- {docs_url: ../../../api/nav_core/html, location: 'http://localhost/fuerte/api/nav_core/tags/nav_core.tag',
   package: nav_core}
-- {docs_url: ../../../api/fake_localization/html, location: 'file:///home/eitan/hidof/willow/buildfarm/scripts/docspace/doc/fuerte/api/fake_localization/tags/fake_localization.tag',
+- {docs_url: ../../../api/fake_localization/html, location: 'http://localhost/fuerte/api/fake_localization/tags/fake_localization.tag',
   package: fake_localization}
-- {docs_url: ../../../api/base_local_planner/html, location: 'file:///home/eitan/hidof/willow/buildfarm/scripts/docspace/doc/fuerte/api/base_local_planner/tags/base_local_planner.tag',
+- {docs_url: ../../../api/base_local_planner/html, location: 'http://localhost/fuerte/api/base_local_planner/tags/base_local_planner.tag',
   package: base_local_planner}
-- {docs_url: ../../../api/costmap_2d/html, location: 'file:///home/eitan/hidof/willow/buildfarm/scripts/docspace/doc/fuerte/api/costmap_2d/tags/costmap_2d.tag',
+- {docs_url: ../../../api/costmap_2d/html, location: 'http://localhost/fuerte/api/costmap_2d/tags/costmap_2d.tag',
   package: costmap_2d}
-- {docs_url: ../../../api/carrot_planner/html, location: 'file:///home/eitan/hidof/willow/buildfarm/scripts/docspace/doc/fuerte/api/carrot_planner/tags/carrot_planner.tag',
+- {docs_url: ../../../api/carrot_planner/html, location: 'http://localhost/fuerte/api/carrot_planner/tags/carrot_planner.tag',
   package: carrot_planner}
