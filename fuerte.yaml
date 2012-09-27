@@ -1,6 +1,3 @@
-ros-fuerte-actionlib:
-- {docs_url: ../../../api/actionlib/html, location: 'http://localhost/doc_tests/fuerte/api/actionlib/tags/actionlib.tag',
-  package: actionlib}
 ros-fuerte-navigation:
 - {docs_url: ../../../api/map_server/html, location: 'http://localhost/doc_tests/fuerte/api/map_server/tags/map_server.tag',
   package: map_server}
