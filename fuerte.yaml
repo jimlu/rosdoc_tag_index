@@ -1,6 +1,7 @@
 ros-fuerte-actionlib:
 - {docs_url: ../../../api/actionlib/html, location: 'http://ros.org/rosdoclite/fuerte/api/actionlib/tags/actionlib.tag',
   package: actionlib}
+ros-fuerte-genpy: []
 ros-fuerte-navigation:
 - {docs_url: ../../../api/move_slow_and_clear/html, location: 'http://ros.org/rosdoclite/fuerte/api/move_slow_and_clear/tags/move_slow_and_clear.tag',
   package: move_slow_and_clear}
