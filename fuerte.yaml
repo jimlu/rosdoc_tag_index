@@ -20,6 +20,7 @@ ros-fuerte-common-msgs:
   package: diagnostic_msgs}
 - {docs_url: ../../../api/shape_msgs/html, location: 'http://ros.org/rosdoclite/fuerte/api/shape_msgs/tags/shape_msgs.tag',
   package: shape_msgs}
+ros-fuerte-gencpp: []
 ros-fuerte-genlisp:
 - {docs_url: ../../../api/genlisp/html, location: 'http://ros.org/rosdoclite/fuerte/api/genlisp/tags/genlisp.tag',
   package: genlisp}
