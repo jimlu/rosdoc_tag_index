@@ -27,38 +27,38 @@ ros-fuerte-genlisp:
 ros-fuerte-genmsg: []
 ros-fuerte-genpy: []
 ros-fuerte-navigation:
-- {docs_url: ../../../api/move_slow_and_clear/html, location: 'http://ros.org/rosdoclite/fuerte/api/move_slow_and_clear/tags/move_slow_and_clear.tag',
-  package: move_slow_and_clear}
-- {docs_url: ../../../api/dwa_local_planner/html, location: 'http://ros.org/rosdoclite/fuerte/api/dwa_local_planner/tags/dwa_local_planner.tag',
-  package: dwa_local_planner}
-- {docs_url: ../../../api/base_local_planner/html, location: 'http://ros.org/rosdoclite/fuerte/api/base_local_planner/tags/base_local_planner.tag',
-  package: base_local_planner}
-- {docs_url: ../../../api/rotate_recovery/html, location: 'http://ros.org/rosdoclite/fuerte/api/rotate_recovery/tags/rotate_recovery.tag',
-  package: rotate_recovery}
-- {docs_url: ../../../api/move_base/html, location: 'http://ros.org/rosdoclite/fuerte/api/move_base/tags/move_base.tag',
-  package: move_base}
-- {docs_url: ../../../api/clear_costmap_recovery/html, location: 'http://ros.org/rosdoclite/fuerte/api/clear_costmap_recovery/tags/clear_costmap_recovery.tag',
-  package: clear_costmap_recovery}
-- {docs_url: ../../../api/voxel_grid/html, location: 'http://ros.org/rosdoclite/fuerte/api/voxel_grid/tags/voxel_grid.tag',
-  package: voxel_grid}
-- {docs_url: ../../../api/navfn/html, location: 'http://ros.org/rosdoclite/fuerte/api/navfn/tags/navfn.tag',
-  package: navfn}
-- {docs_url: ../../../api/costmap_2d/html, location: 'http://ros.org/rosdoclite/fuerte/api/costmap_2d/tags/costmap_2d.tag',
-  package: costmap_2d}
 - {docs_url: ../../../api/robot_pose_ekf/html, location: 'http://ros.org/rosdoclite/fuerte/api/robot_pose_ekf/tags/robot_pose_ekf.tag',
   package: robot_pose_ekf}
+- {docs_url: ../../../api/move_base/html, location: 'http://ros.org/rosdoclite/fuerte/api/move_base/tags/move_base.tag',
+  package: move_base}
+- {docs_url: ../../../api/carrot_planner/html, location: 'http://ros.org/rosdoclite/fuerte/api/carrot_planner/tags/carrot_planner.tag',
+  package: carrot_planner}
+- {docs_url: ../../../api/navfn/html, location: 'http://ros.org/rosdoclite/fuerte/api/navfn/tags/navfn.tag',
+  package: navfn}
+- {docs_url: ../../../api/rotate_recovery/html, location: 'http://ros.org/rosdoclite/fuerte/api/rotate_recovery/tags/rotate_recovery.tag',
+  package: rotate_recovery}
+- {docs_url: ../../../api/clear_costmap_recovery/html, location: 'http://ros.org/rosdoclite/fuerte/api/clear_costmap_recovery/tags/clear_costmap_recovery.tag',
+  package: clear_costmap_recovery}
+- {docs_url: ../../../api/map_server/html, location: 'http://ros.org/rosdoclite/fuerte/api/map_server/tags/map_server.tag',
+  package: map_server}
+- {docs_url: ../../../api/voxel_grid/html, location: 'http://ros.org/rosdoclite/fuerte/api/voxel_grid/tags/voxel_grid.tag',
+  package: voxel_grid}
 - {docs_url: ../../../api/nav_core/html, location: 'http://ros.org/rosdoclite/fuerte/api/nav_core/tags/nav_core.tag',
   package: nav_core}
 - {docs_url: ../../../api/fake_localization/html, location: 'http://ros.org/rosdoclite/fuerte/api/fake_localization/tags/fake_localization.tag',
   package: fake_localization}
-- {docs_url: ../../../api/map_server/html, location: 'http://ros.org/rosdoclite/fuerte/api/map_server/tags/map_server.tag',
-  package: map_server}
+- {docs_url: ../../../api/move_slow_and_clear/html, location: 'http://ros.org/rosdoclite/fuerte/api/move_slow_and_clear/tags/move_slow_and_clear.tag',
+  package: move_slow_and_clear}
+- {docs_url: ../../../api/costmap_2d/html, location: 'http://ros.org/rosdoclite/fuerte/api/costmap_2d/tags/costmap_2d.tag',
+  package: costmap_2d}
+- {docs_url: ../../../api/dwa_local_planner/html, location: 'http://ros.org/rosdoclite/fuerte/api/dwa_local_planner/tags/dwa_local_planner.tag',
+  package: dwa_local_planner}
 - {docs_url: ../../../api/move_base_msgs/html, location: 'http://ros.org/rosdoclite/fuerte/api/move_base_msgs/tags/move_base_msgs.tag',
   package: move_base_msgs}
 - {docs_url: ../../../api/amcl/html, location: 'http://ros.org/rosdoclite/fuerte/api/amcl/tags/amcl.tag',
   package: amcl}
-- {docs_url: ../../../api/carrot_planner/html, location: 'http://ros.org/rosdoclite/fuerte/api/carrot_planner/tags/carrot_planner.tag',
-  package: carrot_planner}
+- {docs_url: ../../../api/base_local_planner/html, location: 'http://ros.org/rosdoclite/fuerte/api/base_local_planner/tags/base_local_planner.tag',
+  package: base_local_planner}
 ros-fuerte-ros-comm:
 - {docs_url: ../../../api/roscpp/html, location: 'http://ros.org/rosdoclite/fuerte/api/roscpp/tags/roscpp.tag',
   package: roscpp}
