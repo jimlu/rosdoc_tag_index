@@ -59,6 +59,19 @@ ros-fuerte-navigation:
   package: voxel_grid}
 - {docs_url: ../../../api/move_base/html, location: 'http://ros.org/rosdoclite/fuerte/api/move_base/tags/move_base.tag',
   package: move_base}
+ros-fuerte-ros:
+- {docs_url: ../../../api/roslib/html, location: 'http://ros.org/rosdoclite/fuerte/api/roslib/tags/roslib.tag',
+  package: roslib}
+- {docs_url: ../../../api/roslang/html, location: 'http://ros.org/rosdoclite/fuerte/api/roslang/tags/roslang.tag',
+  package: roslang}
+- {docs_url: ../../../api/rosboost_cfg/html, location: 'http://ros.org/rosdoclite/fuerte/api/rosboost_cfg/tags/rosboost_cfg.tag',
+  package: rosboost_cfg}
+- {docs_url: ../../../api/roscreate/html, location: 'http://ros.org/rosdoclite/fuerte/api/roscreate/tags/roscreate.tag',
+  package: roscreate}
+- {docs_url: ../../../api/rosbash/html, location: 'http://ros.org/rosdoclite/fuerte/api/rosbash/tags/rosbash.tag',
+  package: rosbash}
+- {docs_url: ../../../api/rosclean/html, location: 'http://ros.org/rosdoclite/fuerte/api/rosclean/tags/rosclean.tag',
+  package: rosclean}
 ros-fuerte-ros-comm:
 - {docs_url: ../../../api/roscpp/html, location: 'http://ros.org/rosdoclite/fuerte/api/roscpp/tags/roscpp.tag',
   package: roscpp}
