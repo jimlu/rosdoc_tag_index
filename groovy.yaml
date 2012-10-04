@@ -1,6 +1,9 @@
 ros-groovy-actionlib:
 - {docs_url: ../../../api/actionlib/html, location: 'http://ros.org/rosdoclite/groovy/api/actionlib/tags/actionlib.tag',
   package: actionlib}
+ros-groovy-catkin:
+- {docs_url: ../../../api/catkin/html, location: 'http://ros.org/rosdoclite/groovy/api/catkin/tags/catkin.tag',
+  package: catkin}
 ros-groovy-common-msgs:
 - {docs_url: ../../../api/common_msgs/html, location: 'http://ros.org/rosdoclite/groovy/api/common_msgs/tags/common_msgs.tag',
   package: common_msgs}
