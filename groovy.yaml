@@ -51,6 +51,9 @@ ros-groovy-roscpp-core:
   package: rostime}
 - {docs_url: ../../../api/cpp_common/html, location: 'http://ros.org/rosdoclite/groovy/api/cpp_common/tags/cpp_common.tag',
   package: cpp_common}
+ros-groovy-rospack:
+- {docs_url: ../../../api/rospack/html, location: 'http://ros.org/rosdoclite/groovy/api/rospack/tags/rospack.tag',
+  package: rospack}
 ros-groovy-std-msgs:
 - {docs_url: ../../../api/std_msgs/html, location: 'http://ros.org/rosdoclite/groovy/api/std_msgs/tags/std_msgs.tag',
   package: std_msgs}
