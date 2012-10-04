@@ -1,6 +1,7 @@
 ros-groovy-actionlib:
 - {docs_url: ../../../api/actionlib/html, location: 'http://ros.org/rosdoclite/groovy/api/actionlib/tags/actionlib.tag',
   package: actionlib}
+ros-groovy-genmsg: []
 ros-groovy-genpy: []
 ros-groovy-langs:
 - {docs_url: ../../../api/langs/html, location: 'http://ros.org/rosdoclite/groovy/api/langs/tags/langs.tag',
