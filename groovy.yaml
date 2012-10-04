@@ -5,6 +5,39 @@ ros-groovy-genpy: []
 ros-groovy-langs:
 - {docs_url: ../../../api/langs/html, location: 'http://ros.org/rosdoclite/groovy/api/langs/tags/langs.tag',
   package: langs}
+ros-groovy-ros:
+- {docs_url: ../../../api/roslang/html, location: 'http://ros.org/rosdoclite/groovy/api/roslang/tags/roslang.tag',
+  package: roslang}
+- {docs_url: ../../../api/rosbuild/html, location: 'http://ros.org/rosdoclite/groovy/api/rosbuild/tags/rosbuild.tag',
+  package: rosbuild}
+- {docs_url: ../../../api/mk/html, location: 'http://ros.org/rosdoclite/groovy/api/mk/tags/mk.tag',
+  package: mk}
+- {docs_url: ../../../api/roslib/html, location: 'http://ros.org/rosdoclite/groovy/api/roslib/tags/roslib.tag',
+  package: roslib}
+- {docs_url: ../../../api/foo/html, location: 'http://ros.org/rosdoclite/groovy/api/foo/tags/foo.tag',
+  package: foo}
+- {docs_url: ../../../api/foo/html, location: 'http://ros.org/rosdoclite/groovy/api/foo/tags/foo.tag',
+  package: foo}
+- {docs_url: ../../../api/bar/html, location: 'http://ros.org/rosdoclite/groovy/api/bar/tags/bar.tag',
+  package: bar}
+- {docs_url: ../../../api/foo/html, location: 'http://ros.org/rosdoclite/groovy/api/foo/tags/foo.tag',
+  package: foo}
+- {docs_url: ../../../api/bar/html, location: 'http://ros.org/rosdoclite/groovy/api/bar/tags/bar.tag',
+  package: bar}
+- {docs_url: ../../../api/rosbash/html, location: 'http://ros.org/rosdoclite/groovy/api/rosbash/tags/rosbash.tag',
+  package: rosbash}
+- {docs_url: ../../../api/roscreate/html, location: 'http://ros.org/rosdoclite/groovy/api/roscreate/tags/roscreate.tag',
+  package: roscreate}
+- {docs_url: ../../../api/depends_stack1/html, location: 'http://ros.org/rosdoclite/groovy/api/depends_stack1/tags/depends_stack1.tag',
+  package: depends_stack1}
+- {docs_url: ../../../api/depends_roslib/html, location: 'http://ros.org/rosdoclite/groovy/api/depends_roslib/tags/depends_roslib.tag',
+  package: depends_roslib}
+- {docs_url: ../../../api/rosboost_cfg/html, location: 'http://ros.org/rosdoclite/groovy/api/rosboost_cfg/tags/rosboost_cfg.tag',
+  package: rosboost_cfg}
+- {docs_url: ../../../api/rosclean/html, location: 'http://ros.org/rosdoclite/groovy/api/rosclean/tags/rosclean.tag',
+  package: rosclean}
+- {docs_url: ../../../api/ros/html, location: 'http://ros.org/rosdoclite/groovy/api/ros/tags/ros.tag',
+  package: ros}
 ros-groovy-roscpp-core:
 - {docs_url: ../../../api/roscpp_core/html, location: 'http://ros.org/rosdoclite/groovy/api/roscpp_core/tags/roscpp_core.tag',
   package: roscpp_core}
