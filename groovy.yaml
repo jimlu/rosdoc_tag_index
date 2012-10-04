@@ -5,6 +5,17 @@ ros-groovy-genpy: []
 ros-groovy-langs:
 - {docs_url: ../../../api/langs/html, location: 'http://ros.org/rosdoclite/groovy/api/langs/tags/langs.tag',
   package: langs}
+ros-groovy-roscpp-core:
+- {docs_url: ../../../api/roscpp_core/html, location: 'http://ros.org/rosdoclite/groovy/api/roscpp_core/tags/roscpp_core.tag',
+  package: roscpp_core}
+- {docs_url: ../../../api/roscpp_traits/html, location: 'http://ros.org/rosdoclite/groovy/api/roscpp_traits/tags/roscpp_traits.tag',
+  package: roscpp_traits}
+- {docs_url: ../../../api/roscpp_serialization/html, location: 'http://ros.org/rosdoclite/groovy/api/roscpp_serialization/tags/roscpp_serialization.tag',
+  package: roscpp_serialization}
+- {docs_url: ../../../api/rostime/html, location: 'http://ros.org/rosdoclite/groovy/api/rostime/tags/rostime.tag',
+  package: rostime}
+- {docs_url: ../../../api/cpp_common/html, location: 'http://ros.org/rosdoclite/groovy/api/cpp_common/tags/cpp_common.tag',
+  package: cpp_common}
 ros-groovy-std-msgs:
 - {docs_url: ../../../api/std_msgs/html, location: 'http://ros.org/rosdoclite/groovy/api/std_msgs/tags/std_msgs.tag',
   package: std_msgs}
