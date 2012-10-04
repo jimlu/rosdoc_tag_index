@@ -1,3 +1,4 @@
 ros-groovy-actionlib:
 - {docs_url: ../../../api/actionlib/html, location: 'http://ros.org/rosdoclite/groovy/api/actionlib/tags/actionlib.tag',
   package: actionlib}
+ros-groovy-genpy: []
