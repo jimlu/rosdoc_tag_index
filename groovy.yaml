@@ -23,6 +23,9 @@ ros-groovy-common-msgs:
 - {docs_url: ../../../api/sensor_msgs/html, location: 'http://ros.org/rosdoclite/groovy/api/sensor_msgs/tags/sensor_msgs.tag',
   package: sensor_msgs}
 ros-groovy-gencpp: []
+ros-groovy-genlisp:
+- {docs_url: ../../../api/genlisp/html, location: 'http://ros.org/rosdoclite/groovy/api/genlisp/tags/genlisp.tag',
+  package: genlisp}
 ros-groovy-genmsg: []
 ros-groovy-genpy: []
 ros-groovy-langs:
