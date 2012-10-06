@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 ros-groovy-catkin: []
+=======
+ros-groovy-std-msgs:
+- {docs_url: ../../../api/std_msgs/html, location: 'http://ros.org/rosdoclite/groovy/api/std_msgs/tags/std_msgs.tag',
+  package: std_msgs}
+>>>>>>> 65b4bc7091317abe81efb19c73112d8c6d935161
