@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ros-fuerte-rx:
 - {docs_url: ../../../api/wxPython_swig_interface/html, location: 'http://ros.org/rosdoclite/fuerte/api/wxPython_swig_interface/tags/wxPython_swig_interface.tag',
   package: wxPython_swig_interface}
@@ -9,3 +10,8 @@ ros-fuerte-rx:
   package: xdot}
 - {docs_url: ../../../api/rxbag/html, location: 'http://ros.org/rosdoclite/fuerte/api/rxbag/tags/rxbag.tag',
   package: rxbag}
+=======
+ros-fuerte-actionlib:
+- {docs_url: ../../../api/actionlib/html, location: 'http://ros.org/rosdoclite/fuerte/api/actionlib/tags/actionlib.tag',
+  package: actionlib}
+>>>>>>> e3821e580610c65a54ebb08c6dfa1e89729b8a19
