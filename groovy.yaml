@@ -1,3 +1,1 @@
-ros-groovy-turtlesim:
-- {docs_url: ../../../api/turtlesim/html, location: 'http://ros.org/rosdoclite/groovy/api/turtlesim/tags/turtlesim.tag',
-  package: turtlesim}
+ros-groovy-ros-tutorials: []
