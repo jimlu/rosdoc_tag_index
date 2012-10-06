@@ -1,0 +1,54 @@
+actionlib: [move_base]
+actionlib_msgs: [move_base_msgs]
+angles: [rotate_recovery, carrot_planner, dwa_local_planner, fake_localization, base_local_planner]
+base_local_planner: [rotate_recovery, carrot_planner, dwa_local_planner, move_base]
+bfl: [robot_pose_ekf]
+clear_costmap_recovery: [move_base]
+common_rosdeps: [rotate_recovery, carrot_planner, dwa_local_planner, move_slow_and_clear,
+  base_local_planner, navfn, clear_costmap_recovery, map_server, costmap_2d, move_base]
+costmap_2d: [rotate_recovery, carrot_planner, dwa_local_planner, move_slow_and_clear,
+  base_local_planner, navfn, clear_costmap_recovery, move_base]
+dynamic_reconfigure: [amcl, dwa_local_planner, move_slow_and_clear, costmap_2d, move_base]
+eigen: [rotate_recovery, carrot_planner, dwa_local_planner, move_slow_and_clear, base_local_planner,
+  navfn, clear_costmap_recovery, costmap_2d, move_base]
+fltk: [navfn]
+geometry_msgs: [rotate_recovery, move_slow_and_clear, fake_localization, base_local_planner,
+  navfn, move_base_msgs, costmap_2d, nav_core, move_base, robot_pose_ekf]
+laser_geometry: [costmap_2d]
+map_server: [amcl, costmap_2d]
+message_filters: [amcl, fake_localization]
+move_base_msgs: [move_base]
+nav_core: [rotate_recovery, carrot_planner, dwa_local_planner, move_slow_and_clear,
+  base_local_planner, navfn, clear_costmap_recovery, move_base]
+nav_msgs: [amcl, dwa_local_planner, fake_localization, base_local_planner, navfn,
+  map_server, costmap_2d, move_base, robot_pose_ekf]
+navfn: [move_base]
+netpbm: [navfn]
+pcl: [base_local_planner, costmap_2d]
+pcl_ros: [base_local_planner, navfn, costmap_2d]
+pluginlib: [rotate_recovery, carrot_planner, move_slow_and_clear, base_local_planner,
+  navfn, clear_costmap_recovery, move_base]
+python-imaging: [map_server]
+python-yaml: [map_server]
+rosbag: [amcl, costmap_2d, robot_pose_ekf]
+rosconsole: [fake_localization, base_local_planner, navfn, map_server, voxel_grid,
+  costmap_2d, move_base]
+roscpp: [rotate_recovery, carrot_planner, amcl, dwa_local_planner, move_slow_and_clear,
+  fake_localization, base_local_planner, navfn, clear_costmap_recovery, map_server,
+  costmap_2d, move_base, robot_pose_ekf]
+roslib: [dwa_local_planner, base_local_planner, move_base_msgs, move_base]
+rosmsg: [move_base]
+rospy: [base_local_planner, map_server, move_base]
+rostest: [amcl]
+rostopic: [move_base]
+rotate_recovery: [move_base]
+sdl-image: [map_server]
+sensor_msgs: [costmap_2d, robot_pose_ekf]
+std_msgs: [base_local_planner, move_base_msgs, costmap_2d, nav_core, move_base, robot_pose_ekf]
+std_srvs: [amcl, move_base]
+tf: [rotate_recovery, carrot_planner, amcl, dwa_local_planner, fake_localization,
+  base_local_planner, navfn, clear_costmap_recovery, map_server, costmap_2d, move_base,
+  robot_pose_ekf]
+visualization_msgs: [base_local_planner, navfn, costmap_2d, move_base]
+voxel_grid: [base_local_planner, costmap_2d]
+yaml-cpp: [map_server]
