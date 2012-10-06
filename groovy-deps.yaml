@@ -1,5 +1,5 @@
-catkin: [rospy_tutorials, roscpp_tutorials, turtlesim]
-genmsg: [rospy_tutorials, roscpp_tutorials, turtlesim]
+catkin: [rospy_tutorials, roscpp_tutorials, turtlesim, genlisp]
+genmsg: [rospy_tutorials, roscpp_tutorials, turtlesim, genlisp]
 langs: [roscpp_tutorials, turtlesim]
 langs-dev: [rospy_tutorials, roscpp_tutorials, turtlesim]
 libqt4: [turtlesim]
