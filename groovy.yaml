@@ -1,3 +1,3 @@
-ros-groovy-sensor-msgs:
-- {docs_url: ../../../api/sensor_msgs/html, location: 'http://ros.org/rosdoclite/groovy/api/sensor_msgs/tags/sensor_msgs.tag',
-  package: sensor_msgs}
+ros-groovy-common-msgs:
+- {docs_url: ../../../api/common_msgs/html, location: 'http://ros.org/rosdoclite/groovy/api/common_msgs/tags/common_msgs.tag',
+  package: common_msgs}
