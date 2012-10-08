@@ -1,3 +1,3 @@
-ros-groovy-shape-msgs:
-- {docs_url: ../../../api/shape_msgs/html, location: 'http://ros.org/rosdoclite/groovy/api/shape_msgs/tags/shape_msgs.tag',
-  package: shape_msgs}
+ros-groovy-trajectory-msgs:
+- {docs_url: ../../../api/trajectory_msgs/html, location: 'http://ros.org/rosdoclite/groovy/api/trajectory_msgs/tags/trajectory_msgs.tag',
+  package: trajectory_msgs}
