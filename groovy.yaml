@@ -1,3 +1,3 @@
-ros-groovy-diagnostic-msgs:
-- {docs_url: ../../../api/diagnostic_msgs/html, location: 'http://ros.org/rosdoclite/groovy/api/diagnostic_msgs/tags/diagnostic_msgs.tag',
-  package: diagnostic_msgs}
+ros-groovy-visualization-msgs:
+- {docs_url: ../../../api/visualization_msgs/html, location: 'http://ros.org/rosdoclite/groovy/api/visualization_msgs/tags/visualization_msgs.tag',
+  package: visualization_msgs}
