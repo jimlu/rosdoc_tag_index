@@ -2,7 +2,7 @@ actionlib_msgs: [actionlib, common_msgs]
 boost: [actionlib]
 catkin: [rospy_tutorials, roscpp_tutorials, turtlesim, std_msgs, actionlib, diagnostic_msgs,
   visualization_msgs, nav_msgs, shape_msgs, trajectory_msgs, stereo_msgs, geometry_msgs,
-  sensor_msgs, actionlib_msgs, genpy, genmsg]
+  sensor_msgs, actionlib_msgs, genpy, genmsg, langs]
 common_msgs: [actionlib]
 cpp_common: [actionlib]
 diagnostic_msgs: [common_msgs]
@@ -15,7 +15,7 @@ langs: [roscpp_tutorials, turtlesim, std_msgs, actionlib, diagnostic_msgs, visua
   actionlib_msgs]
 langs-dev: [rospy_tutorials, roscpp_tutorials, turtlesim, std_msgs, actionlib, diagnostic_msgs,
   visualization_msgs, nav_msgs, shape_msgs, trajectory_msgs, stereo_msgs, geometry_msgs,
-  sensor_msgs, actionlib_msgs]
+  sensor_msgs, actionlib_msgs, langs]
 libqt4: [turtlesim]
 libqt4-dev: [turtlesim]
 nav_msgs: [common_msgs]
@@ -24,6 +24,7 @@ ros: [actionlib]
 ros_comm: [actionlib]
 rosconsole: [roscpp_tutorials, turtlesim, actionlib]
 roscpp: [roscpp_tutorials, turtlesim, actionlib]
+roscpp_core: [langs]
 roscpp_serialization: [roscpp_tutorials, turtlesim]
 roscpp_traits: [actionlib]
 roslib: [turtlesim]
