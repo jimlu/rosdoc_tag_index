@@ -1,3 +1,3 @@
-ros-groovy-nav-msgs:
-- {docs_url: ../../../api/nav_msgs/html, location: 'http://ros.org/rosdoclite/groovy/api/nav_msgs/tags/nav_msgs.tag',
-  package: nav_msgs}
+ros-groovy-shape-msgs:
+- {docs_url: ../../../api/shape_msgs/html, location: 'http://ros.org/rosdoclite/groovy/api/shape_msgs/tags/shape_msgs.tag',
+  package: shape_msgs}
