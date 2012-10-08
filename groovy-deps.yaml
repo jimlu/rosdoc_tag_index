@@ -1,13 +1,24 @@
-actionlib_msgs: [actionlib]
+actionlib_msgs: [actionlib, common_msgs]
 boost: [actionlib]
-catkin: [rospy_tutorials, roscpp_tutorials, turtlesim, std_msgs, actionlib]
+catkin: [rospy_tutorials, roscpp_tutorials, turtlesim, std_msgs, actionlib, diagnostic_msgs,
+  visualization_msgs, nav_msgs, shape_msgs, trajectory_msgs, stereo_msgs, geometry_msgs,
+  sensor_msgs, actionlib_msgs]
 common_msgs: [actionlib]
 cpp_common: [actionlib]
-genmsg: [rospy_tutorials, roscpp_tutorials, turtlesim, std_msgs, actionlib]
-langs: [roscpp_tutorials, turtlesim, std_msgs, actionlib]
-langs-dev: [rospy_tutorials, roscpp_tutorials, turtlesim, std_msgs, actionlib]
+diagnostic_msgs: [common_msgs]
+genmsg: [rospy_tutorials, roscpp_tutorials, turtlesim, std_msgs, actionlib, diagnostic_msgs,
+  visualization_msgs, nav_msgs, shape_msgs, trajectory_msgs, stereo_msgs, geometry_msgs,
+  sensor_msgs, actionlib_msgs]
+geometry_msgs: [visualization_msgs, nav_msgs, shape_msgs, sensor_msgs, common_msgs]
+langs: [roscpp_tutorials, turtlesim, std_msgs, actionlib, diagnostic_msgs, visualization_msgs,
+  nav_msgs, shape_msgs, trajectory_msgs, stereo_msgs, geometry_msgs, sensor_msgs,
+  actionlib_msgs]
+langs-dev: [rospy_tutorials, roscpp_tutorials, turtlesim, std_msgs, actionlib, diagnostic_msgs,
+  visualization_msgs, nav_msgs, shape_msgs, trajectory_msgs, stereo_msgs, geometry_msgs,
+  sensor_msgs, actionlib_msgs]
 libqt4: [turtlesim]
 libqt4-dev: [turtlesim]
+nav_msgs: [common_msgs]
 qt4-qmake: [turtlesim]
 ros: [actionlib]
 ros_comm: [actionlib]
@@ -19,5 +30,12 @@ roslib: [turtlesim]
 rospy: [rospy_tutorials]
 rostest: [rospy_tutorials]
 rostime: [roscpp_tutorials, turtlesim, actionlib]
-std_msgs: [rospy_tutorials, roscpp_tutorials]
+sensor_msgs: [stereo_msgs, common_msgs]
+shape_msgs: [common_msgs]
+std_msgs: [rospy_tutorials, roscpp_tutorials, diagnostic_msgs, visualization_msgs,
+  nav_msgs, shape_msgs, trajectory_msgs, stereo_msgs, geometry_msgs, sensor_msgs,
+  actionlib_msgs]
 std_srvs: [turtlesim]
+stereo_msgs: [common_msgs]
+trajectory_msgs: [common_msgs]
+visualization_msgs: [common_msgs]
