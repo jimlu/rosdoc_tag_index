@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 ros-groovy-message-filters:
 - {docs_url: ../../../api/message_filters/html, location: 'http://ros.org/rosdoclite/groovy/api/message_filters/tags/message_filters.tag',
   package: message_filters}
+=======
+ros-groovy-actionlib:
+- {docs_url: ../../../api/actionlib/html, location: 'http://ros.org/rosdoclite/groovy/api/actionlib/tags/actionlib.tag',
+  package: actionlib}
+>>>>>>> 63dbf86853e8e17d209d625778305daeab54b42d
 ros-groovy-ros-comm:
 - {docs_url: ../../../api/test_roslib_comm/html, location: 'http://ros.org/rosdoclite/groovy/api/test_roslib_comm/tags/test_roslib_comm.tag',
   package: test_roslib_comm}
