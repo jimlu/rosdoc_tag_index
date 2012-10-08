@@ -3,7 +3,6 @@ boost: [actionlib]
 catkin: [rospy_tutorials, roscpp_tutorials, turtlesim, std_msgs, actionlib, diagnostic_msgs,
   visualization_msgs, nav_msgs, shape_msgs, trajectory_msgs, stereo_msgs, geometry_msgs,
   sensor_msgs, actionlib_msgs, genpy, genmsg, genlisp, gencpp, ros_tutorials]
-cmake: [catkin]
 common_msgs: [actionlib]
 cpp_common: [actionlib]
 diagnostic_msgs: [common_msgs]
@@ -11,7 +10,6 @@ genmsg: [rospy_tutorials, roscpp_tutorials, turtlesim, std_msgs, actionlib, diag
   visualization_msgs, nav_msgs, shape_msgs, trajectory_msgs, stereo_msgs, geometry_msgs,
   sensor_msgs, actionlib_msgs, genpy, genlisp, gencpp]
 geometry_msgs: [visualization_msgs, nav_msgs, shape_msgs, sensor_msgs, common_msgs]
-gtest: [catkin]
 langs: [roscpp_tutorials, turtlesim, std_msgs, actionlib, diagnostic_msgs, visualization_msgs,
   nav_msgs, shape_msgs, trajectory_msgs, stereo_msgs, geometry_msgs, sensor_msgs,
   actionlib_msgs]
@@ -21,10 +19,6 @@ langs-dev: [rospy_tutorials, roscpp_tutorials, turtlesim, std_msgs, actionlib, d
 libqt4: [turtlesim]
 libqt4-dev: [turtlesim]
 nav_msgs: [common_msgs]
-python-argparse: [catkin]
-python-catkin-pkg: [catkin]
-python-empy: [catkin]
-python-nose: [catkin]
 qt4-qmake: [turtlesim]
 ros: [actionlib]
 ros_comm: [actionlib]
