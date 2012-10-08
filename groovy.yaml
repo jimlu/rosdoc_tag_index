@@ -1,3 +1,3 @@
-ros-groovy-message-filters:
-- {docs_url: ../../../api/message_filters/html, location: 'http://ros.org/rosdoclite/groovy/api/message_filters/tags/message_filters.tag',
-  package: message_filters}
+ros-groovy-topic-tools:
+- {docs_url: ../../../api/topic_tools/html, location: 'http://ros.org/rosdoclite/groovy/api/topic_tools/tags/topic_tools.tag',
+  package: topic_tools}
