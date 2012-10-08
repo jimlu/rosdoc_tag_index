@@ -2,7 +2,7 @@ actionlib_msgs: [actionlib, common_msgs]
 boost: [actionlib]
 catkin: [rospy_tutorials, roscpp_tutorials, turtlesim, std_msgs, actionlib, diagnostic_msgs,
   visualization_msgs, nav_msgs, shape_msgs, trajectory_msgs, stereo_msgs, geometry_msgs,
-  sensor_msgs, actionlib_msgs, genpy]
+  sensor_msgs, actionlib_msgs, genpy, genmsg]
 common_msgs: [actionlib]
 cpp_common: [actionlib]
 diagnostic_msgs: [common_msgs]
