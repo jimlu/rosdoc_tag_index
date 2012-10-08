@@ -1,3 +1,3 @@
-ros-groovy-actionlib:
-- {docs_url: ../../../api/actionlib/html, location: 'http://ros.org/rosdoclite/groovy/api/actionlib/tags/actionlib.tag',
-  package: actionlib}
+ros-groovy-diagnostic-msgs:
+- {docs_url: ../../../api/diagnostic_msgs/html, location: 'http://ros.org/rosdoclite/groovy/api/diagnostic_msgs/tags/diagnostic_msgs.tag',
+  package: diagnostic_msgs}
