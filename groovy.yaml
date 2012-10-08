@@ -1,3 +1,3 @@
-ros-groovy-std-msgs:
-- {docs_url: ../../../api/std_msgs/html, location: 'http://ros.org/rosdoclite/groovy/api/std_msgs/tags/std_msgs.tag',
-  package: std_msgs}
+ros-groovy-langs:
+- {docs_url: ../../../api/langs/html, location: 'http://ros.org/rosdoclite/groovy/api/langs/tags/langs.tag',
+  package: langs}
