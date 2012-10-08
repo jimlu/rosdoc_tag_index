@@ -1,3 +1,3 @@
-ros-groovy-std-srvs:
-- {docs_url: ../../../api/std_srvs/html, location: 'http://ros.org/rosdoclite/groovy/api/std_srvs/tags/std_srvs.tag',
-  package: std_srvs}
+ros-groovy-rosconsole:
+- {docs_url: ../../../api/rosconsole/html, location: 'http://ros.org/rosdoclite/groovy/api/rosconsole/tags/rosconsole.tag',
+  package: rosconsole}
