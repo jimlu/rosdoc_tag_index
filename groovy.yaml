@@ -14,6 +14,9 @@ ros-groovy-ros-comm:
   package: test_rosservice}
 - {docs_url: ../../../api/test_rospy/html, location: 'http://ros.org/rosdoclite/groovy/api/test_rospy/tags/test_rospy.tag',
   package: test_rospy}
+ros-groovy-ros-tutorials:
+- {docs_url: ../../../api/ros_tutorials/html, location: 'http://ros.org/rosdoclite/groovy/api/ros_tutorials/tags/ros_tutorials.tag',
+  package: ros_tutorials}
 ros-groovy-rosbag:
 - {docs_url: ../../../api/rosbag/html, location: 'http://ros.org/rosdoclite/groovy/api/rosbag/tags/rosbag.tag',
   package: rosbag}
@@ -23,12 +26,18 @@ ros-groovy-rosconsole:
 ros-groovy-roscpp:
 - {docs_url: ../../../api/roscpp/html, location: 'http://ros.org/rosdoclite/groovy/api/roscpp/tags/roscpp.tag',
   package: roscpp}
+ros-groovy-roscpp-tutorials:
+- {docs_url: ../../../api/roscpp_tutorials/html, location: 'http://ros.org/rosdoclite/groovy/api/roscpp_tutorials/tags/roscpp_tutorials.tag',
+  package: roscpp_tutorials}
 ros-groovy-rosgraph-msgs:
 - {docs_url: ../../../api/rosgraph_msgs/html, location: 'http://ros.org/rosdoclite/groovy/api/rosgraph_msgs/tags/rosgraph_msgs.tag',
   package: rosgraph_msgs}
 ros-groovy-rosout:
 - {docs_url: ../../../api/rosout/html, location: 'http://ros.org/rosdoclite/groovy/api/rosout/tags/rosout.tag',
   package: rosout}
+ros-groovy-rospy-tutorials:
+- {docs_url: ../../../api/rospy_tutorials/html, location: 'http://ros.org/rosdoclite/groovy/api/rospy_tutorials/tags/rospy_tutorials.tag',
+  package: rospy_tutorials}
 ros-groovy-std-msgs:
 - {docs_url: ../../../api/std_msgs/html, location: 'http://ros.org/rosdoclite/groovy/api/std_msgs/tags/std_msgs.tag',
   package: std_msgs}
@@ -38,6 +47,9 @@ ros-groovy-std-srvs:
 ros-groovy-topic-tools:
 - {docs_url: ../../../api/topic_tools/html, location: 'http://ros.org/rosdoclite/groovy/api/topic_tools/tags/topic_tools.tag',
   package: topic_tools}
+ros-groovy-turtlesim:
+- {docs_url: ../../../api/turtlesim/html, location: 'http://ros.org/rosdoclite/groovy/api/turtlesim/tags/turtlesim.tag',
+  package: turtlesim}
 ros-groovy-xmlrpcpp:
 - {docs_url: ../../../api/xmlrpcpp/html, location: 'http://ros.org/rosdoclite/groovy/api/xmlrpcpp/tags/xmlrpcpp.tag',
   package: xmlrpcpp}
