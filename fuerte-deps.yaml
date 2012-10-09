@@ -1,5 +1,5 @@
 actionlib: [move_base]
-actionlib_msgs: [move_base_msgs, actionlib]
+actionlib_msgs: [move_base_msgs]
 angles: [rotate_recovery, carrot_planner, dwa_local_planner, fake_localization, base_local_planner]
 base_local_planner: [rotate_recovery, carrot_planner, dwa_local_planner, move_base]
 bfl: [robot_pose_ekf]
@@ -41,15 +41,15 @@ rosconsole: [fake_localization, base_local_planner, navfn, map_server, voxel_gri
   costmap_2d, move_base]
 roscpp: [rotate_recovery, carrot_planner, amcl, dwa_local_planner, move_slow_and_clear,
   fake_localization, base_local_planner, navfn, clear_costmap_recovery, map_server,
-  costmap_2d, move_base, robot_pose_ekf, roscpp_tutorials, rxtools, actionlib]
+  costmap_2d, move_base, robot_pose_ekf, roscpp_tutorials, rxtools]
 rosgraph: [rxgraph, rxbag]
 rosgraph_msgs: [rxtools]
 roslib: [dwa_local_planner, base_local_planner, move_base_msgs, move_base, rxtools,
   rxbag]
 rosmsg: [move_base]
 rosnode: [rxgraph]
-rospy: [base_local_planner, map_server, move_base, rxtools, rxbag, actionlib]
-rostest: [amcl, actionlib]
+rospy: [base_local_planner, map_server, move_base, rxtools, rxbag]
+rostest: [amcl]
 rostopic: [move_base, rxgraph]
 rotate_recovery: [move_base]
 rxtools: [rxbag]
