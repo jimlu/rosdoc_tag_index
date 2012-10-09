@@ -1,3 +1,6 @@
+ros-fuerte-genlisp:
+- {docs_url: ../../../api/genlisp/html, location: 'http://ros.org/rosdoclite/fuerte/api/genlisp/tags/genlisp.tag',
+  package: genlisp}
 ros-fuerte-ros-tutorials:
 - {docs_url: ../../../api/roscpp_tutorials/html, location: 'http://ros.org/rosdoclite/fuerte/api/roscpp_tutorials/tags/roscpp_tutorials.tag',
   package: roscpp_tutorials}
