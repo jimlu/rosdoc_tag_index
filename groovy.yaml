@@ -14,10 +14,10 @@ ros-groovy-ros:
 - {docs_url: ../../../api/ros/html, location: 'http://ros.org/rosdoclite/groovy/api/ros/tags/ros.tag',
   package: ros}
 ros-groovy-ros-comm:
-- {docs_url: ../../../api/test_rosservice/html, location: 'http://ros.org/rosdoclite/groovy/api/test_rosservice/tags/test_rosservice.tag',
-  package: test_rosservice}
 - {docs_url: ../../../api/test_roslib_comm/html, location: 'http://ros.org/rosdoclite/groovy/api/test_roslib_comm/tags/test_roslib_comm.tag',
   package: test_roslib_comm}
+- {docs_url: ../../../api/test_rosservice/html, location: 'http://ros.org/rosdoclite/groovy/api/test_rosservice/tags/test_rosservice.tag',
+  package: test_rosservice}
 - {docs_url: ../../../api/test_rospy/html, location: 'http://ros.org/rosdoclite/groovy/api/test_rospy/tags/test_rospy.tag',
   package: test_rospy}
 ros-groovy-rosbag:
