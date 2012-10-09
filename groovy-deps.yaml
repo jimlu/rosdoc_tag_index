@@ -7,7 +7,7 @@ catkin: [rospy_tutorials, roscpp_tutorials, turtlesim, std_msgs, actionlib, diag
   sensor_msgs, actionlib_msgs, genpy, genmsg, genlisp, gencpp, ros_tutorials, rosout,
   rosmaster, rosbag, roslaunch, rosgraph_msgs, rosgraph, xmlrpcpp, rospy, rostest,
   roscpp, message_filters, roswtf, rosparam, topic_tools, std_srvs, rosmsg, rosconsole,
-  rostopic, rosnode, rosservice, langs]
+  rostopic, rosnode, rosservice]
 cmake: [catkin]
 common_msgs: [actionlib]
 cpp_common: [actionlib, rosbag, xmlrpcpp, roscpp, topic_tools, rosconsole]
@@ -24,8 +24,7 @@ langs: [roscpp_tutorials, turtlesim, std_msgs, actionlib, diagnostic_msgs, visua
   actionlib_msgs, rosgraph_msgs, roscpp, topic_tools, std_srvs]
 langs-dev: [rospy_tutorials, roscpp_tutorials, turtlesim, std_msgs, actionlib, diagnostic_msgs,
   visualization_msgs, nav_msgs, shape_msgs, trajectory_msgs, stereo_msgs, geometry_msgs,
-  sensor_msgs, actionlib_msgs, rosbag, rosgraph_msgs, roscpp, topic_tools, std_srvs,
-  langs]
+  sensor_msgs, actionlib_msgs, rosbag, rosgraph_msgs, roscpp, topic_tools, std_srvs]
 libqt4: [turtlesim]
 libqt4-dev: [turtlesim]
 log4cxx: [rosconsole]
@@ -51,7 +50,6 @@ rosconsole: [roscpp_tutorials, turtlesim, actionlib, ros_comm, rosbag, roscpp, m
   topic_tools]
 roscpp: [roscpp_tutorials, turtlesim, actionlib, rosout, ros_comm, rosbag, message_filters,
   topic_tools]
-roscpp_core: [langs]
 roscpp_serialization: [roscpp_tutorials, turtlesim, rosbag, roscpp]
 roscpp_traits: [actionlib, roscpp]
 roscpp_tutorials: [ros_tutorials]
