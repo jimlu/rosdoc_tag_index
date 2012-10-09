@@ -71,6 +71,9 @@ ros-groovy-roslib:
 ros-groovy-rosout:
 - {docs_url: ../../../api/rosout/html, location: 'http://ros.org/rosdoclite/groovy/api/rosout/tags/rosout.tag',
   package: rosout}
+ros-groovy-rospack:
+- {docs_url: ../../../api/rospack/html, location: 'http://ros.org/rosdoclite/groovy/api/rospack/tags/rospack.tag',
+  package: rospack}
 ros-groovy-rostime:
 - {docs_url: ../../../api/rostime/html, location: 'http://ros.org/rosdoclite/groovy/api/rostime/tags/rostime.tag',
   package: rostime}
