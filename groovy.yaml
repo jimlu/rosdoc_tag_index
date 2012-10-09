@@ -74,6 +74,18 @@ ros-groovy-rosout:
 ros-groovy-rostime:
 - {docs_url: ../../../api/rostime/html, location: 'http://ros.org/rosdoclite/groovy/api/rostime/tags/rostime.tag',
   package: rostime}
+ros-groovy-rx:
+- {docs_url: ../../../api/rx/html, location: 'http://ros.org/rosdoclite/groovy/api/rx/tags/rx.tag',
+  package: rx}
+ros-groovy-rxbag:
+- {docs_url: ../../../api/rxbag/html, location: 'http://ros.org/rosdoclite/groovy/api/rxbag/tags/rxbag.tag',
+  package: rxbag}
+ros-groovy-rxgraph:
+- {docs_url: ../../../api/rxgraph/html, location: 'http://ros.org/rosdoclite/groovy/api/rxgraph/tags/rxgraph.tag',
+  package: rxgraph}
+ros-groovy-rxtools:
+- {docs_url: ../../../api/rxtools/html, location: 'http://ros.org/rosdoclite/groovy/api/rxtools/tags/rxtools.tag',
+  package: rxtools}
 ros-groovy-std-msgs:
 - {docs_url: ../../../api/std_msgs/html, location: 'http://ros.org/rosdoclite/groovy/api/std_msgs/tags/std_msgs.tag',
   package: std_msgs}
@@ -83,6 +95,12 @@ ros-groovy-std-srvs:
 ros-groovy-topic-tools:
 - {docs_url: ../../../api/topic_tools/html, location: 'http://ros.org/rosdoclite/groovy/api/topic_tools/tags/topic_tools.tag',
   package: topic_tools}
+ros-groovy-wxpython-swig-interface:
+- {docs_url: ../../../api/wxpython_swig_interface/html, location: 'http://ros.org/rosdoclite/groovy/api/wxpython_swig_interface/tags/wxpython_swig_interface.tag',
+  package: wxpython_swig_interface}
+ros-groovy-xdot:
+- {docs_url: ../../../api/xdot/html, location: 'http://ros.org/rosdoclite/groovy/api/xdot/tags/xdot.tag',
+  package: xdot}
 ros-groovy-xmlrpcpp:
 - {docs_url: ../../../api/xmlrpcpp/html, location: 'http://ros.org/rosdoclite/groovy/api/xmlrpcpp/tags/xmlrpcpp.tag',
   package: xmlrpcpp}
