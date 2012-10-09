@@ -1,6 +1,6 @@
 actionlib_msgs: [actionlib, common_msgs]
 apr: [rosconsole]
-boost: [actionlib, rosbag, rostest, message_filters, rosconsole, roslib]
+boost: [actionlib, rosbag, rostest, message_filters, rosconsole, roslib, rostime]
 bzip2: [rosbag]
 catkin: [rospy_tutorials, roscpp_tutorials, turtlesim, std_msgs, actionlib, diagnostic_msgs,
   visualization_msgs, nav_msgs, shape_msgs, trajectory_msgs, stereo_msgs, geometry_msgs,
@@ -8,10 +8,12 @@ catkin: [rospy_tutorials, roscpp_tutorials, turtlesim, std_msgs, actionlib, diag
   rosmaster, rosbag, roslaunch, rosgraph_msgs, rosgraph, xmlrpcpp, rospy, rostest,
   roscpp, message_filters, roswtf, rosparam, topic_tools, std_srvs, rosmsg, rosconsole,
   rostopic, rosnode, rosservice, rosboost_cfg, mk, rosclean, roslib, rosunit, rosbash,
-  roslang, rosbuild, rosmake, ros, roscreate]
+  roslang, rosbuild, rosmake, ros, roscreate, roscpp_traits, rostime, roscpp_serialization,
+  cpp_common]
 cmake: [catkin]
 common_msgs: [actionlib]
-cpp_common: [actionlib, rosbag, xmlrpcpp, roscpp, topic_tools, rosconsole]
+cpp_common: [actionlib, rosbag, xmlrpcpp, roscpp, topic_tools, rosconsole, rostime,
+  roscpp_serialization, roscpp_core]
 diagnostic_msgs: [common_msgs]
 genmsg: [rospy_tutorials, roscpp_tutorials, turtlesim, std_msgs, actionlib, diagnostic_msgs,
   visualization_msgs, nav_msgs, shape_msgs, trajectory_msgs, stereo_msgs, geometry_msgs,
@@ -55,8 +57,8 @@ rosconsole: [roscpp_tutorials, turtlesim, actionlib, ros_comm, rosbag, roscpp, m
   topic_tools]
 roscpp: [roscpp_tutorials, turtlesim, actionlib, rosout, ros_comm, rosbag, message_filters,
   topic_tools]
-roscpp_serialization: [roscpp_tutorials, turtlesim, rosbag, roscpp]
-roscpp_traits: [actionlib, roscpp]
+roscpp_serialization: [roscpp_tutorials, turtlesim, rosbag, roscpp, roscpp_core]
+roscpp_traits: [actionlib, roscpp, roscpp_serialization, roscpp_core]
 roscpp_tutorials: [ros_tutorials]
 roscreate: [ros]
 rosgraph: [rosmaster, ros_comm, rospy, rosnode, rosservice]
@@ -76,9 +78,11 @@ rospy_tutorials: [ros_tutorials]
 rosservice: [ros_comm]
 rostest: [rospy_tutorials, rosmaster, ros_comm, rosbag, roslaunch, rosgraph, roscpp,
   message_filters, roswtf, rosparam, topic_tools, rostopic, rosnode]
-rostime: [roscpp_tutorials, turtlesim, actionlib, roscpp, topic_tools, rosconsole]
+rostime: [roscpp_tutorials, turtlesim, actionlib, roscpp, topic_tools, rosconsole,
+  roscpp_traits, roscpp_serialization, roscpp_core]
 rostopic: [ros_comm, rosnode]
-rosunit: [rosbag, rostest, roscpp, message_filters, topic_tools, rosconsole, ros]
+rosunit: [rosbag, rostest, roscpp, message_filters, topic_tools, rosconsole, ros,
+  rostime]
 roswtf: [ros_comm]
 sensor_msgs: [stereo_msgs, common_msgs]
 shape_msgs: [common_msgs]
