@@ -39,6 +39,9 @@ ros-fuerte-roscpp-core:
   package: rostime}
 - {docs_url: ../../../api/roscpp_traits/html, location: 'http://ros.org/rosdoclite/fuerte/api/roscpp_traits/tags/roscpp_traits.tag',
   package: roscpp_traits}
+ros-fuerte-rospack:
+- {docs_url: ../../../api/rospack/html, location: 'http://ros.org/rosdoclite/fuerte/api/rospack/tags/rospack.tag',
+  package: rospack}
 ros-fuerte-rx:
 - {docs_url: ../../../api/xdot/html, location: 'http://ros.org/rosdoclite/fuerte/api/xdot/tags/xdot.tag',
   package: xdot}
