@@ -13,7 +13,8 @@ eigen: [rotate_recovery, carrot_planner, dwa_local_planner, move_slow_and_clear,
   navfn, clear_costmap_recovery, costmap_2d, move_base]
 fltk: [navfn]
 geometry_msgs: [rotate_recovery, move_slow_and_clear, fake_localization, base_local_planner,
-  navfn, move_base_msgs, costmap_2d, nav_core, move_base, robot_pose_ekf]
+  navfn, move_base_msgs, costmap_2d, nav_core, move_base, robot_pose_ekf, visualization_msgs,
+  nav_msgs, shape_msgs, sensor_msgs]
 graphviz: [xdot]
 laser_geometry: [costmap_2d]
 libqt4-dev: [turtlesim]
@@ -53,9 +54,9 @@ rostopic: [move_base, rxgraph]
 rotate_recovery: [move_base]
 rxtools: [rxbag]
 sdl-image: [map_server]
-sensor_msgs: [costmap_2d, robot_pose_ekf]
+sensor_msgs: [costmap_2d, robot_pose_ekf, stereo_msgs]
 std_msgs: [base_local_planner, move_base_msgs, costmap_2d, nav_core, move_base, robot_pose_ekf,
-  roscpp_tutorials, rxbag]
+  roscpp_tutorials, rxbag, visualization_msgs, shape_msgs]
 std_srvs: [amcl, move_base, roscpp_tutorials]
 swig-wx: [rxtools]
 tf: [rotate_recovery, carrot_planner, amcl, dwa_local_planner, fake_localization,
