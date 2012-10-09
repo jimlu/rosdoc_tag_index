@@ -1,6 +1,9 @@
 ros-groovy-actionlib:
 - {docs_url: ../../../api/actionlib/html, location: 'http://ros.org/rosdoclite/groovy/api/actionlib/tags/actionlib.tag',
   package: actionlib}
+ros-groovy-langs:
+- {docs_url: ../../../api/langs/html, location: 'http://ros.org/rosdoclite/groovy/api/langs/tags/langs.tag',
+  package: langs}
 ros-groovy-message-filters:
 - {docs_url: ../../../api/message_filters/html, location: 'http://ros.org/rosdoclite/groovy/api/message_filters/tags/message_filters.tag',
   package: message_filters}
