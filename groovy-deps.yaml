@@ -1,6 +1,7 @@
 actionlib_msgs: [actionlib, common_msgs]
 apr: [rosconsole]
-boost: [actionlib, rosbag, rostest, message_filters, rosconsole, roslib, rostime]
+boost: [actionlib, rosbag, rostest, message_filters, rosconsole, roslib, rostime,
+  rospack]
 bzip2: [rosbag]
 catkin: [rospy_tutorials, roscpp_tutorials, turtlesim, std_msgs, actionlib, diagnostic_msgs,
   visualization_msgs, nav_msgs, shape_msgs, trajectory_msgs, stereo_msgs, geometry_msgs,
@@ -9,7 +10,7 @@ catkin: [rospy_tutorials, roscpp_tutorials, turtlesim, std_msgs, actionlib, diag
   roscpp, message_filters, roswtf, rosparam, topic_tools, std_srvs, rosmsg, rosconsole,
   rostopic, rosnode, rosservice, rosboost_cfg, mk, rosclean, roslib, rosunit, rosbash,
   roslang, rosbuild, rosmake, ros, roscreate, roscpp_traits, rostime, roscpp_serialization,
-  cpp_common]
+  cpp_common, rospack]
 cmake: [catkin]
 common_msgs: [actionlib]
 cpp_common: [actionlib, rosbag, xmlrpcpp, roscpp, topic_tools, rosconsole, rostime,
@@ -21,7 +22,7 @@ genmsg: [rospy_tutorials, roscpp_tutorials, turtlesim, std_msgs, actionlib, diag
   roscpp, topic_tools, std_srvs, rosmsg, roslang]
 genpy: [rosbag, rospy, rosservice]
 geometry_msgs: [visualization_msgs, nav_msgs, shape_msgs, sensor_msgs, common_msgs]
-gtest: [catkin]
+gtest: [catkin, rospack]
 langs: [roscpp_tutorials, turtlesim, std_msgs, actionlib, diagnostic_msgs, visualization_msgs,
   nav_msgs, shape_msgs, trajectory_msgs, stereo_msgs, geometry_msgs, sensor_msgs,
   actionlib_msgs, rosgraph_msgs, roscpp, topic_tools, std_srvs]
@@ -37,6 +38,7 @@ nav_msgs: [common_msgs]
 pkg-config: [roscpp]
 python-argparse: [catkin]
 python-catkin-pkg: [catkin]
+python-coverage: [rospack]
 python-empy: [catkin]
 python-imaging: [rosbag]
 python-mock: [rosgraph]
