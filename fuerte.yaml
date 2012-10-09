@@ -5,3 +5,6 @@ ros-fuerte-ros-tutorials:
   package: rospy_tutorials}
 - {docs_url: ../../../api/turtlesim/html, location: 'http://ros.org/rosdoclite/fuerte/api/turtlesim/tags/turtlesim.tag',
   package: turtlesim}
+ros-fuerte-std-msgs:
+- {docs_url: ../../../api/std_msgs/html, location: 'http://ros.org/rosdoclite/fuerte/api/std_msgs/tags/std_msgs.tag',
+  package: std_msgs}
