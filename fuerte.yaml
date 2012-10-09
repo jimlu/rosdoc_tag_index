@@ -1,3 +1,6 @@
+ros-fuerte-actionlib:
+- {docs_url: ../../../api/actionlib/html, location: 'http://ros.org/rosdoclite/fuerte/api/actionlib/tags/actionlib.tag',
+  package: actionlib}
 ros-fuerte-common-msgs:
 - {docs_url: ../../../api/visualization_msgs/html, location: 'http://ros.org/rosdoclite/fuerte/api/visualization_msgs/tags/visualization_msgs.tag',
   package: visualization_msgs}
