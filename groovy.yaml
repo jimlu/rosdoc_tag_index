@@ -26,6 +26,9 @@ ros-groovy-rosgraph-msgs:
 ros-groovy-rosout:
 - {docs_url: ../../../api/rosout/html, location: 'http://ros.org/rosdoclite/groovy/api/rosout/tags/rosout.tag',
   package: rosout}
+ros-groovy-std-msgs:
+- {docs_url: ../../../api/std_msgs/html, location: 'http://ros.org/rosdoclite/groovy/api/std_msgs/tags/std_msgs.tag',
+  package: std_msgs}
 ros-groovy-std-srvs:
 - {docs_url: ../../../api/std_srvs/html, location: 'http://ros.org/rosdoclite/groovy/api/std_srvs/tags/std_srvs.tag',
   package: std_srvs}
