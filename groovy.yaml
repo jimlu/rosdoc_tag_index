@@ -7,6 +7,12 @@ ros-groovy-langs:
 ros-groovy-message-filters:
 - {docs_url: ../../../api/message_filters/html, location: 'http://ros.org/rosdoclite/groovy/api/message_filters/tags/message_filters.tag',
   package: message_filters}
+ros-groovy-mk:
+- {docs_url: ../../../api/mk/html, location: 'http://ros.org/rosdoclite/groovy/api/mk/tags/mk.tag',
+  package: mk}
+ros-groovy-ros:
+- {docs_url: ../../../api/ros/html, location: 'http://ros.org/rosdoclite/groovy/api/ros/tags/ros.tag',
+  package: ros}
 ros-groovy-ros-comm:
 - {docs_url: ../../../api/test_rosservice/html, location: 'http://ros.org/rosdoclite/groovy/api/test_rosservice/tags/test_rosservice.tag',
   package: test_rosservice}
@@ -17,15 +23,36 @@ ros-groovy-ros-comm:
 ros-groovy-rosbag:
 - {docs_url: ../../../api/rosbag/html, location: 'http://ros.org/rosdoclite/groovy/api/rosbag/tags/rosbag.tag',
   package: rosbag}
+ros-groovy-rosbash:
+- {docs_url: ../../../api/rosbash/html, location: 'http://ros.org/rosdoclite/groovy/api/rosbash/tags/rosbash.tag',
+  package: rosbash}
+ros-groovy-rosboost-cfg:
+- {docs_url: ../../../api/rosboost_cfg/html, location: 'http://ros.org/rosdoclite/groovy/api/rosboost_cfg/tags/rosboost_cfg.tag',
+  package: rosboost_cfg}
+ros-groovy-rosbuild:
+- {docs_url: ../../../api/rosbuild/html, location: 'http://ros.org/rosdoclite/groovy/api/rosbuild/tags/rosbuild.tag',
+  package: rosbuild}
+ros-groovy-rosclean:
+- {docs_url: ../../../api/rosclean/html, location: 'http://ros.org/rosdoclite/groovy/api/rosclean/tags/rosclean.tag',
+  package: rosclean}
 ros-groovy-rosconsole:
 - {docs_url: ../../../api/rosconsole/html, location: 'http://ros.org/rosdoclite/groovy/api/rosconsole/tags/rosconsole.tag',
   package: rosconsole}
 ros-groovy-roscpp:
 - {docs_url: ../../../api/roscpp/html, location: 'http://ros.org/rosdoclite/groovy/api/roscpp/tags/roscpp.tag',
   package: roscpp}
+ros-groovy-roscreate:
+- {docs_url: ../../../api/roscreate/html, location: 'http://ros.org/rosdoclite/groovy/api/roscreate/tags/roscreate.tag',
+  package: roscreate}
 ros-groovy-rosgraph-msgs:
 - {docs_url: ../../../api/rosgraph_msgs/html, location: 'http://ros.org/rosdoclite/groovy/api/rosgraph_msgs/tags/rosgraph_msgs.tag',
   package: rosgraph_msgs}
+ros-groovy-roslang:
+- {docs_url: ../../../api/roslang/html, location: 'http://ros.org/rosdoclite/groovy/api/roslang/tags/roslang.tag',
+  package: roslang}
+ros-groovy-roslib:
+- {docs_url: ../../../api/roslib/html, location: 'http://ros.org/rosdoclite/groovy/api/roslib/tags/roslib.tag',
+  package: roslib}
 ros-groovy-rosout:
 - {docs_url: ../../../api/rosout/html, location: 'http://ros.org/rosdoclite/groovy/api/rosout/tags/rosout.tag',
   package: rosout}
