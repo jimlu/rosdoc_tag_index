@@ -63,7 +63,7 @@ roscpp: [roscpp_tutorials, turtlesim, actionlib, rosout, ros_comm, rosbag, messa
   topic_tools, rxtools]
 roscpp_core: [langs]
 roscpp_serialization: [roscpp_tutorials, turtlesim, rosbag, roscpp]
-roscpp_traits: [actionlib, roscpp]
+roscpp_traits: [actionlib, roscpp, rosbag]
 roscpp_tutorials: [ros_tutorials]
 roscreate: [ros]
 rosgraph: [rosmaster, ros_comm, rospy, rosnode, rosservice, rxgraph, rxbag]
@@ -83,7 +83,8 @@ rospy_tutorials: [ros_tutorials]
 rosservice: [ros_comm]
 rostest: [rospy_tutorials, rosmaster, ros_comm, rosbag, roslaunch, rosgraph, roscpp,
   message_filters, roswtf, rosparam, topic_tools, rostopic, rosnode]
-rostime: [roscpp_tutorials, turtlesim, actionlib, roscpp, topic_tools, rosconsole]
+rostime: [roscpp_tutorials, turtlesim, actionlib, roscpp, topic_tools, rosconsole,
+  rosbag]
 rostopic: [ros_comm, rosnode, rxgraph]
 rosunit: [rosbag, rostest, roscpp, message_filters, topic_tools, rosconsole, ros]
 roswtf: [ros_comm]
