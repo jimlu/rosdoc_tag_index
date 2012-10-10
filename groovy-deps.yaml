@@ -1,12 +1,19 @@
+actionlib_msgs: [catkin, genmsg, langs-dev, std_msgs, langs, std_msgs]
 catkin: [gtest, python-argparse, python-catkin-pkg, python-empy, python-nose, cmake,
   cmake, gtest, python-argparse, python-catkin-pkg, python-empy, python-nose]
+common_msgs: [actionlib_msgs, diagnostic_msgs, geometry_msgs, nav_msgs, sensor_msgs,
+  shape_msgs, stereo_msgs, trajectory_msgs, visualization_msgs]
 cpp_common: [catkin]
+diagnostic_msgs: [catkin, genmsg, langs-dev, std_msgs, langs, std_msgs]
 genlisp: [catkin, genmsg, genmsg]
 genpy: [catkin, genmsg, genmsg]
+geometry_msgs: [catkin, genmsg, langs-dev, std_msgs, langs, std_msgs]
 langs: [catkin, catkin, roscpp_core, langs-dev]
 message_filters: [boost, catkin, rosconsole, roscpp, rostest, rosunit, xmlrpcpp, rosconsole,
   roscpp, xmlrpcpp]
 mk: [catkin]
+nav_msgs: [catkin, genmsg, geometry_msgs, langs-dev, std_msgs, geometry_msgs, langs,
+  std_msgs]
 ros: [catkin, catkin, mk, rosbuild, roslang, roslib, rosbash, rosboost_cfg, rosclean,
   roscreate, rosmake, rosunit]
 ros_comm: [roscpp, rospy, rosgraph_msgs, std_srvs, ros, rosbag, rosconsole, rosgraph,
@@ -54,12 +61,21 @@ rostime: [boost, catkin, cpp_common, rosunit, boost, cpp_common]
 rostopic: [catkin, rostest, rospy]
 rosunit: [catkin, python-rospkg]
 roswtf: [catkin, rostest, python-paramiko]
+sensor_msgs: [catkin, genmsg, geometry_msgs, langs-dev, std_msgs, geometry_msgs, langs,
+  std_msgs]
+shape_msgs: [catkin, genmsg, geometry_msgs, langs-dev, std_msgs, geometry_msgs, langs,
+  std_msgs]
 std_msgs: [catkin, genmsg, langs-dev, langs]
 std_srvs: [catkin, genmsg, langs-dev, langs]
+stereo_msgs: [catkin, genmsg, langs-dev, sensor_msgs, std_msgs, langs, sensor_msgs,
+  std_msgs]
 test_rospy: [python-numpy]
 topic_tools: [catkin, cpp_common, genmsg, langs-dev, rosconsole, roscpp, rostest,
   rostime, rosunit, xmlrpcpp, langs, rosconsole, roscpp, rostime, xmlrpcpp]
+trajectory_msgs: [catkin, genmsg, langs-dev, std_msgs, langs, std_msgs]
 turtlesim: [catkin, genmsg, langs-dev, libqt4-dev, qt4-qmake, rosconsole, roscpp,
   roscpp_serialization, roslib, rostime, std_srvs, langs, libqt4, rosconsole, roscpp,
   roscpp_serialization, roslib, rostime, std_srvs]
+visualization_msgs: [catkin, genmsg, geometry_msgs, langs-dev, std_msgs, geometry_msgs,
+  langs, std_msgs]
 xmlrpcpp: [catkin, cpp_common]
