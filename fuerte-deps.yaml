@@ -1,0 +1,5 @@
+libqt4-dev: [turtlesim]
+qt4-qmake: [turtlesim]
+roscpp: [roscpp_tutorials]
+std_msgs: [roscpp_tutorials]
+std_srvs: [roscpp_tutorials]
