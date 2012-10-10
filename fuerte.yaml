@@ -31,3 +31,6 @@ ros-fuerte-rx:
   package: rxtools}
 - {docs_url: ../../../api/xdot/html, location: 'http://ros.org/rosdoclite/fuerte/api/xdot/tags/xdot.tag',
   package: xdot}
+ros-fuerte-std-msgs:
+- {docs_url: ../../../api/std_msgs/html, location: 'http://ros.org/rosdoclite/fuerte/api/std_msgs/tags/std_msgs.tag',
+  package: std_msgs}
