@@ -38,6 +38,7 @@ pcl_ros: [base_local_planner, navfn, costmap_2d]
 pkg-config: [roscpp]
 pluginlib: [rotate_recovery, carrot_planner, move_slow_and_clear, base_local_planner,
   navfn, clear_costmap_recovery, move_base]
+pr2_teleop_general: [pr2_ps3_joystick_app]
 python: [roslib]
 python-gtk2: [rxtools, rxbag]
 python-imaging: [map_server, rosbag]

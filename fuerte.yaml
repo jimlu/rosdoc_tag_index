@@ -31,6 +31,11 @@ ros-fuerte-diagnostics-monitors:
 ros-fuerte-genlisp:
 - {docs_url: ../../../api/genlisp/html, location: 'http://ros.org/rosdoclite/fuerte/api/genlisp/tags/genlisp.tag',
   package: genlisp}
+ros-fuerte-gps-umd:
+- {docs_url: ../../../api/gps_common/html, location: 'http://ros.org/rosdoclite/fuerte/api/gps_common/tags/gps_common.tag',
+  package: gps_common}
+- {docs_url: ../../../api/gpsd_client/html, location: 'http://ros.org/rosdoclite/fuerte/api/gpsd_client/tags/gpsd_client.tag',
+  package: gpsd_client}
 ros-fuerte-navigation:
 - {docs_url: ../../../api/robot_pose_ekf/html, location: 'http://ros.org/rosdoclite/fuerte/api/robot_pose_ekf/tags/robot_pose_ekf.tag',
   package: robot_pose_ekf}
@@ -64,6 +69,9 @@ ros-fuerte-navigation:
   package: rotate_recovery}
 - {docs_url: ../../../api/clear_costmap_recovery/html, location: 'http://ros.org/rosdoclite/fuerte/api/clear_costmap_recovery/tags/clear_costmap_recovery.tag',
   package: clear_costmap_recovery}
+ros-fuerte-pr2-ps3-joystick-app:
+- {docs_url: ../../../api/pr2_ps3_joystick_app/html, location: 'http://ros.org/rosdoclite/fuerte/api/pr2_ps3_joystick_app/tags/pr2_ps3_joystick_app.tag',
+  package: pr2_ps3_joystick_app}
 ros-fuerte-ros:
 - {docs_url: ../../../api/roscreate/html, location: 'http://ros.org/rosdoclite/fuerte/api/roscreate/tags/roscreate.tag',
   package: roscreate}
