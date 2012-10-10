@@ -28,6 +28,19 @@ ros-fuerte-diagnostics-monitors:
   package: robot_monitor}
 - {docs_url: ../../../api/runtime_monitor/html, location: 'http://ros.org/rosdoclite/fuerte/api/runtime_monitor/tags/runtime_monitor.tag',
   package: runtime_monitor}
+ros-fuerte-ecl-lite:
+- {docs_url: ../../../api/ecl_config/html, location: 'http://ros.org/rosdoclite/fuerte/api/ecl_config/tags/ecl_config.tag',
+  package: ecl_config}
+- {docs_url: ../../../api/ecl_sigslots_lite/html, location: 'http://ros.org/rosdoclite/fuerte/api/ecl_sigslots_lite/tags/ecl_sigslots_lite.tag',
+  package: ecl_sigslots_lite}
+- {docs_url: ../../../api/ecl_errors/html, location: 'http://ros.org/rosdoclite/fuerte/api/ecl_errors/tags/ecl_errors.tag',
+  package: ecl_errors}
+- {docs_url: ../../../api/ecl_io/html, location: 'http://ros.org/rosdoclite/fuerte/api/ecl_io/tags/ecl_io.tag',
+  package: ecl_io}
+- {docs_url: ../../../api/ecl_time_lite/html, location: 'http://ros.org/rosdoclite/fuerte/api/ecl_time_lite/tags/ecl_time_lite.tag',
+  package: ecl_time_lite}
+- {docs_url: ../../../api/ecl_converters_lite/html, location: 'http://ros.org/rosdoclite/fuerte/api/ecl_converters_lite/tags/ecl_converters_lite.tag',
+  package: ecl_converters_lite}
 ros-fuerte-genlisp:
 - {docs_url: ../../../api/genlisp/html, location: 'http://ros.org/rosdoclite/fuerte/api/genlisp/tags/genlisp.tag',
   package: genlisp}
@@ -36,6 +49,7 @@ ros-fuerte-gps-umd:
   package: gps_common}
 - {docs_url: ../../../api/gpsd_client/html, location: 'http://ros.org/rosdoclite/fuerte/api/gpsd_client/tags/gpsd_client.tag',
   package: gpsd_client}
+<<<<<<< HEAD
 ros-fuerte-image-pipeline:
 - {docs_url: ../../../api/image_view/html, location: 'http://ros.org/rosdoclite/fuerte/api/image_view/tags/image_view.tag',
   package: image_view}
@@ -47,6 +61,11 @@ ros-fuerte-image-pipeline:
   package: image_proc}
 - {docs_url: ../../../api/stereo_image_proc/html, location: 'http://ros.org/rosdoclite/fuerte/api/stereo_image_proc/tags/stereo_image_proc.tag',
   package: stereo_image_proc}
+=======
+ros-fuerte-imu-drivers:
+- {docs_url: ../../../api/microstrain_3dmgx2_imu/html, location: 'http://ros.org/rosdoclite/fuerte/api/microstrain_3dmgx2_imu/tags/microstrain_3dmgx2_imu.tag',
+  package: microstrain_3dmgx2_imu}
+>>>>>>> 7ec546ffc26e64f03146d77d7516fac4fd88318f
 ros-fuerte-navigation:
 - {docs_url: ../../../api/robot_pose_ekf/html, location: 'http://ros.org/rosdoclite/fuerte/api/robot_pose_ekf/tags/robot_pose_ekf.tag',
   package: robot_pose_ekf}
@@ -173,3 +192,6 @@ ros-fuerte-std-msgs:
 ros-fuerte-wge100-driver:
 - {docs_url: ../../../api/wge100_camera/html, location: 'http://ros.org/rosdoclite/fuerte/api/wge100_camera/tags/wge100_camera.tag',
   package: wge100_camera}
+ros-fuerte-xacro:
+- {docs_url: ../../../api/xacro/html, location: 'http://ros.org/rosdoclite/fuerte/api/xacro/tags/xacro.tag',
+  package: xacro}
