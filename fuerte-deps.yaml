@@ -11,6 +11,7 @@ common_rosdeps: [rotate_recovery, carrot_planner, dwa_local_planner, move_slow_a
   base_local_planner, navfn, clear_costmap_recovery, map_server, costmap_2d, move_base]
 costmap_2d: [rotate_recovery, carrot_planner, dwa_local_planner, move_slow_and_clear,
   base_local_planner, navfn, clear_costmap_recovery, move_base]
+cppunit: [bfl]
 dynamic_reconfigure: [amcl, dwa_local_planner, move_slow_and_clear, costmap_2d, move_base]
 eigen: [rotate_recovery, carrot_planner, dwa_local_planner, move_slow_and_clear, base_local_planner,
   navfn, clear_costmap_recovery, costmap_2d, move_base]
