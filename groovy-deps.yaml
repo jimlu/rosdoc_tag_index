@@ -67,6 +67,14 @@ rostime: [boost, catkin, cpp_common, rosunit, boost, cpp_common]
 rostopic: [catkin, rostest, rospy]
 rosunit: [catkin, python-rospkg]
 roswtf: [catkin, rostest, python-paramiko]
+rx: [rxbag, rxgraph, rxtools, wxpython_swig_interface, xdot]
+rxbag: [catkin, wxpython_swig_interface, wxwidgets, python-gtk2, python-rospkg, rosbag,
+  rosgraph, roslib, rospy, wxpython, wxpython_swig_interface, wxwidgets]
+rxgraph: [catkin, wxpython_swig_interface, wxwidgets, rosgraph, rosnode, rostopic,
+  wxpython, wxpython_swig_interface, wxwidgets, xdot]
+rxtools: [catkin, roscpp, rosgraph_msgs, roslib, swig-wx, wxpython_swig_interface,
+  wxwidgets, python-gtk2, python-matplotlib, roscpp, rosgraph_msgs, roslib, rospy,
+  swig-wx, wxpython, wxpython_swig_interface, wxwidgets, xdot]
 sensor_msgs: [catkin, genmsg, geometry_msgs, langs-dev, std_msgs, geometry_msgs, langs,
   std_msgs]
 shape_msgs: [catkin, genmsg, geometry_msgs, langs-dev, std_msgs, geometry_msgs, langs,
@@ -84,4 +92,6 @@ turtlesim: [catkin, genmsg, langs-dev, libqt4-dev, qt4-qmake, rosconsole, roscpp
   roscpp_serialization, roslib, rostime, std_srvs]
 visualization_msgs: [catkin, genmsg, geometry_msgs, langs-dev, std_msgs, geometry_msgs,
   langs, std_msgs]
+wxpython_swig_interface: [catkin, wxpython]
+xdot: [catkin, graphviz, wxpython]
 xmlrpcpp: [catkin, cpp_common]
