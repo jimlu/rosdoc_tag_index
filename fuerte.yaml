@@ -105,12 +105,12 @@ ros-fuerte-ros-tutorials:
 - {docs_url: ../../../api/turtlesim/html, location: 'http://ros.org/rosdoclite/fuerte/api/turtlesim/tags/turtlesim.tag',
   package: turtlesim}
 ros-fuerte-roscpp-core:
-- {docs_url: ../../../api/cpp_common/html, location: 'http://ros.org/rosdoclite/fuerte/api/cpp_common/tags/cpp_common.tag',
-  package: cpp_common}
 - {docs_url: ../../../api/roscpp_serialization/html, location: 'http://ros.org/rosdoclite/fuerte/api/roscpp_serialization/tags/roscpp_serialization.tag',
   package: roscpp_serialization}
 - {docs_url: ../../../api/rostime/html, location: 'http://ros.org/rosdoclite/fuerte/api/rostime/tags/rostime.tag',
   package: rostime}
+- {docs_url: ../../../api/cpp_common/html, location: 'http://ros.org/rosdoclite/fuerte/api/cpp_common/tags/cpp_common.tag',
+  package: cpp_common}
 - {docs_url: ../../../api/roscpp_traits/html, location: 'http://ros.org/rosdoclite/fuerte/api/roscpp_traits/tags/roscpp_traits.tag',
   package: roscpp_traits}
 ros-fuerte-rospack:
