@@ -72,3 +72,6 @@ ros-fuerte-rx:
   package: xdot}
 - {docs_url: ../../../api/rxbag/html, location: 'http://ros.org/rosdoclite/fuerte/api/rxbag/tags/rxbag.tag',
   package: rxbag}
+ros-fuerte-std-msgs:
+- {docs_url: ../../../api/std_msgs/html, location: 'http://ros.org/rosdoclite/fuerte/api/std_msgs/tags/std_msgs.tag',
+  package: std_msgs}
