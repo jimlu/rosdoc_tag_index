@@ -44,6 +44,9 @@ ros-groovy-rosgraph-msgs:
 ros-groovy-rosout:
 - {docs_url: ../../../api/rosout/html, location: 'http://ros.org/rosdoclite/groovy/api/rosout/tags/rosout.tag',
   package: rosout}
+ros-groovy-rospack:
+- {docs_url: ../../../api/rospack/html, location: 'http://ros.org/rosdoclite/groovy/api/rospack/tags/rospack.tag',
+  package: rospack}
 ros-groovy-rospy-tutorials:
 - {docs_url: ../../../api/rospy_tutorials/html, location: 'http://ros.org/rosdoclite/groovy/api/rospy_tutorials/tags/rospy_tutorials.tag',
   package: rospy_tutorials}
