@@ -6,6 +6,7 @@ common_msgs: [actionlib_msgs, diagnostic_msgs, geometry_msgs, nav_msgs, sensor_m
 cpp_common: [catkin]
 diagnostic_msgs: [catkin, genmsg, langs-dev, std_msgs, langs, std_msgs]
 genlisp: [catkin, genmsg, genmsg]
+genmsg: [catkin]
 genpy: [catkin, genmsg, genmsg]
 geometry_msgs: [catkin, genmsg, langs-dev, std_msgs, langs, std_msgs]
 langs: [catkin, catkin, roscpp_core, langs-dev]
