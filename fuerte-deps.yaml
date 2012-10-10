@@ -1,4 +1,5 @@
 actionlib: [roscpp, rospy, rostest, actionlib_msgs]
+nav_msgs: [geometry_msgs]
 rosbag: [python-imaging, bzip2]
 rosconsole: [apr, log4cxx]
 roscpp: [roslang, pkg-config]
@@ -14,7 +15,11 @@ rxbag: [rospy, roslib, std_msgs, rosbag, rosgraph, rxtools, python-gtk2, wxpytho
 rxgraph: [rosgraph, xdot, rostopic, rosnode]
 rxtools: [roscpp, rosgraph_msgs, roslib, rospy, wxPython_swig_interface, wxwidgets,
   swig-wx, python-gtk2, python-matplotlib, wxpython]
+sensor_msgs: [geometry_msgs]
+shape_msgs: [std_msgs, geometry_msgs]
+stereo_msgs: [sensor_msgs]
 test_rospy: [python-numpy]
 turtlesim: [libqt4-dev, qt4-qmake]
+visualization_msgs: [geometry_msgs, std_msgs]
 wxPython_swig_interface: [wxpython]
 xdot: [wxpython, graphviz]

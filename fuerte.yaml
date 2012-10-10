@@ -1,6 +1,25 @@
 ros-fuerte-actionlib:
 - {docs_url: ../../../api/actionlib/html, location: 'http://ros.org/rosdoclite/fuerte/api/actionlib/tags/actionlib.tag',
   package: actionlib}
+ros-fuerte-common-msgs:
+- {docs_url: ../../../api/stereo_msgs/html, location: 'http://ros.org/rosdoclite/fuerte/api/stereo_msgs/tags/stereo_msgs.tag',
+  package: stereo_msgs}
+- {docs_url: ../../../api/trajectory_msgs/html, location: 'http://ros.org/rosdoclite/fuerte/api/trajectory_msgs/tags/trajectory_msgs.tag',
+  package: trajectory_msgs}
+- {docs_url: ../../../api/visualization_msgs/html, location: 'http://ros.org/rosdoclite/fuerte/api/visualization_msgs/tags/visualization_msgs.tag',
+  package: visualization_msgs}
+- {docs_url: ../../../api/sensor_msgs/html, location: 'http://ros.org/rosdoclite/fuerte/api/sensor_msgs/tags/sensor_msgs.tag',
+  package: sensor_msgs}
+- {docs_url: ../../../api/nav_msgs/html, location: 'http://ros.org/rosdoclite/fuerte/api/nav_msgs/tags/nav_msgs.tag',
+  package: nav_msgs}
+- {docs_url: ../../../api/geometry_msgs/html, location: 'http://ros.org/rosdoclite/fuerte/api/geometry_msgs/tags/geometry_msgs.tag',
+  package: geometry_msgs}
+- {docs_url: ../../../api/diagnostic_msgs/html, location: 'http://ros.org/rosdoclite/fuerte/api/diagnostic_msgs/tags/diagnostic_msgs.tag',
+  package: diagnostic_msgs}
+- {docs_url: ../../../api/actionlib_msgs/html, location: 'http://ros.org/rosdoclite/fuerte/api/actionlib_msgs/tags/actionlib_msgs.tag',
+  package: actionlib_msgs}
+- {docs_url: ../../../api/shape_msgs/html, location: 'http://ros.org/rosdoclite/fuerte/api/shape_msgs/tags/shape_msgs.tag',
+  package: shape_msgs}
 ros-fuerte-genlisp:
 - {docs_url: ../../../api/genlisp/html, location: 'http://ros.org/rosdoclite/fuerte/api/genlisp/tags/genlisp.tag',
   package: genlisp}
