@@ -130,16 +130,16 @@ ros-fuerte-rospack:
 - {docs_url: ../../../api/rospack/html, location: 'http://ros.org/rosdoclite/fuerte/api/rospack/tags/rospack.tag',
   package: rospack}
 ros-fuerte-rx:
-- {docs_url: ../../../api/xdot/html, location: 'http://ros.org/rosdoclite/fuerte/api/xdot/tags/xdot.tag',
-  package: xdot}
+- {docs_url: ../../../api/rxbag/html, location: 'http://ros.org/rosdoclite/fuerte/api/rxbag/tags/rxbag.tag',
+  package: rxbag}
+- {docs_url: ../../../api/wxPython_swig_interface/html, location: 'http://ros.org/rosdoclite/fuerte/api/wxPython_swig_interface/tags/wxPython_swig_interface.tag',
+  package: wxPython_swig_interface}
 - {docs_url: ../../../api/rxgraph/html, location: 'http://ros.org/rosdoclite/fuerte/api/rxgraph/tags/rxgraph.tag',
   package: rxgraph}
 - {docs_url: ../../../api/rxtools/html, location: 'http://ros.org/rosdoclite/fuerte/api/rxtools/tags/rxtools.tag',
   package: rxtools}
-- {docs_url: ../../../api/wxPython_swig_interface/html, location: 'http://ros.org/rosdoclite/fuerte/api/wxPython_swig_interface/tags/wxPython_swig_interface.tag',
-  package: wxPython_swig_interface}
-- {docs_url: ../../../api/rxbag/html, location: 'http://ros.org/rosdoclite/fuerte/api/rxbag/tags/rxbag.tag',
-  package: rxbag}
+- {docs_url: ../../../api/xdot/html, location: 'http://ros.org/rosdoclite/fuerte/api/xdot/tags/xdot.tag',
+  package: xdot}
 ros-fuerte-std-msgs:
 - {docs_url: ../../../api/std_msgs/html, location: 'http://ros.org/rosdoclite/fuerte/api/std_msgs/tags/std_msgs.tag',
   package: std_msgs}
