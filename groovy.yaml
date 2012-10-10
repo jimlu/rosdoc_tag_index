@@ -10,6 +10,9 @@ ros-groovy-roscpp-tutorials:
 ros-groovy-rospy-tutorials:
 - {docs_url: ../../../api/rospy_tutorials/html, location: 'http://ros.org/rosdoclite/groovy/api/rospy_tutorials/tags/rospy_tutorials.tag',
   package: rospy_tutorials}
+ros-groovy-std-msgs:
+- {docs_url: ../../../api/std_msgs/html, location: 'http://ros.org/rosdoclite/groovy/api/std_msgs/tags/std_msgs.tag',
+  package: std_msgs}
 ros-groovy-turtlesim:
 - {docs_url: ../../../api/turtlesim/html, location: 'http://ros.org/rosdoclite/groovy/api/turtlesim/tags/turtlesim.tag',
   package: turtlesim}
