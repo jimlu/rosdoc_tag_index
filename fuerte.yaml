@@ -49,3 +49,12 @@ ros-fuerte-ros-tutorials:
   package: rospy_tutorials}
 - {docs_url: ../../../api/roscpp_tutorials/html, location: 'http://ros.org/rosdoclite/fuerte/api/roscpp_tutorials/tags/roscpp_tutorials.tag',
   package: roscpp_tutorials}
+ros-fuerte-roscpp-core:
+- {docs_url: ../../../api/roscpp_traits/html, location: 'http://ros.org/rosdoclite/fuerte/api/roscpp_traits/tags/roscpp_traits.tag',
+  package: roscpp_traits}
+- {docs_url: ../../../api/roscpp_serialization/html, location: 'http://ros.org/rosdoclite/fuerte/api/roscpp_serialization/tags/roscpp_serialization.tag',
+  package: roscpp_serialization}
+- {docs_url: ../../../api/cpp_common/html, location: 'http://ros.org/rosdoclite/fuerte/api/cpp_common/tags/cpp_common.tag',
+  package: cpp_common}
+- {docs_url: ../../../api/rostime/html, location: 'http://ros.org/rosdoclite/fuerte/api/rostime/tags/rostime.tag',
+  package: rostime}
