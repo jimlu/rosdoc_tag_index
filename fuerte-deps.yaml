@@ -54,6 +54,7 @@ python-paramiko: [roslaunch, roswtf]
 python-yaml: [map_server, roslaunch, rosparam]
 qt4-qmake: [turtlesim]
 rosbag: [amcl, costmap_2d, robot_pose_ekf, rxbag]
+rosbuild: [xacro]
 rosconsole: [fake_localization, base_local_planner, navfn, map_server, voxel_grid,
   costmap_2d, move_base]
 roscpp: [rotate_recovery, carrot_planner, amcl, dwa_local_planner, move_slow_and_clear,
@@ -68,7 +69,7 @@ rosmsg: [move_base]
 rosnode: [rxgraph]
 rospy: [base_local_planner, map_server, move_base, rxtools, rxbag, actionlib, wge100_camera_firmware,
   wge100_camera]
-rostest: [amcl, actionlib, wge100_camera_firmware, wge100_camera]
+rostest: [amcl, actionlib, wge100_camera_firmware, wge100_camera, xacro]
 rostopic: [move_base, rxgraph]
 rotate_recovery: [move_base]
 rxtools: [rxbag]
