@@ -6,32 +6,37 @@ base_local_planner: [rotate_recovery, carrot_planner, dwa_local_planner, move_ba
 bfl: [robot_pose_ekf]
 boost: [roslib]
 bzip2: [rosbag]
-camera_calibration_parsers: [wge100_camera]
+camera_calibration_parsers: [wge100_camera, image_view, image_proc, camera_calibration]
 clear_costmap_recovery: [move_base]
 common_rosdeps: [rotate_recovery, carrot_planner, dwa_local_planner, move_slow_and_clear,
-  base_local_planner, navfn, clear_costmap_recovery, map_server, costmap_2d, move_base]
+  base_local_planner, navfn, clear_costmap_recovery, map_server, costmap_2d, move_base,
+  depth_image_proc]
 costmap_2d: [rotate_recovery, carrot_planner, dwa_local_planner, move_slow_and_clear,
   base_local_planner, navfn, clear_costmap_recovery, move_base]
 cppunit: [bfl]
-diagnostic_updater: [wge100_camera, microstrain_3dmgx2_imu]
+cv_bridge: [image_view, depth_image_proc, image_rotate, image_proc, stereo_image_proc,
+  camera_calibration]
+diagnostic_updater: [wge100_camera]
 driver_base: [wge100_camera]
 dynamic_reconfigure: [amcl, dwa_local_planner, move_slow_and_clear, costmap_2d, move_base,
-  wge100_camera]
+  wge100_camera, depth_image_proc, image_rotate, image_proc, stereo_image_proc]
 eigen: [rotate_recovery, carrot_planner, dwa_local_planner, move_slow_and_clear, base_local_planner,
-  navfn, clear_costmap_recovery, costmap_2d, move_base]
+  navfn, clear_costmap_recovery, costmap_2d, move_base, depth_image_proc]
 fltk: [navfn]
 geometry_msgs: [rotate_recovery, move_slow_and_clear, fake_localization, base_local_planner,
   navfn, move_base_msgs, costmap_2d, nav_core, move_base, robot_pose_ekf, visualization_msgs,
-  nav_msgs, shape_msgs, sensor_msgs]
+  nav_msgs, shape_msgs, sensor_msgs, image_rotate, camera_calibration]
 gforth: [wge100_camera_firmware]
 graphviz: [xdot]
 gtest: [rosunit]
-image_transport: [wge100_camera]
+image_geometry: [depth_image_proc, image_proc, camera_calibration]
+image_proc: [stereo_image_proc]
+image_transport: [wge100_camera, image_view, depth_image_proc, image_rotate, image_proc]
 laser_geometry: [costmap_2d]
 libqt4-dev: [turtlesim]
 log4cxx: [rosconsole]
 map_server: [amcl, costmap_2d]
-message_filters: [amcl, fake_localization]
+message_filters: [amcl, fake_localization, depth_image_proc, stereo_image_proc, camera_calibration]
 move_base_msgs: [move_base]
 nav_core: [rotate_recovery, carrot_planner, dwa_local_planner, move_slow_and_clear,
   base_local_planner, navfn, clear_costmap_recovery, move_base]
@@ -39,8 +44,11 @@ nav_msgs: [amcl, dwa_local_planner, fake_localization, base_local_planner, navfn
   map_server, costmap_2d, move_base, robot_pose_ekf]
 navfn: [move_base]
 netpbm: [navfn]
-pcl: [base_local_planner, costmap_2d]
-pcl_ros: [base_local_planner, navfn, costmap_2d]
+nodelet: [image_view, depth_image_proc, image_proc, stereo_image_proc]
+opencv2: [image_view, depth_image_proc, image_rotate, image_proc, stereo_image_proc,
+  camera_calibration]
+pcl: [base_local_planner, costmap_2d, depth_image_proc]
+pcl_ros: [base_local_planner, navfn, costmap_2d, depth_image_proc]
 pkg-config: [roscpp]
 pluginlib: [rotate_recovery, carrot_planner, move_slow_and_clear, base_local_planner,
   navfn, clear_costmap_recovery, move_base]
@@ -59,7 +67,7 @@ rosconsole: [fake_localization, base_local_planner, navfn, map_server, voxel_gri
 roscpp: [rotate_recovery, carrot_planner, amcl, dwa_local_planner, move_slow_and_clear,
   fake_localization, base_local_planner, navfn, clear_costmap_recovery, map_server,
   costmap_2d, move_base, robot_pose_ekf, roscpp_tutorials, rxtools, actionlib, wge100_camera,
-  microstrain_3dmgx2_imu]
+  image_view, depth_image_proc, image_rotate, image_proc, stereo_image_proc, camera_calibration]
 rosgraph: [rxgraph, rxbag]
 rosgraph_msgs: [rxtools]
 roslang: [roscpp, rospy, roslisp]
@@ -68,21 +76,23 @@ roslib: [dwa_local_planner, base_local_planner, move_base_msgs, move_base, rxtoo
 rosmsg: [move_base]
 rosnode: [rxgraph]
 rospy: [base_local_planner, map_server, move_base, rxtools, rxbag, actionlib, wge100_camera_firmware,
-  wge100_camera]
+  wge100_camera, camera_calibration]
 rostest: [amcl, actionlib, wge100_camera_firmware, wge100_camera]
 rostopic: [move_base, rxgraph]
 rotate_recovery: [move_base]
 rxtools: [rxbag]
 sdl-image: [map_server]
-self_test: [wge100_camera, microstrain_3dmgx2_imu]
-sensor_msgs: [costmap_2d, robot_pose_ekf, stereo_msgs, wge100_camera, microstrain_3dmgx2_imu]
+self_test: [wge100_camera]
+sensor_msgs: [costmap_2d, robot_pose_ekf, stereo_msgs, wge100_camera, image_view,
+  depth_image_proc, image_rotate, image_proc, stereo_image_proc, camera_calibration]
 std_msgs: [base_local_planner, move_base_msgs, costmap_2d, nav_core, move_base, robot_pose_ekf,
-  roscpp_tutorials, rxbag, visualization_msgs, shape_msgs, wge100_camera]
-std_srvs: [amcl, move_base, roscpp_tutorials, microstrain_3dmgx2_imu]
+  roscpp_tutorials, rxbag, visualization_msgs, shape_msgs, wge100_camera, image_rotate]
+std_srvs: [amcl, move_base, roscpp_tutorials, camera_calibration]
+stereo_msgs: [image_view, depth_image_proc, stereo_image_proc]
 swig-wx: [rxtools]
 tf: [rotate_recovery, carrot_planner, amcl, dwa_local_planner, fake_localization,
   base_local_planner, navfn, clear_costmap_recovery, map_server, costmap_2d, move_base,
-  robot_pose_ekf, microstrain_3dmgx2_imu]
+  robot_pose_ekf, depth_image_proc, image_rotate]
 timestamp_tools: [wge100_camera]
 visualization_msgs: [base_local_planner, navfn, costmap_2d, move_base]
 voxel_grid: [base_local_planner, costmap_2d]

@@ -49,9 +49,23 @@ ros-fuerte-gps-umd:
   package: gps_common}
 - {docs_url: ../../../api/gpsd_client/html, location: 'http://ros.org/rosdoclite/fuerte/api/gpsd_client/tags/gpsd_client.tag',
   package: gpsd_client}
+<<<<<<< HEAD
+ros-fuerte-image-pipeline:
+- {docs_url: ../../../api/image_view/html, location: 'http://ros.org/rosdoclite/fuerte/api/image_view/tags/image_view.tag',
+  package: image_view}
+- {docs_url: ../../../api/depth_image_proc/html, location: 'http://ros.org/rosdoclite/fuerte/api/depth_image_proc/tags/depth_image_proc.tag',
+  package: depth_image_proc}
+- {docs_url: ../../../api/image_rotate/html, location: 'http://ros.org/rosdoclite/fuerte/api/image_rotate/tags/image_rotate.tag',
+  package: image_rotate}
+- {docs_url: ../../../api/image_proc/html, location: 'http://ros.org/rosdoclite/fuerte/api/image_proc/tags/image_proc.tag',
+  package: image_proc}
+- {docs_url: ../../../api/stereo_image_proc/html, location: 'http://ros.org/rosdoclite/fuerte/api/stereo_image_proc/tags/stereo_image_proc.tag',
+  package: stereo_image_proc}
+=======
 ros-fuerte-imu-drivers:
 - {docs_url: ../../../api/microstrain_3dmgx2_imu/html, location: 'http://ros.org/rosdoclite/fuerte/api/microstrain_3dmgx2_imu/tags/microstrain_3dmgx2_imu.tag',
   package: microstrain_3dmgx2_imu}
+>>>>>>> 7ec546ffc26e64f03146d77d7516fac4fd88318f
 ros-fuerte-navigation:
 - {docs_url: ../../../api/robot_pose_ekf/html, location: 'http://ros.org/rosdoclite/fuerte/api/robot_pose_ekf/tags/robot_pose_ekf.tag',
   package: robot_pose_ekf}
