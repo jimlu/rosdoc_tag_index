@@ -37,10 +37,10 @@ ros-groovy-ros:
 ros-groovy-ros-comm:
 - {docs_url: ../../../api/test_rospy/html, location: 'http://ros.org/rosdoclite/groovy/api/test_rospy/tags/test_rospy.tag',
   package: test_rospy}
-- {docs_url: ../../../api/test_roslib_comm/html, location: 'http://ros.org/rosdoclite/groovy/api/test_roslib_comm/tags/test_roslib_comm.tag',
-  package: test_roslib_comm}
 - {docs_url: ../../../api/test_rosservice/html, location: 'http://ros.org/rosdoclite/groovy/api/test_rosservice/tags/test_rosservice.tag',
   package: test_rosservice}
+- {docs_url: ../../../api/test_roslib_comm/html, location: 'http://ros.org/rosdoclite/groovy/api/test_roslib_comm/tags/test_roslib_comm.tag',
+  package: test_roslib_comm}
 ros-groovy-ros-tutorials:
 - {docs_url: ../../../api/ros_tutorials/html, location: 'http://ros.org/rosdoclite/groovy/api/ros_tutorials/tags/ros_tutorials.tag',
   package: ros_tutorials}
