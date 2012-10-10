@@ -1,18 +1,52 @@
 ros-groovy-genlisp:
 - {docs_url: ../../../api/genlisp/html, location: 'http://ros.org/rosdoclite/groovy/api/genlisp/tags/genlisp.tag',
   package: genlisp}
+ros-groovy-message-filters:
+- {docs_url: ../../../api/message_filters/html, location: 'http://ros.org/rosdoclite/groovy/api/message_filters/tags/message_filters.tag',
+  package: message_filters}
+ros-groovy-ros-comm:
+- {docs_url: ../../../api/test_rospy/html, location: 'http://ros.org/rosdoclite/groovy/api/test_rospy/tags/test_rospy.tag',
+  package: test_rospy}
+- {docs_url: ../../../api/test_roslib_comm/html, location: 'http://ros.org/rosdoclite/groovy/api/test_roslib_comm/tags/test_roslib_comm.tag',
+  package: test_roslib_comm}
+- {docs_url: ../../../api/test_rosservice/html, location: 'http://ros.org/rosdoclite/groovy/api/test_rosservice/tags/test_rosservice.tag',
+  package: test_rosservice}
 ros-groovy-ros-tutorials:
 - {docs_url: ../../../api/ros_tutorials/html, location: 'http://ros.org/rosdoclite/groovy/api/ros_tutorials/tags/ros_tutorials.tag',
   package: ros_tutorials}
+ros-groovy-rosbag:
+- {docs_url: ../../../api/rosbag/html, location: 'http://ros.org/rosdoclite/groovy/api/rosbag/tags/rosbag.tag',
+  package: rosbag}
+ros-groovy-rosconsole:
+- {docs_url: ../../../api/rosconsole/html, location: 'http://ros.org/rosdoclite/groovy/api/rosconsole/tags/rosconsole.tag',
+  package: rosconsole}
+ros-groovy-roscpp:
+- {docs_url: ../../../api/roscpp/html, location: 'http://ros.org/rosdoclite/groovy/api/roscpp/tags/roscpp.tag',
+  package: roscpp}
 ros-groovy-roscpp-tutorials:
 - {docs_url: ../../../api/roscpp_tutorials/html, location: 'http://ros.org/rosdoclite/groovy/api/roscpp_tutorials/tags/roscpp_tutorials.tag',
   package: roscpp_tutorials}
+ros-groovy-rosgraph-msgs:
+- {docs_url: ../../../api/rosgraph_msgs/html, location: 'http://ros.org/rosdoclite/groovy/api/rosgraph_msgs/tags/rosgraph_msgs.tag',
+  package: rosgraph_msgs}
+ros-groovy-rosout:
+- {docs_url: ../../../api/rosout/html, location: 'http://ros.org/rosdoclite/groovy/api/rosout/tags/rosout.tag',
+  package: rosout}
 ros-groovy-rospy-tutorials:
 - {docs_url: ../../../api/rospy_tutorials/html, location: 'http://ros.org/rosdoclite/groovy/api/rospy_tutorials/tags/rospy_tutorials.tag',
   package: rospy_tutorials}
 ros-groovy-std-msgs:
 - {docs_url: ../../../api/std_msgs/html, location: 'http://ros.org/rosdoclite/groovy/api/std_msgs/tags/std_msgs.tag',
   package: std_msgs}
+ros-groovy-std-srvs:
+- {docs_url: ../../../api/std_srvs/html, location: 'http://ros.org/rosdoclite/groovy/api/std_srvs/tags/std_srvs.tag',
+  package: std_srvs}
+ros-groovy-topic-tools:
+- {docs_url: ../../../api/topic_tools/html, location: 'http://ros.org/rosdoclite/groovy/api/topic_tools/tags/topic_tools.tag',
+  package: topic_tools}
 ros-groovy-turtlesim:
 - {docs_url: ../../../api/turtlesim/html, location: 'http://ros.org/rosdoclite/groovy/api/turtlesim/tags/turtlesim.tag',
   package: turtlesim}
+ros-groovy-xmlrpcpp:
+- {docs_url: ../../../api/xmlrpcpp/html, location: 'http://ros.org/rosdoclite/groovy/api/xmlrpcpp/tags/xmlrpcpp.tag',
+  package: xmlrpcpp}
