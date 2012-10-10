@@ -3,6 +3,7 @@ catkin: [gtest, python-argparse, python-catkin-pkg, python-empy, python-nose, cm
 cpp_common: [catkin]
 genlisp: [catkin, genmsg, genmsg]
 genpy: [catkin, genmsg, genmsg]
+langs: [catkin, catkin, roscpp_core, langs-dev]
 message_filters: [boost, catkin, rosconsole, roscpp, rostest, rosunit, xmlrpcpp, rosconsole,
   roscpp, xmlrpcpp]
 ros_comm: [roscpp, rospy, rosgraph_msgs, std_srvs, ros, rosbag, rosconsole, rosgraph,

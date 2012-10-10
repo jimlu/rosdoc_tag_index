@@ -4,6 +4,9 @@ ros-groovy-cpp-common:
 ros-groovy-genlisp:
 - {docs_url: ../../../api/genlisp/html, location: 'http://ros.org/rosdoclite/groovy/api/genlisp/tags/genlisp.tag',
   package: genlisp}
+ros-groovy-langs:
+- {docs_url: ../../../api/langs/html, location: 'http://ros.org/rosdoclite/groovy/api/langs/tags/langs.tag',
+  package: langs}
 ros-groovy-message-filters:
 - {docs_url: ../../../api/message_filters/html, location: 'http://ros.org/rosdoclite/groovy/api/message_filters/tags/message_filters.tag',
   package: message_filters}
