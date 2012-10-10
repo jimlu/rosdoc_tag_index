@@ -49,6 +49,9 @@ ros-fuerte-gps-umd:
   package: gps_common}
 - {docs_url: ../../../api/gpsd_client/html, location: 'http://ros.org/rosdoclite/fuerte/api/gpsd_client/tags/gpsd_client.tag',
   package: gpsd_client}
+ros-fuerte-imu-drivers:
+- {docs_url: ../../../api/microstrain_3dmgx2_imu/html, location: 'http://ros.org/rosdoclite/fuerte/api/microstrain_3dmgx2_imu/tags/microstrain_3dmgx2_imu.tag',
+  package: microstrain_3dmgx2_imu}
 ros-fuerte-navigation:
 - {docs_url: ../../../api/robot_pose_ekf/html, location: 'http://ros.org/rosdoclite/fuerte/api/robot_pose_ekf/tags/robot_pose_ekf.tag',
   package: robot_pose_ekf}
@@ -175,3 +178,6 @@ ros-fuerte-std-msgs:
 ros-fuerte-wge100-driver:
 - {docs_url: ../../../api/wge100_camera/html, location: 'http://ros.org/rosdoclite/fuerte/api/wge100_camera/tags/wge100_camera.tag',
   package: wge100_camera}
+ros-fuerte-xacro:
+- {docs_url: ../../../api/xacro/html, location: 'http://ros.org/rosdoclite/fuerte/api/xacro/tags/xacro.tag',
+  package: xacro}
