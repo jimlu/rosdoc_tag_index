@@ -1,3 +1,4 @@
+actionlib: [roscpp, rospy, rostest, actionlib_msgs]
 rosbag: [python-imaging, bzip2]
 rosconsole: [apr, log4cxx]
 roscpp: [roslang, pkg-config]
