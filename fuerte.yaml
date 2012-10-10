@@ -26,6 +26,11 @@ ros-fuerte-common-msgs:
 ros-fuerte-genlisp:
 - {docs_url: ../../../api/genlisp/html, location: 'http://ros.org/rosdoclite/fuerte/api/genlisp/tags/genlisp.tag',
   package: genlisp}
+ros-fuerte-gps-umd:
+- {docs_url: ../../../api/gps_common/html, location: 'http://ros.org/rosdoclite/fuerte/api/gps_common/tags/gps_common.tag',
+  package: gps_common}
+- {docs_url: ../../../api/gpsd_client/html, location: 'http://ros.org/rosdoclite/fuerte/api/gpsd_client/tags/gpsd_client.tag',
+  package: gpsd_client}
 ros-fuerte-navigation:
 - {docs_url: ../../../api/robot_pose_ekf/html, location: 'http://ros.org/rosdoclite/fuerte/api/robot_pose_ekf/tags/robot_pose_ekf.tag',
   package: robot_pose_ekf}
