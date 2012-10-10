@@ -1,3 +1,6 @@
+ros-fuerte-genlisp:
+- {docs_url: ../../../api/genlisp/html, location: 'http://ros.org/rosdoclite/fuerte/api/genlisp/tags/genlisp.tag',
+  package: genlisp}
 ros-fuerte-ros-comm:
 - {docs_url: ../../../api/std_srvs/html, location: 'http://ros.org/rosdoclite/fuerte/api/std_srvs/tags/std_srvs.tag',
   package: std_srvs}
