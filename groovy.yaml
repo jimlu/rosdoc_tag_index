@@ -1,3 +1,6 @@
+ros-groovy-genlisp:
+- {docs_url: ../../../api/genlisp/html, location: 'http://ros.org/rosdoclite/groovy/api/genlisp/tags/genlisp.tag',
+  package: genlisp}
 ros-groovy-ros-tutorials:
 - {docs_url: ../../../api/ros_tutorials/html, location: 'http://ros.org/rosdoclite/groovy/api/ros_tutorials/tags/ros_tutorials.tag',
   package: ros_tutorials}

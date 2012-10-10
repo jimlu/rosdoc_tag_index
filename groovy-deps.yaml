@@ -1,5 +1,6 @@
 catkin: [gtest, python-argparse, python-catkin-pkg, python-empy, python-nose, cmake,
   cmake, gtest, python-argparse, python-catkin-pkg, python-empy, python-nose]
+genlisp: [catkin, genmsg, genmsg]
 genpy: [catkin, genmsg, genmsg]
 ros_tutorials: [catkin, roscpp_tutorials, rospy_tutorials, turtlesim]
 roscpp_tutorials: [catkin, genmsg, langs-dev, rosconsole, roscpp, roscpp_serialization,
