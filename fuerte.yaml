@@ -1,3 +1,6 @@
+ros-fuerte-genlisp:
+- {docs_url: ../../../api/genlisp/html, location: 'http://ros.org/rosdoclite/fuerte/api/genlisp/tags/genlisp.tag',
+  package: genlisp}
 ros-fuerte-ros-tutorials:
 - {docs_url: ../../../api/turtlesim/html, location: 'http://ros.org/rosdoclite/fuerte/api/turtlesim/tags/turtlesim.tag',
   package: turtlesim}
