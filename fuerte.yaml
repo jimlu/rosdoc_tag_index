@@ -61,6 +61,9 @@ ros-fuerte-roscpp-core:
   package: cpp_common}
 - {docs_url: ../../../api/rostime/html, location: 'http://ros.org/rosdoclite/fuerte/api/rostime/tags/rostime.tag',
   package: rostime}
+ros-fuerte-rospack:
+- {docs_url: ../../../api/rospack/html, location: 'http://ros.org/rosdoclite/fuerte/api/rospack/tags/rospack.tag',
+  package: rospack}
 ros-fuerte-rx:
 - {docs_url: ../../../api/wxPython_swig_interface/html, location: 'http://ros.org/rosdoclite/fuerte/api/wxPython_swig_interface/tags/wxPython_swig_interface.tag',
   package: wxPython_swig_interface}
