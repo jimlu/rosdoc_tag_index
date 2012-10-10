@@ -1,3 +1,6 @@
+ros-groovy-cpp-common:
+- {docs_url: ../../../api/cpp_common/html, location: 'http://ros.org/rosdoclite/groovy/api/cpp_common/tags/cpp_common.tag',
+  package: cpp_common}
 ros-groovy-genlisp:
 - {docs_url: ../../../api/genlisp/html, location: 'http://ros.org/rosdoclite/groovy/api/genlisp/tags/genlisp.tag',
   package: genlisp}
@@ -23,6 +26,15 @@ ros-groovy-rosconsole:
 ros-groovy-roscpp:
 - {docs_url: ../../../api/roscpp/html, location: 'http://ros.org/rosdoclite/groovy/api/roscpp/tags/roscpp.tag',
   package: roscpp}
+ros-groovy-roscpp-core:
+- {docs_url: ../../../api/roscpp_core/html, location: 'http://ros.org/rosdoclite/groovy/api/roscpp_core/tags/roscpp_core.tag',
+  package: roscpp_core}
+ros-groovy-roscpp-serialization:
+- {docs_url: ../../../api/roscpp_serialization/html, location: 'http://ros.org/rosdoclite/groovy/api/roscpp_serialization/tags/roscpp_serialization.tag',
+  package: roscpp_serialization}
+ros-groovy-roscpp-traits:
+- {docs_url: ../../../api/roscpp_traits/html, location: 'http://ros.org/rosdoclite/groovy/api/roscpp_traits/tags/roscpp_traits.tag',
+  package: roscpp_traits}
 ros-groovy-roscpp-tutorials:
 - {docs_url: ../../../api/roscpp_tutorials/html, location: 'http://ros.org/rosdoclite/groovy/api/roscpp_tutorials/tags/roscpp_tutorials.tag',
   package: roscpp_tutorials}
@@ -35,6 +47,9 @@ ros-groovy-rosout:
 ros-groovy-rospy-tutorials:
 - {docs_url: ../../../api/rospy_tutorials/html, location: 'http://ros.org/rosdoclite/groovy/api/rospy_tutorials/tags/rospy_tutorials.tag',
   package: rospy_tutorials}
+ros-groovy-rostime:
+- {docs_url: ../../../api/rostime/html, location: 'http://ros.org/rosdoclite/groovy/api/rostime/tags/rostime.tag',
+  package: rostime}
 ros-groovy-std-msgs:
 - {docs_url: ../../../api/std_msgs/html, location: 'http://ros.org/rosdoclite/groovy/api/std_msgs/tags/std_msgs.tag',
   package: std_msgs}
