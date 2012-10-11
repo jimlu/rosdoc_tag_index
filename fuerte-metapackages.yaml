@@ -1,5 +1,7 @@
 actionlib: [actionlib]
 catkin: []
+common_msgs: [shape_msgs, trajectory_msgs, diagnostic_msgs, nav_msgs, actionlib_msgs,
+  sensor_msgs, geometry_msgs, stereo_msgs, visualization_msgs]
 gencpp: [gencpp]
 genlisp: [genlisp]
 genmsg: [genmsg]
