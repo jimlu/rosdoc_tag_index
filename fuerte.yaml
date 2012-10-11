@@ -40,6 +40,9 @@ ros-fuerte-gps-umd:
   package: gpsd_client}
 - {docs_url: ../../../api/gps_common/html, location: 'http://ros.org/rosdoclite/fuerte/api/gps_common/tags/gps_common.tag',
   package: gps_common}
+ros-fuerte-imu-drivers:
+- {docs_url: ../../../api/microstrain_3dmgx2_imu/html, location: 'http://ros.org/rosdoclite/fuerte/api/microstrain_3dmgx2_imu/tags/microstrain_3dmgx2_imu.tag',
+  package: microstrain_3dmgx2_imu}
 ros-fuerte-ros:
 - {docs_url: ../../../api/rosclean/html, location: 'http://ros.org/rosdoclite/fuerte/api/rosclean/tags/rosclean.tag',
   package: rosclean}

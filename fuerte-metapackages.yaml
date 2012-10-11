@@ -9,6 +9,7 @@ genmsg: [genmsg]
 genpy: [genpy]
 geometry: [angles, tf_conversions, tf, eigen_conversions]
 gps_umd: [gpsd_client, gps_common]
+imu_drivers: [microstrain_3dmgx2_imu]
 langs: []
 ros: [rosclean, mk, rosmake, roslib, rosbash, rosboost_cfg, roscreate, rosbuild, rosunit,
   roslang]

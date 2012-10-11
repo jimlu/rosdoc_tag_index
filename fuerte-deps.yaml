@@ -5,6 +5,8 @@ geometry: [bullet, common_msgs, ros, ros_comm, orocos_kinematics_dynamics, commo
 gps_common: [roscpp, message_filters, nav_msgs, sensor_msgs]
 gps_umd: [common_msgs, ros, ros_comm]
 gpsd_client: [roscpp, sensor_msgs, gps_common, libgps]
+imu_drivers: [common_msgs, diagnostics, geometry, ros, ros_comm]
+microstrain_3dmgx2_imu: [roscpp, sensor_msgs, self_test, diagnostic_updater, tf, std_srvs]
 nav_msgs: [geometry_msgs]
 rosbag: [python-imaging, bzip2]
 rosconsole: [apr, log4cxx]
