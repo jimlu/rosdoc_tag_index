@@ -1,4 +1,5 @@
 actionlib: [roscpp, rospy, rostest, actionlib_msgs]
+bfl: [cppunit]
 eigen_conversions: [geometry_msgs, kdl, tf, eigen]
 geometry: [bullet, common_msgs, ros, ros_comm, orocos_kinematics_dynamics, common_rosdeps]
 nav_msgs: [geometry_msgs]
