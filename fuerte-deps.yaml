@@ -81,6 +81,7 @@ openrtm_cpp: [pkg-config, uuid, omniorb, python-yaml, doxygen]
 osm_cartography: [dynamic_reconfigure, geodesy, geographic_msgs, geometry_msgs, rospy,
   tf, std_msgs, visualization_msgs]
 pluginlib_tutorials: [pluginlib, roscpp]
+pr2_make_a_map_app: [pr2_position_scripts, gmapping, tf, mongodb, topic_tools, map_store]
 pr2_pan_tilt: [geometry_msgs, pr2_controllers_msgs, topic_tools, actionlib, rospy,
   tf]
 rbdl: [urdf, urdf_interface, eigen, libunittest++]
