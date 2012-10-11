@@ -226,6 +226,11 @@ ros-fuerte-srs-common:
 ros-fuerte-std-msgs:
 - {docs_url: ../../../api/std_msgs/html, location: 'http://ros.org/rosdoclite/fuerte/api/std_msgs/tags/std_msgs.tag',
   package: std_msgs}
+ros-fuerte-unique-identifier:
+- {docs_url: ../../../api/uuid_msgs/html, location: 'http://ros.org/rosdoclite/fuerte/api/uuid_msgs/tags/uuid_msgs.tag',
+  package: uuid_msgs}
+- {docs_url: ../../../api/unique_id/html, location: 'http://ros.org/rosdoclite/fuerte/api/unique_id/tags/unique_id.tag',
+  package: unique_id}
 ros-fuerte-wge100-driver:
 - {docs_url: ../../../api/wge100_camera/html, location: 'http://ros.org/rosdoclite/fuerte/api/wge100_camera/tags/wge100_camera.tag',
   package: wge100_camera}

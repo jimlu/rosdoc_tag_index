@@ -97,6 +97,8 @@ tf_conversions: [tf, kdl, geometry_msgs, eigen]
 timestamp_tools: [roslib, roscpp]
 turtle_tf: [roscpp, rospy, turtlesim, tf]
 turtlesim: [libqt4-dev, qt4-qmake]
+unique_id: [roscpp, rospy, rosunit, uuid_msgs]
+unique_identifier: [ros, ros_comm]
 urdf_parser_py: [rospy]
 visualization_msgs: [geometry_msgs, std_msgs]
 wge100_camera: [rostest, roscpp, rospy, std_msgs, sensor_msgs, diagnostic_updater,
