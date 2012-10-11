@@ -25,6 +25,7 @@ humanoid_walk: [walk_msgs, halfsteps_pattern_generator, walk_tools, walk_interfa
 imu_drivers: [microstrain_3dmgx2_imu]
 kingfisher: [kingfisher_node, kingfisher_bringup, kingfisher_msgs]
 langs: []
+laser_pipeline: [laser_geometry, laser_filters, laser_assembler]
 megatree_pcl: [megatree_pcl]
 nmea_gps_driver: [nmea_gps_driver]
 open_street_map: [route_network, test_osm, osm_cartography]

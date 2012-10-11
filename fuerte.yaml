@@ -117,6 +117,13 @@ ros-fuerte-kingfisher:
   package: kingfisher_bringup}
 - {docs_url: ../../../api/kingfisher_msgs/html, location: 'http://ros.org/rosdoclite/fuerte/api/kingfisher_msgs/tags/kingfisher_msgs.tag',
   package: kingfisher_msgs}
+ros-fuerte-laser-pipeline:
+- {docs_url: ../../../api/laser_geometry/html, location: 'http://ros.org/rosdoclite/fuerte/api/laser_geometry/tags/laser_geometry.tag',
+  package: laser_geometry}
+- {docs_url: ../../../api/laser_filters/html, location: 'http://ros.org/rosdoclite/fuerte/api/laser_filters/tags/laser_filters.tag',
+  package: laser_filters}
+- {docs_url: ../../../api/laser_assembler/html, location: 'http://ros.org/rosdoclite/fuerte/api/laser_assembler/tags/laser_assembler.tag',
+  package: laser_assembler}
 ros-fuerte-megatree-pcl:
 - {docs_url: ../../../api/megatree_pcl/html, location: 'http://ros.org/rosdoclite/fuerte/api/megatree_pcl/tags/megatree_pcl.tag',
   package: megatree_pcl}
