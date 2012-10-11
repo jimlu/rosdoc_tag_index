@@ -10,11 +10,11 @@ geometry: [angles, tf_conversions, tf, eigen_conversions]
 langs: []
 ros: [rosclean, mk, rosmake, roslib, rosbash, rosboost_cfg, roscreate, rosbuild, rosunit,
   roslang]
-ros_comm: [rosservice, test_rospy, test_rosservice, test_crosspackage, rostest, roslaunch,
-  rosgraph_msgs, rosout, roscpp, rosparam, test_roslib_comm, rosmsg, rostopic, topic_tools,
-  roslisp, rosmaster, roswtf, message_filters, test_ros, test_rostime, rosnode, test_roscpp_serialization,
-  test_roscpp, rosbag, xmlrpcpp, std_srvs, rosconsole, test_roscpp_serialization_perf,
-  rospy, perf_roscpp, rosgraph, test_rosbag]
+ros_comm: [rosservice, message_filters, topic_tools, rosparam, test_roscpp_serialization,
+  rospy, roslisp, rosgraph, rostopic, std_srvs, roslaunch, test_rosservice, roswtf,
+  test_roscpp, rosmaster, test_rospy, test_ros, test_rosbag, rosnode, roscpp, rosconsole,
+  rosmsg, test_roscpp_serialization_perf, test_rostime, xmlrpcpp, test_roslib_comm,
+  rosbag, rosout, rostest, perf_roscpp, test_crosspackage, rosgraph_msgs]
 ros_tutorials: [roscpp_tutorials, rospy_tutorials, turtlesim]
 roscpp_core: [cpp_common, roscpp_traits, rostime, roscpp_serialization]
 rospack: [rospack]
