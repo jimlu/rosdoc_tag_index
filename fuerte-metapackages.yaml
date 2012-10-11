@@ -1,3 +1,4 @@
+genpy: [genpy]
 ros_comm: [test_roscpp_serialization, rostest, test_roscpp_serialization_perf, rosgraph_msgs,
   rosconsole, test_crosspackage, roslisp, rosservice, test_roscpp, perf_roscpp, rosgraph,
   std_srvs, rosmaster, roscpp, test_ros, message_filters, test_rostime, test_rosbag,
