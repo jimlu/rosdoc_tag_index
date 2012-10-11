@@ -1,3 +1,4 @@
 ros_comm: [roscpp, rospy, rosgraph_msgs, std_srvs, ros, rosbag, rosconsole, rosgraph,
   roslaunch, rosmaster, rosmsg, rosnode, rosout, rosparam, rosservice, rostest, rostopic,
   topic_tools, message_filters, roswtf, xmlrpcpp]
+ros_tutorials: [catkin, roscpp_tutorials, rospy_tutorials, turtlesim]
