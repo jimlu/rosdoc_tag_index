@@ -54,11 +54,11 @@ robot_pose_publisher: [robot_pose_publisher]
 romeo: [romeo_description]
 ros: [rosboost_cfg, rosbuild, roslib, mk, rosunit, roslang, rosbash, rosclean, rosmake,
   roscreate]
-ros_comm: [rosservice, message_filters, topic_tools, rosparam, test_roscpp_serialization,
-  rospy, roslisp, rosgraph, rostopic, std_srvs, roslaunch, test_rosservice, roswtf,
-  test_roscpp, rosmaster, test_rospy, test_ros, test_rosbag, rosnode, roscpp, rosconsole,
-  rosmsg, test_roscpp_serialization_perf, test_rostime, xmlrpcpp, test_roslib_comm,
-  rosbag, rosout, rostest, perf_roscpp, test_crosspackage, rosgraph_msgs]
+ros_comm: [test_roscpp_serialization, rosservice, rosgraph_msgs, rosconsole, test_crosspackage,
+  roslisp, test_roscpp_serialization_perf, test_roscpp, perf_roscpp, rosgraph, roslaunch,
+  rosmaster, roscpp, rostest, test_ros, message_filters, test_rostime, test_rosbag,
+  rostopic, topic_tools, test_roslib_comm, test_rospy, rosbag, rosparam, rosout, rosnode,
+  test_rosservice, xmlrpcpp, std_srvs, rosmsg, roswtf, rospy]
 ros_tutorials: [turtlesim, rospy_tutorials, roscpp_tutorials]
 roscpp_core: [cpp_common, roscpp_traits, rostime, roscpp_serialization]
 rosh_desktop_plugins: [rosh_visualization, rosh_desktop]
