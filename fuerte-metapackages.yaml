@@ -1,4 +1,5 @@
 actionlib: [actionlib]
+bfl: [bfl]
 catkin: []
 common_msgs: [stereo_msgs, actionlib_msgs, visualization_msgs, sensor_msgs, shape_msgs,
   trajectory_msgs, diagnostic_msgs, nav_msgs, geometry_msgs]
