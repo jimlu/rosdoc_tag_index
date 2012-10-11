@@ -171,6 +171,9 @@ ros-fuerte-openni-tracker:
 ros-fuerte-pr2-pan-tilt:
 - {docs_url: ../../../api/pr2_pan_tilt/html, location: 'http://ros.org/rosdoclite/fuerte/api/pr2_pan_tilt/tags/pr2_pan_tilt.tag',
   package: pr2_pan_tilt}
+ros-fuerte-pr2-tuck-arms-app:
+- {docs_url: ../../../api/pr2_tuck_arms_app/html, location: 'http://ros.org/rosdoclite/fuerte/api/pr2_tuck_arms_app/tags/pr2_tuck_arms_app.tag',
+  package: pr2_tuck_arms_app}
 ros-fuerte-robot-model-tutorials:
 - {docs_url: ../../../api/urdf_tutorial/html, location: 'http://ros.org/rosdoclite/fuerte/api/urdf_tutorial/tags/urdf_tutorial.tag',
   package: urdf_tutorial}
