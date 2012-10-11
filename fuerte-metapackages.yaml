@@ -3,6 +3,7 @@ bfl: [bfl]
 catkin: []
 common_msgs: [stereo_msgs, actionlib_msgs, visualization_msgs, sensor_msgs, shape_msgs,
   trajectory_msgs, diagnostic_msgs, nav_msgs, geometry_msgs]
+diagnostics_monitors: [runtime_monitor, robot_monitor]
 gencpp: [gencpp]
 genlisp: [genlisp]
 genmsg: [genmsg]
