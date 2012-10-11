@@ -119,3 +119,6 @@ ros-fuerte-rx:
 ros-fuerte-std-msgs:
 - {docs_url: ../../../api/std_msgs/html, location: 'http://ros.org/rosdoclite/fuerte/api/std_msgs/tags/std_msgs.tag',
   package: std_msgs}
+ros-fuerte-wge100-driver:
+- {docs_url: ../../../api/wge100_camera/html, location: 'http://ros.org/rosdoclite/fuerte/api/wge100_camera/tags/wge100_camera.tag',
+  package: wge100_camera}
