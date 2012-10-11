@@ -20,6 +20,8 @@ audio_play: [roscpp, audio_common_msgs, libgstreamer0.10-dev, libgstreamer-plugi
   python-gst, gstreamer0.10-plugins-ugly, gstreamer0.10-plugins-good]
 bfl: [cppunit]
 brown_drivers: [common_msgs, geometry, ros, ros_comm]
+camera1394: [camera_info_manager, diagnostic_updater, driver_base, dynamic_reconfigure,
+  image_transport, nodelet, tf, libdc1394-dev]
 cereal_port: [roscpp]
 clearpath_base: [rospy, std_msgs, geometry_msgs, python-serial, pkg-config]
 clearpath_bringup: [rospy, std_msgs, daemontools]

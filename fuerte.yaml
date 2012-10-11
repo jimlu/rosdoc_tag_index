@@ -29,6 +29,9 @@ ros-fuerte-bfl:
 ros-fuerte-brown-drivers:
 - {docs_url: ../../../api/irobot_create_2_1/html, location: 'http://ros.org/rosdoclite/fuerte/api/irobot_create_2_1/tags/irobot_create_2_1.tag',
   package: irobot_create_2_1}
+ros-fuerte-camera1394:
+- {docs_url: ../../../api/camera1394/html, location: 'http://ros.org/rosdoclite/fuerte/api/camera1394/tags/camera1394.tag',
+  package: camera1394}
 ros-fuerte-clearpath-common:
 - {docs_url: ../../../api/clearpath_bringup/html, location: 'http://ros.org/rosdoclite/fuerte/api/clearpath_bringup/tags/clearpath_bringup.tag',
   package: clearpath_bringup}
