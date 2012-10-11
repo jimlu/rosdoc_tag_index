@@ -66,6 +66,9 @@ ros-fuerte-driver-common:
   package: driver_base}
 - {docs_url: ../../../api/timestamp_tools/html, location: 'http://ros.org/rosdoclite/fuerte/api/timestamp_tools/tags/timestamp_tools.tag',
   package: timestamp_tools}
+ros-fuerte-ethzasl-xsens-driver:
+- {docs_url: ../../../api/xsens_driver/html, location: 'http://ros.org/rosdoclite/fuerte/api/xsens_driver/tags/xsens_driver.tag',
+  package: xsens_driver}
 ros-fuerte-executive-smach-visualization:
 - {docs_url: ../../../api/smach_viewer/html, location: 'http://ros.org/rosdoclite/fuerte/api/smach_viewer/tags/smach_viewer.tag',
   package: smach_viewer}
@@ -108,6 +111,9 @@ ros-fuerte-open-street-map:
 ros-fuerte-openni-launch:
 - {docs_url: ../../../api/openni_launch/html, location: 'http://ros.org/rosdoclite/fuerte/api/openni_launch/tags/openni_launch.tag',
   package: openni_launch}
+ros-fuerte-robot-pose-publisher:
+- {docs_url: ../../../api/robot_pose_publisher/html, location: 'http://ros.org/rosdoclite/fuerte/api/robot_pose_publisher/tags/robot_pose_publisher.tag',
+  package: robot_pose_publisher}
 ros-fuerte-ros:
 - {docs_url: ../../../api/rosclean/html, location: 'http://ros.org/rosdoclite/fuerte/api/rosclean/tags/rosclean.tag',
   package: rosclean}
@@ -197,6 +203,9 @@ ros-fuerte-rx:
   package: rxgraph}
 - {docs_url: ../../../api/rxtools/html, location: 'http://ros.org/rosdoclite/fuerte/api/rxtools/tags/rxtools.tag',
   package: rxtools}
+ros-fuerte-slam-gmapping:
+- {docs_url: ../../../api/gmapping/html, location: 'http://ros.org/rosdoclite/fuerte/api/gmapping/tags/gmapping.tag',
+  package: gmapping}
 ros-fuerte-srs-common:
 - {docs_url: ../../../api/srs_object_database_msgs/html, location: 'http://ros.org/rosdoclite/fuerte/api/srs_object_database_msgs/tags/srs_object_database_msgs.tag',
   package: srs_object_database_msgs}
