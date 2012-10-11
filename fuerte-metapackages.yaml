@@ -3,3 +3,4 @@ ros_comm: [test_roscpp_serialization, rostest, test_roscpp_serialization_perf, r
   std_srvs, rosmaster, roscpp, test_ros, message_filters, test_rostime, test_rosbag,
   rostopic, topic_tools, test_roslib_comm, test_rospy, rosbag, rosparam, rosout, rosnode,
   test_rosservice, xmlrpcpp, roslaunch, rosmsg, roswtf, rospy]
+ros_tutorials: [rospy_tutorials, roscpp_tutorials, turtlesim]
