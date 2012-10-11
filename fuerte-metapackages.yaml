@@ -1,3 +1,4 @@
+ackermann_msgs: [ackermann_msgs]
 actionlib: [actionlib]
 adept: [ADEPT_VIPER_S650_ikfast_arm_navigation, adept_common, ADEPT_VIPER_S650_arm_navigation]
 ar_track_alvar: [ar_track_alvar]
@@ -7,6 +8,7 @@ brown_drivers: [irobot_create_2_1]
 catkin: []
 clearpath_common: [clearpath_bringup, clearpath_base, clearpath_teleop]
 clearpath_kinect: [clearpath_kinect_demo, clearpath_tools]
+clearpath_turtlebot: [turtlebot_rndmwalk, turtlebot_train, turtlebot_kinect]
 cob_extern: [libpcan, libphidgets, libntcan, libmesasr]
 common_msgs: [stereo_msgs, actionlib_msgs, visualization_msgs, sensor_msgs, shape_msgs,
   trajectory_msgs, diagnostic_msgs, nav_msgs, geometry_msgs]

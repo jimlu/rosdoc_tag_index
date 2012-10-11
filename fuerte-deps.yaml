@@ -4,6 +4,7 @@ ADEPT_VIPER_S650_arm_navigation: [planning_environment, arm_kinematics_constrain
 ADEPT_VIPER_S650_ikfast_arm_navigation: [kinematics_base, planning_environment, arm_kinematics_constraint_aware,
   ompl_ros_interface, trajectory_filter_server, constraint_aware_spline_smoother,
   move_arm]
+ackermann_msgs: [std_msgs]
 actionlib: [roscpp, rospy, rostest, actionlib_msgs]
 actionlib_tutorials: [roscpp, rospy, roslib, std_msgs, rosconsole, actionlib, actionlib_msgs]
 adept: [arm_navigation, common, common_msgs, control, robot_model, ros, ros_comm,
@@ -27,6 +28,7 @@ clearpath_kinect: [common_msgs, perception_pcl, ros, ros_comm]
 clearpath_kinect_demo: [roscpp, pcl_ros, clearpath_tools]
 clearpath_teleop: [rospy, sensor_msgs, geometry_msgs, std_msgs]
 clearpath_tools: [roscpp, pcl_ros, std_msgs, sensor_msgs]
+clearpath_turtlebot: [clearpath_kinect, openni_kinect, ros, turtlebot]
 cob_extern: [ros]
 common_tutorials: [actionlib, common_msgs, geometry, nodelet_core, pluginlib, ros,
   ros_comm, ros_tutorials]
@@ -135,6 +137,9 @@ timestamp_tools: [roslib, roscpp]
 turtle_actionlib: [roscpp, std_msgs, rosconsole, actionlib, actionlib_msgs, turtlesim,
   angles]
 turtle_tf: [roscpp, rospy, turtlesim, tf]
+turtlebot_kinect: [openni_camera, clearpath_tools, clearpath_kinect_demo]
+turtlebot_rndmwalk: [clearpath_tools, clearpath_kinect_demo, turtlebot_node]
+turtlebot_train: [clearpath_tools, clearpath_kinect_demo, turtlebot_node]
 turtlesim: [libqt4-dev, qt4-qmake]
 unique_id: [roscpp, rospy, rosunit, uuid_msgs]
 unique_identifier: [ros, ros_comm]

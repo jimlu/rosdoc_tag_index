@@ -1,3 +1,6 @@
+ros-fuerte-ackermann-msgs:
+- {docs_url: ../../../api/ackermann_msgs/html, location: 'http://ros.org/rosdoclite/fuerte/api/ackermann_msgs/tags/ackermann_msgs.tag',
+  package: ackermann_msgs}
 ros-fuerte-actionlib:
 - {docs_url: ../../../api/actionlib/html, location: 'http://ros.org/rosdoclite/fuerte/api/actionlib/tags/actionlib.tag',
   package: actionlib}
@@ -38,6 +41,13 @@ ros-fuerte-clearpath-kinect:
   package: clearpath_kinect_demo}
 - {docs_url: ../../../api/clearpath_tools/html, location: 'http://ros.org/rosdoclite/fuerte/api/clearpath_tools/tags/clearpath_tools.tag',
   package: clearpath_tools}
+ros-fuerte-clearpath-turtlebot:
+- {docs_url: ../../../api/turtlebot_rndmwalk/html, location: 'http://ros.org/rosdoclite/fuerte/api/turtlebot_rndmwalk/tags/turtlebot_rndmwalk.tag',
+  package: turtlebot_rndmwalk}
+- {docs_url: ../../../api/turtlebot_train/html, location: 'http://ros.org/rosdoclite/fuerte/api/turtlebot_train/tags/turtlebot_train.tag',
+  package: turtlebot_train}
+- {docs_url: ../../../api/turtlebot_kinect/html, location: 'http://ros.org/rosdoclite/fuerte/api/turtlebot_kinect/tags/turtlebot_kinect.tag',
+  package: turtlebot_kinect}
 ros-fuerte-cob-extern:
 - {docs_url: ../../../api/libpcan/html, location: 'http://ros.org/rosdoclite/fuerte/api/libpcan/tags/libpcan.tag',
   package: libpcan}
