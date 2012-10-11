@@ -14,6 +14,7 @@ geometry_tutorials: [turtle_tf]
 gps_umd: [gpsd_client, gps_common]
 imu_drivers: [microstrain_3dmgx2_imu]
 langs: []
+robot_model_py: [urdf_parser_py]
 ros: [rosclean, mk, rosmake, roslib, rosbash, rosboost_cfg, roscreate, rosbuild, rosunit,
   roslang]
 ros_comm: [rosservice, message_filters, topic_tools, rosparam, test_roscpp_serialization,

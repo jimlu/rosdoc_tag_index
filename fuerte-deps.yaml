@@ -13,6 +13,7 @@ gpsd_client: [roscpp, sensor_msgs, gps_common, libgps]
 imu_drivers: [common_msgs, diagnostics, geometry, ros, ros_comm]
 microstrain_3dmgx2_imu: [roscpp, sensor_msgs, self_test, diagnostic_updater, tf, std_srvs]
 nav_msgs: [geometry_msgs]
+robot_model_py: [ros, ros_comm]
 robot_monitor: [rospy, diagnostic_msgs, rxbag, wxwidgets, wxpython]
 rosbag: [python-imaging, bzip2]
 rosconsole: [apr, log4cxx]
@@ -39,6 +40,7 @@ tf: [bullet, geometry_msgs, sensor_msgs, roscpp, rosconsole, angles, rospy, rost
 tf_conversions: [tf, kdl, geometry_msgs, eigen]
 turtle_tf: [roscpp, rospy, turtlesim, tf]
 turtlesim: [libqt4-dev, qt4-qmake]
+urdf_parser_py: [rospy]
 visualization_msgs: [geometry_msgs, std_msgs]
 wge100_camera: [rostest, roscpp, rospy, std_msgs, sensor_msgs, diagnostic_updater,
   driver_base, self_test, dynamic_reconfigure, camera_calibration_parsers, timestamp_tools,
