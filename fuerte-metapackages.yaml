@@ -13,7 +13,7 @@ ros_comm: [test_rosbag, rostest, topic_tools, test_roscpp, rosnode, roslisp, tes
   rosmsg, rosservice, message_filters, test_rostime, rosgraph_msgs, roscpp, test_ros,
   roslaunch, rosconsole, test_rosservice, rosout, perf_roscpp, rosbag, test_crosspackage,
   rosgraph, std_srvs, test_roscpp_serialization_perf, rospy, roswtf]
-ros_tutorials: [rospy_tutorials, roscpp_tutorials, turtlesim]
+ros_tutorials: [roscpp_tutorials, rospy_tutorials, turtlesim]
 roscpp_core: [cpp_common, roscpp_traits, rostime, roscpp_serialization]
 rospack: [rospack]
 rx: [wxPython_swig_interface, rxbag, rxgraph, rxtools, xdot]

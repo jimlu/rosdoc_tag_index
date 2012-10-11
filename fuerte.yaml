@@ -87,10 +87,10 @@ ros-fuerte-ros-comm:
 - {docs_url: ../../../api/test_roscpp_serialization_perf/html, location: 'http://ros.org/rosdoclite/fuerte/api/test_roscpp_serialization_perf/tags/test_roscpp_serialization_perf.tag',
   package: test_roscpp_serialization_perf}
 ros-fuerte-ros-tutorials:
-- {docs_url: ../../../api/rospy_tutorials/html, location: 'http://ros.org/rosdoclite/fuerte/api/rospy_tutorials/tags/rospy_tutorials.tag',
-  package: rospy_tutorials}
 - {docs_url: ../../../api/roscpp_tutorials/html, location: 'http://ros.org/rosdoclite/fuerte/api/roscpp_tutorials/tags/roscpp_tutorials.tag',
   package: roscpp_tutorials}
+- {docs_url: ../../../api/rospy_tutorials/html, location: 'http://ros.org/rosdoclite/fuerte/api/rospy_tutorials/tags/rospy_tutorials.tag',
+  package: rospy_tutorials}
 - {docs_url: ../../../api/turtlesim/html, location: 'http://ros.org/rosdoclite/fuerte/api/turtlesim/tags/turtlesim.tag',
   package: turtlesim}
 ros-fuerte-roscpp-core:
