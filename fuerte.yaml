@@ -23,6 +23,15 @@ ros-fuerte-common-msgs:
 ros-fuerte-genlisp:
 - {docs_url: ../../../api/genlisp/html, location: 'http://ros.org/rosdoclite/fuerte/api/genlisp/tags/genlisp.tag',
   package: genlisp}
+ros-fuerte-geometry:
+- {docs_url: ../../../api/tf/html, location: 'http://ros.org/rosdoclite/fuerte/api/tf/tags/tf.tag',
+  package: tf}
+- {docs_url: ../../../api/tf_conversions/html, location: 'http://ros.org/rosdoclite/fuerte/api/tf_conversions/tags/tf_conversions.tag',
+  package: tf_conversions}
+- {docs_url: ../../../api/eigen_conversions/html, location: 'http://ros.org/rosdoclite/fuerte/api/eigen_conversions/tags/eigen_conversions.tag',
+  package: eigen_conversions}
+- {docs_url: ../../../api/angles/html, location: 'http://ros.org/rosdoclite/fuerte/api/angles/tags/angles.tag',
+  package: angles}
 ros-fuerte-ros:
 - {docs_url: ../../../api/rosbash/html, location: 'http://ros.org/rosdoclite/fuerte/api/rosbash/tags/rosbash.tag',
   package: rosbash}

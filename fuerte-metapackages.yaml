@@ -4,6 +4,7 @@ gencpp: [gencpp]
 genlisp: [genlisp]
 genmsg: [genmsg]
 genpy: [genpy]
+geometry: [tf, tf_conversions, eigen_conversions, angles]
 langs: []
 ros: [rosbash, rosboost_cfg, rosunit, roscreate, rosbuild, rosmake, mk, roslang, rosclean,
   roslib]
