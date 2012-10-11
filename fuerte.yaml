@@ -95,6 +95,9 @@ ros-fuerte-kingfisher:
 ros-fuerte-nmea-gps-driver:
 - {docs_url: ../../../api/nmea_gps_driver/html, location: 'http://ros.org/rosdoclite/fuerte/api/nmea_gps_driver/tags/nmea_gps_driver.tag',
   package: nmea_gps_driver}
+ros-fuerte-open-street-map:
+- {docs_url: ../../../api/test_osm/html, location: 'http://ros.org/rosdoclite/fuerte/api/test_osm/tags/test_osm.tag',
+  package: test_osm}
 ros-fuerte-openni-launch:
 - {docs_url: ../../../api/openni_launch/html, location: 'http://ros.org/rosdoclite/fuerte/api/openni_launch/tags/openni_launch.tag',
   package: openni_launch}
