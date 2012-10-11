@@ -48,6 +48,13 @@ ros-fuerte-gps-umd:
 ros-fuerte-imu-drivers:
 - {docs_url: ../../../api/microstrain_3dmgx2_imu/html, location: 'http://ros.org/rosdoclite/fuerte/api/microstrain_3dmgx2_imu/tags/microstrain_3dmgx2_imu.tag',
   package: microstrain_3dmgx2_imu}
+ros-fuerte-kingfisher:
+- {docs_url: ../../../api/kingfisher_node/html, location: 'http://ros.org/rosdoclite/fuerte/api/kingfisher_node/tags/kingfisher_node.tag',
+  package: kingfisher_node}
+- {docs_url: ../../../api/kingfisher_bringup/html, location: 'http://ros.org/rosdoclite/fuerte/api/kingfisher_bringup/tags/kingfisher_bringup.tag',
+  package: kingfisher_bringup}
+- {docs_url: ../../../api/kingfisher_msgs/html, location: 'http://ros.org/rosdoclite/fuerte/api/kingfisher_msgs/tags/kingfisher_msgs.tag',
+  package: kingfisher_msgs}
 ros-fuerte-ros:
 - {docs_url: ../../../api/rosclean/html, location: 'http://ros.org/rosdoclite/fuerte/api/rosclean/tags/rosclean.tag',
   package: rosclean}
