@@ -15,6 +15,7 @@ geometry: [angles, tf_conversions, tf, eigen_conversions]
 geometry_tutorials: [turtle_tf]
 gps_umd: [gpsd_client, gps_common]
 imu_drivers: [microstrain_3dmgx2_imu]
+kingfisher: [kingfisher_node, kingfisher_bringup, kingfisher_msgs]
 langs: []
 robot_model_py: [urdf_parser_py]
 ros: [rosclean, mk, rosmake, roslib, rosbash, rosboost_cfg, roscreate, rosbuild, rosunit,
