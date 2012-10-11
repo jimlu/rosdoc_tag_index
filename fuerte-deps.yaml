@@ -4,6 +4,7 @@ ADEPT_VIPER_S650_arm_navigation: [planning_environment, arm_kinematics_constrain
 ADEPT_VIPER_S650_ikfast_arm_navigation: [kinematics_base, planning_environment, arm_kinematics_constraint_aware,
   ompl_ros_interface, trajectory_filter_server, constraint_aware_spline_smoother,
   move_arm]
+ackermann_msgs: [std_msgs]
 actionlib: [roscpp, rospy, rostest, actionlib_msgs]
 actionlib_tutorials: [roscpp, rospy, roslib, std_msgs, rosconsole, actionlib, actionlib_msgs]
 adept: [arm_navigation, common, common_msgs, control, robot_model, ros, ros_comm,

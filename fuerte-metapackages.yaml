@@ -1,3 +1,4 @@
+ackermann_msgs: [ackermann_msgs]
 actionlib: [actionlib]
 adept: [ADEPT_VIPER_S650_ikfast_arm_navigation, adept_common, ADEPT_VIPER_S650_arm_navigation]
 ar_track_alvar: [ar_track_alvar]
