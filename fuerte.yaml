@@ -92,6 +92,15 @@ ros-fuerte-gps-umd:
   package: gpsd_client}
 - {docs_url: ../../../api/gps_common/html, location: 'http://ros.org/rosdoclite/fuerte/api/gps_common/tags/gps_common.tag',
   package: gps_common}
+ros-fuerte-humanoid-walk:
+- {docs_url: ../../../api/walk_msgs/html, location: 'http://ros.org/rosdoclite/fuerte/api/walk_msgs/tags/walk_msgs.tag',
+  package: walk_msgs}
+- {docs_url: ../../../api/halfsteps_pattern_generator/html, location: 'http://ros.org/rosdoclite/fuerte/api/halfsteps_pattern_generator/tags/halfsteps_pattern_generator.tag',
+  package: halfsteps_pattern_generator}
+- {docs_url: ../../../api/walk_tools/html, location: 'http://ros.org/rosdoclite/fuerte/api/walk_tools/tags/walk_tools.tag',
+  package: walk_tools}
+- {docs_url: ../../../api/walk_interfaces/html, location: 'http://ros.org/rosdoclite/fuerte/api/walk_interfaces/tags/walk_interfaces.tag',
+  package: walk_interfaces}
 ros-fuerte-imu-drivers:
 - {docs_url: ../../../api/microstrain_3dmgx2_imu/html, location: 'http://ros.org/rosdoclite/fuerte/api/microstrain_3dmgx2_imu/tags/microstrain_3dmgx2_imu.tag',
   package: microstrain_3dmgx2_imu}

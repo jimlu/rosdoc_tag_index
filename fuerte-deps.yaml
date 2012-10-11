@@ -34,6 +34,10 @@ gmapping: [roscpp, rosbag, rosconsole, std_msgs, nav_msgs, std_msgs, tf, message
 gps_common: [roscpp, message_filters, nav_msgs, sensor_msgs]
 gps_umd: [common_msgs, ros, ros_comm]
 gpsd_client: [roscpp, sensor_msgs, gps_common, libgps]
+halfsteps_pattern_generator: [common_rosdeps, rospy, bullet, walk_interfaces, walk_msgs,
+  visualization_msgs, angles, boost, eigen]
+humanoid_walk: [bullet, common_msgs, common_rosdeps, diagnostics, geometry, ros, ros_comm,
+  robot_model_py]
 imu_drivers: [common_msgs, diagnostics, geometry, ros, ros_comm]
 kingfisher: [camera_drivers, image_pipeline, image_transport_plugins, multimaster_experimental,
   ros, ros_comm, rosserial]
@@ -95,6 +99,11 @@ turtle_tf: [roscpp, rospy, turtlesim, tf]
 turtlesim: [libqt4-dev, qt4-qmake]
 urdf_parser_py: [rospy]
 visualization_msgs: [geometry_msgs, std_msgs]
+walk_interfaces: [common_rosdeps, boost, eigen, yaml-cpp]
+walk_msgs: [roscpp, rospy, common_rosdeps, bullet, geometry_msgs, nav_msgs, walk_interfaces,
+  visualization_msgs, angles, boost, eigen]
+walk_tools: [rospy, geometry_msgs, sensor_msgs, message_filters, diagnostic_aggregator,
+  diagnostic_updater, urdf_parser_py]
 wge100_camera: [rostest, roscpp, rospy, std_msgs, sensor_msgs, diagnostic_updater,
   driver_base, self_test, dynamic_reconfigure, camera_calibration_parsers, timestamp_tools,
   image_transport]
