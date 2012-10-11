@@ -1,80 +1,20 @@
-actionlib:
-- actionlib
+actionlib: [actionlib]
 catkin: []
-gencpp:
-- gencpp
-genlisp:
-- genlisp
-genmsg:
-- genmsg
-genpy:
-- genpy
-geometry:
-- angles
-- tf_conversions
-- tf
-- eigen_conversions
+gencpp: [gencpp]
+genlisp: [genlisp]
+genmsg: [genmsg]
+genpy: [genpy]
+geometry: [angles, tf_conversions, tf, eigen_conversions]
 langs: []
-ros:
-- rosbash
-- rosboost_cfg
-- rosunit
-- roscreate
-- rosbuild
-- rosmake
-- mk
-- roslang
-- rosclean
-- roslib
-ros_comm:
-- test_rosbag
-- rostest
-- topic_tools
-- test_roscpp
-- rosnode
-- roslisp
-- test_roslib_comm
-- test_rospy
-- xmlrpcpp
-- rostopic
-- rosmaster
-- test_roscpp_serialization
-- rosparam
-- rosmsg
-- rosservice
-- message_filters
-- test_rostime
-- rosgraph_msgs
-- roscpp
-- test_ros
-- roslaunch
-- rosconsole
-- test_rosservice
-- rosout
-- perf_roscpp
-- rosbag
-- test_crosspackage
-- rosgraph
-- std_srvs
-- test_roscpp_serialization_perf
-- rospy
-- roswtf
-ros_tutorials:
-- rospy_tutorials
-- roscpp_tutorials
-- turtlesim
-roscpp_core:
-- cpp_common
-- roscpp_traits
-- rostime
-- roscpp_serialization
-rospack:
-- rospack
-rx:
-- wxPython_swig_interface
-- rxbag
-- rxgraph
-- rxtools
-- xdot
-std_msgs:
-- std_msgs
+ros: [rosbash, rosboost_cfg, rosunit, roscreate, rosbuild, rosmake, mk, roslang, rosclean,
+  roslib]
+ros_comm: [test_rosbag, rostest, topic_tools, test_roscpp, rosnode, roslisp, test_roslib_comm,
+  test_rospy, xmlrpcpp, rostopic, rosmaster, test_roscpp_serialization, rosparam,
+  rosmsg, rosservice, message_filters, test_rostime, rosgraph_msgs, roscpp, test_ros,
+  roslaunch, rosconsole, test_rosservice, rosout, perf_roscpp, rosbag, test_crosspackage,
+  rosgraph, std_srvs, test_roscpp_serialization_perf, rospy, roswtf]
+ros_tutorials: [rospy_tutorials, roscpp_tutorials, turtlesim]
+roscpp_core: [cpp_common, roscpp_traits, rostime, roscpp_serialization]
+rospack: [rospack]
+rx: [wxPython_swig_interface, rxbag, rxgraph, rxtools, xdot]
+std_msgs: [std_msgs]
