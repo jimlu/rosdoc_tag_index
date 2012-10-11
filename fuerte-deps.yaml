@@ -51,6 +51,7 @@ openrtm_cpp: [pkg-config, uuid, omniorb, python-yaml, doxygen]
 osm_cartography: [dynamic_reconfigure, geodesy, geographic_msgs, geometry_msgs, rospy,
   tf, std_msgs, visualization_msgs]
 robot_model_py: [ros, ros_comm]
+robot_model_tutorials: [ros]
 robot_monitor: [rospy, diagnostic_msgs, rxbag, wxwidgets, wxpython]
 robot_pose_publisher: [roscpp, tf, geometry_msgs]
 rosbag: [python-imaging, bzip2]

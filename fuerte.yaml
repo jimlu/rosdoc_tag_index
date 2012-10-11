@@ -111,6 +111,9 @@ ros-fuerte-open-street-map:
 ros-fuerte-openni-launch:
 - {docs_url: ../../../api/openni_launch/html, location: 'http://ros.org/rosdoclite/fuerte/api/openni_launch/tags/openni_launch.tag',
   package: openni_launch}
+ros-fuerte-robot-model-tutorials:
+- {docs_url: ../../../api/urdf_tutorial/html, location: 'http://ros.org/rosdoclite/fuerte/api/urdf_tutorial/tags/urdf_tutorial.tag',
+  package: urdf_tutorial}
 ros-fuerte-robot-pose-publisher:
 - {docs_url: ../../../api/robot_pose_publisher/html, location: 'http://ros.org/rosdoclite/fuerte/api/robot_pose_publisher/tags/robot_pose_publisher.tag',
   package: robot_pose_publisher}

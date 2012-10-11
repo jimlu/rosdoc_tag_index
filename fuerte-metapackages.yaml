@@ -27,6 +27,7 @@ open_street_map: [route_network, test_osm, osm_cartography]
 openni_launch: [openni_launch]
 openrtm_cpp: [openrtm_cpp]
 robot_model_py: [urdf_parser_py]
+robot_model_tutorials: [urdf_tutorial]
 robot_pose_publisher: [robot_pose_publisher]
 ros: [rosclean, mk, rosmake, roslib, rosbash, rosboost_cfg, roscreate, rosbuild, rosunit,
   roslang]
