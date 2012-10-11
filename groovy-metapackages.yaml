@@ -1,3 +1,5 @@
+common_msgs: [actionlib_msgs, diagnostic_msgs, geometry_msgs, nav_msgs, sensor_msgs,
+  shape_msgs, stereo_msgs, trajectory_msgs, visualization_msgs]
 ros_comm: [roscpp, rospy, rosgraph_msgs, std_srvs, ros, rosbag, rosconsole, rosgraph,
   roslaunch, rosmaster, rosmsg, rosnode, rosout, rosparam, rosservice, rostest, rostopic,
   topic_tools, message_filters, roswtf, xmlrpcpp]
