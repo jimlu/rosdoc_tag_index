@@ -3,6 +3,7 @@ adept: [ADEPT_VIPER_S650_ikfast_arm_navigation, adept_common, ADEPT_VIPER_S650_a
 ar_track_alvar: [ar_track_alvar]
 audio_common: [audio_play, audio_common_msgs, sound_play, audio_capture]
 bfl: [bfl]
+brown_drivers: [irobot_create_2_1]
 catkin: []
 clearpath_kinect: [clearpath_kinect_demo, clearpath_tools]
 cob_extern: [libpcan, libphidgets, libntcan, libmesasr]

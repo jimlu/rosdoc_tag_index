@@ -18,6 +18,7 @@ audio_common: [ros, common, common_msgs, common_rosdeps, ros_comm]
 audio_play: [roscpp, audio_common_msgs, libgstreamer0.10-dev, libgstreamer-plugins-base0.10-dev,
   python-gst, gstreamer0.10-plugins-ugly, gstreamer0.10-plugins-good]
 bfl: [cppunit]
+brown_drivers: [common_msgs, geometry, ros, ros_comm]
 cereal_port: [roscpp]
 clearpath_kinect: [common_msgs, perception_pcl, ros, ros_comm]
 clearpath_kinect_demo: [roscpp, pcl_ros, clearpath_tools]
@@ -47,6 +48,7 @@ halfsteps_pattern_generator: [common_rosdeps, rospy, bullet, walk_interfaces, wa
 humanoid_walk: [bullet, common_msgs, common_rosdeps, diagnostics, geometry, ros, ros_comm,
   robot_model_py]
 imu_drivers: [common_msgs, diagnostics, geometry, ros, ros_comm]
+irobot_create_2_1: [roscpp, rospy, geometry_msgs, tf, nav_msgs, python-serial]
 kingfisher: [camera_drivers, image_pipeline, image_transport_plugins, multimaster_experimental,
   ros, ros_comm, rosserial]
 kingfisher_bringup: [kingfisher_msgs, rosserial_python, app_manager, camera1394, image_proc,

@@ -23,6 +23,9 @@ ros-fuerte-audio-common:
 ros-fuerte-bfl:
 - {docs_url: ../../../api/bfl/html, location: 'http://ros.org/rosdoclite/fuerte/api/bfl/tags/bfl.tag',
   package: bfl}
+ros-fuerte-brown-drivers:
+- {docs_url: ../../../api/irobot_create_2_1/html, location: 'http://ros.org/rosdoclite/fuerte/api/irobot_create_2_1/tags/irobot_create_2_1.tag',
+  package: irobot_create_2_1}
 ros-fuerte-clearpath-kinect:
 - {docs_url: ../../../api/clearpath_kinect_demo/html, location: 'http://ros.org/rosdoclite/fuerte/api/clearpath_kinect_demo/tags/clearpath_kinect_demo.tag',
   package: clearpath_kinect_demo}
