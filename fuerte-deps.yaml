@@ -1,4 +1,14 @@
+ADEPT_VIPER_S650_arm_navigation: [planning_environment, arm_kinematics_constraint_aware,
+  ompl_ros_interface, trajectory_filter_server, constraint_aware_spline_smoother,
+  move_arm]
+ADEPT_VIPER_S650_ikfast_arm_navigation: [kinematics_base, planning_environment, arm_kinematics_constraint_aware,
+  ompl_ros_interface, trajectory_filter_server, constraint_aware_spline_smoother,
+  move_arm]
 actionlib: [roscpp, rospy, rostest, actionlib_msgs]
+adept: [arm_navigation, common, common_msgs, control, robot_model, ros, ros_comm,
+  industrial]
+adept_common: [std_msgs, roscpp, actionlib, trajectory_msgs, actionlib_msgs, control_msgs,
+  sensor_msgs, simple_message, urdf]
 ar_track_alvar: [std_msgs, rospy, roscpp, tf, image_transport, sensor_msgs, geometry_msgs,
   visualization_msgs, resource_retriever, cv_bridge, pcl_ros]
 bfl: [cppunit]
