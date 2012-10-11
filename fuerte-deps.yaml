@@ -1,8 +1,14 @@
 actionlib: [roscpp, rospy, rostest, actionlib_msgs]
+ar_track_alvar: [std_msgs, rospy, roscpp, tf, image_transport, sensor_msgs, geometry_msgs,
+  visualization_msgs, resource_retriever, cv_bridge, pcl_ros]
 bfl: [cppunit]
+clearpath_kinect: [common_msgs, perception_pcl, ros, ros_comm]
+clearpath_kinect_demo: [roscpp, pcl_ros, clearpath_tools]
+clearpath_tools: [roscpp, pcl_ros, std_msgs, sensor_msgs]
 diagnostics_monitors: [common_msgs, ros, ros_comm, rx]
 eigen_conversions: [geometry_msgs, kdl, tf, eigen]
 geometry: [bullet, common_msgs, ros, ros_comm, orocos_kinematics_dynamics, common_rosdeps]
+geometry_tutorials: [geometry, ros, ros_comm, ros_tutorials]
 gps_common: [roscpp, message_filters, nav_msgs, sensor_msgs]
 gps_umd: [common_msgs, ros, ros_comm]
 gpsd_client: [roscpp, sensor_msgs, gps_common, libgps]
@@ -14,6 +20,7 @@ kingfisher_bringup: [kingfisher_msgs, rosserial_python, app_manager, camera1394,
 kingfisher_node: [rospy, rosserial_python, kingfisher_msgs, std_msgs]
 microstrain_3dmgx2_imu: [roscpp, sensor_msgs, self_test, diagnostic_updater, tf, std_srvs]
 nav_msgs: [geometry_msgs]
+robot_model_py: [ros, ros_comm]
 robot_monitor: [rospy, diagnostic_msgs, rxbag, wxwidgets, wxpython]
 rosbag: [python-imaging, bzip2]
 rosconsole: [apr, log4cxx]
@@ -38,7 +45,9 @@ test_rospy: [python-numpy]
 tf: [bullet, geometry_msgs, sensor_msgs, roscpp, rosconsole, angles, rospy, rostest,
   roswtf, message_filters, python-numpy, graphviz]
 tf_conversions: [tf, kdl, geometry_msgs, eigen]
+turtle_tf: [roscpp, rospy, turtlesim, tf]
 turtlesim: [libqt4-dev, qt4-qmake]
+urdf_parser_py: [rospy]
 visualization_msgs: [geometry_msgs, std_msgs]
 wge100_camera: [rostest, roscpp, rospy, std_msgs, sensor_msgs, diagnostic_updater,
   driver_base, self_test, dynamic_reconfigure, camera_calibration_parsers, timestamp_tools,
