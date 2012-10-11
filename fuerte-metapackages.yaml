@@ -34,6 +34,7 @@ ros_comm: [rosservice, message_filters, topic_tools, rosparam, test_roscpp_seria
   rosbag, rosout, rostest, perf_roscpp, test_crosspackage, rosgraph_msgs]
 ros_tutorials: [roscpp_tutorials, rospy_tutorials, turtlesim]
 roscpp_core: [cpp_common, roscpp_traits, rostime, roscpp_serialization]
+rosh_desktop_plugins: [rosh_visualization, rosh_desktop]
 rospack: [rospack]
 rx: [xdot, wxPython_swig_interface, rxbag, rxgraph, rxtools]
 srs_common: [srs_object_database_msgs]

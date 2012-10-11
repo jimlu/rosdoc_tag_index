@@ -178,6 +178,11 @@ ros-fuerte-roscpp-core:
   package: rostime}
 - {docs_url: ../../../api/roscpp_serialization/html, location: 'http://ros.org/rosdoclite/fuerte/api/roscpp_serialization/tags/roscpp_serialization.tag',
   package: roscpp_serialization}
+ros-fuerte-rosh-desktop-plugins:
+- {docs_url: ../../../api/rosh_visualization/html, location: 'http://ros.org/rosdoclite/fuerte/api/rosh_visualization/tags/rosh_visualization.tag',
+  package: rosh_visualization}
+- {docs_url: ../../../api/rosh_desktop/html, location: 'http://ros.org/rosdoclite/fuerte/api/rosh_desktop/tags/rosh_desktop.tag',
+  package: rosh_desktop}
 ros-fuerte-rospack:
 - {docs_url: ../../../api/rospack/html, location: 'http://ros.org/rosdoclite/fuerte/api/rospack/tags/rospack.tag',
   package: rospack}
