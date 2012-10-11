@@ -1,7 +1,7 @@
 actionlib: [actionlib]
 catkin: []
-common_msgs: [shape_msgs, trajectory_msgs, diagnostic_msgs, nav_msgs, actionlib_msgs,
-  sensor_msgs, geometry_msgs, stereo_msgs, visualization_msgs]
+common_msgs: [stereo_msgs, actionlib_msgs, visualization_msgs, sensor_msgs, shape_msgs,
+  trajectory_msgs, diagnostic_msgs, nav_msgs, geometry_msgs]
 gencpp: [gencpp]
 genlisp: [genlisp]
 genmsg: [genmsg]
@@ -18,5 +18,5 @@ ros_comm: [rosservice, message_filters, topic_tools, rosparam, test_roscpp_seria
 ros_tutorials: [roscpp_tutorials, rospy_tutorials, turtlesim]
 roscpp_core: [cpp_common, roscpp_traits, rostime, roscpp_serialization]
 rospack: [rospack]
-rx: [wxPython_swig_interface, rxgraph, rxtools, xdot, rxbag]
+rx: [xdot, wxPython_swig_interface, rxbag, rxgraph, rxtools]
 std_msgs: [std_msgs]
