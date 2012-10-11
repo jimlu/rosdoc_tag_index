@@ -52,8 +52,8 @@ robot_model_py: [urdf_parser_py]
 robot_model_tutorials: [urdf_tutorial]
 robot_pose_publisher: [robot_pose_publisher]
 romeo: [romeo_description]
-ros: [rosclean, mk, rosmake, roslib, rosbash, rosboost_cfg, roscreate, rosbuild, rosunit,
-  roslang]
+ros: [rosboost_cfg, rosbuild, roslib, mk, rosunit, roslang, rosbash, rosclean, rosmake,
+  roscreate]
 ros_comm: [rosservice, message_filters, topic_tools, rosparam, test_roscpp_serialization,
   rospy, roslisp, rosgraph, rostopic, std_srvs, roslaunch, test_rosservice, roswtf,
   test_roscpp, rosmaster, test_rospy, test_ros, test_rosbag, rosnode, roscpp, rosconsole,
