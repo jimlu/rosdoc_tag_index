@@ -97,6 +97,9 @@ ros-fuerte-ethzasl-xsens-driver:
 ros-fuerte-executive-smach-visualization:
 - {docs_url: ../../../api/smach_viewer/html, location: 'http://ros.org/rosdoclite/fuerte/api/smach_viewer/tags/smach_viewer.tag',
   package: smach_viewer}
+ros-fuerte-filters:
+- {docs_url: ../../../api/filters/html, location: 'http://ros.org/rosdoclite/fuerte/api/filters/tags/filters.tag',
+  package: filters}
 ros-fuerte-genlisp:
 - {docs_url: ../../../api/genlisp/html, location: 'http://ros.org/rosdoclite/fuerte/api/genlisp/tags/genlisp.tag',
   package: genlisp}
