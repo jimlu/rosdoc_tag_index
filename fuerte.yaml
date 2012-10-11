@@ -56,6 +56,9 @@ ros-fuerte-common-msgs:
   package: nav_msgs}
 - {docs_url: ../../../api/geometry_msgs/html, location: 'http://ros.org/rosdoclite/fuerte/api/geometry_msgs/tags/geometry_msgs.tag',
   package: geometry_msgs}
+ros-fuerte-control:
+- {docs_url: ../../../api/control_msgs/html, location: 'http://ros.org/rosdoclite/fuerte/api/control_msgs/tags/control_msgs.tag',
+  package: control_msgs}
 ros-fuerte-diagnostics-monitors:
 - {docs_url: ../../../api/runtime_monitor/html, location: 'http://ros.org/rosdoclite/fuerte/api/runtime_monitor/tags/runtime_monitor.tag',
   package: runtime_monitor}
@@ -123,6 +126,9 @@ ros-fuerte-open-street-map:
 ros-fuerte-openni-launch:
 - {docs_url: ../../../api/openni_launch/html, location: 'http://ros.org/rosdoclite/fuerte/api/openni_launch/tags/openni_launch.tag',
   package: openni_launch}
+ros-fuerte-openni-tracker:
+- {docs_url: ../../../api/openni_tracker/html, location: 'http://ros.org/rosdoclite/fuerte/api/openni_tracker/tags/openni_tracker.tag',
+  package: openni_tracker}
 ros-fuerte-robot-model-tutorials:
 - {docs_url: ../../../api/urdf_tutorial/html, location: 'http://ros.org/rosdoclite/fuerte/api/urdf_tutorial/tags/urdf_tutorial.tag',
   package: urdf_tutorial}
@@ -221,12 +227,22 @@ ros-fuerte-rx:
 ros-fuerte-slam-gmapping:
 - {docs_url: ../../../api/gmapping/html, location: 'http://ros.org/rosdoclite/fuerte/api/gmapping/tags/gmapping.tag',
   package: gmapping}
+ros-fuerte-sql-database:
+- {docs_url: ../../../api/student_database/html, location: 'http://ros.org/rosdoclite/fuerte/api/student_database/tags/student_database.tag',
+  package: student_database}
+- {docs_url: ../../../api/database_interface/html, location: 'http://ros.org/rosdoclite/fuerte/api/database_interface/tags/database_interface.tag',
+  package: database_interface}
 ros-fuerte-srs-common:
 - {docs_url: ../../../api/srs_object_database_msgs/html, location: 'http://ros.org/rosdoclite/fuerte/api/srs_object_database_msgs/tags/srs_object_database_msgs.tag',
   package: srs_object_database_msgs}
 ros-fuerte-std-msgs:
 - {docs_url: ../../../api/std_msgs/html, location: 'http://ros.org/rosdoclite/fuerte/api/std_msgs/tags/std_msgs.tag',
   package: std_msgs}
+ros-fuerte-unique-identifier:
+- {docs_url: ../../../api/uuid_msgs/html, location: 'http://ros.org/rosdoclite/fuerte/api/uuid_msgs/tags/uuid_msgs.tag',
+  package: uuid_msgs}
+- {docs_url: ../../../api/unique_id/html, location: 'http://ros.org/rosdoclite/fuerte/api/unique_id/tags/unique_id.tag',
+  package: unique_id}
 ros-fuerte-wge100-driver:
 - {docs_url: ../../../api/wge100_camera/html, location: 'http://ros.org/rosdoclite/fuerte/api/wge100_camera/tags/wge100_camera.tag',
   package: wge100_camera}
