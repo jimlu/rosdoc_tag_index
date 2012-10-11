@@ -55,6 +55,7 @@ geometry_visualization: [geometry_experimental, ros, ros_comm, rx]
 gmapping: [roscpp, rosbag, rosconsole, std_msgs, nav_msgs, std_msgs, tf, message_filters,
   map_server]
 gps_common: [roscpp, message_filters, nav_msgs, sensor_msgs]
+gps_drivers: [ros, nmea_gps_driver]
 gps_umd: [common_msgs, ros, ros_comm]
 gpsd_client: [roscpp, sensor_msgs, gps_common, libgps]
 halfsteps_pattern_generator: [common_rosdeps, rospy, bullet, walk_interfaces, walk_msgs,
