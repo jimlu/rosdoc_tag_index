@@ -29,6 +29,9 @@ ros-fuerte-bfl:
 ros-fuerte-brown-drivers:
 - {docs_url: ../../../api/irobot_create_2_1/html, location: 'http://ros.org/rosdoclite/fuerte/api/irobot_create_2_1/tags/irobot_create_2_1.tag',
   package: irobot_create_2_1}
+ros-fuerte-camera1394:
+- {docs_url: ../../../api/camera1394/html, location: 'http://ros.org/rosdoclite/fuerte/api/camera1394/tags/camera1394.tag',
+  package: camera1394}
 ros-fuerte-clearpath-common:
 - {docs_url: ../../../api/clearpath_bringup/html, location: 'http://ros.org/rosdoclite/fuerte/api/clearpath_bringup/tags/clearpath_bringup.tag',
   package: clearpath_bringup}
@@ -101,9 +104,15 @@ ros-fuerte-driver-common:
 ros-fuerte-ethzasl-xsens-driver:
 - {docs_url: ../../../api/xsens_driver/html, location: 'http://ros.org/rosdoclite/fuerte/api/xsens_driver/tags/xsens_driver.tag',
   package: xsens_driver}
+ros-fuerte-executive-smach:
+- {docs_url: ../../../api/smach_msgs/html, location: 'http://ros.org/rosdoclite/fuerte/api/smach_msgs/tags/smach_msgs.tag',
+  package: smach_msgs}
 ros-fuerte-executive-smach-visualization:
 - {docs_url: ../../../api/smach_viewer/html, location: 'http://ros.org/rosdoclite/fuerte/api/smach_viewer/tags/smach_viewer.tag',
   package: smach_viewer}
+ros-fuerte-filters:
+- {docs_url: ../../../api/filters/html, location: 'http://ros.org/rosdoclite/fuerte/api/filters/tags/filters.tag',
+  package: filters}
 ros-fuerte-genlisp:
 - {docs_url: ../../../api/genlisp/html, location: 'http://ros.org/rosdoclite/fuerte/api/genlisp/tags/genlisp.tag',
   package: genlisp}
