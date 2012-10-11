@@ -8,8 +8,8 @@ genmsg: [genmsg]
 genpy: [genpy]
 geometry: [angles, tf_conversions, tf, eigen_conversions]
 langs: []
-ros: [rosunit, rosmake, roslib, mk, roslang, roscreate, rosclean, rosbuild, rosbash,
-  rosboost_cfg]
+ros: [rosclean, mk, rosmake, roslib, rosbash, rosboost_cfg, roscreate, rosbuild, rosunit,
+  roslang]
 ros_comm: [rosservice, test_rospy, test_rosservice, test_crosspackage, rostest, roslaunch,
   rosgraph_msgs, rosout, roscpp, rosparam, test_roslib_comm, rosmsg, rostopic, topic_tools,
   roslisp, rosmaster, roswtf, message_filters, test_ros, test_rostime, rosnode, test_roscpp_serialization,
