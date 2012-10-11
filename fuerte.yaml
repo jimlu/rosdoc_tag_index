@@ -36,6 +36,9 @@ ros-fuerte-diagnostics-monitors:
   package: runtime_monitor}
 - {docs_url: ../../../api/robot_monitor/html, location: 'http://ros.org/rosdoclite/fuerte/api/robot_monitor/tags/robot_monitor.tag',
   package: robot_monitor}
+ros-fuerte-executive-smach-visualization:
+- {docs_url: ../../../api/smach_viewer/html, location: 'http://ros.org/rosdoclite/fuerte/api/smach_viewer/tags/smach_viewer.tag',
+  package: smach_viewer}
 ros-fuerte-genlisp:
 - {docs_url: ../../../api/genlisp/html, location: 'http://ros.org/rosdoclite/fuerte/api/genlisp/tags/genlisp.tag',
   package: genlisp}
