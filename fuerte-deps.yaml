@@ -1,4 +1,5 @@
 actionlib: [roscpp, rospy, rostest, actionlib_msgs]
+bfl: [cppunit]
 eigen_conversions: [geometry_msgs, kdl, tf, eigen]
 geometry: [bullet, common_msgs, ros, ros_comm, orocos_kinematics_dynamics, common_rosdeps]
 gps_common: [roscpp, message_filters, nav_msgs, sensor_msgs]
@@ -29,5 +30,11 @@ tf: [bullet, geometry_msgs, sensor_msgs, roscpp, rosconsole, angles, rospy, rost
 tf_conversions: [tf, kdl, geometry_msgs, eigen]
 turtlesim: [libqt4-dev, qt4-qmake]
 visualization_msgs: [geometry_msgs, std_msgs]
+wge100_camera: [rostest, roscpp, rospy, std_msgs, sensor_msgs, diagnostic_updater,
+  driver_base, self_test, dynamic_reconfigure, camera_calibration_parsers, timestamp_tools,
+  image_transport]
+wge100_camera_firmware: [rostest, rospy, gforth]
+wge100_driver: [common_msgs, diagnostics, driver_common, dynamic_reconfigure, image_common,
+  ros, ros_comm]
 wxPython_swig_interface: [wxpython]
 xdot: [wxpython, graphviz]

@@ -1,6 +1,9 @@
 ros-fuerte-actionlib:
 - {docs_url: ../../../api/actionlib/html, location: 'http://ros.org/rosdoclite/fuerte/api/actionlib/tags/actionlib.tag',
   package: actionlib}
+ros-fuerte-bfl:
+- {docs_url: ../../../api/bfl/html, location: 'http://ros.org/rosdoclite/fuerte/api/bfl/tags/bfl.tag',
+  package: bfl}
 ros-fuerte-common-msgs:
 - {docs_url: ../../../api/stereo_msgs/html, location: 'http://ros.org/rosdoclite/fuerte/api/stereo_msgs/tags/stereo_msgs.tag',
   package: stereo_msgs}
@@ -124,3 +127,6 @@ ros-fuerte-rx:
 ros-fuerte-std-msgs:
 - {docs_url: ../../../api/std_msgs/html, location: 'http://ros.org/rosdoclite/fuerte/api/std_msgs/tags/std_msgs.tag',
   package: std_msgs}
+ros-fuerte-wge100-driver:
+- {docs_url: ../../../api/wge100_camera/html, location: 'http://ros.org/rosdoclite/fuerte/api/wge100_camera/tags/wge100_camera.tag',
+  package: wge100_camera}
