@@ -23,6 +23,9 @@ ros-fuerte-audio-common:
 ros-fuerte-bfl:
 - {docs_url: ../../../api/bfl/html, location: 'http://ros.org/rosdoclite/fuerte/api/bfl/tags/bfl.tag',
   package: bfl}
+ros-fuerte-brown-drivers:
+- {docs_url: ../../../api/irobot_create_2_1/html, location: 'http://ros.org/rosdoclite/fuerte/api/irobot_create_2_1/tags/irobot_create_2_1.tag',
+  package: irobot_create_2_1}
 ros-fuerte-clearpath-kinect:
 - {docs_url: ../../../api/clearpath_kinect_demo/html, location: 'http://ros.org/rosdoclite/fuerte/api/clearpath_kinect_demo/tags/clearpath_kinect_demo.tag',
   package: clearpath_kinect_demo}
@@ -63,6 +66,15 @@ ros-fuerte-common-msgs:
   package: nav_msgs}
 - {docs_url: ../../../api/geometry_msgs/html, location: 'http://ros.org/rosdoclite/fuerte/api/geometry_msgs/tags/geometry_msgs.tag',
   package: geometry_msgs}
+ros-fuerte-common-tutorials:
+- {docs_url: ../../../api/turtle_actionlib/html, location: 'http://ros.org/rosdoclite/fuerte/api/turtle_actionlib/tags/turtle_actionlib.tag',
+  package: turtle_actionlib}
+- {docs_url: ../../../api/pluginlib_tutorials/html, location: 'http://ros.org/rosdoclite/fuerte/api/pluginlib_tutorials/tags/pluginlib_tutorials.tag',
+  package: pluginlib_tutorials}
+- {docs_url: ../../../api/actionlib_tutorials/html, location: 'http://ros.org/rosdoclite/fuerte/api/actionlib_tutorials/tags/actionlib_tutorials.tag',
+  package: actionlib_tutorials}
+- {docs_url: ../../../api/nodelet_tutorial_math/html, location: 'http://ros.org/rosdoclite/fuerte/api/nodelet_tutorial_math/tags/nodelet_tutorial_math.tag',
+  package: nodelet_tutorial_math}
 ros-fuerte-control:
 - {docs_url: ../../../api/control_msgs/html, location: 'http://ros.org/rosdoclite/fuerte/api/control_msgs/tags/control_msgs.tag',
   package: control_msgs}
@@ -124,6 +136,13 @@ ros-fuerte-kingfisher:
   package: kingfisher_bringup}
 - {docs_url: ../../../api/kingfisher_msgs/html, location: 'http://ros.org/rosdoclite/fuerte/api/kingfisher_msgs/tags/kingfisher_msgs.tag',
   package: kingfisher_msgs}
+ros-fuerte-laser-pipeline:
+- {docs_url: ../../../api/laser_geometry/html, location: 'http://ros.org/rosdoclite/fuerte/api/laser_geometry/tags/laser_geometry.tag',
+  package: laser_geometry}
+- {docs_url: ../../../api/laser_filters/html, location: 'http://ros.org/rosdoclite/fuerte/api/laser_filters/tags/laser_filters.tag',
+  package: laser_filters}
+- {docs_url: ../../../api/laser_assembler/html, location: 'http://ros.org/rosdoclite/fuerte/api/laser_assembler/tags/laser_assembler.tag',
+  package: laser_assembler}
 ros-fuerte-megatree-pcl:
 - {docs_url: ../../../api/megatree_pcl/html, location: 'http://ros.org/rosdoclite/fuerte/api/megatree_pcl/tags/megatree_pcl.tag',
   package: megatree_pcl}
@@ -263,6 +282,9 @@ ros-fuerte-unique-identifier:
   package: uuid_msgs}
 - {docs_url: ../../../api/unique_id/html, location: 'http://ros.org/rosdoclite/fuerte/api/unique_id/tags/unique_id.tag',
   package: unique_id}
+ros-fuerte-wg-pr2-apps:
+- {docs_url: ../../../api/wg_pr2_2dnav/html, location: 'http://ros.org/rosdoclite/fuerte/api/wg_pr2_2dnav/tags/wg_pr2_2dnav.tag',
+  package: wg_pr2_2dnav}
 ros-fuerte-wge100-driver:
 - {docs_url: ../../../api/wge100_camera/html, location: 'http://ros.org/rosdoclite/fuerte/api/wge100_camera/tags/wge100_camera.tag',
   package: wge100_camera}
