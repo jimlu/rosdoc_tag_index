@@ -29,6 +29,13 @@ ros-fuerte-bfl:
 ros-fuerte-brown-drivers:
 - {docs_url: ../../../api/irobot_create_2_1/html, location: 'http://ros.org/rosdoclite/fuerte/api/irobot_create_2_1/tags/irobot_create_2_1.tag',
   package: irobot_create_2_1}
+ros-fuerte-clearpath-common:
+- {docs_url: ../../../api/clearpath_bringup/html, location: 'http://ros.org/rosdoclite/fuerte/api/clearpath_bringup/tags/clearpath_bringup.tag',
+  package: clearpath_bringup}
+- {docs_url: ../../../api/clearpath_base/html, location: 'http://ros.org/rosdoclite/fuerte/api/clearpath_base/tags/clearpath_base.tag',
+  package: clearpath_base}
+- {docs_url: ../../../api/clearpath_teleop/html, location: 'http://ros.org/rosdoclite/fuerte/api/clearpath_teleop/tags/clearpath_teleop.tag',
+  package: clearpath_teleop}
 ros-fuerte-clearpath-kinect:
 - {docs_url: ../../../api/clearpath_kinect_demo/html, location: 'http://ros.org/rosdoclite/fuerte/api/clearpath_kinect_demo/tags/clearpath_kinect_demo.tag',
   package: clearpath_kinect_demo}
