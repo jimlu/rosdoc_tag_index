@@ -12,6 +12,15 @@ ros-fuerte-clearpath-kinect:
   package: clearpath_kinect_demo}
 - {docs_url: ../../../api/clearpath_tools/html, location: 'http://ros.org/rosdoclite/fuerte/api/clearpath_tools/tags/clearpath_tools.tag',
   package: clearpath_tools}
+ros-fuerte-cob-extern:
+- {docs_url: ../../../api/libpcan/html, location: 'http://ros.org/rosdoclite/fuerte/api/libpcan/tags/libpcan.tag',
+  package: libpcan}
+- {docs_url: ../../../api/libphidgets/html, location: 'http://ros.org/rosdoclite/fuerte/api/libphidgets/tags/libphidgets.tag',
+  package: libphidgets}
+- {docs_url: ../../../api/libntcan/html, location: 'http://ros.org/rosdoclite/fuerte/api/libntcan/tags/libntcan.tag',
+  package: libntcan}
+- {docs_url: ../../../api/libmesasr/html, location: 'http://ros.org/rosdoclite/fuerte/api/libmesasr/tags/libmesasr.tag',
+  package: libmesasr}
 ros-fuerte-common-msgs:
 - {docs_url: ../../../api/stereo_msgs/html, location: 'http://ros.org/rosdoclite/fuerte/api/stereo_msgs/tags/stereo_msgs.tag',
   package: stereo_msgs}

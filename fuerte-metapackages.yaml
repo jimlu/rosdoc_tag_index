@@ -3,6 +3,7 @@ ar_track_alvar: [ar_track_alvar]
 bfl: [bfl]
 catkin: []
 clearpath_kinect: [clearpath_kinect_demo, clearpath_tools]
+cob_extern: [libpcan, libphidgets, libntcan, libmesasr]
 common_msgs: [stereo_msgs, actionlib_msgs, visualization_msgs, sensor_msgs, shape_msgs,
   trajectory_msgs, diagnostic_msgs, nav_msgs, geometry_msgs]
 diagnostics_monitors: [runtime_monitor, robot_monitor]
