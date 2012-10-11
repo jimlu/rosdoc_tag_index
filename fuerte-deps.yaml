@@ -63,6 +63,7 @@ osm_cartography: [dynamic_reconfigure, geodesy, geographic_msgs, geometry_msgs, 
   tf, std_msgs, visualization_msgs]
 pr2_pan_tilt: [geometry_msgs, pr2_controllers_msgs, topic_tools, actionlib, rospy,
   tf]
+rbdl: [urdf, urdf_interface, eigen, libunittest++]
 robot_model_py: [ros, ros_comm]
 robot_model_tutorials: [ros]
 robot_monitor: [rospy, diagnostic_msgs, rxbag, wxwidgets, wxpython]
