@@ -25,6 +25,7 @@ nmea_gps_driver: [nmea_gps_driver]
 open_street_map: [route_network, test_osm, osm_cartography]
 openni_launch: [openni_launch]
 robot_model_py: [urdf_parser_py]
+robot_pose_publisher: [robot_pose_publisher]
 ros: [rosclean, mk, rosmake, roslib, rosbash, rosboost_cfg, roscreate, rosbuild, rosunit,
   roslang]
 ros_comm: [rosservice, message_filters, topic_tools, rosparam, test_roscpp_serialization,

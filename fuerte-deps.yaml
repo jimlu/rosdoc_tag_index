@@ -48,6 +48,7 @@ osm_cartography: [dynamic_reconfigure, geodesy, geographic_msgs, geometry_msgs, 
   tf, std_msgs, visualization_msgs]
 robot_model_py: [ros, ros_comm]
 robot_monitor: [rospy, diagnostic_msgs, rxbag, wxwidgets, wxpython]
+robot_pose_publisher: [roscpp, tf, geometry_msgs]
 rosbag: [python-imaging, bzip2]
 rosconsole: [apr, log4cxx]
 roscpp: [roslang, pkg-config]
