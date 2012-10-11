@@ -11,3 +11,4 @@ ros_comm: [test_roscpp_serialization, rostest, test_roscpp_serialization_perf, r
   test_rosservice, xmlrpcpp, roslaunch, rosmsg, roswtf, rospy]
 ros_tutorials: [rospy_tutorials, roscpp_tutorials, turtlesim]
 roscpp_core: [cpp_common, roscpp_traits, rostime, roscpp_serialization]
+rx: [wxPython_swig_interface, rxbag, rxgraph, rxtools, xdot]
