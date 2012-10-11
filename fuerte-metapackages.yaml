@@ -35,6 +35,7 @@ pr2_pan_tilt: [pr2_pan_tilt]
 robot_model_py: [urdf_parser_py]
 robot_model_tutorials: [urdf_tutorial]
 robot_pose_publisher: [robot_pose_publisher]
+romeo: [romeo_description]
 ros: [rosclean, mk, rosmake, roslib, rosbash, rosboost_cfg, roscreate, rosbuild, rosunit,
   roslang]
 ros_comm: [rosservice, message_filters, topic_tools, rosparam, test_roscpp_serialization,
