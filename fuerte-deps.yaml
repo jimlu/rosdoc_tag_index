@@ -112,6 +112,9 @@ walk_msgs: [roscpp, rospy, common_rosdeps, bullet, geometry_msgs, nav_msgs, walk
   visualization_msgs, angles, boost, eigen]
 walk_tools: [rospy, geometry_msgs, sensor_msgs, message_filters, diagnostic_aggregator,
   diagnostic_updater, urdf_parser_py]
+wg_pr2_2dnav: [willow_maps, map_server, pr2_navigation_global, pr2_navigation_perception,
+  pr2_navigation_teleop, pr2_machine]
+wg_pr2_apps: [navigation, pr2_common, pr2_navigation, ros, wg_common]
 wge100_camera: [rostest, roscpp, rospy, std_msgs, sensor_msgs, diagnostic_updater,
   driver_base, self_test, dynamic_reconfigure, camera_calibration_parsers, timestamp_tools,
   image_transport]

@@ -243,6 +243,9 @@ ros-fuerte-unique-identifier:
   package: uuid_msgs}
 - {docs_url: ../../../api/unique_id/html, location: 'http://ros.org/rosdoclite/fuerte/api/unique_id/tags/unique_id.tag',
   package: unique_id}
+ros-fuerte-wg-pr2-apps:
+- {docs_url: ../../../api/wg_pr2_2dnav/html, location: 'http://ros.org/rosdoclite/fuerte/api/wg_pr2_2dnav/tags/wg_pr2_2dnav.tag',
+  package: wg_pr2_2dnav}
 ros-fuerte-wge100-driver:
 - {docs_url: ../../../api/wge100_camera/html, location: 'http://ros.org/rosdoclite/fuerte/api/wge100_camera/tags/wge100_camera.tag',
   package: wge100_camera}
