@@ -185,6 +185,9 @@ ros-fuerte-rx:
   package: rxgraph}
 - {docs_url: ../../../api/rxtools/html, location: 'http://ros.org/rosdoclite/fuerte/api/rxtools/tags/rxtools.tag',
   package: rxtools}
+ros-fuerte-srs-common:
+- {docs_url: ../../../api/srs_object_database_msgs/html, location: 'http://ros.org/rosdoclite/fuerte/api/srs_object_database_msgs/tags/srs_object_database_msgs.tag',
+  package: srs_object_database_msgs}
 ros-fuerte-std-msgs:
 - {docs_url: ../../../api/std_msgs/html, location: 'http://ros.org/rosdoclite/fuerte/api/std_msgs/tags/std_msgs.tag',
   package: std_msgs}

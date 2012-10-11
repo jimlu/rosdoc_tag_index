@@ -61,6 +61,8 @@ shape_msgs: [std_msgs, geometry_msgs]
 smach_viewer: [smach_ros, xdot, smach_msgs]
 sound_play: [rospy, roscpp, roslib, diagnostic_msgs, festival, libgstreamer0.10-dev,
   libgstreamer-plugins-base0.10-dev, python-gst, gstreamer0.10-plugins-ugly, gstreamer0.10-plugins-good]
+srs_common: [arm_navigation, common_msgs, perception_pcl, ros, ros_comm]
+srs_object_database_msgs: [pcl, visualization_msgs, sensor_msgs, arm_navigation_msgs]
 stereo_msgs: [sensor_msgs]
 test_osm: [osm_cartography, route_network, geodesy, geographic_msgs]
 test_rospy: [python-numpy]
