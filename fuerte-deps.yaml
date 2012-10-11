@@ -1,31 +1,111 @@
-actionlib: [roscpp, rospy, rostest, actionlib_msgs]
-eigen_conversions: [geometry_msgs, kdl, tf, eigen]
-geometry: [!!python/unicode 'bullet', !!python/unicode 'common_msgs', !!python/unicode 'ros',
-  !!python/unicode 'ros_comm', !!python/unicode 'orocos_kinematics_dynamics', !!python/unicode 'common_rosdeps']
-nav_msgs: [geometry_msgs]
-rosbag: [python-imaging, bzip2]
-rosconsole: [apr, log4cxx]
-roscpp: [roslang, pkg-config]
-roscpp_tutorials: [roscpp, std_srvs, std_msgs]
-roslaunch: [python-paramiko, python-yaml]
-roslib: [python, boost]
-roslisp: [roslang]
-rosparam: [python-yaml]
-rospy: [roslang]
-rosunit: [gtest]
-roswtf: [python-paramiko]
-rxbag: [rospy, roslib, std_msgs, rosbag, rosgraph, rxtools, python-gtk2, wxpython]
-rxgraph: [rosgraph, xdot, rostopic, rosnode]
-rxtools: [roscpp, rosgraph_msgs, roslib, rospy, wxPython_swig_interface, wxwidgets,
-  swig-wx, python-gtk2, python-matplotlib, wxpython]
-sensor_msgs: [geometry_msgs]
-shape_msgs: [std_msgs, geometry_msgs]
-stereo_msgs: [sensor_msgs]
-test_rospy: [python-numpy]
-tf: [bullet, geometry_msgs, sensor_msgs, roscpp, rosconsole, angles, rospy, rostest,
-  roswtf, message_filters, python-numpy, graphviz]
-tf_conversions: [tf, kdl, geometry_msgs, eigen]
-turtlesim: [libqt4-dev, qt4-qmake]
-visualization_msgs: [geometry_msgs, std_msgs]
-wxPython_swig_interface: [wxpython]
-xdot: [wxpython, graphviz]
+actionlib:
+- roscpp
+- rospy
+- rostest
+- actionlib_msgs
+eigen_conversions:
+- geometry_msgs
+- kdl
+- tf
+- eigen
+geometry:
+- bullet
+- common_msgs
+- ros
+- ros_comm
+- orocos_kinematics_dynamics
+- common_rosdeps
+nav_msgs:
+- geometry_msgs
+rosbag:
+- python-imaging
+- bzip2
+rosconsole:
+- apr
+- log4cxx
+roscpp:
+- roslang
+- pkg-config
+roscpp_tutorials:
+- roscpp
+- std_srvs
+- std_msgs
+roslaunch:
+- python-paramiko
+- python-yaml
+roslib:
+- python
+- boost
+roslisp:
+- roslang
+rosparam:
+- python-yaml
+rospy:
+- roslang
+rosunit:
+- gtest
+roswtf:
+- python-paramiko
+rxbag:
+- rospy
+- roslib
+- std_msgs
+- rosbag
+- rosgraph
+- rxtools
+- python-gtk2
+- wxpython
+rxgraph:
+- rosgraph
+- xdot
+- rostopic
+- rosnode
+rxtools:
+- roscpp
+- rosgraph_msgs
+- roslib
+- rospy
+- wxPython_swig_interface
+- wxwidgets
+- swig-wx
+- python-gtk2
+- python-matplotlib
+- wxpython
+sensor_msgs:
+- geometry_msgs
+shape_msgs:
+- std_msgs
+- geometry_msgs
+stereo_msgs:
+- sensor_msgs
+test_rospy:
+- python-numpy
+tf:
+- bullet
+- geometry_msgs
+- sensor_msgs
+- roscpp
+- rosconsole
+- angles
+- rospy
+- rostest
+- roswtf
+- message_filters
+- python-numpy
+- graphviz
+tf_conversions:
+- tf
+- kdl
+- geometry_msgs
+- eigen
+turtlesim:
+- libqt4-dev
+- qt4-qmake
+visualization_msgs:
+- geometry_msgs
+- std_msgs
+wxPython_swig_interface:
+- wxpython
+xdot:
+- wxpython
+- graphviz
