@@ -1,6 +1,11 @@
 actionlib: [roscpp, rospy, rostest, actionlib_msgs]
 ar_track_alvar: [std_msgs, rospy, roscpp, tf, image_transport, sensor_msgs, geometry_msgs,
   visualization_msgs, resource_retriever, cv_bridge, pcl_ros]
+audio_capture: [roscpp, audio_common_msgs, libgstreamer0.10-dev, libgstreamer-plugins-base0.10-dev,
+  python-gst, gstreamer0.10-plugins-ugly, gstreamer0.10-plugins-good]
+audio_common: [ros, common, common_msgs, common_rosdeps, ros_comm]
+audio_play: [roscpp, audio_common_msgs, libgstreamer0.10-dev, libgstreamer-plugins-base0.10-dev,
+  python-gst, gstreamer0.10-plugins-ugly, gstreamer0.10-plugins-good]
 bfl: [cppunit]
 clearpath_kinect: [common_msgs, perception_pcl, ros, ros_comm]
 clearpath_kinect_demo: [roscpp, pcl_ros, clearpath_tools]
@@ -26,6 +31,7 @@ libpcan: [linux-headers-generic, libpopt-dev]
 libphidgets: [libusb-dev]
 microstrain_3dmgx2_imu: [roscpp, sensor_msgs, self_test, diagnostic_updater, tf, std_srvs]
 nav_msgs: [geometry_msgs]
+nmea_gps_driver: [sensor_msgs, std_msgs, rospy, geometry_msgs, python-serial]
 openni_launch: [depth_image_proc, image_proc, nodelet, openni_camera, tf]
 robot_model_py: [ros, ros_comm]
 robot_monitor: [rospy, diagnostic_msgs, rxbag, wxwidgets, wxpython]
@@ -48,6 +54,8 @@ rxtools: [roscpp, rosgraph_msgs, roslib, rospy, wxPython_swig_interface, wxwidge
 sensor_msgs: [geometry_msgs]
 shape_msgs: [std_msgs, geometry_msgs]
 smach_viewer: [smach_ros, xdot, smach_msgs]
+sound_play: [rospy, roscpp, roslib, diagnostic_msgs, festival, libgstreamer0.10-dev,
+  libgstreamer-plugins-base0.10-dev, python-gst, gstreamer0.10-plugins-ugly, gstreamer0.10-plugins-good]
 stereo_msgs: [sensor_msgs]
 test_rospy: [python-numpy]
 tf: [bullet, geometry_msgs, sensor_msgs, roscpp, rosconsole, angles, rospy, rostest,

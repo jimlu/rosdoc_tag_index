@@ -4,6 +4,15 @@ ros-fuerte-actionlib:
 ros-fuerte-ar-track-alvar:
 - {docs_url: ../../../api/ar_track_alvar/html, location: 'http://ros.org/rosdoclite/fuerte/api/ar_track_alvar/tags/ar_track_alvar.tag',
   package: ar_track_alvar}
+ros-fuerte-audio-common:
+- {docs_url: ../../../api/audio_play/html, location: 'http://ros.org/rosdoclite/fuerte/api/audio_play/tags/audio_play.tag',
+  package: audio_play}
+- {docs_url: ../../../api/audio_common_msgs/html, location: 'http://ros.org/rosdoclite/fuerte/api/audio_common_msgs/tags/audio_common_msgs.tag',
+  package: audio_common_msgs}
+- {docs_url: ../../../api/sound_play/html, location: 'http://ros.org/rosdoclite/fuerte/api/sound_play/tags/sound_play.tag',
+  package: sound_play}
+- {docs_url: ../../../api/audio_capture/html, location: 'http://ros.org/rosdoclite/fuerte/api/audio_capture/tags/audio_capture.tag',
+  package: audio_capture}
 ros-fuerte-bfl:
 - {docs_url: ../../../api/bfl/html, location: 'http://ros.org/rosdoclite/fuerte/api/bfl/tags/bfl.tag',
   package: bfl}
@@ -83,6 +92,9 @@ ros-fuerte-kingfisher:
   package: kingfisher_bringup}
 - {docs_url: ../../../api/kingfisher_msgs/html, location: 'http://ros.org/rosdoclite/fuerte/api/kingfisher_msgs/tags/kingfisher_msgs.tag',
   package: kingfisher_msgs}
+ros-fuerte-nmea-gps-driver:
+- {docs_url: ../../../api/nmea_gps_driver/html, location: 'http://ros.org/rosdoclite/fuerte/api/nmea_gps_driver/tags/nmea_gps_driver.tag',
+  package: nmea_gps_driver}
 ros-fuerte-openni-launch:
 - {docs_url: ../../../api/openni_launch/html, location: 'http://ros.org/rosdoclite/fuerte/api/openni_launch/tags/openni_launch.tag',
   package: openni_launch}
