@@ -59,7 +59,7 @@ ros_comm: [rosservice, message_filters, topic_tools, rosparam, test_roscpp_seria
   test_roscpp, rosmaster, test_rospy, test_ros, test_rosbag, rosnode, roscpp, rosconsole,
   rosmsg, test_roscpp_serialization_perf, test_rostime, xmlrpcpp, test_roslib_comm,
   rosbag, rosout, rostest, perf_roscpp, test_crosspackage, rosgraph_msgs]
-ros_tutorials: [roscpp_tutorials, rospy_tutorials, turtlesim]
+ros_tutorials: [turtlesim, rospy_tutorials, roscpp_tutorials]
 roscpp_core: [cpp_common, roscpp_traits, rostime, roscpp_serialization]
 rosh_desktop_plugins: [rosh_visualization, rosh_desktop]
 rosh_robot_plugins: [rosh_geometry, rosh_robot, rosh_common]
