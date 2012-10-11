@@ -17,6 +17,7 @@ audio_common: [ros, common, common_msgs, common_rosdeps, ros_comm]
 audio_play: [roscpp, audio_common_msgs, libgstreamer0.10-dev, libgstreamer-plugins-base0.10-dev,
   python-gst, gstreamer0.10-plugins-ugly, gstreamer0.10-plugins-good]
 bfl: [cppunit]
+cereal_port: [roscpp]
 clearpath_kinect: [common_msgs, perception_pcl, ros, ros_comm]
 clearpath_kinect_demo: [roscpp, pcl_ros, clearpath_tools]
 clearpath_tools: [roscpp, pcl_ros, std_msgs, sensor_msgs]
@@ -60,6 +61,8 @@ openni_tracker: [geometry_msgs, kdl, roscpp, roslib, tf, openni-dev, nite-dev, p
 openrtm_cpp: [pkg-config, uuid, omniorb, python-yaml, doxygen]
 osm_cartography: [dynamic_reconfigure, geodesy, geographic_msgs, geometry_msgs, rospy,
   tf, std_msgs, visualization_msgs]
+pr2_pan_tilt: [geometry_msgs, pr2_controllers_msgs, topic_tools, actionlib, rospy,
+  tf]
 robot_model_py: [ros, ros_comm]
 robot_model_tutorials: [ros]
 robot_monitor: [rospy, diagnostic_msgs, rxbag, wxwidgets, wxpython]
@@ -91,6 +94,7 @@ rxgraph: [rosgraph, xdot, rostopic, rosnode]
 rxtools: [roscpp, rosgraph_msgs, roslib, rospy, wxPython_swig_interface, wxwidgets,
   swig-wx, python-gtk2, python-matplotlib, wxpython]
 sensor_msgs: [geometry_msgs]
+serial_communication: [ros, ros_comm]
 shape_msgs: [std_msgs, geometry_msgs]
 slam_gmapping: [common_msgs, geometry, navigation, ros, ros_comm]
 smach_viewer: [smach_ros, xdot, smach_msgs]
