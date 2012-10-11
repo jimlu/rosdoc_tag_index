@@ -26,6 +26,7 @@ bondpy: [bond, rospy, smclib]
 brown_drivers: [common_msgs, geometry, ros, ros_comm]
 camera1394: [camera_info_manager, diagnostic_updater, driver_base, dynamic_reconfigure,
   image_transport, nodelet, tf, libdc1394-dev]
+camera_drivers: [camera1394, prosilica_driver, wge100_driver]
 cereal_port: [roscpp]
 clearpath_base: [rospy, std_msgs, geometry_msgs, python-serial, pkg-config]
 clearpath_bringup: [rospy, std_msgs, daemontools]
