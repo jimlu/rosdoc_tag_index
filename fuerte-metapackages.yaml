@@ -18,5 +18,5 @@ ros_comm: [test_rosbag, rostest, topic_tools, test_roscpp, rosnode, roslisp, tes
 ros_tutorials: [roscpp_tutorials, rospy_tutorials, turtlesim]
 roscpp_core: [cpp_common, roscpp_traits, rostime, roscpp_serialization]
 rospack: [rospack]
-rx: [wxPython_swig_interface, rxbag, rxgraph, rxtools, xdot]
+rx: [wxPython_swig_interface, rxgraph, rxtools, xdot, rxbag]
 std_msgs: [std_msgs]
