@@ -1,5 +1,6 @@
 actionlib: [actionlib]
 catkin: []
+gencpp: [gencpp]
 genlisp: [genlisp]
 genmsg: [genmsg]
 genpy: [genpy]
