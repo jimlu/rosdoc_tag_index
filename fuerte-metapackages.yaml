@@ -13,8 +13,8 @@ clearpath_common: [clearpath_bringup, clearpath_base, clearpath_teleop]
 clearpath_kinect: [clearpath_kinect_demo, clearpath_tools]
 clearpath_turtlebot: [turtlebot_rndmwalk, turtlebot_train, turtlebot_kinect]
 cob_extern: [libpcan, libphidgets, libntcan, libmesasr]
-common_msgs: [stereo_msgs, actionlib_msgs, visualization_msgs, sensor_msgs, shape_msgs,
-  trajectory_msgs, diagnostic_msgs, nav_msgs, geometry_msgs]
+common_msgs: [geometry_msgs, actionlib_msgs, visualization_msgs, nav_msgs, diagnostic_msgs,
+  stereo_msgs, sensor_msgs, trajectory_msgs, shape_msgs]
 common_tutorials: [turtle_actionlib, pluginlib_tutorials, actionlib_tutorials, nodelet_tutorial_math]
 control: [control_msgs]
 diagnostics_monitors: [runtime_monitor, robot_monitor]
