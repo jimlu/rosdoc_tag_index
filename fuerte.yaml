@@ -45,6 +45,11 @@ ros-fuerte-diagnostics-monitors:
   package: runtime_monitor}
 - {docs_url: ../../../api/robot_monitor/html, location: 'http://ros.org/rosdoclite/fuerte/api/robot_monitor/tags/robot_monitor.tag',
   package: robot_monitor}
+ros-fuerte-driver-common:
+- {docs_url: ../../../api/driver_base/html, location: 'http://ros.org/rosdoclite/fuerte/api/driver_base/tags/driver_base.tag',
+  package: driver_base}
+- {docs_url: ../../../api/timestamp_tools/html, location: 'http://ros.org/rosdoclite/fuerte/api/timestamp_tools/tags/timestamp_tools.tag',
+  package: timestamp_tools}
 ros-fuerte-executive-smach-visualization:
 - {docs_url: ../../../api/smach_viewer/html, location: 'http://ros.org/rosdoclite/fuerte/api/smach_viewer/tags/smach_viewer.tag',
   package: smach_viewer}
