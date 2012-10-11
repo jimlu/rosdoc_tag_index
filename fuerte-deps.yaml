@@ -5,6 +5,7 @@ ADEPT_VIPER_S650_ikfast_arm_navigation: [kinematics_base, planning_environment, 
   ompl_ros_interface, trajectory_filter_server, constraint_aware_spline_smoother,
   move_arm]
 actionlib: [roscpp, rospy, rostest, actionlib_msgs]
+actionlib_tutorials: [roscpp, rospy, roslib, std_msgs, rosconsole, actionlib, actionlib_msgs]
 adept: [arm_navigation, common, common_msgs, control, robot_model, ros, ros_comm,
   industrial]
 adept_common: [std_msgs, roscpp, actionlib, trajectory_msgs, actionlib_msgs, control_msgs,
@@ -22,6 +23,8 @@ clearpath_kinect: [common_msgs, perception_pcl, ros, ros_comm]
 clearpath_kinect_demo: [roscpp, pcl_ros, clearpath_tools]
 clearpath_tools: [roscpp, pcl_ros, std_msgs, sensor_msgs]
 cob_extern: [ros]
+common_tutorials: [actionlib, common_msgs, geometry, nodelet_core, pluginlib, ros,
+  ros_comm, ros_tutorials]
 control: [common_msgs, ros, ros_comm]
 control_msgs: [actionlib_msgs, geometry_msgs, trajectory_msgs, rospy]
 database_interface: [roscpp, common_rosdeps, libpq-dev, yaml-cpp]
@@ -62,18 +65,22 @@ megatree_pcl: [pcl_ros, megatree_storage, megatree_cpp]
 microstrain_3dmgx2_imu: [roscpp, sensor_msgs, self_test, diagnostic_updater, tf, std_srvs]
 nav_msgs: [geometry_msgs]
 nmea_gps_driver: [sensor_msgs, std_msgs, rospy, geometry_msgs, python-serial]
+nodelet_tutorial_math: [nodelet, roscpp, std_msgs]
 open_street_map: [common_msgs, driver_common, geographic_info, geometry, ros, ros_comm]
 openni_launch: [depth_image_proc, image_proc, nodelet, openni_camera, tf]
 openni_tracker: [geometry_msgs, kdl, roscpp, roslib, tf, openni-dev, nite-dev, ps-engine]
 openrtm_cpp: [pkg-config, uuid, omniorb, python-yaml, doxygen]
 osm_cartography: [dynamic_reconfigure, geodesy, geographic_msgs, geometry_msgs, rospy,
   tf, std_msgs, visualization_msgs]
+pluginlib_tutorials: [pluginlib, roscpp]
 pr2_pan_tilt: [geometry_msgs, pr2_controllers_msgs, topic_tools, actionlib, rospy,
   tf]
+rbdl: [urdf, urdf_interface, eigen, libunittest++]
 robot_model_py: [ros, ros_comm]
 robot_model_tutorials: [ros]
 robot_monitor: [rospy, diagnostic_msgs, rxbag, wxwidgets, wxpython]
 robot_pose_publisher: [roscpp, tf, geometry_msgs]
+romeo: [ros]
 rosbag: [python-imaging, bzip2]
 rosconsole: [apr, log4cxx]
 roscpp: [roslang, pkg-config]
@@ -119,6 +126,8 @@ tf: [bullet, geometry_msgs, sensor_msgs, roscpp, rosconsole, angles, rospy, rost
 tf2_visualization: [tf2_msgs, tf2, tf2_ros, xdot, rxbag]
 tf_conversions: [tf, kdl, geometry_msgs, eigen]
 timestamp_tools: [roslib, roscpp]
+turtle_actionlib: [roscpp, std_msgs, rosconsole, actionlib, actionlib_msgs, turtlesim,
+  angles]
 turtle_tf: [roscpp, rospy, turtlesim, tf]
 turtlesim: [libqt4-dev, qt4-qmake]
 unique_id: [roscpp, rospy, rosunit, uuid_msgs]
@@ -130,6 +139,9 @@ walk_msgs: [roscpp, rospy, common_rosdeps, bullet, geometry_msgs, nav_msgs, walk
   visualization_msgs, angles, boost, eigen]
 walk_tools: [rospy, geometry_msgs, sensor_msgs, message_filters, diagnostic_aggregator,
   diagnostic_updater, urdf_parser_py]
+wg_pr2_2dnav: [willow_maps, map_server, pr2_navigation_global, pr2_navigation_perception,
+  pr2_navigation_teleop, pr2_machine]
+wg_pr2_apps: [navigation, pr2_common, pr2_navigation, ros, wg_common]
 wge100_camera: [rostest, roscpp, rospy, std_msgs, sensor_msgs, diagnostic_updater,
   driver_base, self_test, dynamic_reconfigure, camera_calibration_parsers, timestamp_tools,
   image_transport]
