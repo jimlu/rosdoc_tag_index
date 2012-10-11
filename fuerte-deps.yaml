@@ -1,5 +1,8 @@
 actionlib: [roscpp, rospy, rostest, actionlib_msgs]
 bfl: [cppunit]
+clearpath_kinect: [common_msgs, perception_pcl, ros, ros_comm]
+clearpath_kinect_demo: [roscpp, pcl_ros, clearpath_tools]
+clearpath_tools: [roscpp, pcl_ros, std_msgs, sensor_msgs]
 diagnostics_monitors: [common_msgs, ros, ros_comm, rx]
 eigen_conversions: [geometry_msgs, kdl, tf, eigen]
 geometry: [bullet, common_msgs, ros, ros_comm, orocos_kinematics_dynamics, common_rosdeps]

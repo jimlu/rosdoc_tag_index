@@ -4,6 +4,11 @@ ros-fuerte-actionlib:
 ros-fuerte-bfl:
 - {docs_url: ../../../api/bfl/html, location: 'http://ros.org/rosdoclite/fuerte/api/bfl/tags/bfl.tag',
   package: bfl}
+ros-fuerte-clearpath-kinect:
+- {docs_url: ../../../api/clearpath_kinect_demo/html, location: 'http://ros.org/rosdoclite/fuerte/api/clearpath_kinect_demo/tags/clearpath_kinect_demo.tag',
+  package: clearpath_kinect_demo}
+- {docs_url: ../../../api/clearpath_tools/html, location: 'http://ros.org/rosdoclite/fuerte/api/clearpath_tools/tags/clearpath_tools.tag',
+  package: clearpath_tools}
 ros-fuerte-common-msgs:
 - {docs_url: ../../../api/stereo_msgs/html, location: 'http://ros.org/rosdoclite/fuerte/api/stereo_msgs/tags/stereo_msgs.tag',
   package: stereo_msgs}
