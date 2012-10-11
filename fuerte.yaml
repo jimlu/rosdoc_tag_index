@@ -90,6 +90,9 @@ ros-fuerte-geometry:
 ros-fuerte-geometry-tutorials:
 - {docs_url: ../../../api/turtle_tf/html, location: 'http://ros.org/rosdoclite/fuerte/api/turtle_tf/tags/turtle_tf.tag',
   package: turtle_tf}
+ros-fuerte-geometry-visualization:
+- {docs_url: ../../../api/tf2_visualization/html, location: 'http://ros.org/rosdoclite/fuerte/api/tf2_visualization/tags/tf2_visualization.tag',
+  package: tf2_visualization}
 ros-fuerte-gps-umd:
 - {docs_url: ../../../api/gpsd_client/html, location: 'http://ros.org/rosdoclite/fuerte/api/gpsd_client/tags/gpsd_client.tag',
   package: gpsd_client}
@@ -129,6 +132,9 @@ ros-fuerte-openni-launch:
 ros-fuerte-openni-tracker:
 - {docs_url: ../../../api/openni_tracker/html, location: 'http://ros.org/rosdoclite/fuerte/api/openni_tracker/tags/openni_tracker.tag',
   package: openni_tracker}
+ros-fuerte-pr2-pan-tilt:
+- {docs_url: ../../../api/pr2_pan_tilt/html, location: 'http://ros.org/rosdoclite/fuerte/api/pr2_pan_tilt/tags/pr2_pan_tilt.tag',
+  package: pr2_pan_tilt}
 ros-fuerte-robot-model-tutorials:
 - {docs_url: ../../../api/urdf_tutorial/html, location: 'http://ros.org/rosdoclite/fuerte/api/urdf_tutorial/tags/urdf_tutorial.tag',
   package: urdf_tutorial}
@@ -210,6 +216,13 @@ ros-fuerte-rosh-desktop-plugins:
   package: rosh_visualization}
 - {docs_url: ../../../api/rosh_desktop/html, location: 'http://ros.org/rosdoclite/fuerte/api/rosh_desktop/tags/rosh_desktop.tag',
   package: rosh_desktop}
+ros-fuerte-rosh-robot-plugins:
+- {docs_url: ../../../api/rosh_geometry/html, location: 'http://ros.org/rosdoclite/fuerte/api/rosh_geometry/tags/rosh_geometry.tag',
+  package: rosh_geometry}
+- {docs_url: ../../../api/rosh_robot/html, location: 'http://ros.org/rosdoclite/fuerte/api/rosh_robot/tags/rosh_robot.tag',
+  package: rosh_robot}
+- {docs_url: ../../../api/rosh_common/html, location: 'http://ros.org/rosdoclite/fuerte/api/rosh_common/tags/rosh_common.tag',
+  package: rosh_common}
 ros-fuerte-rospack:
 - {docs_url: ../../../api/rospack/html, location: 'http://ros.org/rosdoclite/fuerte/api/rospack/tags/rospack.tag',
   package: rospack}
