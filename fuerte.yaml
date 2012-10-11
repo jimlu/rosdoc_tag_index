@@ -40,6 +40,9 @@ ros-fuerte-bond-core:
 ros-fuerte-brown-drivers:
 - {docs_url: ../../../api/irobot_create_2_1/html, location: 'http://ros.org/rosdoclite/fuerte/api/irobot_create_2_1/tags/irobot_create_2_1.tag',
   package: irobot_create_2_1}
+ros-fuerte-camera1394:
+- {docs_url: ../../../api/camera1394/html, location: 'http://ros.org/rosdoclite/fuerte/api/camera1394/tags/camera1394.tag',
+  package: camera1394}
 ros-fuerte-clearpath-common:
 - {docs_url: ../../../api/clearpath_bringup/html, location: 'http://ros.org/rosdoclite/fuerte/api/clearpath_bringup/tags/clearpath_bringup.tag',
   package: clearpath_bringup}
@@ -188,6 +191,9 @@ ros-fuerte-openni-tracker:
 ros-fuerte-pr2-pan-tilt:
 - {docs_url: ../../../api/pr2_pan_tilt/html, location: 'http://ros.org/rosdoclite/fuerte/api/pr2_pan_tilt/tags/pr2_pan_tilt.tag',
   package: pr2_pan_tilt}
+ros-fuerte-pr2-tuck-arms-app:
+- {docs_url: ../../../api/pr2_tuck_arms_app/html, location: 'http://ros.org/rosdoclite/fuerte/api/pr2_tuck_arms_app/tags/pr2_tuck_arms_app.tag',
+  package: pr2_tuck_arms_app}
 ros-fuerte-robot-model-tutorials:
 - {docs_url: ../../../api/urdf_tutorial/html, location: 'http://ros.org/rosdoclite/fuerte/api/urdf_tutorial/tags/urdf_tutorial.tag',
   package: urdf_tutorial}

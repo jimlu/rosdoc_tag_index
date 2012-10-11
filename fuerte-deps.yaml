@@ -24,6 +24,8 @@ bond_core: [ros, ros_comm]
 bondcpp: [bond, roscpp, smclib, uuid]
 bondpy: [bond, rospy, smclib]
 brown_drivers: [common_msgs, geometry, ros, ros_comm]
+camera1394: [camera_info_manager, diagnostic_updater, driver_base, dynamic_reconfigure,
+  image_transport, nodelet, tf, libdc1394-dev]
 cereal_port: [roscpp]
 clearpath_base: [rospy, std_msgs, geometry_msgs, python-serial, pkg-config]
 clearpath_bringup: [rospy, std_msgs, daemontools]
@@ -89,6 +91,7 @@ osm_cartography: [dynamic_reconfigure, geodesy, geographic_msgs, geometry_msgs, 
 pluginlib_tutorials: [pluginlib, roscpp]
 pr2_pan_tilt: [geometry_msgs, pr2_controllers_msgs, topic_tools, actionlib, rospy,
   tf]
+pr2_tuck_arms_app: [rospy, trajectory_msgs, pr2_mechanism_msgs, pr2_tuck_arms_action]
 rbdl: [urdf, urdf_interface, eigen, libunittest++]
 robot_model_py: [ros, ros_comm]
 robot_model_tutorials: [ros]
