@@ -66,6 +66,9 @@ ros-fuerte-driver-common:
   package: driver_base}
 - {docs_url: ../../../api/timestamp_tools/html, location: 'http://ros.org/rosdoclite/fuerte/api/timestamp_tools/tags/timestamp_tools.tag',
   package: timestamp_tools}
+ros-fuerte-ethzasl-xsens-driver:
+- {docs_url: ../../../api/xsens_driver/html, location: 'http://ros.org/rosdoclite/fuerte/api/xsens_driver/tags/xsens_driver.tag',
+  package: xsens_driver}
 ros-fuerte-executive-smach-visualization:
 - {docs_url: ../../../api/smach_viewer/html, location: 'http://ros.org/rosdoclite/fuerte/api/smach_viewer/tags/smach_viewer.tag',
   package: smach_viewer}
