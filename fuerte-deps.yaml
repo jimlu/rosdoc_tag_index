@@ -68,10 +68,12 @@ osm_cartography: [dynamic_reconfigure, geodesy, geographic_msgs, geometry_msgs, 
 pluginlib_tutorials: [pluginlib, roscpp]
 pr2_pan_tilt: [geometry_msgs, pr2_controllers_msgs, topic_tools, actionlib, rospy,
   tf]
+rbdl: [urdf, urdf_interface, eigen, libunittest++]
 robot_model_py: [ros, ros_comm]
 robot_model_tutorials: [ros]
 robot_monitor: [rospy, diagnostic_msgs, rxbag, wxwidgets, wxpython]
 robot_pose_publisher: [roscpp, tf, geometry_msgs]
+romeo: [ros]
 rosbag: [python-imaging, bzip2]
 rosconsole: [apr, log4cxx]
 roscpp: [roslang, pkg-config]
@@ -130,6 +132,9 @@ walk_msgs: [roscpp, rospy, common_rosdeps, bullet, geometry_msgs, nav_msgs, walk
   visualization_msgs, angles, boost, eigen]
 walk_tools: [rospy, geometry_msgs, sensor_msgs, message_filters, diagnostic_aggregator,
   diagnostic_updater, urdf_parser_py]
+wg_pr2_2dnav: [willow_maps, map_server, pr2_navigation_global, pr2_navigation_perception,
+  pr2_navigation_teleop, pr2_machine]
+wg_pr2_apps: [navigation, pr2_common, pr2_navigation, ros, wg_common]
 wge100_camera: [rostest, roscpp, rospy, std_msgs, sensor_msgs, diagnostic_updater,
   driver_base, self_test, dynamic_reconfigure, camera_calibration_parsers, timestamp_tools,
   image_transport]
