@@ -1,5 +1,7 @@
 actionlib: [roscpp, rospy, rostest, actionlib_msgs]
 eigen_conversions: [geometry_msgs, kdl, tf, eigen]
+geometry: [!!python/unicode 'bullet', !!python/unicode 'common_msgs', !!python/unicode 'ros',
+  !!python/unicode 'ros_comm', !!python/unicode 'orocos_kinematics_dynamics', !!python/unicode 'common_rosdeps']
 nav_msgs: [geometry_msgs]
 rosbag: [python-imaging, bzip2]
 rosconsole: [apr, log4cxx]
