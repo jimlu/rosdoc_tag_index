@@ -41,6 +41,7 @@ kingfisher_bringup: [kingfisher_msgs, rosserial_python, app_manager, camera1394,
 kingfisher_node: [rospy, rosserial_python, kingfisher_msgs, std_msgs]
 libpcan: [linux-headers-generic, libpopt-dev]
 libphidgets: [libusb-dev]
+megatree_pcl: [pcl_ros, megatree_storage, megatree_cpp]
 microstrain_3dmgx2_imu: [roscpp, sensor_msgs, self_test, diagnostic_updater, tf, std_srvs]
 nav_msgs: [geometry_msgs]
 nmea_gps_driver: [sensor_msgs, std_msgs, rospy, geometry_msgs, python-serial]
