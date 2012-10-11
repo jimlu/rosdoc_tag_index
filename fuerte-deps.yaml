@@ -20,6 +20,7 @@ kingfisher_bringup: [kingfisher_msgs, rosserial_python, app_manager, camera1394,
 kingfisher_node: [rospy, rosserial_python, kingfisher_msgs, std_msgs]
 microstrain_3dmgx2_imu: [roscpp, sensor_msgs, self_test, diagnostic_updater, tf, std_srvs]
 nav_msgs: [geometry_msgs]
+openni_launch: [depth_image_proc, image_proc, nodelet, openni_camera, tf]
 robot_model_py: [ros, ros_comm]
 robot_monitor: [rospy, diagnostic_msgs, rxbag, wxwidgets, wxpython]
 rosbag: [python-imaging, bzip2]

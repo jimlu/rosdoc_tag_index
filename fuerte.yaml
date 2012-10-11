@@ -66,6 +66,9 @@ ros-fuerte-kingfisher:
   package: kingfisher_bringup}
 - {docs_url: ../../../api/kingfisher_msgs/html, location: 'http://ros.org/rosdoclite/fuerte/api/kingfisher_msgs/tags/kingfisher_msgs.tag',
   package: kingfisher_msgs}
+ros-fuerte-openni-launch:
+- {docs_url: ../../../api/openni_launch/html, location: 'http://ros.org/rosdoclite/fuerte/api/openni_launch/tags/openni_launch.tag',
+  package: openni_launch}
 ros-fuerte-ros:
 - {docs_url: ../../../api/rosclean/html, location: 'http://ros.org/rosdoclite/fuerte/api/rosclean/tags/rosclean.tag',
   package: rosclean}
