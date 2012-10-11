@@ -33,18 +33,18 @@ ros-fuerte-geometry:
 - {docs_url: ../../../api/eigen_conversions/html, location: 'http://ros.org/rosdoclite/fuerte/api/eigen_conversions/tags/eigen_conversions.tag',
   package: eigen_conversions}
 ros-fuerte-ros:
+- {docs_url: ../../../api/roslib/html, location: 'http://ros.org/rosdoclite/fuerte/api/roslib/tags/roslib.tag',
+  package: roslib}
+- {docs_url: ../../../api/roslang/html, location: 'http://ros.org/rosdoclite/fuerte/api/roslang/tags/roslang.tag',
+  package: roslang}
+- {docs_url: ../../../api/roscreate/html, location: 'http://ros.org/rosdoclite/fuerte/api/roscreate/tags/roscreate.tag',
+  package: roscreate}
+- {docs_url: ../../../api/rosclean/html, location: 'http://ros.org/rosdoclite/fuerte/api/rosclean/tags/rosclean.tag',
+  package: rosclean}
 - {docs_url: ../../../api/rosbash/html, location: 'http://ros.org/rosdoclite/fuerte/api/rosbash/tags/rosbash.tag',
   package: rosbash}
 - {docs_url: ../../../api/rosboost_cfg/html, location: 'http://ros.org/rosdoclite/fuerte/api/rosboost_cfg/tags/rosboost_cfg.tag',
   package: rosboost_cfg}
-- {docs_url: ../../../api/roscreate/html, location: 'http://ros.org/rosdoclite/fuerte/api/roscreate/tags/roscreate.tag',
-  package: roscreate}
-- {docs_url: ../../../api/roslang/html, location: 'http://ros.org/rosdoclite/fuerte/api/roslang/tags/roslang.tag',
-  package: roslang}
-- {docs_url: ../../../api/rosclean/html, location: 'http://ros.org/rosdoclite/fuerte/api/rosclean/tags/rosclean.tag',
-  package: rosclean}
-- {docs_url: ../../../api/roslib/html, location: 'http://ros.org/rosdoclite/fuerte/api/roslib/tags/roslib.tag',
-  package: roslib}
 ros-fuerte-ros-comm:
 - {docs_url: ../../../api/test_rosbag/html, location: 'http://ros.org/rosdoclite/fuerte/api/test_rosbag/tags/test_rosbag.tag',
   package: test_rosbag}
