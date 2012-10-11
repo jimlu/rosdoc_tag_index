@@ -195,6 +195,13 @@ ros-fuerte-rosh-desktop-plugins:
   package: rosh_visualization}
 - {docs_url: ../../../api/rosh_desktop/html, location: 'http://ros.org/rosdoclite/fuerte/api/rosh_desktop/tags/rosh_desktop.tag',
   package: rosh_desktop}
+ros-fuerte-rosh-robot-plugins:
+- {docs_url: ../../../api/rosh_geometry/html, location: 'http://ros.org/rosdoclite/fuerte/api/rosh_geometry/tags/rosh_geometry.tag',
+  package: rosh_geometry}
+- {docs_url: ../../../api/rosh_robot/html, location: 'http://ros.org/rosdoclite/fuerte/api/rosh_robot/tags/rosh_robot.tag',
+  package: rosh_robot}
+- {docs_url: ../../../api/rosh_common/html, location: 'http://ros.org/rosdoclite/fuerte/api/rosh_common/tags/rosh_common.tag',
+  package: rosh_common}
 ros-fuerte-rospack:
 - {docs_url: ../../../api/rospack/html, location: 'http://ros.org/rosdoclite/fuerte/api/rospack/tags/rospack.tag',
   package: rospack}

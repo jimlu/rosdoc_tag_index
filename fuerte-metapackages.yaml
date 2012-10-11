@@ -40,6 +40,7 @@ ros_comm: [rosservice, message_filters, topic_tools, rosparam, test_roscpp_seria
 ros_tutorials: [roscpp_tutorials, rospy_tutorials, turtlesim]
 roscpp_core: [cpp_common, roscpp_traits, rostime, roscpp_serialization]
 rosh_desktop_plugins: [rosh_visualization, rosh_desktop]
+rosh_robot_plugins: [rosh_geometry, rosh_robot, rosh_common]
 rospack: [rospack]
 rx: [xdot, wxPython_swig_interface, rxbag, rxgraph, rxtools]
 slam_gmapping: [gmapping]
