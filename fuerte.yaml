@@ -1,6 +1,13 @@
 ros-fuerte-actionlib:
 - {docs_url: ../../../api/actionlib/html, location: 'http://ros.org/rosdoclite/fuerte/api/actionlib/tags/actionlib.tag',
   package: actionlib}
+ros-fuerte-adept:
+- {docs_url: ../../../api/ADEPT_VIPER_S650_ikfast_arm_navigation/html, location: 'http://ros.org/rosdoclite/fuerte/api/ADEPT_VIPER_S650_ikfast_arm_navigation/tags/ADEPT_VIPER_S650_ikfast_arm_navigation.tag',
+  package: ADEPT_VIPER_S650_ikfast_arm_navigation}
+- {docs_url: ../../../api/adept_common/html, location: 'http://ros.org/rosdoclite/fuerte/api/adept_common/tags/adept_common.tag',
+  package: adept_common}
+- {docs_url: ../../../api/ADEPT_VIPER_S650_arm_navigation/html, location: 'http://ros.org/rosdoclite/fuerte/api/ADEPT_VIPER_S650_arm_navigation/tags/ADEPT_VIPER_S650_arm_navigation.tag',
+  package: ADEPT_VIPER_S650_arm_navigation}
 ros-fuerte-ar-track-alvar:
 - {docs_url: ../../../api/ar_track_alvar/html, location: 'http://ros.org/rosdoclite/fuerte/api/ar_track_alvar/tags/ar_track_alvar.tag',
   package: ar_track_alvar}
@@ -101,6 +108,9 @@ ros-fuerte-open-street-map:
 ros-fuerte-openni-launch:
 - {docs_url: ../../../api/openni_launch/html, location: 'http://ros.org/rosdoclite/fuerte/api/openni_launch/tags/openni_launch.tag',
   package: openni_launch}
+ros-fuerte-robot-pose-publisher:
+- {docs_url: ../../../api/robot_pose_publisher/html, location: 'http://ros.org/rosdoclite/fuerte/api/robot_pose_publisher/tags/robot_pose_publisher.tag',
+  package: robot_pose_publisher}
 ros-fuerte-ros:
 - {docs_url: ../../../api/rosclean/html, location: 'http://ros.org/rosdoclite/fuerte/api/rosclean/tags/rosclean.tag',
   package: rosclean}
