@@ -1,4 +1,6 @@
 actionlib: [roscpp, rospy, rostest, actionlib_msgs]
+ar_track_alvar: [std_msgs, rospy, roscpp, tf, image_transport, sensor_msgs, geometry_msgs,
+  visualization_msgs, resource_retriever, cv_bridge, pcl_ros]
 bfl: [cppunit]
 diagnostics_monitors: [common_msgs, ros, ros_comm, rx]
 eigen_conversions: [geometry_msgs, kdl, tf, eigen]

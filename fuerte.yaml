@@ -1,6 +1,9 @@
 ros-fuerte-actionlib:
 - {docs_url: ../../../api/actionlib/html, location: 'http://ros.org/rosdoclite/fuerte/api/actionlib/tags/actionlib.tag',
   package: actionlib}
+ros-fuerte-ar-track-alvar:
+- {docs_url: ../../../api/ar_track_alvar/html, location: 'http://ros.org/rosdoclite/fuerte/api/ar_track_alvar/tags/ar_track_alvar.tag',
+  package: ar_track_alvar}
 ros-fuerte-bfl:
 - {docs_url: ../../../api/bfl/html, location: 'http://ros.org/rosdoclite/fuerte/api/bfl/tags/bfl.tag',
   package: bfl}
