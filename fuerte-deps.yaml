@@ -207,6 +207,8 @@ serial_communication: [ros, ros_comm]
 settlerlib: [roscpp, calibration_msgs]
 shape_msgs: [std_msgs, geometry_msgs]
 simple_navigation_goals_tutorial: [move_base_msgs, actionlib, roscpp, tf]
+simple_object_capture: [pcl, roscpp, sensor_msgs, message_filters, dynamic_reconfigure,
+  opencv2, cv_bridge, rosbag, image_geometry]
 slam_gmapping: [common_msgs, geometry, navigation, ros, ros_comm]
 smach_ros: [smach, rospy, rostest, rostopic, actionlib, actionlib_msgs, smach_msgs,
   std_msgs, std_srvs]
