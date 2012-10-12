@@ -56,6 +56,14 @@ genlisp: {genlisp: /home/rosbuild/hudson/workspace/doc-fuerte-genlisp-precise-am
 genmsg: {genmsg: /home/rosbuild/hudson/workspace/doc-fuerte-genmsg-precise-amd64/doc_stacks/2012-10-12_23-29-58.753091/genmsg}
 genpy: {genpy: /home/rosbuild/hudson/workspace/doc-fuerte-genpy-precise-amd64/doc_stacks/2012-10-12_23-39-44.470791/genpy}
 geometry: [angles, tf_conversions, tf, eigen_conversions]
+geometry_experimental: {test_tf2: /home/rosbuild/hudson/workspace/doc-fuerte-geometry_experimental-precise-amd64/doc_stacks/2012-10-12_23-42-17.041537/geometry_experimental/test_tf2,
+  tf2: /home/rosbuild/hudson/workspace/doc-fuerte-geometry_experimental-precise-amd64/doc_stacks/2012-10-12_23-42-17.041537/geometry_experimental/tf2,
+  tf2_bullet: /home/rosbuild/hudson/workspace/doc-fuerte-geometry_experimental-precise-amd64/doc_stacks/2012-10-12_23-42-17.041537/geometry_experimental/tf2_bullet,
+  tf2_geometry_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-geometry_experimental-precise-amd64/doc_stacks/2012-10-12_23-42-17.041537/geometry_experimental/tf2_geometry_msgs,
+  tf2_kdl: /home/rosbuild/hudson/workspace/doc-fuerte-geometry_experimental-precise-amd64/doc_stacks/2012-10-12_23-42-17.041537/geometry_experimental/tf2_kdl,
+  tf2_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-geometry_experimental-precise-amd64/doc_stacks/2012-10-12_23-42-17.041537/geometry_experimental/tf2_msgs,
+  tf2_ros: /home/rosbuild/hudson/workspace/doc-fuerte-geometry_experimental-precise-amd64/doc_stacks/2012-10-12_23-42-17.041537/geometry_experimental/tf2_ros,
+  tf2_tools: /home/rosbuild/hudson/workspace/doc-fuerte-geometry_experimental-precise-amd64/doc_stacks/2012-10-12_23-42-17.041537/geometry_experimental/tf2_tools}
 geometry_tutorials: {turtle_tf: /home/rosbuild/hudson/workspace/doc-fuerte-geometry_tutorials-precise-amd64/doc_stacks/2012-10-12_23-27-25.809885/geometry_tutorials/turtle_tf}
 geometry_visualization: {tf2_visualization: /home/rosbuild/hudson/workspace/doc-fuerte-geometry_visualization-precise-amd64/doc_stacks/2012-10-12_23-38-34.232146/geometry_visualization/tf2_visualization}
 gps_drivers: []
@@ -66,6 +74,15 @@ kingfisher: [kingfisher_node, kingfisher_bringup, kingfisher_msgs]
 langs: {}
 laser_pipeline: [laser_geometry, laser_filters, laser_assembler]
 megatree_pcl: [megatree_pcl]
+multi_robot_collision_avoidance: {collvoid_controller: /home/rosbuild/hudson/workspace/doc-fuerte-multi_robot_collision_avoidance-precise-amd64/doc_stacks/2012-10-12_23-41-35.282928/multi_robot_collision_avoidance/collvoid_controller,
+  collvoid_local_planner: /home/rosbuild/hudson/workspace/doc-fuerte-multi_robot_collision_avoidance-precise-amd64/doc_stacks/2012-10-12_23-41-35.282928/multi_robot_collision_avoidance/collvoid_local_planner,
+  collvoid_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-multi_robot_collision_avoidance-precise-amd64/doc_stacks/2012-10-12_23-41-35.282928/multi_robot_collision_avoidance/collvoid_msgs,
+  collvoid_pr2: /home/rosbuild/hudson/workspace/doc-fuerte-multi_robot_collision_avoidance-precise-amd64/doc_stacks/2012-10-12_23-41-35.282928/multi_robot_collision_avoidance/collvoid_pr2,
+  collvoid_simple_global_planner: /home/rosbuild/hudson/workspace/doc-fuerte-multi_robot_collision_avoidance-precise-amd64/doc_stacks/2012-10-12_23-41-35.282928/multi_robot_collision_avoidance/collvoid_simple_global_planner,
+  collvoid_stage: /home/rosbuild/hudson/workspace/doc-fuerte-multi_robot_collision_avoidance-precise-amd64/doc_stacks/2012-10-12_23-41-35.282928/multi_robot_collision_avoidance/collvoid_stage,
+  collvoid_turtlebot: /home/rosbuild/hudson/workspace/doc-fuerte-multi_robot_collision_avoidance-precise-amd64/doc_stacks/2012-10-12_23-41-35.282928/multi_robot_collision_avoidance/collvoid_turtlebot,
+  pacman_controller: /home/rosbuild/hudson/workspace/doc-fuerte-multi_robot_collision_avoidance-precise-amd64/doc_stacks/2012-10-12_23-41-35.282928/multi_robot_collision_avoidance/pacman_controller,
+  pacman_turtles: /home/rosbuild/hudson/workspace/doc-fuerte-multi_robot_collision_avoidance-precise-amd64/doc_stacks/2012-10-12_23-41-35.282928/multi_robot_collision_avoidance/pacman_turtles}
 multimaster_experimental: {app_manager: /home/rosbuild/hudson/workspace/doc-fuerte-multimaster_experimental-precise-amd64/doc_stacks/2012-10-12_23-34-27.726567/multimaster_experimental/app_manager,
   app_manager_android: /home/rosbuild/hudson/workspace/doc-fuerte-multimaster_experimental-precise-amd64/doc_stacks/2012-10-12_23-34-27.726567/multimaster_experimental/app_manager_android,
   app_manager_tutorial: /home/rosbuild/hudson/workspace/doc-fuerte-multimaster_experimental-precise-amd64/doc_stacks/2012-10-12_23-34-27.726567/multimaster_experimental/app_manager_tutorial,
@@ -109,6 +126,10 @@ pr2_pan_tilt: [pr2_pan_tilt]
 pr2_tabletop_manipulation_apps: []
 pr2_tuck_arms_app: [pr2_tuck_arms_app]
 rbdl: [rbdl]
+rcommander_core: {nodebox_qt: /home/rosbuild/hudson/workspace/doc-fuerte-rcommander_core-precise-amd64/doc_stacks/2012-10-12_23-39-58.476842/rcommander_core/nodebox_qt,
+  rcommander: /home/rosbuild/hudson/workspace/doc-fuerte-rcommander_core-precise-amd64/doc_stacks/2012-10-12_23-39-58.476842/rcommander_core/rcommander,
+  rcommander_plain: /home/rosbuild/hudson/workspace/doc-fuerte-rcommander_core-precise-amd64/doc_stacks/2012-10-12_23-39-58.476842/rcommander_core/rcommander_plain,
+  tf_broadcast_server: /home/rosbuild/hudson/workspace/doc-fuerte-rcommander_core-precise-amd64/doc_stacks/2012-10-12_23-39-58.476842/rcommander_core/tf_broadcast_server}
 robot_model_py: [urdf_parser_py]
 robot_model_tutorials: {urdf_tutorial: /home/rosbuild/hudson/workspace/doc-fuerte-robot_model_tutorials-precise-amd64/doc_stacks/2012-10-12_23-30-53.124776/robot_model_tutorials/urdf_tutorial}
 robot_model_visualization: {joint_state_publisher: /home/rosbuild/hudson/workspace/doc-fuerte-robot_model_visualization-precise-amd64/doc_stacks/2012-10-12_23-39-30.210882/robot_model_visualization/joint_state_publisher}

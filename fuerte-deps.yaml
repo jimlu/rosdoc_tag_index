@@ -57,6 +57,13 @@ clearpath_teleop: [rospy, sensor_msgs, geometry_msgs, std_msgs]
 clearpath_tools: [roscpp, pcl_ros, std_msgs, sensor_msgs]
 clearpath_turtlebot: [clearpath_kinect, openni_kinect, ros, turtlebot]
 cob_extern: [ros]
+collvoid_controller: [rospy, std_msgs, tf, geometry_msgs, std_srvs, collvoid_local_planner]
+collvoid_local_planner: [roscpp, collvoid_msgs, visualization_msgs, tf, angles, base_local_planner,
+  pluginlib, nav_core, actionlib, move_base_msgs, std_srvs, dynamic_reconfigure]
+collvoid_msgs: [geometry_msgs, nav_msgs]
+collvoid_simple_global_planner: [roscpp, pluginlib, nav_core, costmap_2d, base_local_planner,
+  tf, angles]
+collvoid_stage: [stage, collvoid_local_planner]
 common: [actionlib, pluginlib, ros, ros_comm]
 common_rosdeps: [ros]
 common_tutorials: [actionlib, common_msgs, geometry, nodelet_core, pluginlib, ros,
@@ -82,6 +89,7 @@ fake_localization: [roscpp, rosconsole, nav_msgs, geometry_msgs, tf, message_fil
 filters: [rosconsole, roscpp, pluginlib]
 foreign_relay: [roscpp, xmlrpcpp, topic_tools]
 geometry: [bullet, common_msgs, ros, ros_comm, orocos_kinematics_dynamics, common_rosdeps]
+geometry_experimental: [common, common_msgs, geometry, ros, ros_comm]
 geometry_tutorials: [geometry, ros, ros_comm, ros_tutorials]
 geometry_visualization: [geometry_experimental, ros, ros_comm, rx]
 gmapping: [roscpp, rosbag, rosconsole, std_msgs, nav_msgs, std_msgs, tf, message_filters,
@@ -131,6 +139,8 @@ move_base: [roscpp, rosconsole, std_msgs, move_base_msgs, geometry_msgs, visuali
 move_base_msgs: [roslib, std_msgs, actionlib_msgs, geometry_msgs]
 move_slow_and_clear: [roscpp, nav_core, costmap_2d, geometry_msgs, pluginlib, dynamic_reconfigure,
   common_rosdeps, eigen]
+multi_robot_collision_avoidance: [common, common_msgs, driver_common, geometry, navigation,
+  pluginlib, ros, ros_comm, stage]
 multimaster_experimental: [ros, ros_comm]
 nav_core: [std_msgs, geometry_msgs, costmap_2d, tf]
 nav_msgs: [geometry_msgs]
@@ -157,6 +167,8 @@ openni_tracker: [geometry_msgs, kdl, roscpp, roslib, tf, openni-dev, nite-dev, p
 openrtm_cpp: [pkg-config, uuid, omniorb, python-yaml, doxygen]
 osm_cartography: [dynamic_reconfigure, geodesy, geographic_msgs, geometry_msgs, rospy,
   tf, std_msgs, visualization_msgs]
+pacman_controller: [rospy, roscpp, std_msgs, std_srvs, visualization_msgs, geometry_msgs,
+  collvoid_msgs, collvoid_local_planner, tf, actionlib, move_base_msgs]
 pluginlib_tutorials: [pluginlib, roscpp]
 point_cloud_publisher_tutorial: [roscpp, sensor_msgs]
 pr2_make_a_map_app: [pr2_position_scripts, gmapping, tf, mongodb, topic_tools, map_store]
@@ -166,6 +178,10 @@ pr2_tabletop_manipulation_apps: [ros]
 pr2_tuck_arms_app: [rospy, trajectory_msgs, pr2_mechanism_msgs, pr2_tuck_arms_action]
 pyqrnative: [python-imaging]
 rbdl: [urdf, urdf_interface, eigen, libunittest++]
+rcommander: [rospy, nodebox_qt, smach, smach_ros, actionlib, geometry_msgs, tf, tf_broadcast_server,
+  python-qt4-gl]
+rcommander_core: [ros, ros_comm, common, common_msgs, executive_smach, geometry]
+rcommander_plain: [rospy, rcommander]
 robot_model_py: [ros, ros_comm]
 robot_model_tutorials: [ros]
 robot_model_visualization: [common_msgs, ros, ros_comm]
@@ -237,9 +253,20 @@ test_bond: [rostest, bond, bondpy, bondcpp]
 test_nodelet: [nodelet, std_msgs, rostest, pluginlib]
 test_osm: [osm_cartography, route_network, geodesy, geographic_msgs]
 test_rospy: [python-numpy]
+test_tf2: [rostest, tf, tf2, tf2_bullet, tf2_ros, tf2_geometry_msgs, tf2_kdl, tf2_msgs,
+  roscpp, roslib]
 tf: [bullet, geometry_msgs, sensor_msgs, roscpp, rosconsole, angles, rospy, rostest,
   roswtf, message_filters, python-numpy, graphviz]
+tf2: [geometry_msgs, tf2_msgs, rospy, roscpp]
+tf2_bullet: [tf2_ros, bullet, geometry_msgs]
+tf2_geometry_msgs: [geometry_msgs, tf2_ros, kdl]
+tf2_kdl: [tf2_ros, kdl, geometry_msgs]
+tf2_msgs: [geometry_msgs, actionlib_msgs]
+tf2_ros: [tf2, tf2_msgs, roscpp, rospy, geometry_msgs, actionlib, actionlib_msgs,
+  rosgraph]
+tf2_tools: [tf2_msgs, tf2, tf2_ros]
 tf2_visualization: [tf2_msgs, tf2, tf2_ros, xdot, rxbag]
+tf_broadcast_server: [tf, geometry_msgs]
 tf_conversions: [tf, kdl, geometry_msgs, eigen]
 timestamp_tools: [roslib, roscpp]
 turtle_actionlib: [roscpp, std_msgs, rosconsole, actionlib, actionlib_msgs, turtlesim,
