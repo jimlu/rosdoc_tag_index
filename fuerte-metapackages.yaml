@@ -7,7 +7,11 @@ audio_common: {audio_capture: /home/rosbuild/hudson/workspace/doc-fuerte-audio_c
   audio_play: /home/rosbuild/hudson/workspace/doc-fuerte-audio_common-precise-amd64/doc_stacks/2012-10-12_23-33-55.582070/audio_common/audio_play,
   sound_play: /home/rosbuild/hudson/workspace/doc-fuerte-audio_common-precise-amd64/doc_stacks/2012-10-12_23-33-55.582070/audio_common/sound_play}
 bfl: {bfl: /home/rosbuild/hudson/workspace/doc-fuerte-bfl-precise-amd64/doc_stacks/2012-10-12_23-29-02.269178/bfl}
-bond_core: [bondcpp, test_bond, bondpy, bond, smclib]
+bond_core: {bond: /home/rosbuild/hudson/workspace/doc-fuerte-bond_core-precise-amd64/doc_stacks/2012-10-12_23-37-11.225634/bond_core/bond,
+  bondcpp: /home/rosbuild/hudson/workspace/doc-fuerte-bond_core-precise-amd64/doc_stacks/2012-10-12_23-37-11.225634/bond_core/bondcpp,
+  bondpy: /home/rosbuild/hudson/workspace/doc-fuerte-bond_core-precise-amd64/doc_stacks/2012-10-12_23-37-11.225634/bond_core/bondpy,
+  smclib: /home/rosbuild/hudson/workspace/doc-fuerte-bond_core-precise-amd64/doc_stacks/2012-10-12_23-37-11.225634/bond_core/smclib,
+  test_bond: /home/rosbuild/hudson/workspace/doc-fuerte-bond_core-precise-amd64/doc_stacks/2012-10-12_23-37-11.225634/bond_core/test_bond}
 brown_drivers: [irobot_create_2_1]
 calibration: {calibration_estimation: /home/rosbuild/hudson/workspace/doc-fuerte-calibration-precise-amd64/doc_stacks/2012-10-12_23-28-48.812222/calibration/calibration_estimation,
   calibration_launch: /home/rosbuild/hudson/workspace/doc-fuerte-calibration-precise-amd64/doc_stacks/2012-10-12_23-28-48.812222/calibration/calibration_launch,

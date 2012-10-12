@@ -27,16 +27,16 @@ ros-fuerte-bfl:
 - {docs_url: ../../../api/bfl/html, location: 'http://ros.org/rosdoclite/fuerte/api/bfl/tags/bfl.tag',
   package: bfl}
 ros-fuerte-bond-core:
-- {docs_url: ../../../api/bondcpp/html, location: 'http://ros.org/rosdoclite/fuerte/api/bondcpp/tags/bondcpp.tag',
-  package: bondcpp}
-- {docs_url: ../../../api/test_bond/html, location: 'http://ros.org/rosdoclite/fuerte/api/test_bond/tags/test_bond.tag',
-  package: test_bond}
-- {docs_url: ../../../api/bondpy/html, location: 'http://ros.org/rosdoclite/fuerte/api/bondpy/tags/bondpy.tag',
-  package: bondpy}
 - {docs_url: ../../../api/bond/html, location: 'http://ros.org/rosdoclite/fuerte/api/bond/tags/bond.tag',
   package: bond}
 - {docs_url: ../../../api/smclib/html, location: 'http://ros.org/rosdoclite/fuerte/api/smclib/tags/smclib.tag',
   package: smclib}
+- {docs_url: ../../../api/bondcpp/html, location: 'http://ros.org/rosdoclite/fuerte/api/bondcpp/tags/bondcpp.tag',
+  package: bondcpp}
+- {docs_url: ../../../api/bondpy/html, location: 'http://ros.org/rosdoclite/fuerte/api/bondpy/tags/bondpy.tag',
+  package: bondpy}
+- {docs_url: ../../../api/test_bond/html, location: 'http://ros.org/rosdoclite/fuerte/api/test_bond/tags/test_bond.tag',
+  package: test_bond}
 ros-fuerte-brown-drivers:
 - {docs_url: ../../../api/irobot_create_2_1/html, location: 'http://ros.org/rosdoclite/fuerte/api/irobot_create_2_1/tags/irobot_create_2_1.tag',
   package: irobot_create_2_1}
