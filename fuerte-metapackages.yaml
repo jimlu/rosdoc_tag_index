@@ -29,6 +29,7 @@ clearpath_common: [clearpath_bringup, clearpath_base, clearpath_teleop]
 clearpath_kinect: [clearpath_kinect_demo, clearpath_tools]
 clearpath_turtlebot: [turtlebot_rndmwalk, turtlebot_train, turtlebot_kinect]
 cob_extern: [libpcan, libphidgets, libntcan, libmesasr]
+common: {}
 common_msgs: [geometry_msgs, actionlib_msgs, visualization_msgs, nav_msgs, diagnostic_msgs,
   stereo_msgs, sensor_msgs, trajectory_msgs, shape_msgs]
 common_rosdeps: {common_rosdeps: /home/rosbuild/hudson/workspace/doc-fuerte-common_rosdeps-precise-amd64/doc_stacks/2012-10-12_23-38-12.855136/common_rosdeps}
