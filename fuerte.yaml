@@ -288,6 +288,9 @@ ros-fuerte-pr2-tuck-arms-app:
 ros-fuerte-robot-model-tutorials:
 - {docs_url: ../../../api/urdf_tutorial/html, location: 'http://ros.org/rosdoclite/fuerte/api/urdf_tutorial/tags/urdf_tutorial.tag',
   package: urdf_tutorial}
+ros-fuerte-robot-model-visualization:
+- {docs_url: ../../../api/joint_state_publisher/html, location: 'http://ros.org/rosdoclite/fuerte/api/joint_state_publisher/tags/joint_state_publisher.tag',
+  package: joint_state_publisher}
 ros-fuerte-robot-pose-publisher:
 - {docs_url: ../../../api/robot_pose_publisher/html, location: 'http://ros.org/rosdoclite/fuerte/api/robot_pose_publisher/tags/robot_pose_publisher.tag',
   package: robot_pose_publisher}
