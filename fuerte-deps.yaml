@@ -112,6 +112,7 @@ laser_filters: [sensor_msgs, roscpp, tf, filters, message_filters, laser_geometr
 laser_geometry: [sensor_msgs, roscpp, tf, angles, common_rosdeps, eigen]
 laser_pipeline: [common_msgs, common_rosdeps, filters, geometry, perception_pcl, pluginlib,
   ros, ros_comm]
+laser_scan_publisher_tutorial: [roscpp, sensor_msgs]
 libpcan: [linux-headers-generic, libpopt-dev]
 libphidgets: [libusb-dev]
 map_server: [rosconsole, roscpp, rospy, nav_msgs, tf, common_rosdeps, python-imaging,
@@ -133,8 +134,16 @@ navfn: [rosconsole, roscpp, geometry_msgs, costmap_2d, nav_core, pluginlib, nav_
   tf, visualization_msgs, pcl_ros, common_rosdeps, eigen, fltk, netpbm]
 navigation: [actionlib, bfl, common_msgs, common_rosdeps, dynamic_reconfigure, geometry,
   laser_pipeline, perception_pcl, pluginlib, ros, ros_comm]
+navigation_stage: [move_base, stage, amcl, map_server, fake_localization, gmapping]
+navigation_tutorials: [common, common_msgs, geometry, navigation, ros, ros_comm, slam_gmapping,
+  stage]
 nmea_gps_driver: [sensor_msgs, std_msgs, rospy, geometry_msgs, python-serial]
+nodelet: [pluginlib, roscpp, rospy, bondcpp, uuid]
+nodelet_core: [bond_core, dynamic_reconfigure, pluginlib, ros, ros_comm]
+nodelet_topic_tools: [nodelet, roscpp, message_filters, dynamic_reconfigure, rospy,
+  std_msgs]
 nodelet_tutorial_math: [nodelet, roscpp, std_msgs]
+odometry_publisher_tutorial: [roscpp, nav_msgs, tf]
 open_street_map: [common_msgs, driver_common, geographic_info, geometry, ros, ros_comm]
 openni_launch: [depth_image_proc, image_proc, nodelet, openni_camera, tf]
 openni_tracker: [geometry_msgs, kdl, roscpp, roslib, tf, openni-dev, nite-dev, ps-engine]
@@ -142,6 +151,7 @@ openrtm_cpp: [pkg-config, uuid, omniorb, python-yaml, doxygen]
 osm_cartography: [dynamic_reconfigure, geodesy, geographic_msgs, geometry_msgs, rospy,
   tf, std_msgs, visualization_msgs]
 pluginlib_tutorials: [pluginlib, roscpp]
+point_cloud_publisher_tutorial: [roscpp, sensor_msgs]
 pr2_make_a_map_app: [pr2_position_scripts, gmapping, tf, mongodb, topic_tools, map_store]
 pr2_pan_tilt: [geometry_msgs, pr2_controllers_msgs, topic_tools, actionlib, rospy,
   tf]
@@ -155,6 +165,7 @@ robot_monitor: [rospy, diagnostic_msgs, rxbag, wxwidgets, wxpython]
 robot_pose_ekf: [roscpp, rosbag, bfl, std_msgs, geometry_msgs, sensor_msgs, nav_msgs,
   tf]
 robot_pose_publisher: [roscpp, tf, geometry_msgs]
+robot_setup_tf_tutorial: [roscpp, tf, geometry_msgs]
 romeo: [ros]
 rosbag: [python-imaging, bzip2]
 rosconsole: [apr, log4cxx]
@@ -193,6 +204,7 @@ sensor_msgs: [geometry_msgs]
 serial_communication: [ros, ros_comm]
 settlerlib: [roscpp, calibration_msgs]
 shape_msgs: [std_msgs, geometry_msgs]
+simple_navigation_goals_tutorial: [move_base_msgs, actionlib, roscpp, tf]
 slam_gmapping: [common_msgs, geometry, navigation, ros, ros_comm]
 smach_ros: [smach, rospy, rostest, rostopic, actionlib, actionlib_msgs, smach_msgs,
   std_msgs, std_srvs]
@@ -205,6 +217,7 @@ srs_object_database_msgs: [pcl, visualization_msgs, sensor_msgs, arm_navigation_
 stereo_msgs: [sensor_msgs]
 student_database: [database_interface]
 test_bond: [rostest, bond, bondpy, bondcpp]
+test_nodelet: [nodelet, std_msgs, rostest, pluginlib]
 test_osm: [osm_cartography, route_network, geodesy, geographic_msgs]
 test_rospy: [python-numpy]
 tf: [bullet, geometry_msgs, sensor_msgs, roscpp, rosconsole, angles, rospy, rostest,
