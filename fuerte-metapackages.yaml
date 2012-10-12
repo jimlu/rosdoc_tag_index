@@ -33,7 +33,7 @@ diagnostics_monitors: [runtime_monitor, robot_monitor]
 driver_common: [driver_base, timestamp_tools]
 ethzasl_xsens_driver: [xsens_driver]
 executive_smach: [smach, smach_ros, smach_msgs]
-executive_smach_visualization: [smach_viewer]
+executive_smach_visualization: {smach_viewer: /home/rosbuild/hudson/workspace/doc-fuerte-executive_smach_visualization-precise-amd64/doc_stacks/2012-10-12_23-35-30.831148/executive_smach_visualization/smach_viewer}
 filters: [filters]
 gencpp: [gencpp]
 genlisp: {genlisp: /home/rosbuild/hudson/workspace/doc-fuerte-genlisp-precise-amd64/doc_stacks/2012-10-12_23-28-58.559120/genlisp}
