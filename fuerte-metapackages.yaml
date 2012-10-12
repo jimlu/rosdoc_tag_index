@@ -35,7 +35,7 @@ ethzasl_xsens_driver: [xsens_driver]
 executive_smach: [smach, smach_ros, smach_msgs]
 executive_smach_visualization: [smach_viewer]
 filters: [filters]
-gencpp: [gencpp]
+gencpp: {gencpp: /home/rosbuild/hudson/workspace/doc-fuerte-gencpp-precise-amd64/doc_stacks/2012-10-12_23-37-19.120567/gencpp}
 genlisp: {genlisp: /home/rosbuild/hudson/workspace/doc-fuerte-genlisp-precise-amd64/doc_stacks/2012-10-12_23-28-58.559120/genlisp}
 genmsg: {genmsg: /home/rosbuild/hudson/workspace/doc-fuerte-genmsg-precise-amd64/doc_stacks/2012-10-12_23-29-58.753091/genmsg}
 genpy: [genpy]
