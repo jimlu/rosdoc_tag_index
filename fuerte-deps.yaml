@@ -212,5 +212,6 @@ wge100_camera_firmware: [rostest, rospy, gforth]
 wge100_driver: [common_msgs, diagnostics, driver_common, dynamic_reconfigure, image_common,
   ros, ros_comm]
 wxPython_swig_interface: [wxpython]
+xacro: [rostest, rosbuild]
 xdot: [wxpython, graphviz]
 xsens_driver: [rospy, tf, std_msgs, sensor_msgs, geometry_msgs, gps_common, diagnostic_msgs]
