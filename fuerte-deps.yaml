@@ -98,6 +98,7 @@ image_cb_detector: [calibration_msgs, roscpp, cv_bridge, actionlib, actionlib_ms
 imu_drivers: [common_msgs, diagnostics, geometry, ros, ros_comm]
 interval_intersection: [roscpp, actionlib_msgs, actionlib, calibration_msgs]
 irobot_create_2_1: [roscpp, rospy, geometry_msgs, tf, nav_msgs, python-serial]
+joint_state_publisher: [rospy, sensor_msgs, wxpython]
 joint_states_settler: [roscpp, actionlib_msgs, sensor_msgs, actionlib, settlerlib,
   calibration_msgs]
 kingfisher: [camera_drivers, image_pipeline, image_transport_plugins, multimaster_experimental,
@@ -165,6 +166,7 @@ pyqrnative: [python-imaging]
 rbdl: [urdf, urdf_interface, eigen, libunittest++]
 robot_model_py: [ros, ros_comm]
 robot_model_tutorials: [ros]
+robot_model_visualization: [common_msgs, ros, ros_comm]
 robot_monitor: [rospy, diagnostic_msgs, rxbag, wxwidgets, wxpython]
 robot_pose_ekf: [roscpp, rosbag, bfl, std_msgs, geometry_msgs, sensor_msgs, nav_msgs,
   tf]
