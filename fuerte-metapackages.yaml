@@ -103,7 +103,9 @@ ros_comm: [test_roscpp_serialization, rosservice, rosgraph_msgs, rosconsole, tes
   rosmaster, roscpp, rostest, test_ros, message_filters, test_rostime, test_rosbag,
   rostopic, topic_tools, test_roslib_comm, test_rospy, rosbag, rosparam, rosout, rosnode,
   test_rosservice, xmlrpcpp, std_srvs, rosmsg, roswtf, rospy]
-ros_tutorials: [turtlesim, rospy_tutorials, roscpp_tutorials]
+ros_tutorials: {roscpp_tutorials: /home/rosbuild/hudson/workspace/doc-fuerte-ros_tutorials-precise-amd64/doc_stacks/2012-10-12_23-36-00.197642/ros_tutorials/roscpp_tutorials,
+  rospy_tutorials: /home/rosbuild/hudson/workspace/doc-fuerte-ros_tutorials-precise-amd64/doc_stacks/2012-10-12_23-36-00.197642/ros_tutorials/rospy_tutorials,
+  turtlesim: /home/rosbuild/hudson/workspace/doc-fuerte-ros_tutorials-precise-amd64/doc_stacks/2012-10-12_23-36-00.197642/ros_tutorials/turtlesim}
 roscpp_core: [cpp_common, roscpp_traits, rostime, roscpp_serialization]
 rosh_desktop_plugins: [rosh_visualization, rosh_desktop]
 rosh_robot_plugins: [rosh_geometry, rosh_robot, rosh_common]
