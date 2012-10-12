@@ -144,6 +144,8 @@ nodelet_core: [bond_core, dynamic_reconfigure, pluginlib, ros, ros_comm]
 nodelet_topic_tools: [nodelet, roscpp, message_filters, dynamic_reconfigure, rospy,
   std_msgs]
 nodelet_tutorial_math: [nodelet, roscpp, std_msgs]
+occupancy_grid_utils: [nav_msgs, geometry_msgs, tf, sensor_msgs, roscpp, laser_geometry,
+  bullet, rospy, map_server]
 odometry_publisher_tutorial: [roscpp, nav_msgs, tf]
 open_street_map: [common_msgs, driver_common, geographic_info, geometry, ros, ros_comm]
 openni_launch: [depth_image_proc, image_proc, nodelet, openni_camera, tf]
