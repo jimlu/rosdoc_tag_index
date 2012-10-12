@@ -65,7 +65,7 @@ navigation: {amcl: /home/rosbuild/hudson/workspace/doc-fuerte-navigation-precise
   voxel_grid: /home/rosbuild/hudson/workspace/doc-fuerte-navigation-precise-amd64/doc_stacks/2012-10-12_22-13-40.862153/navigation/voxel_grid}
 nmea_gps_driver: [nmea_gps_driver]
 open_street_map: [route_network, test_osm, osm_cartography]
-openni_launch: [openni_launch]
+openni_launch: {openni_launch: /home/rosbuild/hudson/workspace/doc-fuerte-openni_launch-precise-amd64/doc_stacks/2012-10-12_23-34-12.359166/openni_launch}
 openni_tracker: [openni_tracker]
 openrtm_cpp: [openrtm_cpp]
 pr2_make_a_map_app: [pr2_make_a_map_app]
