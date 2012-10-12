@@ -7,7 +7,11 @@ audio_common: {audio_capture: /home/rosbuild/hudson/workspace/doc-fuerte-audio_c
   audio_play: /home/rosbuild/hudson/workspace/doc-fuerte-audio_common-precise-amd64/doc_stacks/2012-10-12_23-33-55.582070/audio_common/audio_play,
   sound_play: /home/rosbuild/hudson/workspace/doc-fuerte-audio_common-precise-amd64/doc_stacks/2012-10-12_23-33-55.582070/audio_common/sound_play}
 bfl: {bfl: /home/rosbuild/hudson/workspace/doc-fuerte-bfl-precise-amd64/doc_stacks/2012-10-12_23-29-02.269178/bfl}
-bond_core: [bondcpp, test_bond, bondpy, bond, smclib]
+bond_core: {bond: /home/rosbuild/hudson/workspace/doc-fuerte-bond_core-precise-amd64/doc_stacks/2012-10-12_23-37-11.225634/bond_core/bond,
+  bondcpp: /home/rosbuild/hudson/workspace/doc-fuerte-bond_core-precise-amd64/doc_stacks/2012-10-12_23-37-11.225634/bond_core/bondcpp,
+  bondpy: /home/rosbuild/hudson/workspace/doc-fuerte-bond_core-precise-amd64/doc_stacks/2012-10-12_23-37-11.225634/bond_core/bondpy,
+  smclib: /home/rosbuild/hudson/workspace/doc-fuerte-bond_core-precise-amd64/doc_stacks/2012-10-12_23-37-11.225634/bond_core/smclib,
+  test_bond: /home/rosbuild/hudson/workspace/doc-fuerte-bond_core-precise-amd64/doc_stacks/2012-10-12_23-37-11.225634/bond_core/test_bond}
 brown_drivers: [irobot_create_2_1]
 calibration: {calibration_estimation: /home/rosbuild/hudson/workspace/doc-fuerte-calibration-precise-amd64/doc_stacks/2012-10-12_23-28-48.812222/calibration/calibration_estimation,
   calibration_launch: /home/rosbuild/hudson/workspace/doc-fuerte-calibration-precise-amd64/doc_stacks/2012-10-12_23-28-48.812222/calibration/calibration_launch,
@@ -109,7 +113,10 @@ ros_comm: [test_roscpp_serialization, rosservice, rosgraph_msgs, rosconsole, tes
 ros_tutorials: {roscpp_tutorials: /home/rosbuild/hudson/workspace/doc-fuerte-ros_tutorials-precise-amd64/doc_stacks/2012-10-12_23-36-00.197642/ros_tutorials/roscpp_tutorials,
   rospy_tutorials: /home/rosbuild/hudson/workspace/doc-fuerte-ros_tutorials-precise-amd64/doc_stacks/2012-10-12_23-36-00.197642/ros_tutorials/rospy_tutorials,
   turtlesim: /home/rosbuild/hudson/workspace/doc-fuerte-ros_tutorials-precise-amd64/doc_stacks/2012-10-12_23-36-00.197642/ros_tutorials/turtlesim}
-roscpp_core: [cpp_common, roscpp_traits, rostime, roscpp_serialization]
+roscpp_core: {cpp_common: /home/rosbuild/hudson/workspace/doc-fuerte-roscpp_core-precise-amd64/doc_stacks/2012-10-12_23-37-51.581504/roscpp_core/cpp_common,
+  roscpp_serialization: /home/rosbuild/hudson/workspace/doc-fuerte-roscpp_core-precise-amd64/doc_stacks/2012-10-12_23-37-51.581504/roscpp_core/roscpp_serialization,
+  roscpp_traits: /home/rosbuild/hudson/workspace/doc-fuerte-roscpp_core-precise-amd64/doc_stacks/2012-10-12_23-37-51.581504/roscpp_core/roscpp_traits,
+  rostime: /home/rosbuild/hudson/workspace/doc-fuerte-roscpp_core-precise-amd64/doc_stacks/2012-10-12_23-37-51.581504/roscpp_core/rostime}
 rosh_desktop_plugins: [rosh_visualization, rosh_desktop]
 rosh_robot_plugins: [rosh_geometry, rosh_robot, rosh_common]
 rosjs: []
