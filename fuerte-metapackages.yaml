@@ -29,6 +29,7 @@ clearpath_common: [clearpath_bringup, clearpath_base, clearpath_teleop]
 clearpath_kinect: [clearpath_kinect_demo, clearpath_tools]
 clearpath_turtlebot: [turtlebot_rndmwalk, turtlebot_train, turtlebot_kinect]
 cob_extern: [libpcan, libphidgets, libntcan, libmesasr]
+common: {}
 common_msgs: [geometry_msgs, actionlib_msgs, visualization_msgs, nav_msgs, diagnostic_msgs,
   stereo_msgs, sensor_msgs, trajectory_msgs, shape_msgs]
 common_rosdeps: {common_rosdeps: /home/rosbuild/hudson/workspace/doc-fuerte-common_rosdeps-precise-amd64/doc_stacks/2012-10-12_23-38-12.855136/common_rosdeps}
@@ -36,6 +37,7 @@ common_tutorials: [turtle_actionlib, pluginlib_tutorials, actionlib_tutorials, n
 control: [control_msgs]
 diagnostics_monitors: [runtime_monitor, robot_monitor]
 driver_common: [driver_base, timestamp_tools]
+dynamic_reconfigure: {dynamic_reconfigure: /home/rosbuild/hudson/workspace/doc-fuerte-dynamic_reconfigure-precise-amd64/doc_stacks/2012-10-12_23-39-57.015854/dynamic_reconfigure}
 ethzasl_xsens_driver: [xsens_driver]
 executive_smach: {smach: /home/rosbuild/hudson/workspace/doc-fuerte-executive_smach-precise-amd64/doc_stacks/2012-10-12_23-37-26.767903/executive_smach/smach,
   smach_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-executive_smach-precise-amd64/doc_stacks/2012-10-12_23-37-26.767903/executive_smach/smach_msgs,
@@ -45,7 +47,7 @@ filters: [filters]
 gencpp: {gencpp: /home/rosbuild/hudson/workspace/doc-fuerte-gencpp-precise-amd64/doc_stacks/2012-10-12_23-37-19.120567/gencpp}
 genlisp: {genlisp: /home/rosbuild/hudson/workspace/doc-fuerte-genlisp-precise-amd64/doc_stacks/2012-10-12_23-28-58.559120/genlisp}
 genmsg: {genmsg: /home/rosbuild/hudson/workspace/doc-fuerte-genmsg-precise-amd64/doc_stacks/2012-10-12_23-29-58.753091/genmsg}
-genpy: [genpy]
+genpy: {genpy: /home/rosbuild/hudson/workspace/doc-fuerte-genpy-precise-amd64/doc_stacks/2012-10-12_23-39-44.470791/genpy}
 geometry: [angles, tf_conversions, tf, eigen_conversions]
 geometry_tutorials: {turtle_tf: /home/rosbuild/hudson/workspace/doc-fuerte-geometry_tutorials-precise-amd64/doc_stacks/2012-10-12_23-27-25.809885/geometry_tutorials/turtle_tf}
 geometry_visualization: {tf2_visualization: /home/rosbuild/hudson/workspace/doc-fuerte-geometry_visualization-precise-amd64/doc_stacks/2012-10-12_23-38-34.232146/geometry_visualization/tf2_visualization}
@@ -54,7 +56,7 @@ gps_umd: [gpsd_client, gps_common]
 humanoid_walk: [walk_msgs, halfsteps_pattern_generator, walk_tools, walk_interfaces]
 imu_drivers: [microstrain_3dmgx2_imu]
 kingfisher: [kingfisher_node, kingfisher_bringup, kingfisher_msgs]
-langs: []
+langs: {}
 laser_pipeline: [laser_geometry, laser_filters, laser_assembler]
 megatree_pcl: [megatree_pcl]
 multimaster_experimental: {app_manager: /home/rosbuild/hudson/workspace/doc-fuerte-multimaster_experimental-precise-amd64/doc_stacks/2012-10-12_23-34-27.726567/multimaster_experimental/app_manager,
@@ -90,6 +92,7 @@ nmea_gps_driver: [nmea_gps_driver]
 nodelet_core: {nodelet: /home/rosbuild/hudson/workspace/doc-fuerte-nodelet_core-precise-amd64/doc_stacks/2012-10-12_23-31-52.217550/nodelet_core/nodelet,
   nodelet_topic_tools: /home/rosbuild/hudson/workspace/doc-fuerte-nodelet_core-precise-amd64/doc_stacks/2012-10-12_23-31-52.217550/nodelet_core/nodelet_topic_tools,
   test_nodelet: /home/rosbuild/hudson/workspace/doc-fuerte-nodelet_core-precise-amd64/doc_stacks/2012-10-12_23-31-52.217550/nodelet_core/test_nodelet}
+occupancy_grid_utils: {occupancy_grid_utils: /home/rosbuild/hudson/workspace/doc-fuerte-occupancy_grid_utils-precise-amd64/doc_stacks/2012-10-12_23-38-34.792681/occupancy_grid_utils}
 open_street_map: [route_network, test_osm, osm_cartography]
 openni_launch: {openni_launch: /home/rosbuild/hudson/workspace/doc-fuerte-openni_launch-precise-amd64/doc_stacks/2012-10-12_23-34-12.359166/openni_launch}
 openni_tracker: [openni_tracker]
@@ -101,6 +104,7 @@ pr2_tuck_arms_app: [pr2_tuck_arms_app]
 rbdl: [rbdl]
 robot_model_py: [urdf_parser_py]
 robot_model_tutorials: {urdf_tutorial: /home/rosbuild/hudson/workspace/doc-fuerte-robot_model_tutorials-precise-amd64/doc_stacks/2012-10-12_23-30-53.124776/robot_model_tutorials/urdf_tutorial}
+robot_model_visualization: {joint_state_publisher: /home/rosbuild/hudson/workspace/doc-fuerte-robot_model_visualization-precise-amd64/doc_stacks/2012-10-12_23-39-30.210882/robot_model_visualization/joint_state_publisher}
 robot_pose_publisher: [robot_pose_publisher]
 romeo: [romeo_description]
 ros: [rosboost_cfg, rosbuild, roslib, mk, rosunit, roslang, rosbash, rosclean, rosmake,

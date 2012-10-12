@@ -57,6 +57,7 @@ clearpath_teleop: [rospy, sensor_msgs, geometry_msgs, std_msgs]
 clearpath_tools: [roscpp, pcl_ros, std_msgs, sensor_msgs]
 clearpath_turtlebot: [clearpath_kinect, openni_kinect, ros, turtlebot]
 cob_extern: [ros]
+common: [actionlib, pluginlib, ros, ros_comm]
 common_rosdeps: [ros]
 common_tutorials: [actionlib, common_msgs, geometry, nodelet_core, pluginlib, ros,
   ros_comm, ros_tutorials]
@@ -71,6 +72,7 @@ driver_base: [roscpp, self_test, diagnostic_updater, dynamic_reconfigure]
 driver_common: [diagnostics, ros, dynamic_reconfigure]
 dwa_local_planner: [roscpp, tf, costmap_2d, roslib, nav_core, nav_msgs, base_local_planner,
   angles, dynamic_reconfigure, common_rosdeps, eigen]
+dynamic_reconfigure: [rospy, roscpp, rosservice, wxpython]
 eigen_conversions: [geometry_msgs, kdl, tf, eigen]
 ethzasl_xsens_driver: [common_msgs, geometry, gps_umd, ros, ros_comm]
 executive_smach: [actionlib, common_msgs, ros, ros_comm]
@@ -97,6 +99,7 @@ image_cb_detector: [calibration_msgs, roscpp, cv_bridge, actionlib, actionlib_ms
 imu_drivers: [common_msgs, diagnostics, geometry, ros, ros_comm]
 interval_intersection: [roscpp, actionlib_msgs, actionlib, calibration_msgs]
 irobot_create_2_1: [roscpp, rospy, geometry_msgs, tf, nav_msgs, python-serial]
+joint_state_publisher: [rospy, sensor_msgs, wxpython]
 joint_states_settler: [roscpp, actionlib_msgs, sensor_msgs, actionlib, settlerlib,
   calibration_msgs]
 kingfisher: [camera_drivers, image_pipeline, image_transport_plugins, multimaster_experimental,
@@ -144,6 +147,8 @@ nodelet_core: [bond_core, dynamic_reconfigure, pluginlib, ros, ros_comm]
 nodelet_topic_tools: [nodelet, roscpp, message_filters, dynamic_reconfigure, rospy,
   std_msgs]
 nodelet_tutorial_math: [nodelet, roscpp, std_msgs]
+occupancy_grid_utils: [nav_msgs, geometry_msgs, tf, sensor_msgs, roscpp, laser_geometry,
+  bullet, rospy, map_server]
 odometry_publisher_tutorial: [roscpp, nav_msgs, tf]
 open_street_map: [common_msgs, driver_common, geographic_info, geometry, ros, ros_comm]
 openni_launch: [depth_image_proc, image_proc, nodelet, openni_camera, tf]
@@ -162,6 +167,7 @@ pyqrnative: [python-imaging]
 rbdl: [urdf, urdf_interface, eigen, libunittest++]
 robot_model_py: [ros, ros_comm]
 robot_model_tutorials: [ros]
+robot_model_visualization: [common_msgs, ros, ros_comm]
 robot_monitor: [rospy, diagnostic_msgs, rxbag, wxwidgets, wxpython]
 robot_pose_ekf: [roscpp, rosbag, bfl, std_msgs, geometry_msgs, sensor_msgs, nav_msgs,
   tf]
