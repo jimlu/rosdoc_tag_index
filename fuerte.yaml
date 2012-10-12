@@ -195,6 +195,19 @@ ros-fuerte-laser-pipeline:
 ros-fuerte-megatree-pcl:
 - {docs_url: ../../../api/megatree_pcl/html, location: 'http://ros.org/rosdoclite/fuerte/api/megatree_pcl/tags/megatree_pcl.tag',
   package: megatree_pcl}
+ros-fuerte-multimaster-experimental:
+- {docs_url: ../../../api/rosproxy/html, location: 'http://ros.org/rosdoclite/fuerte/api/rosproxy/tags/rosproxy.tag',
+  package: rosproxy}
+- {docs_url: ../../../api/pyqrnative/html, location: 'http://ros.org/rosdoclite/fuerte/api/pyqrnative/tags/pyqrnative.tag',
+  package: pyqrnative}
+- {docs_url: ../../../api/app_manager_android/html, location: 'http://ros.org/rosdoclite/fuerte/api/app_manager_android/tags/app_manager_android.tag',
+  package: app_manager_android}
+- {docs_url: ../../../api/foreign_relay/html, location: 'http://ros.org/rosdoclite/fuerte/api/foreign_relay/tags/foreign_relay.tag',
+  package: foreign_relay}
+- {docs_url: ../../../api/app_manager/html, location: 'http://ros.org/rosdoclite/fuerte/api/app_manager/tags/app_manager.tag',
+  package: app_manager}
+- {docs_url: ../../../api/app_manager_tutorial/html, location: 'http://ros.org/rosdoclite/fuerte/api/app_manager_tutorial/tags/app_manager_tutorial.tag',
+  package: app_manager_tutorial}
 ros-fuerte-navigation:
 - {docs_url: ../../../api/voxel_grid/html, location: 'http://ros.org/rosdoclite/fuerte/api/voxel_grid/tags/voxel_grid.tag',
   package: voxel_grid}

@@ -47,6 +47,12 @@ kingfisher: [kingfisher_node, kingfisher_bringup, kingfisher_msgs]
 langs: []
 laser_pipeline: [laser_geometry, laser_filters, laser_assembler]
 megatree_pcl: [megatree_pcl]
+multimaster_experimental: {app_manager: /home/rosbuild/hudson/workspace/doc-fuerte-multimaster_experimental-precise-amd64/doc_stacks/2012-10-12_23-34-27.726567/multimaster_experimental/app_manager,
+  app_manager_android: /home/rosbuild/hudson/workspace/doc-fuerte-multimaster_experimental-precise-amd64/doc_stacks/2012-10-12_23-34-27.726567/multimaster_experimental/app_manager_android,
+  app_manager_tutorial: /home/rosbuild/hudson/workspace/doc-fuerte-multimaster_experimental-precise-amd64/doc_stacks/2012-10-12_23-34-27.726567/multimaster_experimental/app_manager_tutorial,
+  foreign_relay: /home/rosbuild/hudson/workspace/doc-fuerte-multimaster_experimental-precise-amd64/doc_stacks/2012-10-12_23-34-27.726567/multimaster_experimental/foreign_relay,
+  pyqrnative: /home/rosbuild/hudson/workspace/doc-fuerte-multimaster_experimental-precise-amd64/doc_stacks/2012-10-12_23-34-27.726567/multimaster_experimental/pyqrnative,
+  rosproxy: /home/rosbuild/hudson/workspace/doc-fuerte-multimaster_experimental-precise-amd64/doc_stacks/2012-10-12_23-34-27.726567/multimaster_experimental/rosproxy}
 navigation: {amcl: /home/rosbuild/hudson/workspace/doc-fuerte-navigation-precise-amd64/doc_stacks/2012-10-12_22-13-40.862153/navigation/amcl,
   base_local_planner: /home/rosbuild/hudson/workspace/doc-fuerte-navigation-precise-amd64/doc_stacks/2012-10-12_22-13-40.862153/navigation/base_local_planner,
   carrot_planner: /home/rosbuild/hudson/workspace/doc-fuerte-navigation-precise-amd64/doc_stacks/2012-10-12_22-13-40.862153/navigation/carrot_planner,

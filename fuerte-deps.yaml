@@ -13,6 +13,9 @@ adept_common: [std_msgs, roscpp, actionlib, trajectory_msgs, actionlib_msgs, con
   sensor_msgs, simple_message, urdf]
 amcl: [roscpp, rosbag, tf, message_filters, nav_msgs, std_srvs, dynamic_reconfigure,
   map_server, rostest]
+app_manager: [rospy, roslaunch, rosgraph, rosunit]
+app_manager_android: [pyqrnative, roslib]
+app_manager_tutorial: [rospy, app_manager]
 ar_track_alvar: [std_msgs, rospy, roscpp, tf, image_transport, sensor_msgs, geometry_msgs,
   visualization_msgs, resource_retriever, cv_bridge, pcl_ros]
 audio_capture: [roscpp, audio_common_msgs, libgstreamer0.10-dev, libgstreamer-plugins-base0.10-dev,
@@ -74,6 +77,7 @@ executive_smach_visualization: [executive_smach, ros, ros_comm, rx]
 fake_localization: [roscpp, rosconsole, nav_msgs, geometry_msgs, tf, message_filters,
   angles]
 filters: [rosconsole, roscpp, pluginlib]
+foreign_relay: [roscpp, xmlrpcpp, topic_tools]
 geometry: [bullet, common_msgs, ros, ros_comm, orocos_kinematics_dynamics, common_rosdeps]
 geometry_tutorials: [geometry, ros, ros_comm, ros_tutorials]
 geometry_visualization: [geometry_experimental, ros, ros_comm, rx]
@@ -122,6 +126,7 @@ move_base: [roscpp, rosconsole, std_msgs, move_base_msgs, geometry_msgs, visuali
 move_base_msgs: [roslib, std_msgs, actionlib_msgs, geometry_msgs]
 move_slow_and_clear: [roscpp, nav_core, costmap_2d, geometry_msgs, pluginlib, dynamic_reconfigure,
   common_rosdeps, eigen]
+multimaster_experimental: [ros, ros_comm]
 nav_core: [std_msgs, geometry_msgs, costmap_2d, tf]
 nav_msgs: [geometry_msgs]
 navfn: [rosconsole, roscpp, geometry_msgs, costmap_2d, nav_core, pluginlib, nav_msgs,
@@ -142,6 +147,7 @@ pr2_pan_tilt: [geometry_msgs, pr2_controllers_msgs, topic_tools, actionlib, rosp
   tf]
 pr2_tabletop_manipulation_apps: [ros]
 pr2_tuck_arms_app: [rospy, trajectory_msgs, pr2_mechanism_msgs, pr2_tuck_arms_action]
+pyqrnative: [python-imaging]
 rbdl: [urdf, urdf_interface, eigen, libunittest++]
 robot_model_py: [ros, ros_comm]
 robot_model_tutorials: [ros]
@@ -167,6 +173,7 @@ roslaunch: [python-paramiko, python-yaml]
 roslib: [python, boost]
 roslisp: [roslang]
 rosparam: [python-yaml]
+rosproxy: [rospy, rosgraph, roslib, rosservice, rostopic]
 rospy: [roslang]
 rosserial_adk_demo: [rosserial_arduino, std_msgs, sensor_msgs, geometry_msgs, rosserial_adk_demo_msgs]
 rosserial_android: [rosjava, rosserial_java, std_msgs, sensor_msgs, nav_msgs, rosserial_msgs,
