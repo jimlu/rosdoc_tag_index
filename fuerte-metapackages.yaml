@@ -30,8 +30,15 @@ clearpath_kinect: [clearpath_kinect_demo, clearpath_tools]
 clearpath_turtlebot: [turtlebot_rndmwalk, turtlebot_train, turtlebot_kinect]
 cob_extern: [libpcan, libphidgets, libntcan, libmesasr]
 common: {}
-common_msgs: [geometry_msgs, actionlib_msgs, visualization_msgs, nav_msgs, diagnostic_msgs,
-  stereo_msgs, sensor_msgs, trajectory_msgs, shape_msgs]
+common_msgs: {actionlib_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-common_msgs-precise-amd64/doc_stacks/2012-10-12_23-41-16.367196/common_msgs/actionlib_msgs,
+  diagnostic_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-common_msgs-precise-amd64/doc_stacks/2012-10-12_23-41-16.367196/common_msgs/diagnostic_msgs,
+  geometry_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-common_msgs-precise-amd64/doc_stacks/2012-10-12_23-41-16.367196/common_msgs/geometry_msgs,
+  nav_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-common_msgs-precise-amd64/doc_stacks/2012-10-12_23-41-16.367196/common_msgs/nav_msgs,
+  sensor_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-common_msgs-precise-amd64/doc_stacks/2012-10-12_23-41-16.367196/common_msgs/sensor_msgs,
+  shape_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-common_msgs-precise-amd64/doc_stacks/2012-10-12_23-41-16.367196/common_msgs/shape_msgs,
+  stereo_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-common_msgs-precise-amd64/doc_stacks/2012-10-12_23-41-16.367196/common_msgs/stereo_msgs,
+  trajectory_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-common_msgs-precise-amd64/doc_stacks/2012-10-12_23-41-16.367196/common_msgs/trajectory_msgs,
+  visualization_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-common_msgs-precise-amd64/doc_stacks/2012-10-12_23-41-16.367196/common_msgs/visualization_msgs}
 common_rosdeps: {common_rosdeps: /home/rosbuild/hudson/workspace/doc-fuerte-common_rosdeps-precise-amd64/doc_stacks/2012-10-12_23-38-12.855136/common_rosdeps}
 common_tutorials: [turtle_actionlib, pluginlib_tutorials, actionlib_tutorials, nodelet_tutorial_math]
 control: [control_msgs]
