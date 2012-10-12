@@ -55,7 +55,7 @@ gps_umd: [gpsd_client, gps_common]
 humanoid_walk: [walk_msgs, halfsteps_pattern_generator, walk_tools, walk_interfaces]
 imu_drivers: [microstrain_3dmgx2_imu]
 kingfisher: [kingfisher_node, kingfisher_bringup, kingfisher_msgs]
-langs: []
+langs: {}
 laser_pipeline: [laser_geometry, laser_filters, laser_assembler]
 megatree_pcl: [megatree_pcl]
 multimaster_experimental: {app_manager: /home/rosbuild/hudson/workspace/doc-fuerte-multimaster_experimental-precise-amd64/doc_stacks/2012-10-12_23-34-27.726567/multimaster_experimental/app_manager,
