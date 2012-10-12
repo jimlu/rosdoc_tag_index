@@ -209,6 +209,19 @@ ros-fuerte-navigation:
   package: move_slow_and_clear}
 - {docs_url: ../../../api/amcl/html, location: 'http://ros.org/rosdoclite/fuerte/api/amcl/tags/amcl.tag',
   package: amcl}
+ros-fuerte-navigation-tutorials:
+- {docs_url: ../../../api/navigation_stage/html, location: 'http://ros.org/rosdoclite/fuerte/api/navigation_stage/tags/navigation_stage.tag',
+  package: navigation_stage}
+- {docs_url: ../../../api/odometry_publisher_tutorial/html, location: 'http://ros.org/rosdoclite/fuerte/api/odometry_publisher_tutorial/tags/odometry_publisher_tutorial.tag',
+  package: odometry_publisher_tutorial}
+- {docs_url: ../../../api/point_cloud_publisher_tutorial/html, location: 'http://ros.org/rosdoclite/fuerte/api/point_cloud_publisher_tutorial/tags/point_cloud_publisher_tutorial.tag',
+  package: point_cloud_publisher_tutorial}
+- {docs_url: ../../../api/robot_setup_tf_tutorial/html, location: 'http://ros.org/rosdoclite/fuerte/api/robot_setup_tf_tutorial/tags/robot_setup_tf_tutorial.tag',
+  package: robot_setup_tf_tutorial}
+- {docs_url: ../../../api/laser_scan_publisher_tutorial/html, location: 'http://ros.org/rosdoclite/fuerte/api/laser_scan_publisher_tutorial/tags/laser_scan_publisher_tutorial.tag',
+  package: laser_scan_publisher_tutorial}
+- {docs_url: ../../../api/simple_navigation_goals_tutorial/html, location: 'http://ros.org/rosdoclite/fuerte/api/simple_navigation_goals_tutorial/tags/simple_navigation_goals_tutorial.tag',
+  package: simple_navigation_goals_tutorial}
 ros-fuerte-nmea-gps-driver:
 - {docs_url: ../../../api/nmea_gps_driver/html, location: 'http://ros.org/rosdoclite/fuerte/api/nmea_gps_driver/tags/nmea_gps_driver.tag',
   package: nmea_gps_driver}
