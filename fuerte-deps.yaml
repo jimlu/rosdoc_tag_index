@@ -152,6 +152,9 @@ roslib: [python, boost]
 roslisp: [roslang]
 rosparam: [python-yaml]
 rospy: [roslang]
+rosserial_adk_demo: [rosserial_arduino, std_msgs, sensor_msgs, geometry_msgs, rosserial_adk_demo_msgs]
+rosserial_android: [rosjava, rosserial_java, std_msgs, sensor_msgs, nav_msgs, rosserial_msgs,
+  android]
 rosunit: [gtest]
 roswtf: [python-paramiko]
 rotate_recovery: [roscpp, nav_core, tf, costmap_2d, geometry_msgs, base_local_planner,
