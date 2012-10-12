@@ -1,9 +1,9 @@
 ackermann_msgs: [ackermann_msgs]
-actionlib: {actionlib: /home/rosbuild/hudson/workspace/doc-fuerte-actionlib-precise-amd64/doc_stacks/2012-10-12_22-55-20.289064/actionlib}
+actionlib: {actionlib: /home/rosbuild/hudson/workspace/doc-fuerte-actionlib-precise-amd64/doc_stacks/2012-10-12_23-29-17.962532/actionlib}
 adept: [ADEPT_VIPER_S650_ikfast_arm_navigation, adept_common, ADEPT_VIPER_S650_arm_navigation]
 ar_track_alvar: [ar_track_alvar]
 audio_common: [audio_play, audio_common_msgs, sound_play, audio_capture]
-bfl: [bfl]
+bfl: {bfl: /home/rosbuild/hudson/workspace/doc-fuerte-bfl-precise-amd64/doc_stacks/2012-10-12_23-29-02.269178/bfl}
 bond_core: [bondcpp, test_bond, bondpy, bond, smclib]
 brown_drivers: [irobot_create_2_1]
 calibration: {calibration_estimation: /home/rosbuild/hudson/workspace/doc-fuerte-calibration-precise-amd64/doc_stacks/2012-10-12_23-28-48.812222/calibration/calibration_estimation,
@@ -33,8 +33,8 @@ executive_smach: [smach, smach_ros, smach_msgs]
 executive_smach_visualization: [smach_viewer]
 filters: [filters]
 gencpp: [gencpp]
-genlisp: [genlisp]
-genmsg: [genmsg]
+genlisp: {genlisp: /home/rosbuild/hudson/workspace/doc-fuerte-genlisp-precise-amd64/doc_stacks/2012-10-12_23-28-58.559120/genlisp}
+genmsg: {genmsg: /home/rosbuild/hudson/workspace/doc-fuerte-genmsg-precise-amd64/doc_stacks/2012-10-12_23-29-58.753091/genmsg}
 genpy: [genpy]
 geometry: [angles, tf_conversions, tf, eigen_conversions]
 geometry_tutorials: {turtle_tf: /home/rosbuild/hudson/workspace/doc-fuerte-geometry_tutorials-precise-amd64/doc_stacks/2012-10-12_23-27-25.809885/geometry_tutorials/turtle_tf}
@@ -74,7 +74,7 @@ pr2_tabletop_manipulation_apps: []
 pr2_tuck_arms_app: [pr2_tuck_arms_app]
 rbdl: [rbdl]
 robot_model_py: [urdf_parser_py]
-robot_model_tutorials: [urdf_tutorial]
+robot_model_tutorials: {urdf_tutorial: /home/rosbuild/hudson/workspace/doc-fuerte-robot_model_tutorials-precise-amd64/doc_stacks/2012-10-12_23-30-53.124776/robot_model_tutorials/urdf_tutorial}
 robot_pose_publisher: [robot_pose_publisher]
 romeo: [romeo_description]
 ros: [rosboost_cfg, rosbuild, roslib, mk, rosunit, roslang, rosbash, rosclean, rosmake,
@@ -89,7 +89,7 @@ roscpp_core: [cpp_common, roscpp_traits, rostime, roscpp_serialization]
 rosh_desktop_plugins: [rosh_visualization, rosh_desktop]
 rosh_robot_plugins: [rosh_geometry, rosh_robot, rosh_common]
 rosjs: []
-rospack: [rospack]
+rospack: {rospack: /home/rosbuild/hudson/workspace/doc-fuerte-rospack-precise-amd64/doc_stacks/2012-10-12_23-29-02.349822/rospack}
 rx: [xdot, wxPython_swig_interface, rxbag, rxgraph, rxtools]
 serial_communication: [cereal_port]
 slam_gmapping: [gmapping]
@@ -99,3 +99,4 @@ std_msgs: [std_msgs]
 unique_identifier: [uuid_msgs, unique_id]
 wg_pr2_apps: [wg_pr2_2dnav]
 wge100_driver: [wge100_camera_firmware, wge100_camera]
+xacro: {xacro: /home/rosbuild/hudson/workspace/doc-fuerte-xacro-precise-amd64/doc_stacks/2012-10-12_23-29-44.407857/xacro}
