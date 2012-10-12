@@ -29,6 +29,7 @@ clearpath_common: [clearpath_bringup, clearpath_base, clearpath_teleop]
 clearpath_kinect: [clearpath_kinect_demo, clearpath_tools]
 clearpath_turtlebot: [turtlebot_rndmwalk, turtlebot_train, turtlebot_kinect]
 cob_extern: [libpcan, libphidgets, libntcan, libmesasr]
+common: {}
 common_msgs: [geometry_msgs, actionlib_msgs, visualization_msgs, nav_msgs, diagnostic_msgs,
   stereo_msgs, sensor_msgs, trajectory_msgs, shape_msgs]
 common_rosdeps: {common_rosdeps: /home/rosbuild/hudson/workspace/doc-fuerte-common_rosdeps-precise-amd64/doc_stacks/2012-10-12_23-38-12.855136/common_rosdeps}
@@ -45,10 +46,10 @@ filters: [filters]
 gencpp: {gencpp: /home/rosbuild/hudson/workspace/doc-fuerte-gencpp-precise-amd64/doc_stacks/2012-10-12_23-37-19.120567/gencpp}
 genlisp: {genlisp: /home/rosbuild/hudson/workspace/doc-fuerte-genlisp-precise-amd64/doc_stacks/2012-10-12_23-28-58.559120/genlisp}
 genmsg: {genmsg: /home/rosbuild/hudson/workspace/doc-fuerte-genmsg-precise-amd64/doc_stacks/2012-10-12_23-29-58.753091/genmsg}
-genpy: [genpy]
+genpy: {genpy: /home/rosbuild/hudson/workspace/doc-fuerte-genpy-precise-amd64/doc_stacks/2012-10-12_23-39-44.470791/genpy}
 geometry: [angles, tf_conversions, tf, eigen_conversions]
 geometry_tutorials: {turtle_tf: /home/rosbuild/hudson/workspace/doc-fuerte-geometry_tutorials-precise-amd64/doc_stacks/2012-10-12_23-27-25.809885/geometry_tutorials/turtle_tf}
-geometry_visualization: [tf2_visualization]
+geometry_visualization: {tf2_visualization: /home/rosbuild/hudson/workspace/doc-fuerte-geometry_visualization-precise-amd64/doc_stacks/2012-10-12_23-38-34.232146/geometry_visualization/tf2_visualization}
 gps_drivers: []
 gps_umd: [gpsd_client, gps_common]
 humanoid_walk: [walk_msgs, halfsteps_pattern_generator, walk_tools, walk_interfaces]
@@ -114,7 +115,10 @@ ros_comm: [test_roscpp_serialization, rosservice, rosgraph_msgs, rosconsole, tes
 ros_tutorials: {roscpp_tutorials: /home/rosbuild/hudson/workspace/doc-fuerte-ros_tutorials-precise-amd64/doc_stacks/2012-10-12_23-36-00.197642/ros_tutorials/roscpp_tutorials,
   rospy_tutorials: /home/rosbuild/hudson/workspace/doc-fuerte-ros_tutorials-precise-amd64/doc_stacks/2012-10-12_23-36-00.197642/ros_tutorials/rospy_tutorials,
   turtlesim: /home/rosbuild/hudson/workspace/doc-fuerte-ros_tutorials-precise-amd64/doc_stacks/2012-10-12_23-36-00.197642/ros_tutorials/turtlesim}
-roscpp_core: [cpp_common, roscpp_traits, rostime, roscpp_serialization]
+roscpp_core: {cpp_common: /home/rosbuild/hudson/workspace/doc-fuerte-roscpp_core-precise-amd64/doc_stacks/2012-10-12_23-37-51.581504/roscpp_core/cpp_common,
+  roscpp_serialization: /home/rosbuild/hudson/workspace/doc-fuerte-roscpp_core-precise-amd64/doc_stacks/2012-10-12_23-37-51.581504/roscpp_core/roscpp_serialization,
+  roscpp_traits: /home/rosbuild/hudson/workspace/doc-fuerte-roscpp_core-precise-amd64/doc_stacks/2012-10-12_23-37-51.581504/roscpp_core/roscpp_traits,
+  rostime: /home/rosbuild/hudson/workspace/doc-fuerte-roscpp_core-precise-amd64/doc_stacks/2012-10-12_23-37-51.581504/roscpp_core/rostime}
 rosh_desktop_plugins: [rosh_visualization, rosh_desktop]
 rosh_robot_plugins: [rosh_geometry, rosh_robot, rosh_common]
 rosjs: []
@@ -126,6 +130,7 @@ rosserial_java: {rosserial_java: /home/rosbuild/hudson/workspace/doc-fuerte-ross
   rosserial_java_node: /home/rosbuild/hudson/workspace/doc-fuerte-rosserial_java-precise-amd64/doc_stacks/2012-10-12_23-36-20.971907/rosserial_java/rosserial_java_node}
 rx: [xdot, wxPython_swig_interface, rxbag, rxgraph, rxtools]
 serial_communication: [cereal_port]
+simple_object_capture: {simple_object_capture: /home/rosbuild/hudson/workspace/doc-fuerte-simple_object_capture-precise-amd64/doc_stacks/2012-10-12_23-38-19.251313/simple_object_capture}
 slam_gmapping: [gmapping]
 sql_database: [student_database, database_interface]
 srs_common: [srs_object_database_msgs]

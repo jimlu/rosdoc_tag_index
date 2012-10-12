@@ -57,6 +57,7 @@ clearpath_teleop: [rospy, sensor_msgs, geometry_msgs, std_msgs]
 clearpath_tools: [roscpp, pcl_ros, std_msgs, sensor_msgs]
 clearpath_turtlebot: [clearpath_kinect, openni_kinect, ros, turtlebot]
 cob_extern: [ros]
+common: [actionlib, pluginlib, ros, ros_comm]
 common_rosdeps: [ros]
 common_tutorials: [actionlib, common_msgs, geometry, nodelet_core, pluginlib, ros,
   ros_comm, ros_tutorials]
@@ -210,6 +211,8 @@ serial_communication: [ros, ros_comm]
 settlerlib: [roscpp, calibration_msgs]
 shape_msgs: [std_msgs, geometry_msgs]
 simple_navigation_goals_tutorial: [move_base_msgs, actionlib, roscpp, tf]
+simple_object_capture: [pcl, roscpp, sensor_msgs, message_filters, dynamic_reconfigure,
+  opencv2, cv_bridge, rosbag, image_geometry]
 slam_gmapping: [common_msgs, geometry, navigation, ros, ros_comm]
 smach_ros: [smach, rospy, rostest, rostopic, actionlib, actionlib_msgs, smach_msgs,
   std_msgs, std_srvs]
