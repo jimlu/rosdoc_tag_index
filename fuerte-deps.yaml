@@ -29,6 +29,14 @@ bond_core: [ros, ros_comm]
 bondcpp: [bond, roscpp, smclib, uuid]
 bondpy: [bond, rospy, smclib]
 brown_drivers: [common_msgs, geometry, ros, ros_comm]
+calibration: [common, common_msgs, geometry, image_common, image_pipeline, perception_pcl,
+  ros, ros_comm, vision_opencv]
+calibration_estimation: [rospy, rostest, sensor_msgs, calibration_msgs, visualization_msgs,
+  tf, python-scipy]
+calibration_launch: [topic_tools, image_cb_detector, laser_cb_detector, image_view,
+  message_filters, sensor_msgs, monocam_settler, joint_states_settler, interval_intersection,
+  calibration_msgs, sensor_msgs, geometry_msgs, trajectory_msgs, rospy, std_msgs]
+calibration_msgs: [geometry_msgs, sensor_msgs]
 camera1394: [camera_info_manager, diagnostic_updater, driver_base, dynamic_reconfigure,
   image_transport, nodelet, tf, libdc1394-dev]
 camera_drivers: [camera1394, prosilica_driver, wge100_driver]
@@ -79,8 +87,13 @@ halfsteps_pattern_generator: [common_rosdeps, rospy, bullet, walk_interfaces, wa
   visualization_msgs, angles, boost, eigen]
 humanoid_walk: [bullet, common_msgs, common_rosdeps, diagnostics, geometry, ros, ros_comm,
   robot_model_py]
+image_cb_detector: [calibration_msgs, roscpp, cv_bridge, actionlib, actionlib_msgs,
+  image_transport, sensor_msgs, geometry_msgs, pcl_ros, opencv2]
 imu_drivers: [common_msgs, diagnostics, geometry, ros, ros_comm]
+interval_intersection: [roscpp, actionlib_msgs, actionlib, calibration_msgs]
 irobot_create_2_1: [roscpp, rospy, geometry_msgs, tf, nav_msgs, python-serial]
+joint_states_settler: [roscpp, actionlib_msgs, sensor_msgs, actionlib, settlerlib,
+  calibration_msgs]
 kingfisher: [camera_drivers, image_pipeline, image_transport_plugins, multimaster_experimental,
   ros, ros_comm, rosserial]
 kingfisher_bringup: [kingfisher_msgs, rosserial_python, app_manager, camera1394, image_proc,
@@ -88,6 +101,8 @@ kingfisher_bringup: [kingfisher_msgs, rosserial_python, app_manager, camera1394,
 kingfisher_node: [rospy, rosserial_python, kingfisher_msgs, std_msgs]
 laser_assembler: [roscpp, std_msgs, geometry_msgs, laser_geometry, laser_filters,
   sensor_msgs, tf]
+laser_cb_detector: [roscpp, message_filters, std_msgs, actionlib_msgs, calibration_msgs,
+  image_cb_detector, opencv2, cv_bridge]
 laser_filters: [sensor_msgs, roscpp, tf, filters, message_filters, laser_geometry,
   pluginlib, pcl_ros]
 laser_geometry: [sensor_msgs, roscpp, tf, angles, common_rosdeps, eigen]
@@ -100,6 +115,7 @@ map_server: [rosconsole, roscpp, rospy, nav_msgs, tf, common_rosdeps, python-ima
   python-yaml, yaml-cpp, sdl-image]
 megatree_pcl: [pcl_ros, megatree_storage, megatree_cpp]
 microstrain_3dmgx2_imu: [roscpp, sensor_msgs, self_test, diagnostic_updater, tf, std_srvs]
+monocam_settler: [roscpp, actionlib, actionlib_msgs, settlerlib, calibration_msgs]
 move_base: [roscpp, rosconsole, std_msgs, move_base_msgs, geometry_msgs, visualization_msgs,
   actionlib, nav_core, pluginlib, costmap_2d, tf, nav_msgs, roslib, rospy, rosmsg,
   rostopic, std_srvs, dynamic_reconfigure, common_rosdeps, base_local_planner, navfn,
@@ -159,6 +175,9 @@ roslib: [python, boost]
 roslisp: [roslang]
 rosparam: [python-yaml]
 rospy: [roslang]
+rosserial_adk_demo: [rosserial_arduino, std_msgs, sensor_msgs, geometry_msgs, rosserial_adk_demo_msgs]
+rosserial_android: [rosjava, rosserial_java, std_msgs, sensor_msgs, nav_msgs, rosserial_msgs,
+  android]
 rosunit: [gtest]
 roswtf: [python-paramiko]
 rotate_recovery: [roscpp, nav_core, tf, costmap_2d, geometry_msgs, base_local_planner,
@@ -172,6 +191,7 @@ rxtools: [roscpp, rosgraph_msgs, roslib, rospy, wxPython_swig_interface, wxwidge
   swig-wx, python-gtk2, python-matplotlib, wxpython]
 sensor_msgs: [geometry_msgs]
 serial_communication: [ros, ros_comm]
+settlerlib: [roscpp, calibration_msgs]
 shape_msgs: [std_msgs, geometry_msgs]
 simple_navigation_goals_tutorial: [move_base_msgs, actionlib, roscpp, tf]
 slam_gmapping: [common_msgs, geometry, navigation, ros, ros_comm]

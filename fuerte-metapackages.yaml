@@ -2,10 +2,22 @@ ackermann_msgs: [ackermann_msgs]
 actionlib: {actionlib: /home/rosbuild/hudson/workspace/doc-fuerte-actionlib-precise-amd64/doc_stacks/2012-10-12_23-29-17.962532/actionlib}
 adept: [ADEPT_VIPER_S650_ikfast_arm_navigation, adept_common, ADEPT_VIPER_S650_arm_navigation]
 ar_track_alvar: [ar_track_alvar]
-audio_common: [audio_play, audio_common_msgs, sound_play, audio_capture]
+audio_common: {audio_capture: /home/rosbuild/hudson/workspace/doc-fuerte-audio_common-precise-amd64/doc_stacks/2012-10-12_23-33-55.582070/audio_common/audio_capture,
+  audio_common_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-audio_common-precise-amd64/doc_stacks/2012-10-12_23-33-55.582070/audio_common/audio_common_msgs,
+  audio_play: /home/rosbuild/hudson/workspace/doc-fuerte-audio_common-precise-amd64/doc_stacks/2012-10-12_23-33-55.582070/audio_common/audio_play,
+  sound_play: /home/rosbuild/hudson/workspace/doc-fuerte-audio_common-precise-amd64/doc_stacks/2012-10-12_23-33-55.582070/audio_common/sound_play}
 bfl: {bfl: /home/rosbuild/hudson/workspace/doc-fuerte-bfl-precise-amd64/doc_stacks/2012-10-12_23-29-02.269178/bfl}
 bond_core: [bondcpp, test_bond, bondpy, bond, smclib]
 brown_drivers: [irobot_create_2_1]
+calibration: {calibration_estimation: /home/rosbuild/hudson/workspace/doc-fuerte-calibration-precise-amd64/doc_stacks/2012-10-12_23-28-48.812222/calibration/calibration_estimation,
+  calibration_launch: /home/rosbuild/hudson/workspace/doc-fuerte-calibration-precise-amd64/doc_stacks/2012-10-12_23-28-48.812222/calibration/calibration_launch,
+  calibration_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-calibration-precise-amd64/doc_stacks/2012-10-12_23-28-48.812222/calibration/calibration_msgs,
+  image_cb_detector: /home/rosbuild/hudson/workspace/doc-fuerte-calibration-precise-amd64/doc_stacks/2012-10-12_23-28-48.812222/calibration/image_cb_detector,
+  interval_intersection: /home/rosbuild/hudson/workspace/doc-fuerte-calibration-precise-amd64/doc_stacks/2012-10-12_23-28-48.812222/calibration/interval_intersection,
+  joint_states_settler: /home/rosbuild/hudson/workspace/doc-fuerte-calibration-precise-amd64/doc_stacks/2012-10-12_23-28-48.812222/calibration/joint_states_settler,
+  laser_cb_detector: /home/rosbuild/hudson/workspace/doc-fuerte-calibration-precise-amd64/doc_stacks/2012-10-12_23-28-48.812222/calibration/laser_cb_detector,
+  monocam_settler: /home/rosbuild/hudson/workspace/doc-fuerte-calibration-precise-amd64/doc_stacks/2012-10-12_23-28-48.812222/calibration/monocam_settler,
+  settlerlib: /home/rosbuild/hudson/workspace/doc-fuerte-calibration-precise-amd64/doc_stacks/2012-10-12_23-28-48.812222/calibration/settlerlib}
 camera1394: [camera1394]
 camera_drivers: []
 catkin: []
@@ -63,7 +75,7 @@ navigation_tutorials: {laser_scan_publisher_tutorial: /home/rosbuild/hudson/work
   simple_navigation_goals_tutorial: /home/rosbuild/hudson/workspace/doc-fuerte-navigation_tutorials-precise-amd64/doc_stacks/2012-10-12_23-31-54.074960/navigation_tutorials/simple_navigation_goals_tutorial}
 nmea_gps_driver: [nmea_gps_driver]
 open_street_map: [route_network, test_osm, osm_cartography]
-openni_launch: [openni_launch]
+openni_launch: {openni_launch: /home/rosbuild/hudson/workspace/doc-fuerte-openni_launch-precise-amd64/doc_stacks/2012-10-12_23-34-12.359166/openni_launch}
 openni_tracker: [openni_tracker]
 openrtm_cpp: [openrtm_cpp]
 pr2_make_a_map_app: [pr2_make_a_map_app]
@@ -88,6 +100,9 @@ rosh_desktop_plugins: [rosh_visualization, rosh_desktop]
 rosh_robot_plugins: [rosh_geometry, rosh_robot, rosh_common]
 rosjs: []
 rospack: {rospack: /home/rosbuild/hudson/workspace/doc-fuerte-rospack-precise-amd64/doc_stacks/2012-10-12_23-29-02.349822/rospack}
+rosserial_android: {rosserial_adk_demo: /home/rosbuild/hudson/workspace/doc-fuerte-rosserial_android-precise-amd64/doc_stacks/2012-10-12_23-32-17.856774/rosserial_android/rosserial_adk_demo,
+  rosserial_adk_demo_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-rosserial_android-precise-amd64/doc_stacks/2012-10-12_23-32-17.856774/rosserial_android/rosserial_adk_demo_msgs,
+  rosserial_android: /home/rosbuild/hudson/workspace/doc-fuerte-rosserial_android-precise-amd64/doc_stacks/2012-10-12_23-32-17.856774/rosserial_android/rosserial_android}
 rx: [xdot, wxPython_swig_interface, rxbag, rxgraph, rxtools]
 serial_communication: [cereal_port]
 slam_gmapping: [gmapping]

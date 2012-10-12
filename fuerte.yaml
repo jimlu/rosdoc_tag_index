@@ -15,14 +15,14 @@ ros-fuerte-ar-track-alvar:
 - {docs_url: ../../../api/ar_track_alvar/html, location: 'http://ros.org/rosdoclite/fuerte/api/ar_track_alvar/tags/ar_track_alvar.tag',
   package: ar_track_alvar}
 ros-fuerte-audio-common:
-- {docs_url: ../../../api/audio_play/html, location: 'http://ros.org/rosdoclite/fuerte/api/audio_play/tags/audio_play.tag',
-  package: audio_play}
 - {docs_url: ../../../api/audio_common_msgs/html, location: 'http://ros.org/rosdoclite/fuerte/api/audio_common_msgs/tags/audio_common_msgs.tag',
   package: audio_common_msgs}
-- {docs_url: ../../../api/sound_play/html, location: 'http://ros.org/rosdoclite/fuerte/api/sound_play/tags/sound_play.tag',
-  package: sound_play}
 - {docs_url: ../../../api/audio_capture/html, location: 'http://ros.org/rosdoclite/fuerte/api/audio_capture/tags/audio_capture.tag',
   package: audio_capture}
+- {docs_url: ../../../api/sound_play/html, location: 'http://ros.org/rosdoclite/fuerte/api/sound_play/tags/sound_play.tag',
+  package: sound_play}
+- {docs_url: ../../../api/audio_play/html, location: 'http://ros.org/rosdoclite/fuerte/api/audio_play/tags/audio_play.tag',
+  package: audio_play}
 ros-fuerte-bfl:
 - {docs_url: ../../../api/bfl/html, location: 'http://ros.org/rosdoclite/fuerte/api/bfl/tags/bfl.tag',
   package: bfl}
@@ -40,6 +40,25 @@ ros-fuerte-bond-core:
 ros-fuerte-brown-drivers:
 - {docs_url: ../../../api/irobot_create_2_1/html, location: 'http://ros.org/rosdoclite/fuerte/api/irobot_create_2_1/tags/irobot_create_2_1.tag',
   package: irobot_create_2_1}
+ros-fuerte-calibration:
+- {docs_url: ../../../api/calibration_msgs/html, location: 'http://ros.org/rosdoclite/fuerte/api/calibration_msgs/tags/calibration_msgs.tag',
+  package: calibration_msgs}
+- {docs_url: ../../../api/image_cb_detector/html, location: 'http://ros.org/rosdoclite/fuerte/api/image_cb_detector/tags/image_cb_detector.tag',
+  package: image_cb_detector}
+- {docs_url: ../../../api/laser_cb_detector/html, location: 'http://ros.org/rosdoclite/fuerte/api/laser_cb_detector/tags/laser_cb_detector.tag',
+  package: laser_cb_detector}
+- {docs_url: ../../../api/calibration_estimation/html, location: 'http://ros.org/rosdoclite/fuerte/api/calibration_estimation/tags/calibration_estimation.tag',
+  package: calibration_estimation}
+- {docs_url: ../../../api/settlerlib/html, location: 'http://ros.org/rosdoclite/fuerte/api/settlerlib/tags/settlerlib.tag',
+  package: settlerlib}
+- {docs_url: ../../../api/monocam_settler/html, location: 'http://ros.org/rosdoclite/fuerte/api/monocam_settler/tags/monocam_settler.tag',
+  package: monocam_settler}
+- {docs_url: ../../../api/interval_intersection/html, location: 'http://ros.org/rosdoclite/fuerte/api/interval_intersection/tags/interval_intersection.tag',
+  package: interval_intersection}
+- {docs_url: ../../../api/joint_states_settler/html, location: 'http://ros.org/rosdoclite/fuerte/api/joint_states_settler/tags/joint_states_settler.tag',
+  package: joint_states_settler}
+- {docs_url: ../../../api/calibration_launch/html, location: 'http://ros.org/rosdoclite/fuerte/api/calibration_launch/tags/calibration_launch.tag',
+  package: calibration_launch}
 ros-fuerte-camera1394:
 - {docs_url: ../../../api/camera1394/html, location: 'http://ros.org/rosdoclite/fuerte/api/camera1394/tags/camera1394.tag',
   package: camera1394}
