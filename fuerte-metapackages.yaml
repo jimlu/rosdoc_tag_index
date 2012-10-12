@@ -28,7 +28,7 @@ genlisp: [genlisp]
 genmsg: [genmsg]
 genpy: [genpy]
 geometry: [angles, tf_conversions, tf, eigen_conversions]
-geometry_tutorials: [turtle_tf]
+geometry_tutorials: {turtle_tf: /home/rosbuild/hudson/workspace/doc-fuerte-geometry_tutorials-precise-amd64/doc_stacks/2012-10-12_23-27-25.809885/geometry_tutorials/turtle_tf}
 geometry_visualization: [tf2_visualization]
 gps_drivers: []
 gps_umd: [gpsd_client, gps_common]
