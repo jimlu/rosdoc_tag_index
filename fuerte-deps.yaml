@@ -72,6 +72,7 @@ driver_base: [roscpp, self_test, diagnostic_updater, dynamic_reconfigure]
 driver_common: [diagnostics, ros, dynamic_reconfigure]
 dwa_local_planner: [roscpp, tf, costmap_2d, roslib, nav_core, nav_msgs, base_local_planner,
   angles, dynamic_reconfigure, common_rosdeps, eigen]
+dynamic_reconfigure: [rospy, roscpp, rosservice, wxpython]
 eigen_conversions: [geometry_msgs, kdl, tf, eigen]
 ethzasl_xsens_driver: [common_msgs, geometry, gps_umd, ros, ros_comm]
 executive_smach: [actionlib, common_msgs, ros, ros_comm]
