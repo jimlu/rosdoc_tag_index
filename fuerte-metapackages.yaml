@@ -29,6 +29,7 @@ clearpath_common: [clearpath_bringup, clearpath_base, clearpath_teleop]
 clearpath_kinect: [clearpath_kinect_demo, clearpath_tools]
 clearpath_turtlebot: [turtlebot_rndmwalk, turtlebot_train, turtlebot_kinect]
 cob_extern: [libpcan, libphidgets, libntcan, libmesasr]
+common: {}
 common_msgs: [geometry_msgs, actionlib_msgs, visualization_msgs, nav_msgs, diagnostic_msgs,
   stereo_msgs, sensor_msgs, trajectory_msgs, shape_msgs]
 common_rosdeps: {common_rosdeps: /home/rosbuild/hudson/workspace/doc-fuerte-common_rosdeps-precise-amd64/doc_stacks/2012-10-12_23-38-12.855136/common_rosdeps}
@@ -45,7 +46,7 @@ filters: [filters]
 gencpp: {gencpp: /home/rosbuild/hudson/workspace/doc-fuerte-gencpp-precise-amd64/doc_stacks/2012-10-12_23-37-19.120567/gencpp}
 genlisp: {genlisp: /home/rosbuild/hudson/workspace/doc-fuerte-genlisp-precise-amd64/doc_stacks/2012-10-12_23-28-58.559120/genlisp}
 genmsg: {genmsg: /home/rosbuild/hudson/workspace/doc-fuerte-genmsg-precise-amd64/doc_stacks/2012-10-12_23-29-58.753091/genmsg}
-genpy: [genpy]
+genpy: {genpy: /home/rosbuild/hudson/workspace/doc-fuerte-genpy-precise-amd64/doc_stacks/2012-10-12_23-39-44.470791/genpy}
 geometry: [angles, tf_conversions, tf, eigen_conversions]
 geometry_tutorials: {turtle_tf: /home/rosbuild/hudson/workspace/doc-fuerte-geometry_tutorials-precise-amd64/doc_stacks/2012-10-12_23-27-25.809885/geometry_tutorials/turtle_tf}
 geometry_visualization: {tf2_visualization: /home/rosbuild/hudson/workspace/doc-fuerte-geometry_visualization-precise-amd64/doc_stacks/2012-10-12_23-38-34.232146/geometry_visualization/tf2_visualization}
@@ -90,6 +91,7 @@ nmea_gps_driver: [nmea_gps_driver]
 nodelet_core: {nodelet: /home/rosbuild/hudson/workspace/doc-fuerte-nodelet_core-precise-amd64/doc_stacks/2012-10-12_23-31-52.217550/nodelet_core/nodelet,
   nodelet_topic_tools: /home/rosbuild/hudson/workspace/doc-fuerte-nodelet_core-precise-amd64/doc_stacks/2012-10-12_23-31-52.217550/nodelet_core/nodelet_topic_tools,
   test_nodelet: /home/rosbuild/hudson/workspace/doc-fuerte-nodelet_core-precise-amd64/doc_stacks/2012-10-12_23-31-52.217550/nodelet_core/test_nodelet}
+occupancy_grid_utils: {occupancy_grid_utils: /home/rosbuild/hudson/workspace/doc-fuerte-occupancy_grid_utils-precise-amd64/doc_stacks/2012-10-12_23-38-34.792681/occupancy_grid_utils}
 open_street_map: [route_network, test_osm, osm_cartography]
 openni_launch: {openni_launch: /home/rosbuild/hudson/workspace/doc-fuerte-openni_launch-precise-amd64/doc_stacks/2012-10-12_23-34-12.359166/openni_launch}
 openni_tracker: [openni_tracker]
@@ -129,6 +131,7 @@ rosserial_java: {rosserial_java: /home/rosbuild/hudson/workspace/doc-fuerte-ross
   rosserial_java_node: /home/rosbuild/hudson/workspace/doc-fuerte-rosserial_java-precise-amd64/doc_stacks/2012-10-12_23-36-20.971907/rosserial_java/rosserial_java_node}
 rx: [xdot, wxPython_swig_interface, rxbag, rxgraph, rxtools]
 serial_communication: [cereal_port]
+simple_object_capture: {simple_object_capture: /home/rosbuild/hudson/workspace/doc-fuerte-simple_object_capture-precise-amd64/doc_stacks/2012-10-12_23-38-19.251313/simple_object_capture}
 slam_gmapping: [gmapping]
 sql_database: [student_database, database_interface]
 srs_common: [srs_object_database_msgs]

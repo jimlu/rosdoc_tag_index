@@ -267,6 +267,9 @@ ros-fuerte-nodelet-core:
   package: nodelet_topic_tools}
 - {docs_url: ../../../api/test_nodelet/html, location: 'http://ros.org/rosdoclite/fuerte/api/test_nodelet/tags/test_nodelet.tag',
   package: test_nodelet}
+ros-fuerte-occupancy-grid-utils:
+- {docs_url: ../../../api/occupancy_grid_utils/html, location: 'http://ros.org/rosdoclite/fuerte/api/occupancy_grid_utils/tags/occupancy_grid_utils.tag',
+  package: occupancy_grid_utils}
 ros-fuerte-open-street-map:
 - {docs_url: ../../../api/test_osm/html, location: 'http://ros.org/rosdoclite/fuerte/api/test_osm/tags/test_osm.tag',
   package: test_osm}
