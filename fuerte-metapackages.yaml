@@ -66,6 +66,15 @@ kingfisher: [kingfisher_node, kingfisher_bringup, kingfisher_msgs]
 langs: {}
 laser_pipeline: [laser_geometry, laser_filters, laser_assembler]
 megatree_pcl: [megatree_pcl]
+multi_robot_collision_avoidance: {collvoid_controller: /home/rosbuild/hudson/workspace/doc-fuerte-multi_robot_collision_avoidance-precise-amd64/doc_stacks/2012-10-12_23-41-35.282928/multi_robot_collision_avoidance/collvoid_controller,
+  collvoid_local_planner: /home/rosbuild/hudson/workspace/doc-fuerte-multi_robot_collision_avoidance-precise-amd64/doc_stacks/2012-10-12_23-41-35.282928/multi_robot_collision_avoidance/collvoid_local_planner,
+  collvoid_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-multi_robot_collision_avoidance-precise-amd64/doc_stacks/2012-10-12_23-41-35.282928/multi_robot_collision_avoidance/collvoid_msgs,
+  collvoid_pr2: /home/rosbuild/hudson/workspace/doc-fuerte-multi_robot_collision_avoidance-precise-amd64/doc_stacks/2012-10-12_23-41-35.282928/multi_robot_collision_avoidance/collvoid_pr2,
+  collvoid_simple_global_planner: /home/rosbuild/hudson/workspace/doc-fuerte-multi_robot_collision_avoidance-precise-amd64/doc_stacks/2012-10-12_23-41-35.282928/multi_robot_collision_avoidance/collvoid_simple_global_planner,
+  collvoid_stage: /home/rosbuild/hudson/workspace/doc-fuerte-multi_robot_collision_avoidance-precise-amd64/doc_stacks/2012-10-12_23-41-35.282928/multi_robot_collision_avoidance/collvoid_stage,
+  collvoid_turtlebot: /home/rosbuild/hudson/workspace/doc-fuerte-multi_robot_collision_avoidance-precise-amd64/doc_stacks/2012-10-12_23-41-35.282928/multi_robot_collision_avoidance/collvoid_turtlebot,
+  pacman_controller: /home/rosbuild/hudson/workspace/doc-fuerte-multi_robot_collision_avoidance-precise-amd64/doc_stacks/2012-10-12_23-41-35.282928/multi_robot_collision_avoidance/pacman_controller,
+  pacman_turtles: /home/rosbuild/hudson/workspace/doc-fuerte-multi_robot_collision_avoidance-precise-amd64/doc_stacks/2012-10-12_23-41-35.282928/multi_robot_collision_avoidance/pacman_turtles}
 multimaster_experimental: {app_manager: /home/rosbuild/hudson/workspace/doc-fuerte-multimaster_experimental-precise-amd64/doc_stacks/2012-10-12_23-34-27.726567/multimaster_experimental/app_manager,
   app_manager_android: /home/rosbuild/hudson/workspace/doc-fuerte-multimaster_experimental-precise-amd64/doc_stacks/2012-10-12_23-34-27.726567/multimaster_experimental/app_manager_android,
   app_manager_tutorial: /home/rosbuild/hudson/workspace/doc-fuerte-multimaster_experimental-precise-amd64/doc_stacks/2012-10-12_23-34-27.726567/multimaster_experimental/app_manager_tutorial,

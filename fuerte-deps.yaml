@@ -57,6 +57,13 @@ clearpath_teleop: [rospy, sensor_msgs, geometry_msgs, std_msgs]
 clearpath_tools: [roscpp, pcl_ros, std_msgs, sensor_msgs]
 clearpath_turtlebot: [clearpath_kinect, openni_kinect, ros, turtlebot]
 cob_extern: [ros]
+collvoid_controller: [rospy, std_msgs, tf, geometry_msgs, std_srvs, collvoid_local_planner]
+collvoid_local_planner: [roscpp, collvoid_msgs, visualization_msgs, tf, angles, base_local_planner,
+  pluginlib, nav_core, actionlib, move_base_msgs, std_srvs, dynamic_reconfigure]
+collvoid_msgs: [geometry_msgs, nav_msgs]
+collvoid_simple_global_planner: [roscpp, pluginlib, nav_core, costmap_2d, base_local_planner,
+  tf, angles]
+collvoid_stage: [stage, collvoid_local_planner]
 common: [actionlib, pluginlib, ros, ros_comm]
 common_rosdeps: [ros]
 common_tutorials: [actionlib, common_msgs, geometry, nodelet_core, pluginlib, ros,
@@ -131,6 +138,8 @@ move_base: [roscpp, rosconsole, std_msgs, move_base_msgs, geometry_msgs, visuali
 move_base_msgs: [roslib, std_msgs, actionlib_msgs, geometry_msgs]
 move_slow_and_clear: [roscpp, nav_core, costmap_2d, geometry_msgs, pluginlib, dynamic_reconfigure,
   common_rosdeps, eigen]
+multi_robot_collision_avoidance: [common, common_msgs, driver_common, geometry, navigation,
+  pluginlib, ros, ros_comm, stage]
 multimaster_experimental: [ros, ros_comm]
 nav_core: [std_msgs, geometry_msgs, costmap_2d, tf]
 nav_msgs: [geometry_msgs]
@@ -156,6 +165,8 @@ openni_tracker: [geometry_msgs, kdl, roscpp, roslib, tf, openni-dev, nite-dev, p
 openrtm_cpp: [pkg-config, uuid, omniorb, python-yaml, doxygen]
 osm_cartography: [dynamic_reconfigure, geodesy, geographic_msgs, geometry_msgs, rospy,
   tf, std_msgs, visualization_msgs]
+pacman_controller: [rospy, roscpp, std_msgs, std_srvs, visualization_msgs, geometry_msgs,
+  collvoid_msgs, collvoid_local_planner, tf, actionlib, move_base_msgs]
 pluginlib_tutorials: [pluginlib, roscpp]
 point_cloud_publisher_tutorial: [roscpp, sensor_msgs]
 pr2_make_a_map_app: [pr2_position_scripts, gmapping, tf, mongodb, topic_tools, map_store]
