@@ -27,6 +27,7 @@ clearpath_turtlebot: [turtlebot_rndmwalk, turtlebot_train, turtlebot_kinect]
 cob_extern: [libpcan, libphidgets, libntcan, libmesasr]
 common_msgs: [geometry_msgs, actionlib_msgs, visualization_msgs, nav_msgs, diagnostic_msgs,
   stereo_msgs, sensor_msgs, trajectory_msgs, shape_msgs]
+common_rosdeps: {common_rosdeps: /home/rosbuild/hudson/workspace/doc-fuerte-common_rosdeps-precise-amd64/doc_stacks/2012-10-12_23-38-12.855136/common_rosdeps}
 common_tutorials: [turtle_actionlib, pluginlib_tutorials, actionlib_tutorials, nodelet_tutorial_math]
 control: [control_msgs]
 diagnostics_monitors: [runtime_monitor, robot_monitor]

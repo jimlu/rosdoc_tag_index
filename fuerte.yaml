@@ -109,6 +109,9 @@ ros-fuerte-common-msgs:
   package: trajectory_msgs}
 - {docs_url: ../../../api/shape_msgs/html, location: 'http://ros.org/rosdoclite/fuerte/api/shape_msgs/tags/shape_msgs.tag',
   package: shape_msgs}
+ros-fuerte-common-rosdeps:
+- {docs_url: ../../../api/common_rosdeps/html, location: 'http://ros.org/rosdoclite/fuerte/api/common_rosdeps/tags/common_rosdeps.tag',
+  package: common_rosdeps}
 ros-fuerte-common-tutorials:
 - {docs_url: ../../../api/turtle_actionlib/html, location: 'http://ros.org/rosdoclite/fuerte/api/turtle_actionlib/tags/turtle_actionlib.tag',
   package: turtle_actionlib}
