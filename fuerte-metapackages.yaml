@@ -38,6 +38,22 @@ kingfisher: [kingfisher_node, kingfisher_bringup, kingfisher_msgs]
 langs: []
 laser_pipeline: [laser_geometry, laser_filters, laser_assembler]
 megatree_pcl: [megatree_pcl]
+navigation: {amcl: /home/rosbuild/hudson/workspace/doc-fuerte-navigation-precise-amd64/doc_stacks/2012-10-12_22-13-40.862153/navigation/amcl,
+  base_local_planner: /home/rosbuild/hudson/workspace/doc-fuerte-navigation-precise-amd64/doc_stacks/2012-10-12_22-13-40.862153/navigation/base_local_planner,
+  carrot_planner: /home/rosbuild/hudson/workspace/doc-fuerte-navigation-precise-amd64/doc_stacks/2012-10-12_22-13-40.862153/navigation/carrot_planner,
+  clear_costmap_recovery: /home/rosbuild/hudson/workspace/doc-fuerte-navigation-precise-amd64/doc_stacks/2012-10-12_22-13-40.862153/navigation/clear_costmap_recovery,
+  costmap_2d: /home/rosbuild/hudson/workspace/doc-fuerte-navigation-precise-amd64/doc_stacks/2012-10-12_22-13-40.862153/navigation/costmap_2d,
+  dwa_local_planner: /home/rosbuild/hudson/workspace/doc-fuerte-navigation-precise-amd64/doc_stacks/2012-10-12_22-13-40.862153/navigation/dwa_local_planner,
+  fake_localization: /home/rosbuild/hudson/workspace/doc-fuerte-navigation-precise-amd64/doc_stacks/2012-10-12_22-13-40.862153/navigation/fake_localization,
+  map_server: /home/rosbuild/hudson/workspace/doc-fuerte-navigation-precise-amd64/doc_stacks/2012-10-12_22-13-40.862153/navigation/map_server,
+  move_base: /home/rosbuild/hudson/workspace/doc-fuerte-navigation-precise-amd64/doc_stacks/2012-10-12_22-13-40.862153/navigation/move_base,
+  move_base_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-navigation-precise-amd64/doc_stacks/2012-10-12_22-13-40.862153/navigation/move_base_msgs,
+  move_slow_and_clear: /home/rosbuild/hudson/workspace/doc-fuerte-navigation-precise-amd64/doc_stacks/2012-10-12_22-13-40.862153/navigation/move_slow_and_clear,
+  nav_core: /home/rosbuild/hudson/workspace/doc-fuerte-navigation-precise-amd64/doc_stacks/2012-10-12_22-13-40.862153/navigation/nav_core,
+  navfn: /home/rosbuild/hudson/workspace/doc-fuerte-navigation-precise-amd64/doc_stacks/2012-10-12_22-13-40.862153/navigation/navfn,
+  robot_pose_ekf: /home/rosbuild/hudson/workspace/doc-fuerte-navigation-precise-amd64/doc_stacks/2012-10-12_22-13-40.862153/navigation/robot_pose_ekf,
+  rotate_recovery: /home/rosbuild/hudson/workspace/doc-fuerte-navigation-precise-amd64/doc_stacks/2012-10-12_22-13-40.862153/navigation/rotate_recovery,
+  voxel_grid: /home/rosbuild/hudson/workspace/doc-fuerte-navigation-precise-amd64/doc_stacks/2012-10-12_22-13-40.862153/navigation/voxel_grid}
 nmea_gps_driver: [nmea_gps_driver]
 open_street_map: [route_network, test_osm, osm_cartography]
 openni_launch: [openni_launch]

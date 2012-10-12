@@ -11,6 +11,8 @@ adept: [arm_navigation, common, common_msgs, control, robot_model, ros, ros_comm
   industrial]
 adept_common: [std_msgs, roscpp, actionlib, trajectory_msgs, actionlib_msgs, control_msgs,
   sensor_msgs, simple_message, urdf]
+amcl: [roscpp, rosbag, tf, message_filters, nav_msgs, std_srvs, dynamic_reconfigure,
+  map_server, rostest]
 ar_track_alvar: [std_msgs, rospy, roscpp, tf, image_transport, sensor_msgs, geometry_msgs,
   visualization_msgs, resource_retriever, cv_bridge, pcl_ros]
 audio_capture: [roscpp, audio_common_msgs, libgstreamer0.10-dev, libgstreamer-plugins-base0.10-dev,
@@ -18,6 +20,9 @@ audio_capture: [roscpp, audio_common_msgs, libgstreamer0.10-dev, libgstreamer-pl
 audio_common: [ros, common, common_msgs, common_rosdeps, ros_comm]
 audio_play: [roscpp, audio_common_msgs, libgstreamer0.10-dev, libgstreamer-plugins-base0.10-dev,
   python-gst, gstreamer0.10-plugins-ugly, gstreamer0.10-plugins-good]
+base_local_planner: [std_msgs, nav_msgs, rosconsole, roscpp, tf, roslib, rospy, pluginlib,
+  costmap_2d, voxel_grid, angles, visualization_msgs, geometry_msgs, nav_core, pcl_ros,
+  common_rosdeps, pcl, eigen]
 bfl: [cppunit]
 bond: [roslib]
 bond_core: [ros, ros_comm]
@@ -27,7 +32,11 @@ brown_drivers: [common_msgs, geometry, ros, ros_comm]
 camera1394: [camera_info_manager, diagnostic_updater, driver_base, dynamic_reconfigure,
   image_transport, nodelet, tf, libdc1394-dev]
 camera_drivers: [camera1394, prosilica_driver, wge100_driver]
+carrot_planner: [roscpp, costmap_2d, pluginlib, nav_core, base_local_planner, tf,
+  angles, common_rosdeps, eigen]
 cereal_port: [roscpp]
+clear_costmap_recovery: [roscpp, tf, costmap_2d, nav_core, pluginlib, common_rosdeps,
+  eigen]
 clearpath_base: [rospy, std_msgs, geometry_msgs, python-serial, pkg-config]
 clearpath_bringup: [rospy, std_msgs, daemontools]
 clearpath_common: [common_msgs, joystick_drivers, ros, ros_comm]
@@ -41,14 +50,21 @@ common_tutorials: [actionlib, common_msgs, geometry, nodelet_core, pluginlib, ro
   ros_comm, ros_tutorials]
 control: [common_msgs, ros, ros_comm]
 control_msgs: [actionlib_msgs, geometry_msgs, trajectory_msgs, rospy]
+costmap_2d: [rosconsole, roscpp, std_msgs, geometry_msgs, sensor_msgs, laser_geometry,
+  tf, voxel_grid, nav_msgs, visualization_msgs, rosbag, map_server, pcl_ros, dynamic_reconfigure,
+  common_rosdeps, pcl, eigen]
 database_interface: [roscpp, common_rosdeps, libpq-dev, yaml-cpp]
 diagnostics_monitors: [common_msgs, ros, ros_comm, rx]
 driver_base: [roscpp, self_test, diagnostic_updater, dynamic_reconfigure]
 driver_common: [diagnostics, ros, dynamic_reconfigure]
+dwa_local_planner: [roscpp, tf, costmap_2d, roslib, nav_core, nav_msgs, base_local_planner,
+  angles, dynamic_reconfigure, common_rosdeps, eigen]
 eigen_conversions: [geometry_msgs, kdl, tf, eigen]
 ethzasl_xsens_driver: [common_msgs, geometry, gps_umd, ros, ros_comm]
 executive_smach: [actionlib, common_msgs, ros, ros_comm]
 executive_smach_visualization: [executive_smach, ros, ros_comm, rx]
+fake_localization: [roscpp, rosconsole, nav_msgs, geometry_msgs, tf, message_filters,
+  angles]
 filters: [rosconsole, roscpp, pluginlib]
 geometry: [bullet, common_msgs, ros, ros_comm, orocos_kinematics_dynamics, common_rosdeps]
 geometry_tutorials: [geometry, ros, ros_comm, ros_tutorials]
@@ -79,9 +95,23 @@ laser_pipeline: [common_msgs, common_rosdeps, filters, geometry, perception_pcl,
   ros, ros_comm]
 libpcan: [linux-headers-generic, libpopt-dev]
 libphidgets: [libusb-dev]
+map_server: [rosconsole, roscpp, rospy, nav_msgs, tf, common_rosdeps, python-imaging,
+  python-yaml, yaml-cpp, sdl-image]
 megatree_pcl: [pcl_ros, megatree_storage, megatree_cpp]
 microstrain_3dmgx2_imu: [roscpp, sensor_msgs, self_test, diagnostic_updater, tf, std_srvs]
+move_base: [roscpp, rosconsole, std_msgs, move_base_msgs, geometry_msgs, visualization_msgs,
+  actionlib, nav_core, pluginlib, costmap_2d, tf, nav_msgs, roslib, rospy, rosmsg,
+  rostopic, std_srvs, dynamic_reconfigure, common_rosdeps, base_local_planner, navfn,
+  clear_costmap_recovery, rotate_recovery, eigen]
+move_base_msgs: [roslib, std_msgs, actionlib_msgs, geometry_msgs]
+move_slow_and_clear: [roscpp, nav_core, costmap_2d, geometry_msgs, pluginlib, dynamic_reconfigure,
+  common_rosdeps, eigen]
+nav_core: [std_msgs, geometry_msgs, costmap_2d, tf]
 nav_msgs: [geometry_msgs]
+navfn: [rosconsole, roscpp, geometry_msgs, costmap_2d, nav_core, pluginlib, nav_msgs,
+  tf, visualization_msgs, pcl_ros, common_rosdeps, eigen, fltk, netpbm]
+navigation: [actionlib, bfl, common_msgs, common_rosdeps, dynamic_reconfigure, geometry,
+  laser_pipeline, perception_pcl, pluginlib, ros, ros_comm]
 nmea_gps_driver: [sensor_msgs, std_msgs, rospy, geometry_msgs, python-serial]
 nodelet_tutorial_math: [nodelet, roscpp, std_msgs]
 open_street_map: [common_msgs, driver_common, geographic_info, geometry, ros, ros_comm]
@@ -100,6 +130,8 @@ rbdl: [urdf, urdf_interface, eigen, libunittest++]
 robot_model_py: [ros, ros_comm]
 robot_model_tutorials: [ros]
 robot_monitor: [rospy, diagnostic_msgs, rxbag, wxwidgets, wxpython]
+robot_pose_ekf: [roscpp, rosbag, bfl, std_msgs, geometry_msgs, sensor_msgs, nav_msgs,
+  tf]
 robot_pose_publisher: [roscpp, tf, geometry_msgs]
 romeo: [ros]
 rosbag: [python-imaging, bzip2]
@@ -122,6 +154,8 @@ rosparam: [python-yaml]
 rospy: [roslang]
 rosunit: [gtest]
 roswtf: [python-paramiko]
+rotate_recovery: [roscpp, nav_core, tf, costmap_2d, geometry_msgs, base_local_planner,
+  pluginlib, angles, common_rosdeps, eigen]
 route_network: [dynamic_reconfigure, geodesy, geographic_msgs, geometry_msgs, nav_msgs,
   rospy, visualization_msgs]
 runtime_monitor: [rospy, diagnostic_msgs, rxbag, wxwidgets, wxpython]
@@ -162,6 +196,7 @@ unique_id: [roscpp, rospy, rosunit, uuid_msgs]
 unique_identifier: [ros, ros_comm]
 urdf_parser_py: [rospy]
 visualization_msgs: [geometry_msgs, std_msgs]
+voxel_grid: [rosconsole]
 walk_interfaces: [common_rosdeps, boost, eigen, yaml-cpp]
 walk_msgs: [roscpp, rospy, common_rosdeps, bullet, geometry_msgs, nav_msgs, walk_interfaces,
   visualization_msgs, angles, boost, eigen]
