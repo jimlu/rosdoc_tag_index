@@ -3,7 +3,7 @@ actionlib: {actionlib: /home/rosbuild/hudson/workspace/doc-fuerte-actionlib-prec
 adept: [ADEPT_VIPER_S650_ikfast_arm_navigation, adept_common, ADEPT_VIPER_S650_arm_navigation]
 ar_track_alvar: [ar_track_alvar]
 audio_common: [audio_play, audio_common_msgs, sound_play, audio_capture]
-bfl: [bfl]
+bfl: {bfl: /home/rosbuild/hudson/workspace/doc-fuerte-bfl-precise-amd64/doc_stacks/2012-10-12_23-29-02.269178/bfl}
 bond_core: [bondcpp, test_bond, bondpy, bond, smclib]
 brown_drivers: [irobot_create_2_1]
 camera1394: [camera1394]
