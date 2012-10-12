@@ -24,7 +24,7 @@ executive_smach: [smach, smach_ros, smach_msgs]
 executive_smach_visualization: [smach_viewer]
 filters: [filters]
 gencpp: [gencpp]
-genlisp: [genlisp]
+genlisp: {genlisp: /home/rosbuild/hudson/workspace/doc-fuerte-genlisp-precise-amd64/doc_stacks/2012-10-12_23-28-58.559120/genlisp}
 genmsg: [genmsg]
 genpy: [genpy]
 geometry: [angles, tf_conversions, tf, eigen_conversions]
