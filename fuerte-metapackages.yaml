@@ -2,7 +2,10 @@ ackermann_msgs: [ackermann_msgs]
 actionlib: {actionlib: /home/rosbuild/hudson/workspace/doc-fuerte-actionlib-precise-amd64/doc_stacks/2012-10-12_23-29-17.962532/actionlib}
 adept: [ADEPT_VIPER_S650_ikfast_arm_navigation, adept_common, ADEPT_VIPER_S650_arm_navigation]
 ar_track_alvar: [ar_track_alvar]
-audio_common: [audio_play, audio_common_msgs, sound_play, audio_capture]
+audio_common: {audio_capture: /home/rosbuild/hudson/workspace/doc-fuerte-audio_common-precise-amd64/doc_stacks/2012-10-12_23-33-55.582070/audio_common/audio_capture,
+  audio_common_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-audio_common-precise-amd64/doc_stacks/2012-10-12_23-33-55.582070/audio_common/audio_common_msgs,
+  audio_play: /home/rosbuild/hudson/workspace/doc-fuerte-audio_common-precise-amd64/doc_stacks/2012-10-12_23-33-55.582070/audio_common/audio_play,
+  sound_play: /home/rosbuild/hudson/workspace/doc-fuerte-audio_common-precise-amd64/doc_stacks/2012-10-12_23-33-55.582070/audio_common/sound_play}
 bfl: {bfl: /home/rosbuild/hudson/workspace/doc-fuerte-bfl-precise-amd64/doc_stacks/2012-10-12_23-29-02.269178/bfl}
 bond_core: [bondcpp, test_bond, bondpy, bond, smclib]
 brown_drivers: [irobot_create_2_1]
