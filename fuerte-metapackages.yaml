@@ -65,7 +65,7 @@ pr2_tabletop_manipulation_apps: []
 pr2_tuck_arms_app: [pr2_tuck_arms_app]
 rbdl: [rbdl]
 robot_model_py: [urdf_parser_py]
-robot_model_tutorials: [urdf_tutorial]
+robot_model_tutorials: {urdf_tutorial: /home/rosbuild/hudson/workspace/doc-fuerte-robot_model_tutorials-precise-amd64/doc_stacks/2012-10-12_23-30-53.124776/robot_model_tutorials/urdf_tutorial}
 robot_pose_publisher: [robot_pose_publisher]
 romeo: [romeo_description]
 ros: [rosboost_cfg, rosbuild, roslib, mk, rosunit, roslang, rosbash, rosclean, rosmake,
