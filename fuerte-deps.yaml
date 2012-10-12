@@ -150,6 +150,7 @@ nodelet_tutorial_math: [nodelet, roscpp, std_msgs]
 occupancy_grid_utils: [nav_msgs, geometry_msgs, tf, sensor_msgs, roscpp, laser_geometry,
   bullet, rospy, map_server]
 odometry_publisher_tutorial: [roscpp, nav_msgs, tf]
+ogre_tools_qt: [ogre, rosconsole, roslib]
 open_street_map: [common_msgs, driver_common, geographic_info, geometry, ros, ros_comm]
 openni_launch: [depth_image_proc, image_proc, nodelet, openni_camera, tf]
 openni_tracker: [geometry_msgs, kdl, roscpp, roslib, tf, openni-dev, nite-dev, ps-engine]
@@ -205,6 +206,11 @@ rotate_recovery: [roscpp, nav_core, tf, costmap_2d, geometry_msgs, base_local_pl
 route_network: [dynamic_reconfigure, geodesy, geographic_msgs, geometry_msgs, nav_msgs,
   rospy, visualization_msgs]
 runtime_monitor: [rospy, diagnostic_msgs, rxbag, wxwidgets, wxpython]
+rviz_qt: [ogre, ogre_tools_qt, roscpp, rospy, rosconsole, message_filters, std_msgs,
+  std_srvs, sensor_msgs, geometry_msgs, nav_msgs, tf, laser_geometry, visualization_msgs,
+  urdf, urdf_interface, resource_retriever, image_transport, interactive_markers,
+  pluginlib, common_rosdeps, libqt4-dev, libqt4-opengl-dev, qt4-qmake, assimp, pyside,
+  yaml-cpp]
 rxbag: [rospy, roslib, std_msgs, rosbag, rosgraph, rxtools, python-gtk2, wxpython]
 rxgraph: [rosgraph, xdot, rostopic, rosnode]
 rxtools: [roscpp, rosgraph_msgs, roslib, rospy, wxPython_swig_interface, wxwidgets,
@@ -246,6 +252,8 @@ turtlesim: [libqt4-dev, qt4-qmake]
 unique_id: [roscpp, rospy, rosunit, uuid_msgs]
 unique_identifier: [ros, ros_comm]
 urdf_parser_py: [rospy]
+visualization_experimental: [common_msgs, common_rosdeps, geometry, image_common,
+  laser_pipeline, pluginlib, robot_model, ros, ros_comm, visualization, visualization_common]
 visualization_msgs: [geometry_msgs, std_msgs]
 voxel_grid: [rosconsole]
 walk_interfaces: [common_rosdeps, boost, eigen, yaml-cpp]
