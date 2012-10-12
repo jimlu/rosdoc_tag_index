@@ -129,6 +129,10 @@ navfn: [rosconsole, roscpp, geometry_msgs, costmap_2d, nav_core, pluginlib, nav_
 navigation: [actionlib, bfl, common_msgs, common_rosdeps, dynamic_reconfigure, geometry,
   laser_pipeline, perception_pcl, pluginlib, ros, ros_comm]
 nmea_gps_driver: [sensor_msgs, std_msgs, rospy, geometry_msgs, python-serial]
+nodelet: [pluginlib, roscpp, rospy, bondcpp, uuid]
+nodelet_core: [bond_core, dynamic_reconfigure, pluginlib, ros, ros_comm]
+nodelet_topic_tools: [nodelet, roscpp, message_filters, dynamic_reconfigure, rospy,
+  std_msgs]
 nodelet_tutorial_math: [nodelet, roscpp, std_msgs]
 open_street_map: [common_msgs, driver_common, geographic_info, geometry, ros, ros_comm]
 openni_launch: [depth_image_proc, image_proc, nodelet, openni_camera, tf]
@@ -195,6 +199,7 @@ srs_object_database_msgs: [pcl, visualization_msgs, sensor_msgs, arm_navigation_
 stereo_msgs: [sensor_msgs]
 student_database: [database_interface]
 test_bond: [rostest, bond, bondpy, bondcpp]
+test_nodelet: [nodelet, std_msgs, rostest, pluginlib]
 test_osm: [osm_cartography, route_network, geodesy, geographic_msgs]
 test_rospy: [python-numpy]
 tf: [bullet, geometry_msgs, sensor_msgs, roscpp, rosconsole, angles, rospy, rostest,

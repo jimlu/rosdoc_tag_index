@@ -64,6 +64,9 @@ navigation: {amcl: /home/rosbuild/hudson/workspace/doc-fuerte-navigation-precise
   rotate_recovery: /home/rosbuild/hudson/workspace/doc-fuerte-navigation-precise-amd64/doc_stacks/2012-10-12_22-13-40.862153/navigation/rotate_recovery,
   voxel_grid: /home/rosbuild/hudson/workspace/doc-fuerte-navigation-precise-amd64/doc_stacks/2012-10-12_22-13-40.862153/navigation/voxel_grid}
 nmea_gps_driver: [nmea_gps_driver]
+nodelet_core: {nodelet: /home/rosbuild/hudson/workspace/doc-fuerte-nodelet_core-precise-amd64/doc_stacks/2012-10-12_23-31-52.217550/nodelet_core/nodelet,
+  nodelet_topic_tools: /home/rosbuild/hudson/workspace/doc-fuerte-nodelet_core-precise-amd64/doc_stacks/2012-10-12_23-31-52.217550/nodelet_core/nodelet_topic_tools,
+  test_nodelet: /home/rosbuild/hudson/workspace/doc-fuerte-nodelet_core-precise-amd64/doc_stacks/2012-10-12_23-31-52.217550/nodelet_core/test_nodelet}
 open_street_map: [route_network, test_osm, osm_cartography]
 openni_launch: [openni_launch]
 openni_tracker: [openni_tracker]

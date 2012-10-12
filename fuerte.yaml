@@ -231,6 +231,13 @@ ros-fuerte-navigation:
 ros-fuerte-nmea-gps-driver:
 - {docs_url: ../../../api/nmea_gps_driver/html, location: 'http://ros.org/rosdoclite/fuerte/api/nmea_gps_driver/tags/nmea_gps_driver.tag',
   package: nmea_gps_driver}
+ros-fuerte-nodelet-core:
+- {docs_url: ../../../api/nodelet/html, location: 'http://ros.org/rosdoclite/fuerte/api/nodelet/tags/nodelet.tag',
+  package: nodelet}
+- {docs_url: ../../../api/nodelet_topic_tools/html, location: 'http://ros.org/rosdoclite/fuerte/api/nodelet_topic_tools/tags/nodelet_topic_tools.tag',
+  package: nodelet_topic_tools}
+- {docs_url: ../../../api/test_nodelet/html, location: 'http://ros.org/rosdoclite/fuerte/api/test_nodelet/tags/test_nodelet.tag',
+  package: test_nodelet}
 ros-fuerte-open-street-map:
 - {docs_url: ../../../api/test_osm/html, location: 'http://ros.org/rosdoclite/fuerte/api/test_osm/tags/test_osm.tag',
   package: test_osm}
