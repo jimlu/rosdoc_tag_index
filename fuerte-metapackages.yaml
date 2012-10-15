@@ -147,10 +147,10 @@ ros_comm: [test_roscpp_serialization, rosservice, rosgraph_msgs, rosconsole, tes
 ros_tutorials: {roscpp_tutorials: /home/rosbuild/hudson/workspace/doc-fuerte-ros_tutorials-precise-amd64/doc_stacks/2012-10-15_17-32-13.113409/ros_tutorials/roscpp_tutorials,
   rospy_tutorials: /home/rosbuild/hudson/workspace/doc-fuerte-ros_tutorials-precise-amd64/doc_stacks/2012-10-15_17-32-13.113409/ros_tutorials/rospy_tutorials,
   turtlesim: /home/rosbuild/hudson/workspace/doc-fuerte-ros_tutorials-precise-amd64/doc_stacks/2012-10-15_17-32-13.113409/ros_tutorials/turtlesim}
-roscpp_core: {cpp_common: /home/rosbuild/hudson/workspace/doc-fuerte-roscpp_core-precise-amd64/doc_stacks/2012-10-12_23-37-51.581504/roscpp_core/cpp_common,
-  roscpp_serialization: /home/rosbuild/hudson/workspace/doc-fuerte-roscpp_core-precise-amd64/doc_stacks/2012-10-12_23-37-51.581504/roscpp_core/roscpp_serialization,
-  roscpp_traits: /home/rosbuild/hudson/workspace/doc-fuerte-roscpp_core-precise-amd64/doc_stacks/2012-10-12_23-37-51.581504/roscpp_core/roscpp_traits,
-  rostime: /home/rosbuild/hudson/workspace/doc-fuerte-roscpp_core-precise-amd64/doc_stacks/2012-10-12_23-37-51.581504/roscpp_core/rostime}
+roscpp_core: {cpp_common: /home/rosbuild/hudson/workspace/doc-fuerte-roscpp_core-precise-amd64/doc_stacks/2012-10-15_17-33-49.272295/roscpp_core/cpp_common,
+  roscpp_serialization: /home/rosbuild/hudson/workspace/doc-fuerte-roscpp_core-precise-amd64/doc_stacks/2012-10-15_17-33-49.272295/roscpp_core/roscpp_serialization,
+  roscpp_traits: /home/rosbuild/hudson/workspace/doc-fuerte-roscpp_core-precise-amd64/doc_stacks/2012-10-15_17-33-49.272295/roscpp_core/roscpp_traits,
+  rostime: /home/rosbuild/hudson/workspace/doc-fuerte-roscpp_core-precise-amd64/doc_stacks/2012-10-15_17-33-49.272295/roscpp_core/rostime}
 rosh_desktop_plugins: [rosh_visualization, rosh_desktop]
 rosh_robot_plugins: {rosh_common: /home/rosbuild/hudson/workspace/doc-fuerte-rosh_robot_plugins-precise-amd64/doc_stacks/2012-10-12_23-39-07.587437/rosh_robot_plugins/rosh_common,
   rosh_geometry: /home/rosbuild/hudson/workspace/doc-fuerte-rosh_robot_plugins-precise-amd64/doc_stacks/2012-10-12_23-39-07.587437/rosh_robot_plugins/rosh_geometry,
