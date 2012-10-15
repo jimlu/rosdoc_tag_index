@@ -124,7 +124,7 @@ occupancy_grid_utils: {occupancy_grid_utils: /home/rosbuild/hudson/workspace/doc
 open_street_map: [route_network, test_osm, osm_cartography]
 openni_camera: {openni_camera: /home/rosbuild/hudson/workspace/doc-fuerte-openni_camera-precise-amd64/doc_stacks/2012-10-15_17-30-14.017247/openni_camera}
 openni_launch: {openni_launch: /home/rosbuild/hudson/workspace/doc-fuerte-openni_launch-precise-amd64/doc_stacks/2012-10-12_23-34-12.359166/openni_launch}
-openni_tracker: {openni_tracker: /home/rosbuild/hudson/workspace/doc-fuerte-openni_tracker-precise-amd64/doc_stacks/2012-10-12_23-40-51.642627/openni_tracker}
+openni_tracker: {openni_tracker: /home/rosbuild/hudson/workspace/doc-fuerte-openni_tracker-precise-amd64/doc_stacks/2012-10-15_17-37-41.092496/openni_tracker}
 openrtm_cpp: [openrtm_cpp]
 pluginlib: {pluginlib: /home/rosbuild/hudson/workspace/doc-fuerte-pluginlib-precise-amd64/doc_stacks/2012-10-15_17-34-06.963897/pluginlib}
 pr2_make_a_map_app: [pr2_make_a_map_app]
