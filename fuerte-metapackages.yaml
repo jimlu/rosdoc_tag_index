@@ -13,15 +13,15 @@ bond_core: {bond: /home/rosbuild/hudson/workspace/doc-fuerte-bond_core-precise-a
   smclib: /home/rosbuild/hudson/workspace/doc-fuerte-bond_core-precise-amd64/doc_stacks/2012-10-12_23-37-11.225634/bond_core/smclib,
   test_bond: /home/rosbuild/hudson/workspace/doc-fuerte-bond_core-precise-amd64/doc_stacks/2012-10-12_23-37-11.225634/bond_core/test_bond}
 brown_drivers: [irobot_create_2_1]
-calibration: {calibration_estimation: /home/rosbuild/hudson/workspace/doc-fuerte-calibration-precise-amd64/doc_stacks/2012-10-12_23-28-48.812222/calibration/calibration_estimation,
-  calibration_launch: /home/rosbuild/hudson/workspace/doc-fuerte-calibration-precise-amd64/doc_stacks/2012-10-12_23-28-48.812222/calibration/calibration_launch,
-  calibration_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-calibration-precise-amd64/doc_stacks/2012-10-12_23-28-48.812222/calibration/calibration_msgs,
-  image_cb_detector: /home/rosbuild/hudson/workspace/doc-fuerte-calibration-precise-amd64/doc_stacks/2012-10-12_23-28-48.812222/calibration/image_cb_detector,
-  interval_intersection: /home/rosbuild/hudson/workspace/doc-fuerte-calibration-precise-amd64/doc_stacks/2012-10-12_23-28-48.812222/calibration/interval_intersection,
-  joint_states_settler: /home/rosbuild/hudson/workspace/doc-fuerte-calibration-precise-amd64/doc_stacks/2012-10-12_23-28-48.812222/calibration/joint_states_settler,
-  laser_cb_detector: /home/rosbuild/hudson/workspace/doc-fuerte-calibration-precise-amd64/doc_stacks/2012-10-12_23-28-48.812222/calibration/laser_cb_detector,
-  monocam_settler: /home/rosbuild/hudson/workspace/doc-fuerte-calibration-precise-amd64/doc_stacks/2012-10-12_23-28-48.812222/calibration/monocam_settler,
-  settlerlib: /home/rosbuild/hudson/workspace/doc-fuerte-calibration-precise-amd64/doc_stacks/2012-10-12_23-28-48.812222/calibration/settlerlib}
+calibration: {calibration_estimation: /home/rosbuild/hudson/workspace/doc-fuerte-calibration-precise-amd64/doc_stacks/2012-10-15_17-27-04.137340/calibration/calibration_estimation,
+  calibration_launch: /home/rosbuild/hudson/workspace/doc-fuerte-calibration-precise-amd64/doc_stacks/2012-10-15_17-27-04.137340/calibration/calibration_launch,
+  calibration_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-calibration-precise-amd64/doc_stacks/2012-10-15_17-27-04.137340/calibration/calibration_msgs,
+  image_cb_detector: /home/rosbuild/hudson/workspace/doc-fuerte-calibration-precise-amd64/doc_stacks/2012-10-15_17-27-04.137340/calibration/image_cb_detector,
+  interval_intersection: /home/rosbuild/hudson/workspace/doc-fuerte-calibration-precise-amd64/doc_stacks/2012-10-15_17-27-04.137340/calibration/interval_intersection,
+  joint_states_settler: /home/rosbuild/hudson/workspace/doc-fuerte-calibration-precise-amd64/doc_stacks/2012-10-15_17-27-04.137340/calibration/joint_states_settler,
+  laser_cb_detector: /home/rosbuild/hudson/workspace/doc-fuerte-calibration-precise-amd64/doc_stacks/2012-10-15_17-27-04.137340/calibration/laser_cb_detector,
+  monocam_settler: /home/rosbuild/hudson/workspace/doc-fuerte-calibration-precise-amd64/doc_stacks/2012-10-15_17-27-04.137340/calibration/monocam_settler,
+  settlerlib: /home/rosbuild/hudson/workspace/doc-fuerte-calibration-precise-amd64/doc_stacks/2012-10-15_17-27-04.137340/calibration/settlerlib}
 camera1394: [camera1394]
 camera_drivers: []
 catkin: {}
