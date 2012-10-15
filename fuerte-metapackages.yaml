@@ -47,17 +47,17 @@ common_tutorials: [turtle_actionlib, pluginlib_tutorials, actionlib_tutorials, n
 control: [control_msgs]
 diagnostics_monitors: [runtime_monitor, robot_monitor]
 driver_common: [driver_base, timestamp_tools]
-dynamic_reconfigure: {dynamic_reconfigure: /home/rosbuild/hudson/workspace/doc-fuerte-dynamic_reconfigure-precise-amd64/doc_stacks/2012-10-12_23-39-57.015854/dynamic_reconfigure}
+dynamic_reconfigure: {dynamic_reconfigure: /home/rosbuild/hudson/workspace/doc-fuerte-dynamic_reconfigure-precise-amd64/doc_stacks/2012-10-15_18-15-50.078497/dynamic_reconfigure}
 ethzasl_xsens_driver: [xsens_driver]
 executive_smach: {smach: /home/rosbuild/hudson/workspace/doc-fuerte-executive_smach-precise-amd64/doc_stacks/2012-10-15_18-13-00.532454/executive_smach/smach,
   smach_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-executive_smach-precise-amd64/doc_stacks/2012-10-15_18-13-00.532454/executive_smach/smach_msgs,
   smach_ros: /home/rosbuild/hudson/workspace/doc-fuerte-executive_smach-precise-amd64/doc_stacks/2012-10-15_18-13-00.532454/executive_smach/smach_ros}
 executive_smach_visualization: {smach_viewer: /home/rosbuild/hudson/workspace/doc-fuerte-executive_smach_visualization-precise-amd64/doc_stacks/2012-10-15_18-09-02.570795/executive_smach_visualization/smach_viewer}
-filters: {filters: /home/rosbuild/hudson/workspace/doc-fuerte-filters-precise-amd64/doc_stacks/2012-10-15_17-37-15.700260/filters}
+filters: {filters: /home/rosbuild/hudson/workspace/doc-fuerte-filters-precise-amd64/doc_stacks/2012-10-15_18-16-36.716641/filters}
 gencpp: {gencpp: /home/rosbuild/hudson/workspace/doc-fuerte-gencpp-precise-amd64/doc_stacks/2012-10-15_18-13-07.786770/gencpp}
 genlisp: {genlisp: /home/rosbuild/hudson/workspace/doc-fuerte-genlisp-precise-amd64/doc_stacks/2012-10-15_18-06-03.733887/genlisp}
 genmsg: {genmsg: /home/rosbuild/hudson/workspace/doc-fuerte-genmsg-precise-amd64/doc_stacks/2012-10-15_18-06-26.938852/genmsg}
-genpy: {genpy: /home/rosbuild/hudson/workspace/doc-fuerte-genpy-precise-amd64/doc_stacks/2012-10-15_17-36-19.038951/genpy}
+genpy: {genpy: /home/rosbuild/hudson/workspace/doc-fuerte-genpy-precise-amd64/doc_stacks/2012-10-15_18-15-52.839549/genpy}
 geometry: [angles, tf_conversions, tf, eigen_conversions]
 geometry_experimental: {test_tf2: /home/rosbuild/hudson/workspace/doc-fuerte-geometry_experimental-precise-amd64/doc_stacks/2012-10-12_23-42-17.041537/geometry_experimental/test_tf2,
   tf2: /home/rosbuild/hudson/workspace/doc-fuerte-geometry_experimental-precise-amd64/doc_stacks/2012-10-12_23-42-17.041537/geometry_experimental/tf2,
@@ -124,7 +124,7 @@ occupancy_grid_utils: {occupancy_grid_utils: /home/rosbuild/hudson/workspace/doc
 open_street_map: [route_network, test_osm, osm_cartography]
 openni_camera: {openni_camera: /home/rosbuild/hudson/workspace/doc-fuerte-openni_camera-precise-amd64/doc_stacks/2012-10-15_18-09-47.255732/openni_camera}
 openni_launch: {openni_launch: /home/rosbuild/hudson/workspace/doc-fuerte-openni_launch-precise-amd64/doc_stacks/2012-10-15_18-09-36.753643/openni_launch}
-openni_tracker: {openni_tracker: /home/rosbuild/hudson/workspace/doc-fuerte-openni_tracker-precise-amd64/doc_stacks/2012-10-15_17-37-41.092496/openni_tracker}
+openni_tracker: {openni_tracker: /home/rosbuild/hudson/workspace/doc-fuerte-openni_tracker-precise-amd64/doc_stacks/2012-10-15_18-16-15.763084/openni_tracker}
 openrtm_cpp: [openrtm_cpp]
 pluginlib: {pluginlib: /home/rosbuild/hudson/workspace/doc-fuerte-pluginlib-precise-amd64/doc_stacks/2012-10-15_18-13-37.919476/pluginlib}
 pr2_make_a_map_app: [pr2_make_a_map_app]
@@ -174,7 +174,7 @@ simple_object_capture: {simple_object_capture: /home/rosbuild/hudson/workspace/d
 slam_gmapping: [gmapping]
 sql_database: [student_database, database_interface]
 srs_common: [srs_object_database_msgs]
-std_msgs: {std_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-std_msgs-precise-amd64/doc_stacks/2012-10-15_17-37-32.338873/std_msgs}
+std_msgs: {std_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-std_msgs-precise-amd64/doc_stacks/2012-10-15_18-16-16.115717/std_msgs}
 unique_identifier: [uuid_msgs, unique_id]
 universal_robot: {ur5_bringup: /home/rosbuild/hudson/workspace/doc-fuerte-universal_robot-precise-amd64/doc_stacks/2012-10-15_18-11-59.921423/universal_robot/ur5_bringup,
   ur5_description: /home/rosbuild/hudson/workspace/doc-fuerte-universal_robot-precise-amd64/doc_stacks/2012-10-15_18-11-59.921423/universal_robot/ur5_description,
