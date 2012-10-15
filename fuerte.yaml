@@ -1,3 +1,6 @@
+libassimp-dev:
+- {docs_url: ../../../api/assimp/html, location: 'http://ros.org/rosdoclite/fuerte/api/assimp/tags/assimp.tag',
+  package: assimp}
 ros-fuerte-ackermann-msgs:
 - {docs_url: ../../../api/ackermann_msgs/html, location: 'http://ros.org/rosdoclite/fuerte/api/ackermann_msgs/tags/ackermann_msgs.tag',
   package: ackermann_msgs}
