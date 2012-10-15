@@ -2,10 +2,10 @@ ackermann_msgs: [ackermann_msgs]
 actionlib: {actionlib: /home/rosbuild/hudson/workspace/doc-fuerte-actionlib-precise-amd64/doc_stacks/2012-10-15_18-06-18.807501/actionlib}
 adept: [ADEPT_VIPER_S650_ikfast_arm_navigation, adept_common, ADEPT_VIPER_S650_arm_navigation]
 ar_track_alvar: [ar_track_alvar]
-audio_common: {audio_capture: /home/rosbuild/hudson/workspace/doc-fuerte-audio_common-precise-amd64/doc_stacks/2012-10-15_17-29-51.884316/audio_common/audio_capture,
-  audio_common_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-audio_common-precise-amd64/doc_stacks/2012-10-15_17-29-51.884316/audio_common/audio_common_msgs,
-  audio_play: /home/rosbuild/hudson/workspace/doc-fuerte-audio_common-precise-amd64/doc_stacks/2012-10-15_17-29-51.884316/audio_common/audio_play,
-  sound_play: /home/rosbuild/hudson/workspace/doc-fuerte-audio_common-precise-amd64/doc_stacks/2012-10-15_17-29-51.884316/audio_common/sound_play}
+audio_common: {audio_capture: /home/rosbuild/hudson/workspace/doc-fuerte-audio_common-precise-amd64/doc_stacks/2012-10-15_18-09-10.280452/audio_common/audio_capture,
+  audio_common_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-audio_common-precise-amd64/doc_stacks/2012-10-15_18-09-10.280452/audio_common/audio_common_msgs,
+  audio_play: /home/rosbuild/hudson/workspace/doc-fuerte-audio_common-precise-amd64/doc_stacks/2012-10-15_18-09-10.280452/audio_common/audio_play,
+  sound_play: /home/rosbuild/hudson/workspace/doc-fuerte-audio_common-precise-amd64/doc_stacks/2012-10-15_18-09-10.280452/audio_common/sound_play}
 bfl: {bfl: /home/rosbuild/hudson/workspace/doc-fuerte-bfl-precise-amd64/doc_stacks/2012-10-15_18-06-13.029175/bfl}
 bond_core: {bond: /home/rosbuild/hudson/workspace/doc-fuerte-bond_core-precise-amd64/doc_stacks/2012-10-15_17-32-56.960072/bond_core/bond,
   bondcpp: /home/rosbuild/hudson/workspace/doc-fuerte-bond_core-precise-amd64/doc_stacks/2012-10-15_17-32-56.960072/bond_core/bondcpp,
@@ -13,15 +13,15 @@ bond_core: {bond: /home/rosbuild/hudson/workspace/doc-fuerte-bond_core-precise-a
   smclib: /home/rosbuild/hudson/workspace/doc-fuerte-bond_core-precise-amd64/doc_stacks/2012-10-15_17-32-56.960072/bond_core/smclib,
   test_bond: /home/rosbuild/hudson/workspace/doc-fuerte-bond_core-precise-amd64/doc_stacks/2012-10-15_17-32-56.960072/bond_core/test_bond}
 brown_drivers: [irobot_create_2_1]
-calibration: {calibration_estimation: /home/rosbuild/hudson/workspace/doc-fuerte-calibration-precise-amd64/doc_stacks/2012-10-15_17-27-04.137340/calibration/calibration_estimation,
-  calibration_launch: /home/rosbuild/hudson/workspace/doc-fuerte-calibration-precise-amd64/doc_stacks/2012-10-15_17-27-04.137340/calibration/calibration_launch,
-  calibration_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-calibration-precise-amd64/doc_stacks/2012-10-15_17-27-04.137340/calibration/calibration_msgs,
-  image_cb_detector: /home/rosbuild/hudson/workspace/doc-fuerte-calibration-precise-amd64/doc_stacks/2012-10-15_17-27-04.137340/calibration/image_cb_detector,
-  interval_intersection: /home/rosbuild/hudson/workspace/doc-fuerte-calibration-precise-amd64/doc_stacks/2012-10-15_17-27-04.137340/calibration/interval_intersection,
-  joint_states_settler: /home/rosbuild/hudson/workspace/doc-fuerte-calibration-precise-amd64/doc_stacks/2012-10-15_17-27-04.137340/calibration/joint_states_settler,
-  laser_cb_detector: /home/rosbuild/hudson/workspace/doc-fuerte-calibration-precise-amd64/doc_stacks/2012-10-15_17-27-04.137340/calibration/laser_cb_detector,
-  monocam_settler: /home/rosbuild/hudson/workspace/doc-fuerte-calibration-precise-amd64/doc_stacks/2012-10-15_17-27-04.137340/calibration/monocam_settler,
-  settlerlib: /home/rosbuild/hudson/workspace/doc-fuerte-calibration-precise-amd64/doc_stacks/2012-10-15_17-27-04.137340/calibration/settlerlib}
+calibration: {calibration_estimation: /home/rosbuild/hudson/workspace/doc-fuerte-calibration-precise-amd64/doc_stacks/2012-10-15_18-05-58.137126/calibration/calibration_estimation,
+  calibration_launch: /home/rosbuild/hudson/workspace/doc-fuerte-calibration-precise-amd64/doc_stacks/2012-10-15_18-05-58.137126/calibration/calibration_launch,
+  calibration_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-calibration-precise-amd64/doc_stacks/2012-10-15_18-05-58.137126/calibration/calibration_msgs,
+  image_cb_detector: /home/rosbuild/hudson/workspace/doc-fuerte-calibration-precise-amd64/doc_stacks/2012-10-15_18-05-58.137126/calibration/image_cb_detector,
+  interval_intersection: /home/rosbuild/hudson/workspace/doc-fuerte-calibration-precise-amd64/doc_stacks/2012-10-15_18-05-58.137126/calibration/interval_intersection,
+  joint_states_settler: /home/rosbuild/hudson/workspace/doc-fuerte-calibration-precise-amd64/doc_stacks/2012-10-15_18-05-58.137126/calibration/joint_states_settler,
+  laser_cb_detector: /home/rosbuild/hudson/workspace/doc-fuerte-calibration-precise-amd64/doc_stacks/2012-10-15_18-05-58.137126/calibration/laser_cb_detector,
+  monocam_settler: /home/rosbuild/hudson/workspace/doc-fuerte-calibration-precise-amd64/doc_stacks/2012-10-15_18-05-58.137126/calibration/monocam_settler,
+  settlerlib: /home/rosbuild/hudson/workspace/doc-fuerte-calibration-precise-amd64/doc_stacks/2012-10-15_18-05-58.137126/calibration/settlerlib}
 camera1394: [camera1394]
 camera_drivers: []
 camera_pose: {camera_pose_calibration: /home/rosbuild/hudson/workspace/doc-fuerte-camera_pose-precise-amd64/doc_stacks/2012-10-15_17-32-10.649972/camera_pose/camera_pose_calibration,
@@ -109,13 +109,13 @@ navigation: {amcl: /home/rosbuild/hudson/workspace/doc-fuerte-navigation-precise
   robot_pose_ekf: /home/rosbuild/hudson/workspace/doc-fuerte-navigation-precise-amd64/doc_stacks/2012-10-12_22-13-40.862153/navigation/robot_pose_ekf,
   rotate_recovery: /home/rosbuild/hudson/workspace/doc-fuerte-navigation-precise-amd64/doc_stacks/2012-10-12_22-13-40.862153/navigation/rotate_recovery,
   voxel_grid: /home/rosbuild/hudson/workspace/doc-fuerte-navigation-precise-amd64/doc_stacks/2012-10-12_22-13-40.862153/navigation/voxel_grid}
-navigation_tutorials: {laser_scan_publisher_tutorial: /home/rosbuild/hudson/workspace/doc-fuerte-navigation_tutorials-precise-amd64/doc_stacks/2012-10-15_17-28-27.777583/navigation_tutorials/laser_scan_publisher_tutorial,
-  navigation_stage: /home/rosbuild/hudson/workspace/doc-fuerte-navigation_tutorials-precise-amd64/doc_stacks/2012-10-15_17-28-27.777583/navigation_tutorials/navigation_stage,
-  odometry_publisher_tutorial: /home/rosbuild/hudson/workspace/doc-fuerte-navigation_tutorials-precise-amd64/doc_stacks/2012-10-15_17-28-27.777583/navigation_tutorials/odometry_publisher_tutorial,
-  point_cloud_publisher_tutorial: /home/rosbuild/hudson/workspace/doc-fuerte-navigation_tutorials-precise-amd64/doc_stacks/2012-10-15_17-28-27.777583/navigation_tutorials/point_cloud_publisher_tutorial,
-  robot_setup_tf_tutorial: /home/rosbuild/hudson/workspace/doc-fuerte-navigation_tutorials-precise-amd64/doc_stacks/2012-10-15_17-28-27.777583/navigation_tutorials/robot_setup_tf_tutorial,
-  roomba_stage: /home/rosbuild/hudson/workspace/doc-fuerte-navigation_tutorials-precise-amd64/doc_stacks/2012-10-15_17-28-27.777583/navigation_tutorials/roomba_stage,
-  simple_navigation_goals_tutorial: /home/rosbuild/hudson/workspace/doc-fuerte-navigation_tutorials-precise-amd64/doc_stacks/2012-10-15_17-28-27.777583/navigation_tutorials/simple_navigation_goals_tutorial}
+navigation_tutorials: {laser_scan_publisher_tutorial: /home/rosbuild/hudson/workspace/doc-fuerte-navigation_tutorials-precise-amd64/doc_stacks/2012-10-15_18-08-03.306940/navigation_tutorials/laser_scan_publisher_tutorial,
+  navigation_stage: /home/rosbuild/hudson/workspace/doc-fuerte-navigation_tutorials-precise-amd64/doc_stacks/2012-10-15_18-08-03.306940/navigation_tutorials/navigation_stage,
+  odometry_publisher_tutorial: /home/rosbuild/hudson/workspace/doc-fuerte-navigation_tutorials-precise-amd64/doc_stacks/2012-10-15_18-08-03.306940/navigation_tutorials/odometry_publisher_tutorial,
+  point_cloud_publisher_tutorial: /home/rosbuild/hudson/workspace/doc-fuerte-navigation_tutorials-precise-amd64/doc_stacks/2012-10-15_18-08-03.306940/navigation_tutorials/point_cloud_publisher_tutorial,
+  robot_setup_tf_tutorial: /home/rosbuild/hudson/workspace/doc-fuerte-navigation_tutorials-precise-amd64/doc_stacks/2012-10-15_18-08-03.306940/navigation_tutorials/robot_setup_tf_tutorial,
+  roomba_stage: /home/rosbuild/hudson/workspace/doc-fuerte-navigation_tutorials-precise-amd64/doc_stacks/2012-10-15_18-08-03.306940/navigation_tutorials/roomba_stage,
+  simple_navigation_goals_tutorial: /home/rosbuild/hudson/workspace/doc-fuerte-navigation_tutorials-precise-amd64/doc_stacks/2012-10-15_18-08-03.306940/navigation_tutorials/simple_navigation_goals_tutorial}
 nmea_gps_driver: [nmea_gps_driver]
 nodelet_core: {nodelet: /home/rosbuild/hudson/workspace/doc-fuerte-nodelet_core-precise-amd64/doc_stacks/2012-10-15_18-06-37.166722/nodelet_core/nodelet,
   nodelet_topic_tools: /home/rosbuild/hudson/workspace/doc-fuerte-nodelet_core-precise-amd64/doc_stacks/2012-10-15_18-06-37.166722/nodelet_core/nodelet_topic_tools,
