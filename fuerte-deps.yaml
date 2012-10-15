@@ -19,6 +19,8 @@ app_manager_tutorial: [rospy, app_manager]
 ar_track_alvar: [std_msgs, rospy, roscpp, tf, image_transport, sensor_msgs, geometry_msgs,
   visualization_msgs, resource_retriever, cv_bridge, pcl_ros]
 assimp: [assimp]
+assisted_teleop: [tf, costmap_2d, roscpp, roslib, geometry_msgs, move_base_msgs, actionlib,
+  message_filters, base_local_planner, angles, pluginlib, sensor_msgs, filters, eigen]
 audio_capture: [roscpp, audio_common_msgs, libgstreamer0.10-dev, libgstreamer-plugins-base0.10-dev,
   python-gst, gstreamer0.10-plugins-ugly, gstreamer0.10-plugins-good]
 audio_common: [ros, common, common_msgs, common_rosdeps, ros_comm]
@@ -89,6 +91,9 @@ driver_common: [diagnostics, ros, dynamic_reconfigure]
 dwa_local_planner: [roscpp, tf, costmap_2d, roslib, nav_core, nav_msgs, base_local_planner,
   angles, dynamic_reconfigure, common_rosdeps, eigen]
 dynamic_reconfigure: [rospy, roscpp, rosservice, wxpython]
+eband_local_planner: [roscpp, pluginlib, nav_core, costmap_2d, base_local_planner,
+  nav_msgs, geometry_msgs, visualization_msgs, tf, tf_conversions, angles, control_toolbox,
+  actionlib, eigen, tinyxml]
 eigen: [eigen]
 eigen_conversions: [geometry_msgs, kdl, tf, eigen]
 ethzasl_xsens_driver: [common_msgs, geometry, gps_umd, ros, ros_comm]
@@ -107,6 +112,7 @@ geometry_tutorials: [geometry, ros, ros_comm, ros_tutorials]
 geometry_visualization: [geometry_experimental, ros, ros_comm, rx]
 gmapping: [roscpp, rosbag, rosconsole, std_msgs, nav_msgs, std_msgs, tf, message_filters,
   map_server]
+goal_passer: [roscpp, costmap_2d, pluginlib, nav_core]
 gps_common: [roscpp, message_filters, nav_msgs, sensor_msgs]
 gps_drivers: [ros, nmea_gps_driver]
 gps_umd: [common_msgs, ros, ros_comm]
@@ -172,6 +178,8 @@ navfn: [rosconsole, roscpp, geometry_msgs, costmap_2d, nav_core, pluginlib, nav_
   tf, visualization_msgs, pcl_ros, common_rosdeps, eigen, fltk, netpbm]
 navigation: [actionlib, bfl, common_msgs, common_rosdeps, dynamic_reconfigure, geometry,
   laser_pipeline, perception_pcl, pluginlib, ros, ros_comm]
+navigation_experimental: [common, common_msgs, filters, geometry, navigation, pluginlib,
+  pr2_controllers, ros, ros_comm, common_rosdeps]
 navigation_stage: [move_base, stage, amcl, map_server, fake_localization, gmapping]
 navigation_tutorials: [common, common_msgs, geometry, navigation, ros, ros_comm, slam_gmapping,
   stage]
@@ -198,6 +206,8 @@ pacman_controller: [rospy, roscpp, std_msgs, std_srvs, visualization_msgs, geome
 pluginlib: [roslib, rosconsole, tinyxml]
 pluginlib_tutorials: [pluginlib, roscpp]
 point_cloud_publisher_tutorial: [roscpp, sensor_msgs]
+pose_base_controller: [actionlib, move_base_msgs, nav_msgs, roscpp, tf, geometry_msgs]
+pose_follower: [nav_core, base_local_planner, costmap_2d, roscpp, tf, nav_msgs, pluginlib]
 pr2_make_a_map_app: [pr2_position_scripts, gmapping, tf, mongodb, topic_tools, map_store]
 pr2_pan_tilt: [geometry_msgs, pr2_controllers_msgs, topic_tools, actionlib, rospy,
   tf]
@@ -263,6 +273,10 @@ rxbag: [rospy, roslib, std_msgs, rosbag, rosgraph, rxtools, python-gtk2, wxpytho
 rxgraph: [rosgraph, xdot, rostopic, rosnode]
 rxtools: [roscpp, rosgraph_msgs, roslib, rospy, wxPython_swig_interface, wxwidgets,
   swig-wx, python-gtk2, python-matplotlib, wxpython]
+sbpl_lattice_planner: [roscpp, costmap_2d, nav_core, pluginlib, geometry_msgs, nav_msgs,
+  sbpl]
+sbpl_recovery: [roscpp, nav_core, sbpl_lattice_planner, pose_follower, costmap_2d,
+  pluginlib, base_local_planner]
 sensor_msgs: [geometry_msgs]
 serial_communication: [ros, ros_comm]
 settlerlib: [roscpp, calibration_msgs]
@@ -308,6 +322,7 @@ turtlebot_kinect: [openni_camera, clearpath_tools, clearpath_kinect_demo]
 turtlebot_rndmwalk: [clearpath_tools, clearpath_kinect_demo, turtlebot_node]
 turtlebot_train: [clearpath_tools, clearpath_kinect_demo, turtlebot_node]
 turtlesim: [libqt4-dev, qt4-qmake]
+twist_recovery: [nav_core, costmap_2d, geometry_msgs, pluginlib, base_local_planner]
 unique_id: [roscpp, rospy, rosunit, uuid_msgs]
 unique_identifier: [ros, ros_comm]
 universal_robot: [geometry_experimental, robot_model, actionlib, ros_comm, control,

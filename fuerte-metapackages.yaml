@@ -123,6 +123,14 @@ navigation: {amcl: /home/rosbuild/hudson/workspace/doc-fuerte-navigation-precise
   robot_pose_ekf: /home/rosbuild/hudson/workspace/doc-fuerte-navigation-precise-amd64/doc_stacks/2012-10-12_22-13-40.862153/navigation/robot_pose_ekf,
   rotate_recovery: /home/rosbuild/hudson/workspace/doc-fuerte-navigation-precise-amd64/doc_stacks/2012-10-12_22-13-40.862153/navigation/rotate_recovery,
   voxel_grid: /home/rosbuild/hudson/workspace/doc-fuerte-navigation-precise-amd64/doc_stacks/2012-10-12_22-13-40.862153/navigation/voxel_grid}
+navigation_experimental: {assisted_teleop: /home/rosbuild/hudson/workspace/doc-fuerte-navigation_experimental-precise-amd64/doc_stacks/2012-10-15_21-58-15.836958/navigation_experimental/assisted_teleop,
+  eband_local_planner: /home/rosbuild/hudson/workspace/doc-fuerte-navigation_experimental-precise-amd64/doc_stacks/2012-10-15_21-58-15.836958/navigation_experimental/eband_local_planner,
+  goal_passer: /home/rosbuild/hudson/workspace/doc-fuerte-navigation_experimental-precise-amd64/doc_stacks/2012-10-15_21-58-15.836958/navigation_experimental/goal_passer,
+  pose_base_controller: /home/rosbuild/hudson/workspace/doc-fuerte-navigation_experimental-precise-amd64/doc_stacks/2012-10-15_21-58-15.836958/navigation_experimental/pose_base_controller,
+  pose_follower: /home/rosbuild/hudson/workspace/doc-fuerte-navigation_experimental-precise-amd64/doc_stacks/2012-10-15_21-58-15.836958/navigation_experimental/pose_follower,
+  sbpl_lattice_planner: /home/rosbuild/hudson/workspace/doc-fuerte-navigation_experimental-precise-amd64/doc_stacks/2012-10-15_21-58-15.836958/navigation_experimental/sbpl_lattice_planner,
+  sbpl_recovery: /home/rosbuild/hudson/workspace/doc-fuerte-navigation_experimental-precise-amd64/doc_stacks/2012-10-15_21-58-15.836958/navigation_experimental/sbpl_recovery,
+  twist_recovery: /home/rosbuild/hudson/workspace/doc-fuerte-navigation_experimental-precise-amd64/doc_stacks/2012-10-15_21-58-15.836958/navigation_experimental/twist_recovery}
 navigation_tutorials: {laser_scan_publisher_tutorial: /home/rosbuild/hudson/workspace/doc-fuerte-navigation_tutorials-precise-amd64/doc_stacks/2012-10-15_18-08-03.306940/navigation_tutorials/laser_scan_publisher_tutorial,
   navigation_stage: /home/rosbuild/hudson/workspace/doc-fuerte-navigation_tutorials-precise-amd64/doc_stacks/2012-10-15_18-08-03.306940/navigation_tutorials/navigation_stage,
   odometry_publisher_tutorial: /home/rosbuild/hudson/workspace/doc-fuerte-navigation_tutorials-precise-amd64/doc_stacks/2012-10-15_18-08-03.306940/navigation_tutorials/odometry_publisher_tutorial,
