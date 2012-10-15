@@ -29,7 +29,12 @@ langs: []
 megatree: [megatree_cpp, megatree_import, megatree_web, megatree_storage, megatree_core,
   megatree_server]
 megatree_pcl: [megatree_pcl]
+multi_robot_collision_avoidance: [collvoid_local_planner, collvoid_simple_global_planner,
+  collvoid_controller, collvoid_msgs, collvoid_pr2, pacman_controller, collvoid_turtlebot,
+  pacman_turtles, collvoid_stage]
 multimaster: [multimaster]
+multimaster_experimental: [rosproxy, app_manager_android, foreign_relay, app_manager_tutorial,
+  pyqrnative, app_manager]
 navigation: [move_base, navfn, clear_costmap_recovery, nav_core, costmap_2d, dwa_local_planner,
   carrot_planner, map_server, robot_pose_ekf, rotate_recovery, amcl, fake_localization,
   move_base_msgs, move_slow_and_clear, base_local_planner, voxel_grid]
@@ -42,6 +47,7 @@ nodelet_core: [nodelet_topic_tools, nodelet, test_nodelet]
 occupancy_grid_utils: [occupancy_grid_utils]
 openni_camera: [openni_camera]
 openni_kinect: [openni_camera_deprecated, openni, nite]
+openni_launch: [openni_launch]
 openni_tracker: [openni_tracker]
 pluginlib: [pluginlib]
 rcommander_core: [rcommander_plain, nodebox_qt, rcommander, tf_broadcast_server]
