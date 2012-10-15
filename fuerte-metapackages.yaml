@@ -14,6 +14,7 @@ bond_core: {bond: /home/rosbuild/hudson/workspace/doc-fuerte-bond_core-precise-a
   smclib: /home/rosbuild/hudson/workspace/doc-fuerte-bond_core-precise-amd64/doc_stacks/2012-10-15_18-12-09.469124/bond_core/smclib,
   test_bond: /home/rosbuild/hudson/workspace/doc-fuerte-bond_core-precise-amd64/doc_stacks/2012-10-15_18-12-09.469124/bond_core/test_bond}
 brown_drivers: [irobot_create_2_1]
+bullet: {bullet: /home/rosbuild/hudson/workspace/doc-fuerte-bullet-precise-amd64/doc_stacks/2012-10-15_19-30-52.718530/bullet}
 calibration: {calibration_estimation: /home/rosbuild/hudson/workspace/doc-fuerte-calibration-precise-amd64/doc_stacks/2012-10-15_18-05-58.137126/calibration/calibration_estimation,
   calibration_launch: /home/rosbuild/hudson/workspace/doc-fuerte-calibration-precise-amd64/doc_stacks/2012-10-15_18-05-58.137126/calibration/calibration_launch,
   calibration_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-calibration-precise-amd64/doc_stacks/2012-10-15_18-05-58.137126/calibration/calibration_msgs,

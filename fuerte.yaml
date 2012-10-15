@@ -43,6 +43,9 @@ ros-fuerte-bond-core:
 ros-fuerte-brown-drivers:
 - {docs_url: ../../../api/irobot_create_2_1/html, location: 'http://ros.org/rosdoclite/fuerte/api/irobot_create_2_1/tags/irobot_create_2_1.tag',
   package: irobot_create_2_1}
+ros-fuerte-bullet:
+- {docs_url: ../../../api/bullet/html, location: 'http://ros.org/rosdoclite/fuerte/api/bullet/tags/bullet.tag',
+  package: bullet}
 ros-fuerte-calibration:
 - {docs_url: ../../../api/calibration_msgs/html, location: 'http://ros.org/rosdoclite/fuerte/api/calibration_msgs/tags/calibration_msgs.tag',
   package: calibration_msgs}
