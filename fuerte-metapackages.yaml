@@ -117,9 +117,9 @@ navigation_tutorials: {laser_scan_publisher_tutorial: /home/rosbuild/hudson/work
   roomba_stage: /home/rosbuild/hudson/workspace/doc-fuerte-navigation_tutorials-precise-amd64/doc_stacks/2012-10-15_17-28-27.777583/navigation_tutorials/roomba_stage,
   simple_navigation_goals_tutorial: /home/rosbuild/hudson/workspace/doc-fuerte-navigation_tutorials-precise-amd64/doc_stacks/2012-10-15_17-28-27.777583/navigation_tutorials/simple_navigation_goals_tutorial}
 nmea_gps_driver: [nmea_gps_driver]
-nodelet_core: {nodelet: /home/rosbuild/hudson/workspace/doc-fuerte-nodelet_core-precise-amd64/doc_stacks/2012-10-15_17-27-12.170457/nodelet_core/nodelet,
-  nodelet_topic_tools: /home/rosbuild/hudson/workspace/doc-fuerte-nodelet_core-precise-amd64/doc_stacks/2012-10-15_17-27-12.170457/nodelet_core/nodelet_topic_tools,
-  test_nodelet: /home/rosbuild/hudson/workspace/doc-fuerte-nodelet_core-precise-amd64/doc_stacks/2012-10-15_17-27-12.170457/nodelet_core/test_nodelet}
+nodelet_core: {nodelet: /home/rosbuild/hudson/workspace/doc-fuerte-nodelet_core-precise-amd64/doc_stacks/2012-10-15_18-06-37.166722/nodelet_core/nodelet,
+  nodelet_topic_tools: /home/rosbuild/hudson/workspace/doc-fuerte-nodelet_core-precise-amd64/doc_stacks/2012-10-15_18-06-37.166722/nodelet_core/nodelet_topic_tools,
+  test_nodelet: /home/rosbuild/hudson/workspace/doc-fuerte-nodelet_core-precise-amd64/doc_stacks/2012-10-15_18-06-37.166722/nodelet_core/test_nodelet}
 occupancy_grid_utils: {occupancy_grid_utils: /home/rosbuild/hudson/workspace/doc-fuerte-occupancy_grid_utils-precise-amd64/doc_stacks/2012-10-15_17-35-26.994699/occupancy_grid_utils}
 open_street_map: [route_network, test_osm, osm_cartography]
 openni_camera: {openni_camera: /home/rosbuild/hudson/workspace/doc-fuerte-openni_camera-precise-amd64/doc_stacks/2012-10-15_17-30-14.017247/openni_camera}
@@ -162,7 +162,7 @@ rosh_robot_plugins: {rosh_common: /home/rosbuild/hudson/workspace/doc-fuerte-ros
   rosh_geometry: /home/rosbuild/hudson/workspace/doc-fuerte-rosh_robot_plugins-precise-amd64/doc_stacks/2012-10-15_17-35-29.304326/rosh_robot_plugins/rosh_geometry,
   rosh_robot: /home/rosbuild/hudson/workspace/doc-fuerte-rosh_robot_plugins-precise-amd64/doc_stacks/2012-10-15_17-35-29.304326/rosh_robot_plugins/rosh_robot}
 rosjs: []
-rospack: {rospack: /home/rosbuild/hudson/workspace/doc-fuerte-rospack-precise-amd64/doc_stacks/2012-10-15_17-27-11.139555/rospack}
+rospack: {rospack: /home/rosbuild/hudson/workspace/doc-fuerte-rospack-precise-amd64/doc_stacks/2012-10-15_18-06-02.675886/rospack}
 rosserial_android: {rosserial_adk_demo: /home/rosbuild/hudson/workspace/doc-fuerte-rosserial_android-precise-amd64/doc_stacks/2012-10-15_17-29-09.715443/rosserial_android/rosserial_adk_demo,
   rosserial_adk_demo_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-rosserial_android-precise-amd64/doc_stacks/2012-10-15_17-29-09.715443/rosserial_android/rosserial_adk_demo_msgs,
   rosserial_android: /home/rosbuild/hudson/workspace/doc-fuerte-rosserial_android-precise-amd64/doc_stacks/2012-10-15_17-29-09.715443/rosserial_android/rosserial_android}
