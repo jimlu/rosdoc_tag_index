@@ -91,15 +91,15 @@ megatree: {megatree_core: /home/rosbuild/hudson/workspace/doc-fuerte-megatree-pr
   megatree_storage: /home/rosbuild/hudson/workspace/doc-fuerte-megatree-precise-amd64/doc_stacks/2012-10-15_21-53-29.618675/megatree/megatree_storage,
   megatree_web: /home/rosbuild/hudson/workspace/doc-fuerte-megatree-precise-amd64/doc_stacks/2012-10-15_21-53-29.618675/megatree/megatree_web}
 megatree_pcl: {megatree_pcl: /home/rosbuild/hudson/workspace/doc-fuerte-megatree_pcl-precise-amd64/doc_stacks/2012-10-15_18-16-38.393504/megatree_pcl}
-multi_robot_collision_avoidance: {collvoid_controller: /home/rosbuild/hudson/workspace/doc-fuerte-multi_robot_collision_avoidance-precise-amd64/doc_stacks/2012-10-12_23-41-35.282928/multi_robot_collision_avoidance/collvoid_controller,
-  collvoid_local_planner: /home/rosbuild/hudson/workspace/doc-fuerte-multi_robot_collision_avoidance-precise-amd64/doc_stacks/2012-10-12_23-41-35.282928/multi_robot_collision_avoidance/collvoid_local_planner,
-  collvoid_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-multi_robot_collision_avoidance-precise-amd64/doc_stacks/2012-10-12_23-41-35.282928/multi_robot_collision_avoidance/collvoid_msgs,
-  collvoid_pr2: /home/rosbuild/hudson/workspace/doc-fuerte-multi_robot_collision_avoidance-precise-amd64/doc_stacks/2012-10-12_23-41-35.282928/multi_robot_collision_avoidance/collvoid_pr2,
-  collvoid_simple_global_planner: /home/rosbuild/hudson/workspace/doc-fuerte-multi_robot_collision_avoidance-precise-amd64/doc_stacks/2012-10-12_23-41-35.282928/multi_robot_collision_avoidance/collvoid_simple_global_planner,
-  collvoid_stage: /home/rosbuild/hudson/workspace/doc-fuerte-multi_robot_collision_avoidance-precise-amd64/doc_stacks/2012-10-12_23-41-35.282928/multi_robot_collision_avoidance/collvoid_stage,
-  collvoid_turtlebot: /home/rosbuild/hudson/workspace/doc-fuerte-multi_robot_collision_avoidance-precise-amd64/doc_stacks/2012-10-12_23-41-35.282928/multi_robot_collision_avoidance/collvoid_turtlebot,
-  pacman_controller: /home/rosbuild/hudson/workspace/doc-fuerte-multi_robot_collision_avoidance-precise-amd64/doc_stacks/2012-10-12_23-41-35.282928/multi_robot_collision_avoidance/pacman_controller,
-  pacman_turtles: /home/rosbuild/hudson/workspace/doc-fuerte-multi_robot_collision_avoidance-precise-amd64/doc_stacks/2012-10-12_23-41-35.282928/multi_robot_collision_avoidance/pacman_turtles}
+multi_robot_collision_avoidance: {collvoid_controller: /home/rosbuild/hudson/workspace/doc-fuerte-multi_robot_collision_avoidance-precise-amd64/doc_stacks/2012-10-15_21-55-31.234630/multi_robot_collision_avoidance/collvoid_controller,
+  collvoid_local_planner: /home/rosbuild/hudson/workspace/doc-fuerte-multi_robot_collision_avoidance-precise-amd64/doc_stacks/2012-10-15_21-55-31.234630/multi_robot_collision_avoidance/collvoid_local_planner,
+  collvoid_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-multi_robot_collision_avoidance-precise-amd64/doc_stacks/2012-10-15_21-55-31.234630/multi_robot_collision_avoidance/collvoid_msgs,
+  collvoid_pr2: /home/rosbuild/hudson/workspace/doc-fuerte-multi_robot_collision_avoidance-precise-amd64/doc_stacks/2012-10-15_21-55-31.234630/multi_robot_collision_avoidance/collvoid_pr2,
+  collvoid_simple_global_planner: /home/rosbuild/hudson/workspace/doc-fuerte-multi_robot_collision_avoidance-precise-amd64/doc_stacks/2012-10-15_21-55-31.234630/multi_robot_collision_avoidance/collvoid_simple_global_planner,
+  collvoid_stage: /home/rosbuild/hudson/workspace/doc-fuerte-multi_robot_collision_avoidance-precise-amd64/doc_stacks/2012-10-15_21-55-31.234630/multi_robot_collision_avoidance/collvoid_stage,
+  collvoid_turtlebot: /home/rosbuild/hudson/workspace/doc-fuerte-multi_robot_collision_avoidance-precise-amd64/doc_stacks/2012-10-15_21-55-31.234630/multi_robot_collision_avoidance/collvoid_turtlebot,
+  pacman_controller: /home/rosbuild/hudson/workspace/doc-fuerte-multi_robot_collision_avoidance-precise-amd64/doc_stacks/2012-10-15_21-55-31.234630/multi_robot_collision_avoidance/pacman_controller,
+  pacman_turtles: /home/rosbuild/hudson/workspace/doc-fuerte-multi_robot_collision_avoidance-precise-amd64/doc_stacks/2012-10-15_21-55-31.234630/multi_robot_collision_avoidance/pacman_turtles}
 multimaster: {multimaster: /home/rosbuild/hudson/workspace/doc-fuerte-multimaster-precise-amd64/doc_stacks/2012-10-15_18-09-56.304456/multimaster}
 multimaster_experimental: {app_manager: /home/rosbuild/hudson/workspace/doc-fuerte-multimaster_experimental-precise-amd64/doc_stacks/2012-10-15_21-56-42.289682/multimaster_experimental/app_manager,
   app_manager_android: /home/rosbuild/hudson/workspace/doc-fuerte-multimaster_experimental-precise-amd64/doc_stacks/2012-10-15_21-56-42.289682/multimaster_experimental/app_manager_android,
@@ -145,6 +145,9 @@ nodelet_core: {nodelet: /home/rosbuild/hudson/workspace/doc-fuerte-nodelet_core-
 occupancy_grid_utils: {occupancy_grid_utils: /home/rosbuild/hudson/workspace/doc-fuerte-occupancy_grid_utils-precise-amd64/doc_stacks/2012-10-15_18-14-29.781146/occupancy_grid_utils}
 open_street_map: [route_network, test_osm, osm_cartography]
 openni_camera: {openni_camera: /home/rosbuild/hudson/workspace/doc-fuerte-openni_camera-precise-amd64/doc_stacks/2012-10-15_18-09-47.255732/openni_camera}
+openni_kinect: {nite: /home/rosbuild/hudson/workspace/doc-fuerte-openni_kinect-precise-amd64/doc_stacks/2012-10-15_21-59-18.383660/openni_kinect/nite,
+  openni: /home/rosbuild/hudson/workspace/doc-fuerte-openni_kinect-precise-amd64/doc_stacks/2012-10-15_21-59-18.383660/openni_kinect/openni,
+  openni_camera_deprecated: /home/rosbuild/hudson/workspace/doc-fuerte-openni_kinect-precise-amd64/doc_stacks/2012-10-15_21-59-18.383660/openni_kinect/openni_camera_deprecated}
 openni_launch: {openni_launch: /home/rosbuild/hudson/workspace/doc-fuerte-openni_launch-precise-amd64/doc_stacks/2012-10-15_18-09-36.753643/openni_launch}
 openni_tracker: {openni_tracker: /home/rosbuild/hudson/workspace/doc-fuerte-openni_tracker-precise-amd64/doc_stacks/2012-10-15_18-16-15.763084/openni_tracker}
 openrtm_cpp: [openrtm_cpp]
