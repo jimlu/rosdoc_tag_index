@@ -5,4 +5,5 @@ navigation: [move_base, navfn, clear_costmap_recovery, nav_core, costmap_2d, dwa
   move_base_msgs, move_slow_and_clear, base_local_planner, robot_pose_ekf]
 nodelet_core: [nodelet_topic_tools, nodelet, test_nodelet]
 rospack: [rospack]
+rosserial_android: [rosserial_android, rosserial_adk_demo_msgs, rosserial_adk_demo]
 xacro: [xacro]
