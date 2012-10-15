@@ -107,7 +107,8 @@ flirtlib_ros: [occupancy_grid_utils, tf, roscpp, interactive_markers, mongo_ros,
   sensor_msgs, move_base_msgs, std_srvs, flirtlib]
 foreign_relay: [roscpp, xmlrpcpp, topic_tools]
 geometry: [bullet, common_msgs, ros, ros_comm, orocos_kinematics_dynamics, common_rosdeps]
-geometry_experimental: [common, common_msgs, geometry, ros, ros_comm]
+geometry_experimental: [actionlib, bullet, common_msgs, geometry, orocos_kinematics_dynamics,
+  ros, ros_comm]
 geometry_tutorials: [geometry, ros, ros_comm, ros_tutorials]
 geometry_visualization: [geometry_experimental, ros, ros_comm, rx]
 gmapping: [roscpp, rosbag, rosconsole, std_msgs, nav_msgs, std_msgs, tf, message_filters,
@@ -316,8 +317,8 @@ tf2_bullet: [tf2_ros, bullet, geometry_msgs]
 tf2_geometry_msgs: [geometry_msgs, tf2_ros, kdl]
 tf2_kdl: [tf2_ros, kdl, geometry_msgs]
 tf2_msgs: [geometry_msgs, actionlib_msgs]
-tf2_ros: [tf2, tf2_msgs, roscpp, rospy, geometry_msgs, actionlib, actionlib_msgs,
-  rosgraph]
+tf2_ros: [tf2, tf2_msgs, roscpp, rospy, geometry_msgs, std_msgs, actionlib, actionlib_msgs,
+  rosgraph, message_filters]
 tf2_tools: [tf2_msgs, tf2, tf2_ros]
 tf2_visualization: [tf2_msgs, tf2, tf2_ros, xdot, rxbag]
 tf_broadcast_server: [tf, geometry_msgs]
