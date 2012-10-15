@@ -18,6 +18,7 @@ navigation_tutorials: [navigation_stage, roomba_stage, odometry_publisher_tutori
 nodelet_core: [nodelet_topic_tools, nodelet, test_nodelet]
 openni_camera: [openni_camera]
 openni_kinect: [openni_camera_deprecated, openni, nite]
+pluginlib: [pluginlib]
 robot_model_tutorials: [urdf_tutorial]
 ros_tutorials: [turtlesim, rospy_tutorials, roscpp_tutorials]
 rosh_core: [roshlaunch, rosh]
