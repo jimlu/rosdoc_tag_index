@@ -65,5 +65,6 @@ rosserial_android: [rosserial_android, rosserial_adk_demo_msgs, rosserial_adk_de
 rosserial_java: [rosserial_java_node, rosserial_java]
 simple_object_capture: [simple_object_capture]
 std_msgs: [std_msgs]
+universal_robot: [ur5_gazebo, ur5_description, ur5_bringup, ur5_driver]
 visualization_experimental: [ogre_tools_qt, rviz_qt]
 xacro: [xacro]
