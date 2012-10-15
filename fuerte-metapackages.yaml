@@ -156,9 +156,9 @@ rosh_robot_plugins: {rosh_common: /home/rosbuild/hudson/workspace/doc-fuerte-ros
   rosh_robot: /home/rosbuild/hudson/workspace/doc-fuerte-rosh_robot_plugins-precise-amd64/doc_stacks/2012-10-12_23-39-07.587437/rosh_robot_plugins/rosh_robot}
 rosjs: []
 rospack: {rospack: /home/rosbuild/hudson/workspace/doc-fuerte-rospack-precise-amd64/doc_stacks/2012-10-15_17-27-11.139555/rospack}
-rosserial_android: {rosserial_adk_demo: /home/rosbuild/hudson/workspace/doc-fuerte-rosserial_android-precise-amd64/doc_stacks/2012-10-12_23-32-17.856774/rosserial_android/rosserial_adk_demo,
-  rosserial_adk_demo_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-rosserial_android-precise-amd64/doc_stacks/2012-10-12_23-32-17.856774/rosserial_android/rosserial_adk_demo_msgs,
-  rosserial_android: /home/rosbuild/hudson/workspace/doc-fuerte-rosserial_android-precise-amd64/doc_stacks/2012-10-12_23-32-17.856774/rosserial_android/rosserial_android}
+rosserial_android: {rosserial_adk_demo: /home/rosbuild/hudson/workspace/doc-fuerte-rosserial_android-precise-amd64/doc_stacks/2012-10-15_17-29-09.715443/rosserial_android/rosserial_adk_demo,
+  rosserial_adk_demo_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-rosserial_android-precise-amd64/doc_stacks/2012-10-15_17-29-09.715443/rosserial_android/rosserial_adk_demo_msgs,
+  rosserial_android: /home/rosbuild/hudson/workspace/doc-fuerte-rosserial_android-precise-amd64/doc_stacks/2012-10-15_17-29-09.715443/rosserial_android/rosserial_android}
 rosserial_java: {rosserial_java: /home/rosbuild/hudson/workspace/doc-fuerte-rosserial_java-precise-amd64/doc_stacks/2012-10-12_23-36-20.971907/rosserial_java/rosserial_java,
   rosserial_java_node: /home/rosbuild/hudson/workspace/doc-fuerte-rosserial_java-precise-amd64/doc_stacks/2012-10-12_23-36-20.971907/rosserial_java/rosserial_java_node}
 rx: [xdot, wxPython_swig_interface, rxbag, rxgraph, rxtools]
