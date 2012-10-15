@@ -117,7 +117,7 @@ nmea_gps_driver: [nmea_gps_driver]
 nodelet_core: {nodelet: /home/rosbuild/hudson/workspace/doc-fuerte-nodelet_core-precise-amd64/doc_stacks/2012-10-15_17-27-12.170457/nodelet_core/nodelet,
   nodelet_topic_tools: /home/rosbuild/hudson/workspace/doc-fuerte-nodelet_core-precise-amd64/doc_stacks/2012-10-15_17-27-12.170457/nodelet_core/nodelet_topic_tools,
   test_nodelet: /home/rosbuild/hudson/workspace/doc-fuerte-nodelet_core-precise-amd64/doc_stacks/2012-10-15_17-27-12.170457/nodelet_core/test_nodelet}
-occupancy_grid_utils: {occupancy_grid_utils: /home/rosbuild/hudson/workspace/doc-fuerte-occupancy_grid_utils-precise-amd64/doc_stacks/2012-10-12_23-38-34.792681/occupancy_grid_utils}
+occupancy_grid_utils: {occupancy_grid_utils: /home/rosbuild/hudson/workspace/doc-fuerte-occupancy_grid_utils-precise-amd64/doc_stacks/2012-10-15_17-35-26.994699/occupancy_grid_utils}
 open_street_map: [route_network, test_osm, osm_cartography]
 openni_camera: {openni_camera: /home/rosbuild/hudson/workspace/doc-fuerte-openni_camera-precise-amd64/doc_stacks/2012-10-15_17-30-14.017247/openni_camera}
 openni_launch: {openni_launch: /home/rosbuild/hudson/workspace/doc-fuerte-openni_launch-precise-amd64/doc_stacks/2012-10-12_23-34-12.359166/openni_launch}
