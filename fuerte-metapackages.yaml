@@ -17,6 +17,7 @@ executive_smach_visualization: [smach_viewer]
 filters: [filters]
 gencpp: [gencpp]
 genlisp: [genlisp]
+genmsg: [genmsg]
 genpy: [genpy]
 geometry: [tf, angles, tf_conversions, eigen_conversions]
 geometry_experimental: [tf2_geometry_msgs, tf2_bullet, tf2_kdl, tf2_tools, test_tf2,
