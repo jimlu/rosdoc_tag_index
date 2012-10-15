@@ -97,6 +97,9 @@ executive_smach_visualization: [executive_smach, ros, ros_comm, rx]
 fake_localization: [roscpp, rosconsole, nav_msgs, geometry_msgs, tf, message_filters,
   angles]
 filters: [rosconsole, roscpp, pluginlib]
+flirtlib_features: [geometry, occupancy_grid_utils, ros, ros_comm, warehousewg, visualization]
+flirtlib_ros: [occupancy_grid_utils, tf, roscpp, interactive_markers, mongo_ros, actionlib,
+  sensor_msgs, move_base_msgs, std_srvs, flirtlib]
 foreign_relay: [roscpp, xmlrpcpp, topic_tools]
 geometry: [bullet, common_msgs, ros, ros_comm, orocos_kinematics_dynamics, common_rosdeps]
 geometry_experimental: [common, common_msgs, geometry, ros, ros_comm]
@@ -318,6 +321,7 @@ walk_msgs: [roscpp, rospy, common_rosdeps, bullet, geometry_msgs, nav_msgs, walk
 walk_tools: [rospy, geometry_msgs, sensor_msgs, message_filters, diagnostic_aggregator,
   diagnostic_updater, urdf_parser_py]
 warehousewg: [common_msgs, geometry, ros, ros_comm]
+wg_flirtlib: [flirtlib_ros]
 wg_pr2_2dnav: [willow_maps, map_server, pr2_navigation_global, pr2_navigation_perception,
   pr2_navigation_teleop, pr2_machine]
 wg_pr2_apps: [navigation, pr2_common, pr2_navigation, ros, wg_common]

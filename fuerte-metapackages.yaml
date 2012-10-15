@@ -57,6 +57,8 @@ executive_smach: {smach: /home/rosbuild/hudson/workspace/doc-fuerte-executive_sm
   smach_ros: /home/rosbuild/hudson/workspace/doc-fuerte-executive_smach-precise-amd64/doc_stacks/2012-10-15_18-13-00.532454/executive_smach/smach_ros}
 executive_smach_visualization: {smach_viewer: /home/rosbuild/hudson/workspace/doc-fuerte-executive_smach_visualization-precise-amd64/doc_stacks/2012-10-15_18-09-02.570795/executive_smach_visualization/smach_viewer}
 filters: {filters: /home/rosbuild/hudson/workspace/doc-fuerte-filters-precise-amd64/doc_stacks/2012-10-15_18-16-36.716641/filters}
+flirtlib_features: {flirtlib_ros: /home/rosbuild/hudson/workspace/doc-fuerte-flirtlib_features-precise-amd64/doc_stacks/2012-10-15_21-29-24.177232/flirtlib_features/flirtlib_ros,
+  wg_flirtlib: /home/rosbuild/hudson/workspace/doc-fuerte-flirtlib_features-precise-amd64/doc_stacks/2012-10-15_21-29-24.177232/flirtlib_features/wg_flirtlib}
 gencpp: {gencpp: /home/rosbuild/hudson/workspace/doc-fuerte-gencpp-precise-amd64/doc_stacks/2012-10-15_18-13-07.786770/gencpp}
 genlisp: {genlisp: /home/rosbuild/hudson/workspace/doc-fuerte-genlisp-precise-amd64/doc_stacks/2012-10-15_18-06-03.733887/genlisp}
 genmsg: {genmsg: /home/rosbuild/hudson/workspace/doc-fuerte-genmsg-precise-amd64/doc_stacks/2012-10-15_18-06-26.938852/genmsg}
