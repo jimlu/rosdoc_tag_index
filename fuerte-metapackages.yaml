@@ -137,7 +137,7 @@ rcommander_core: {nodebox_qt: /home/rosbuild/hudson/workspace/doc-fuerte-rcomman
   rcommander_plain: /home/rosbuild/hudson/workspace/doc-fuerte-rcommander_core-precise-amd64/doc_stacks/2012-10-15_17-36-24.593337/rcommander_core/rcommander_plain,
   tf_broadcast_server: /home/rosbuild/hudson/workspace/doc-fuerte-rcommander_core-precise-amd64/doc_stacks/2012-10-15_17-36-24.593337/rcommander_core/tf_broadcast_server}
 robot_model_py: [urdf_parser_py]
-robot_model_tutorials: {urdf_tutorial: /home/rosbuild/hudson/workspace/doc-fuerte-robot_model_tutorials-precise-amd64/doc_stacks/2012-10-15_17-28-12.011596/robot_model_tutorials/urdf_tutorial}
+robot_model_tutorials: {urdf_tutorial: /home/rosbuild/hudson/workspace/doc-fuerte-robot_model_tutorials-precise-amd64/doc_stacks/2012-10-15_18-07-05.961749/robot_model_tutorials/urdf_tutorial}
 robot_model_visualization: {joint_state_publisher: /home/rosbuild/hudson/workspace/doc-fuerte-robot_model_visualization-precise-amd64/doc_stacks/2012-10-15_17-35-38.362731/robot_model_visualization/joint_state_publisher}
 robot_pose_publisher: [robot_pose_publisher]
 romeo: [romeo_description]
