@@ -299,6 +299,9 @@ ros-fuerte-openni-launch:
 ros-fuerte-openni-tracker:
 - {docs_url: ../../../api/openni_tracker/html, location: 'http://ros.org/rosdoclite/fuerte/api/openni_tracker/tags/openni_tracker.tag',
   package: openni_tracker}
+ros-fuerte-pluginlib:
+- {docs_url: ../../../api/pluginlib/html, location: 'http://ros.org/rosdoclite/fuerte/api/pluginlib/tags/pluginlib.tag',
+  package: pluginlib}
 ros-fuerte-pr2-make-a-map-app:
 - {docs_url: ../../../api/pr2_make_a_map_app/html, location: 'http://ros.org/rosdoclite/fuerte/api/pr2_make_a_map_app/tags/pr2_make_a_map_app.tag',
   package: pr2_make_a_map_app}

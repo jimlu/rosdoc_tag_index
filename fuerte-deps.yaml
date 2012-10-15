@@ -172,6 +172,7 @@ osm_cartography: [dynamic_reconfigure, geodesy, geographic_msgs, geometry_msgs, 
   tf, std_msgs, visualization_msgs]
 pacman_controller: [rospy, roscpp, std_msgs, std_srvs, visualization_msgs, geometry_msgs,
   collvoid_msgs, collvoid_local_planner, tf, actionlib, move_base_msgs]
+pluginlib: [roslib, rosconsole, tinyxml]
 pluginlib_tutorials: [pluginlib, roscpp]
 point_cloud_publisher_tutorial: [roscpp, sensor_msgs]
 pr2_make_a_map_app: [pr2_position_scripts, gmapping, tf, mongodb, topic_tools, map_store]
