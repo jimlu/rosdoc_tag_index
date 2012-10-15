@@ -12,6 +12,7 @@ navigation: [move_base, navfn, clear_costmap_recovery, nav_core, costmap_2d, dwa
 nodelet_core: [nodelet_topic_tools, nodelet, test_nodelet]
 openni_kinect: [openni_camera_deprecated, openni, nite]
 robot_model_tutorials: [urdf_tutorial]
+ros_tutorials: [turtlesim, rospy_tutorials, roscpp_tutorials]
 rosh_core: [roshlaunch, rosh]
 rospack: [rospack]
 rosserial_android: [rosserial_android, rosserial_adk_demo_msgs, rosserial_adk_demo]
