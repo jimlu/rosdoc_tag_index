@@ -1,6 +1,8 @@
+bfl: [bfl]
 genlisp: [genlisp]
 navigation: [move_base, navfn, clear_costmap_recovery, nav_core, costmap_2d, dwa_local_planner,
   carrot_planner, map_server, voxel_grid, rotate_recovery, amcl, fake_localization,
   move_base_msgs, move_slow_and_clear, base_local_planner, robot_pose_ekf]
 nodelet_core: [nodelet_topic_tools, nodelet, test_nodelet]
 rospack: [rospack]
+xacro: [xacro]
