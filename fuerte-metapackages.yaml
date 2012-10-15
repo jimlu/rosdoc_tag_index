@@ -50,6 +50,7 @@ control: [control_msgs]
 diagnostics_monitors: [runtime_monitor, robot_monitor]
 driver_common: [driver_base, timestamp_tools]
 dynamic_reconfigure: {dynamic_reconfigure: /home/rosbuild/hudson/workspace/doc-fuerte-dynamic_reconfigure-precise-amd64/doc_stacks/2012-10-15_18-15-50.078497/dynamic_reconfigure}
+eigen: {eigen: /home/rosbuild/hudson/workspace/doc-fuerte-eigen-precise-amd64/doc_stacks/2012-10-15_19-32-12.406834/eigen}
 ethzasl_xsens_driver: [xsens_driver]
 executive_smach: {smach: /home/rosbuild/hudson/workspace/doc-fuerte-executive_smach-precise-amd64/doc_stacks/2012-10-15_18-13-00.532454/executive_smach/smach,
   smach_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-executive_smach-precise-amd64/doc_stacks/2012-10-15_18-13-00.532454/executive_smach/smach_msgs,
