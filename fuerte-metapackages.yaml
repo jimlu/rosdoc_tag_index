@@ -151,10 +151,10 @@ ros_comm: [test_roscpp_serialization, rosservice, rosgraph_msgs, rosconsole, tes
 ros_tutorials: {roscpp_tutorials: /home/rosbuild/hudson/workspace/doc-fuerte-ros_tutorials-precise-amd64/doc_stacks/2012-10-15_18-11-58.049964/ros_tutorials/roscpp_tutorials,
   rospy_tutorials: /home/rosbuild/hudson/workspace/doc-fuerte-ros_tutorials-precise-amd64/doc_stacks/2012-10-15_18-11-58.049964/ros_tutorials/rospy_tutorials,
   turtlesim: /home/rosbuild/hudson/workspace/doc-fuerte-ros_tutorials-precise-amd64/doc_stacks/2012-10-15_18-11-58.049964/ros_tutorials/turtlesim}
-roscpp_core: {cpp_common: /home/rosbuild/hudson/workspace/doc-fuerte-roscpp_core-precise-amd64/doc_stacks/2012-10-15_17-33-49.272295/roscpp_core/cpp_common,
-  roscpp_serialization: /home/rosbuild/hudson/workspace/doc-fuerte-roscpp_core-precise-amd64/doc_stacks/2012-10-15_17-33-49.272295/roscpp_core/roscpp_serialization,
-  roscpp_traits: /home/rosbuild/hudson/workspace/doc-fuerte-roscpp_core-precise-amd64/doc_stacks/2012-10-15_17-33-49.272295/roscpp_core/roscpp_traits,
-  rostime: /home/rosbuild/hudson/workspace/doc-fuerte-roscpp_core-precise-amd64/doc_stacks/2012-10-15_17-33-49.272295/roscpp_core/rostime}
+roscpp_core: {cpp_common: /home/rosbuild/hudson/workspace/doc-fuerte-roscpp_core-precise-amd64/doc_stacks/2012-10-15_18-13-51.111373/roscpp_core/cpp_common,
+  roscpp_serialization: /home/rosbuild/hudson/workspace/doc-fuerte-roscpp_core-precise-amd64/doc_stacks/2012-10-15_18-13-51.111373/roscpp_core/roscpp_serialization,
+  roscpp_traits: /home/rosbuild/hudson/workspace/doc-fuerte-roscpp_core-precise-amd64/doc_stacks/2012-10-15_18-13-51.111373/roscpp_core/roscpp_traits,
+  rostime: /home/rosbuild/hudson/workspace/doc-fuerte-roscpp_core-precise-amd64/doc_stacks/2012-10-15_18-13-51.111373/roscpp_core/rostime}
 rosh_core: {rosh: /home/rosbuild/hudson/workspace/doc-fuerte-rosh_core-precise-amd64/doc_stacks/2012-10-15_18-06-52.789778/rosh_core/rosh,
   roshlaunch: /home/rosbuild/hudson/workspace/doc-fuerte-rosh_core-precise-amd64/doc_stacks/2012-10-15_18-06-52.789778/rosh_core/roshlaunch}
 rosh_desktop_plugins: [rosh_visualization, rosh_desktop]
