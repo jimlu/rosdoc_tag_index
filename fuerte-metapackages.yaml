@@ -53,7 +53,7 @@ executive_smach: {smach: /home/rosbuild/hudson/workspace/doc-fuerte-executive_sm
   smach_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-executive_smach-precise-amd64/doc_stacks/2012-10-15_17-33-35.650686/executive_smach/smach_msgs,
   smach_ros: /home/rosbuild/hudson/workspace/doc-fuerte-executive_smach-precise-amd64/doc_stacks/2012-10-15_17-33-35.650686/executive_smach/smach_ros}
 executive_smach_visualization: {smach_viewer: /home/rosbuild/hudson/workspace/doc-fuerte-executive_smach_visualization-precise-amd64/doc_stacks/2012-10-15_17-29-42.172937/executive_smach_visualization/smach_viewer}
-filters: {filters: /home/rosbuild/hudson/workspace/doc-fuerte-filters-precise-amd64/doc_stacks/2012-10-12_23-40-59.429053/filters}
+filters: {filters: /home/rosbuild/hudson/workspace/doc-fuerte-filters-precise-amd64/doc_stacks/2012-10-15_17-37-15.700260/filters}
 gencpp: {gencpp: /home/rosbuild/hudson/workspace/doc-fuerte-gencpp-precise-amd64/doc_stacks/2012-10-15_17-33-33.767410/gencpp}
 genlisp: {genlisp: /home/rosbuild/hudson/workspace/doc-fuerte-genlisp-precise-amd64/doc_stacks/2012-10-15_17-27-26.389225/genlisp}
 genmsg: {genmsg: /home/rosbuild/hudson/workspace/doc-fuerte-genmsg-precise-amd64/doc_stacks/2012-10-15_17-27-04.602819/genmsg}
@@ -76,7 +76,7 @@ imu_drivers: [microstrain_3dmgx2_imu]
 kingfisher: [kingfisher_node, kingfisher_bringup, kingfisher_msgs]
 langs: {}
 laser_pipeline: [laser_geometry, laser_filters, laser_assembler]
-megatree_pcl: [megatree_pcl]
+megatree_pcl: {megatree_pcl: /home/rosbuild/hudson/workspace/doc-fuerte-megatree_pcl-precise-amd64/doc_stacks/2012-10-15_17-37-30.990573/megatree_pcl}
 multi_robot_collision_avoidance: {collvoid_controller: /home/rosbuild/hudson/workspace/doc-fuerte-multi_robot_collision_avoidance-precise-amd64/doc_stacks/2012-10-12_23-41-35.282928/multi_robot_collision_avoidance/collvoid_controller,
   collvoid_local_planner: /home/rosbuild/hudson/workspace/doc-fuerte-multi_robot_collision_avoidance-precise-amd64/doc_stacks/2012-10-12_23-41-35.282928/multi_robot_collision_avoidance/collvoid_local_planner,
   collvoid_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-multi_robot_collision_avoidance-precise-amd64/doc_stacks/2012-10-12_23-41-35.282928/multi_robot_collision_avoidance/collvoid_msgs,
@@ -138,7 +138,7 @@ rcommander_core: {nodebox_qt: /home/rosbuild/hudson/workspace/doc-fuerte-rcomman
   tf_broadcast_server: /home/rosbuild/hudson/workspace/doc-fuerte-rcommander_core-precise-amd64/doc_stacks/2012-10-15_17-36-24.593337/rcommander_core/tf_broadcast_server}
 robot_model_py: [urdf_parser_py]
 robot_model_tutorials: {urdf_tutorial: /home/rosbuild/hudson/workspace/doc-fuerte-robot_model_tutorials-precise-amd64/doc_stacks/2012-10-15_17-28-12.011596/robot_model_tutorials/urdf_tutorial}
-robot_model_visualization: {joint_state_publisher: /home/rosbuild/hudson/workspace/doc-fuerte-robot_model_visualization-precise-amd64/doc_stacks/2012-10-12_23-39-30.210882/robot_model_visualization/joint_state_publisher}
+robot_model_visualization: {joint_state_publisher: /home/rosbuild/hudson/workspace/doc-fuerte-robot_model_visualization-precise-amd64/doc_stacks/2012-10-15_17-35-38.362731/robot_model_visualization/joint_state_publisher}
 robot_pose_publisher: [robot_pose_publisher]
 romeo: [romeo_description]
 ros: [rosboost_cfg, rosbuild, roslib, mk, rosunit, roslang, rosbash, rosclean, rosmake,
@@ -168,11 +168,11 @@ rosserial_java: {rosserial_java: /home/rosbuild/hudson/workspace/doc-fuerte-ross
   rosserial_java_node: /home/rosbuild/hudson/workspace/doc-fuerte-rosserial_java-precise-amd64/doc_stacks/2012-10-15_17-32-17.772148/rosserial_java/rosserial_java_node}
 rx: [xdot, wxPython_swig_interface, rxbag, rxgraph, rxtools]
 serial_communication: [cereal_port]
-simple_object_capture: {simple_object_capture: /home/rosbuild/hudson/workspace/doc-fuerte-simple_object_capture-precise-amd64/doc_stacks/2012-10-12_23-38-19.251313/simple_object_capture}
+simple_object_capture: {simple_object_capture: /home/rosbuild/hudson/workspace/doc-fuerte-simple_object_capture-precise-amd64/doc_stacks/2012-10-15_17-35-08.254656/simple_object_capture}
 slam_gmapping: [gmapping]
 sql_database: [student_database, database_interface]
 srs_common: [srs_object_database_msgs]
-std_msgs: {std_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-std_msgs-precise-amd64/doc_stacks/2012-10-12_23-40-59.461413/std_msgs}
+std_msgs: {std_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-std_msgs-precise-amd64/doc_stacks/2012-10-15_17-37-32.338873/std_msgs}
 unique_identifier: [uuid_msgs, unique_id]
 visualization_experimental: {ogre_tools_qt: /home/rosbuild/hudson/workspace/doc-fuerte-visualization_experimental-precise-amd64/doc_stacks/2012-10-12_23-42-12.553635/visualization_experimental/ogre_tools_qt,
   rviz_qt: /home/rosbuild/hudson/workspace/doc-fuerte-visualization_experimental-precise-amd64/doc_stacks/2012-10-12_23-42-12.553635/visualization_experimental/rviz_qt}
