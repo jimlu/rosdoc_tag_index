@@ -43,6 +43,13 @@ calibration_msgs: [geometry_msgs, sensor_msgs]
 camera1394: [camera_info_manager, diagnostic_updater, driver_base, dynamic_reconfigure,
   image_transport, nodelet, tf, libdc1394-dev]
 camera_drivers: [camera1394, prosilica_driver, wge100_driver]
+camera_pose: [common_msgs, driver_common, geometry, geometry_experimental, orocos_kinematics_dynamics,
+  pr2_calibration, robot_model, ros, ros_comm, vision_opencv]
+camera_pose_calibration: [geometry_msgs, calibration_msgs, sensor_msgs, image_cb_detector,
+  monocam_settler, interval_intersection, joint_states_settler, kdl, tf_conversions,
+  tf2_ros, tf2_kdl, message_filters, opencv2]
+camera_pose_toolkits: [std_msgs, rospy, roscpp, tf, geometry_msgs, sensor_msgs, camera_pose_calibration,
+  kdl, kdl_parser, robot_state_publisher, dynamic_reconfigure]
 carrot_planner: [roscpp, costmap_2d, pluginlib, nav_core, base_local_planner, tf,
   angles, common_rosdeps, eigen]
 cereal_port: [roscpp]
@@ -110,6 +117,8 @@ irobot_create_2_1: [roscpp, rospy, geometry_msgs, tf, nav_msgs, python-serial]
 joint_state_publisher: [rospy, sensor_msgs, wxpython]
 joint_states_settler: [roscpp, actionlib_msgs, sensor_msgs, actionlib, settlerlib,
   calibration_msgs]
+kinect_depth_calibration: [rospy, roslib, opencv2, cv_bridge, geometry_msgs, sensor_msgs,
+  stereo_msgs, tf_conversions, tf, kdl]
 kingfisher: [camera_drivers, image_pipeline, image_transport_plugins, multimaster_experimental,
   ros, ros_comm, rosserial]
 kingfisher_bringup: [kingfisher_msgs, rosserial_python, app_manager, camera1394, image_proc,
@@ -172,6 +181,7 @@ osm_cartography: [dynamic_reconfigure, geodesy, geographic_msgs, geometry_msgs, 
   tf, std_msgs, visualization_msgs]
 pacman_controller: [rospy, roscpp, std_msgs, std_srvs, visualization_msgs, geometry_msgs,
   collvoid_msgs, collvoid_local_planner, tf, actionlib, move_base_msgs]
+pluginlib: [roslib, rosconsole, tinyxml]
 pluginlib_tutorials: [pluginlib, roscpp]
 point_cloud_publisher_tutorial: [roscpp, sensor_msgs]
 pr2_make_a_map_app: [pr2_position_scripts, gmapping, tf, mongodb, topic_tools, map_store]
