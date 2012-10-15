@@ -15,6 +15,7 @@ eigen: [eigen]
 executive_smach: [smach_ros, smach, smach_msgs]
 executive_smach_visualization: [smach_viewer]
 filters: [filters]
+flirtlib_features: [flirtlib_ros, wg_flirtlib]
 gencpp: [gencpp]
 genlisp: [genlisp]
 genmsg: [genmsg]
@@ -32,6 +33,8 @@ multi_robot_collision_avoidance: [collvoid_local_planner, collvoid_simple_global
   collvoid_controller, collvoid_msgs, collvoid_pr2, pacman_controller, collvoid_turtlebot,
   pacman_turtles, collvoid_stage]
 multimaster: [multimaster]
+multimaster_experimental: [rosproxy, app_manager_android, foreign_relay, app_manager_tutorial,
+  pyqrnative, app_manager]
 navigation: [move_base, navfn, clear_costmap_recovery, nav_core, costmap_2d, dwa_local_planner,
   carrot_planner, map_server, voxel_grid, rotate_recovery, amcl, fake_localization,
   move_base_msgs, move_slow_and_clear, base_local_planner, robot_pose_ekf]
