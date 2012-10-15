@@ -290,6 +290,9 @@ ros-fuerte-occupancy-grid-utils:
 ros-fuerte-open-street-map:
 - {docs_url: ../../../api/test_osm/html, location: 'http://ros.org/rosdoclite/fuerte/api/test_osm/tags/test_osm.tag',
   package: test_osm}
+ros-fuerte-openni-camera:
+- {docs_url: ../../../api/openni_camera/html, location: 'http://ros.org/rosdoclite/fuerte/api/openni_camera/tags/openni_camera.tag',
+  package: openni_camera}
 ros-fuerte-openni-launch:
 - {docs_url: ../../../api/openni_launch/html, location: 'http://ros.org/rosdoclite/fuerte/api/openni_launch/tags/openni_launch.tag',
   package: openni_launch}
