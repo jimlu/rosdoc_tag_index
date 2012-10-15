@@ -182,6 +182,9 @@ universal_robot: {ur5_bringup: /home/rosbuild/hudson/workspace/doc-fuerte-univer
   ur5_gazebo: /home/rosbuild/hudson/workspace/doc-fuerte-universal_robot-precise-amd64/doc_stacks/2012-10-15_18-11-59.921423/universal_robot/ur5_gazebo}
 visualization_experimental: {ogre_tools_qt: /home/rosbuild/hudson/workspace/doc-fuerte-visualization_experimental-precise-amd64/doc_stacks/2012-10-12_23-42-12.553635/visualization_experimental/ogre_tools_qt,
   rviz_qt: /home/rosbuild/hudson/workspace/doc-fuerte-visualization_experimental-precise-amd64/doc_stacks/2012-10-12_23-42-12.553635/visualization_experimental/rviz_qt}
+warehousewg: {mongo_ros: /home/rosbuild/hudson/workspace/doc-fuerte-warehousewg-precise-amd64/doc_stacks/2012-10-15_18-16-14.950742/warehousewg/mongo_ros,
+  mongodb: /home/rosbuild/hudson/workspace/doc-fuerte-warehousewg-precise-amd64/doc_stacks/2012-10-15_18-16-14.950742/warehousewg/mongodb,
+  pymongo: /home/rosbuild/hudson/workspace/doc-fuerte-warehousewg-precise-amd64/doc_stacks/2012-10-15_18-16-14.950742/warehousewg/pymongo}
 wg_pr2_apps: [wg_pr2_2dnav]
 wge100_driver: [wge100_camera_firmware, wge100_camera]
 xacro: {xacro: /home/rosbuild/hudson/workspace/doc-fuerte-xacro-precise-amd64/doc_stacks/2012-10-15_18-06-21.880353/xacro}

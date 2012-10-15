@@ -451,6 +451,13 @@ ros-fuerte-universal-robot:
   package: ur5_driver}
 - {docs_url: ../../../api/ur5_bringup/html, location: 'http://ros.org/rosdoclite/fuerte/api/ur5_bringup/tags/ur5_bringup.tag',
   package: ur5_bringup}
+ros-fuerte-warehousewg:
+- {docs_url: ../../../api/mongodb/html, location: 'http://ros.org/rosdoclite/fuerte/api/mongodb/tags/mongodb.tag',
+  package: mongodb}
+- {docs_url: ../../../api/pymongo/html, location: 'http://ros.org/rosdoclite/fuerte/api/pymongo/tags/pymongo.tag',
+  package: pymongo}
+- {docs_url: ../../../api/mongo_ros/html, location: 'http://ros.org/rosdoclite/fuerte/api/mongo_ros/tags/mongo_ros.tag',
+  package: mongo_ros}
 ros-fuerte-wg-pr2-apps:
 - {docs_url: ../../../api/wg_pr2_2dnav/html, location: 'http://ros.org/rosdoclite/fuerte/api/wg_pr2_2dnav/tags/wg_pr2_2dnav.tag',
   package: wg_pr2_2dnav}

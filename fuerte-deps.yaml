@@ -140,6 +140,8 @@ map_server: [rosconsole, roscpp, rospy, nav_msgs, tf, common_rosdeps, python-ima
   python-yaml, yaml-cpp, sdl-image]
 megatree_pcl: [pcl_ros, megatree_storage, megatree_cpp]
 microstrain_3dmgx2_imu: [roscpp, sensor_msgs, self_test, diagnostic_updater, tf, std_srvs]
+mongo_ros: [mongodb, pymongo, roscpp, rospy, std_msgs, geometry_msgs, tf]
+mongodb: [rospy, scons, tcsh, pcre-dev, xulrunner-dev, readline-dev]
 monocam_settler: [roscpp, actionlib, actionlib_msgs, settlerlib, calibration_msgs]
 move_base: [roscpp, rosconsole, std_msgs, move_base_msgs, geometry_msgs, visualization_msgs,
   actionlib, nav_core, pluginlib, costmap_2d, tf, nav_msgs, roslib, rospy, rosmsg,
@@ -189,6 +191,7 @@ pr2_pan_tilt: [geometry_msgs, pr2_controllers_msgs, topic_tools, actionlib, rosp
   tf]
 pr2_tabletop_manipulation_apps: [ros]
 pr2_tuck_arms_app: [rospy, trajectory_msgs, pr2_mechanism_msgs, pr2_tuck_arms_action]
+pymongo: [mongodb]
 pyqrnative: [python-imaging]
 rbdl: [urdf, urdf_interface, eigen, libunittest++]
 rcommander: [rospy, nodebox_qt, smach, smach_ros, actionlib, geometry_msgs, tf, tf_broadcast_server,
@@ -311,6 +314,7 @@ walk_msgs: [roscpp, rospy, common_rosdeps, bullet, geometry_msgs, nav_msgs, walk
   visualization_msgs, angles, boost, eigen]
 walk_tools: [rospy, geometry_msgs, sensor_msgs, message_filters, diagnostic_aggregator,
   diagnostic_updater, urdf_parser_py]
+warehousewg: [common_msgs, geometry, ros, ros_comm]
 wg_pr2_2dnav: [willow_maps, map_server, pr2_navigation_global, pr2_navigation_perception,
   pr2_navigation_teleop, pr2_machine]
 wg_pr2_apps: [navigation, pr2_common, pr2_navigation, ros, wg_common]
