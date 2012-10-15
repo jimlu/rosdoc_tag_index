@@ -295,6 +295,12 @@ turtlebot_train: [clearpath_tools, clearpath_kinect_demo, turtlebot_node]
 turtlesim: [libqt4-dev, qt4-qmake]
 unique_id: [roscpp, rospy, rosunit, uuid_msgs]
 unique_identifier: [ros, ros_comm]
+universal_robot: [geometry_experimental, robot_model, actionlib, ros_comm, control,
+  common_msgs]
+ur5_bringup: [tf2_ros, ur5_driver, ur5_description]
+ur5_description: [urdf]
+ur5_driver: [rospy, actionlib, control_msgs, sensor_msgs]
+ur5_gazebo: [ur5_description]
 urdf_parser_py: [rospy]
 visualization_experimental: [common_msgs, common_rosdeps, geometry, image_common,
   laser_pipeline, pluginlib, robot_model, ros, ros_comm, visualization, visualization_common]
