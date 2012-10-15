@@ -141,6 +141,7 @@ move_slow_and_clear: [roscpp, nav_core, costmap_2d, geometry_msgs, pluginlib, dy
   common_rosdeps, eigen]
 multi_robot_collision_avoidance: [common, common_msgs, driver_common, geometry, navigation,
   pluginlib, ros, ros_comm, stage]
+multimaster: [rosgraph, rospy]
 multimaster_experimental: [ros, ros_comm]
 nav_core: [std_msgs, geometry_msgs, costmap_2d, tf]
 nav_msgs: [geometry_msgs]
@@ -162,6 +163,8 @@ occupancy_grid_utils: [nav_msgs, geometry_msgs, tf, sensor_msgs, roscpp, laser_g
 odometry_publisher_tutorial: [roscpp, nav_msgs, tf]
 ogre_tools_qt: [ogre, rosconsole, roslib]
 open_street_map: [common_msgs, driver_common, geographic_info, geometry, ros, ros_comm]
+openni_camera: [camera_info_manager, dynamic_reconfigure, image_transport, nodelet,
+  roscpp, sensor_msgs, libusb-1.0-dev, openni-dev, ps-engine]
 openni_launch: [depth_image_proc, image_proc, nodelet, openni_camera, tf]
 openni_tracker: [geometry_msgs, kdl, roscpp, roslib, tf, openni-dev, nite-dev, ps-engine]
 openrtm_cpp: [pkg-config, uuid, omniorb, python-yaml, doxygen]
