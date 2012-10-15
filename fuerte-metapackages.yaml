@@ -1,12 +1,12 @@
 ackermann_msgs: [ackermann_msgs]
-actionlib: {actionlib: /home/rosbuild/hudson/workspace/doc-fuerte-actionlib-precise-amd64/doc_stacks/2012-10-15_17-21-35.952258/actionlib}
+actionlib: {actionlib: /home/rosbuild/hudson/workspace/doc-fuerte-actionlib-precise-amd64/doc_stacks/2012-10-15_17-26-31.731418/actionlib}
 adept: [ADEPT_VIPER_S650_ikfast_arm_navigation, adept_common, ADEPT_VIPER_S650_arm_navigation]
 ar_track_alvar: [ar_track_alvar]
 audio_common: {audio_capture: /home/rosbuild/hudson/workspace/doc-fuerte-audio_common-precise-amd64/doc_stacks/2012-10-12_23-33-55.582070/audio_common/audio_capture,
   audio_common_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-audio_common-precise-amd64/doc_stacks/2012-10-12_23-33-55.582070/audio_common/audio_common_msgs,
   audio_play: /home/rosbuild/hudson/workspace/doc-fuerte-audio_common-precise-amd64/doc_stacks/2012-10-12_23-33-55.582070/audio_common/audio_play,
   sound_play: /home/rosbuild/hudson/workspace/doc-fuerte-audio_common-precise-amd64/doc_stacks/2012-10-12_23-33-55.582070/audio_common/sound_play}
-bfl: {bfl: /home/rosbuild/hudson/workspace/doc-fuerte-bfl-precise-amd64/doc_stacks/2012-10-12_23-29-02.269178/bfl}
+bfl: {bfl: /home/rosbuild/hudson/workspace/doc-fuerte-bfl-precise-amd64/doc_stacks/2012-10-15_17-27-10.127023/bfl}
 bond_core: {bond: /home/rosbuild/hudson/workspace/doc-fuerte-bond_core-precise-amd64/doc_stacks/2012-10-12_23-37-11.225634/bond_core/bond,
   bondcpp: /home/rosbuild/hudson/workspace/doc-fuerte-bond_core-precise-amd64/doc_stacks/2012-10-12_23-37-11.225634/bond_core/bondcpp,
   bondpy: /home/rosbuild/hudson/workspace/doc-fuerte-bond_core-precise-amd64/doc_stacks/2012-10-12_23-37-11.225634/bond_core/bondpy,
@@ -52,7 +52,7 @@ executive_smach: {smach: /home/rosbuild/hudson/workspace/doc-fuerte-executive_sm
 executive_smach_visualization: {smach_viewer: /home/rosbuild/hudson/workspace/doc-fuerte-executive_smach_visualization-precise-amd64/doc_stacks/2012-10-12_23-35-30.831148/executive_smach_visualization/smach_viewer}
 filters: {filters: /home/rosbuild/hudson/workspace/doc-fuerte-filters-precise-amd64/doc_stacks/2012-10-12_23-40-59.429053/filters}
 gencpp: {gencpp: /home/rosbuild/hudson/workspace/doc-fuerte-gencpp-precise-amd64/doc_stacks/2012-10-12_23-37-19.120567/gencpp}
-genlisp: {genlisp: /home/rosbuild/hudson/workspace/doc-fuerte-genlisp-precise-amd64/doc_stacks/2012-10-12_23-28-58.559120/genlisp}
+genlisp: {genlisp: /home/rosbuild/hudson/workspace/doc-fuerte-genlisp-precise-amd64/doc_stacks/2012-10-15_17-27-26.389225/genlisp}
 genmsg: {genmsg: /home/rosbuild/hudson/workspace/doc-fuerte-genmsg-precise-amd64/doc_stacks/2012-10-15_17-27-04.602819/genmsg}
 genpy: {genpy: /home/rosbuild/hudson/workspace/doc-fuerte-genpy-precise-amd64/doc_stacks/2012-10-12_23-39-44.470791/genpy}
 geometry: [angles, tf_conversions, tf, eigen_conversions]
@@ -113,9 +113,9 @@ navigation_tutorials: {laser_scan_publisher_tutorial: /home/rosbuild/hudson/work
   roomba_stage: /home/rosbuild/hudson/workspace/doc-fuerte-navigation_tutorials-precise-amd64/doc_stacks/2012-10-12_23-31-54.074960/navigation_tutorials/roomba_stage,
   simple_navigation_goals_tutorial: /home/rosbuild/hudson/workspace/doc-fuerte-navigation_tutorials-precise-amd64/doc_stacks/2012-10-12_23-31-54.074960/navigation_tutorials/simple_navigation_goals_tutorial}
 nmea_gps_driver: [nmea_gps_driver]
-nodelet_core: {nodelet: /home/rosbuild/hudson/workspace/doc-fuerte-nodelet_core-precise-amd64/doc_stacks/2012-10-12_23-31-52.217550/nodelet_core/nodelet,
-  nodelet_topic_tools: /home/rosbuild/hudson/workspace/doc-fuerte-nodelet_core-precise-amd64/doc_stacks/2012-10-12_23-31-52.217550/nodelet_core/nodelet_topic_tools,
-  test_nodelet: /home/rosbuild/hudson/workspace/doc-fuerte-nodelet_core-precise-amd64/doc_stacks/2012-10-12_23-31-52.217550/nodelet_core/test_nodelet}
+nodelet_core: {nodelet: /home/rosbuild/hudson/workspace/doc-fuerte-nodelet_core-precise-amd64/doc_stacks/2012-10-15_17-27-12.170457/nodelet_core/nodelet,
+  nodelet_topic_tools: /home/rosbuild/hudson/workspace/doc-fuerte-nodelet_core-precise-amd64/doc_stacks/2012-10-15_17-27-12.170457/nodelet_core/nodelet_topic_tools,
+  test_nodelet: /home/rosbuild/hudson/workspace/doc-fuerte-nodelet_core-precise-amd64/doc_stacks/2012-10-15_17-27-12.170457/nodelet_core/test_nodelet}
 occupancy_grid_utils: {occupancy_grid_utils: /home/rosbuild/hudson/workspace/doc-fuerte-occupancy_grid_utils-precise-amd64/doc_stacks/2012-10-12_23-38-34.792681/occupancy_grid_utils}
 open_street_map: [route_network, test_osm, osm_cartography]
 openni_launch: {openni_launch: /home/rosbuild/hudson/workspace/doc-fuerte-openni_launch-precise-amd64/doc_stacks/2012-10-12_23-34-12.359166/openni_launch}
@@ -172,4 +172,4 @@ visualization_experimental: {ogre_tools_qt: /home/rosbuild/hudson/workspace/doc-
   rviz_qt: /home/rosbuild/hudson/workspace/doc-fuerte-visualization_experimental-precise-amd64/doc_stacks/2012-10-12_23-42-12.553635/visualization_experimental/rviz_qt}
 wg_pr2_apps: [wg_pr2_2dnav]
 wge100_driver: [wge100_camera_firmware, wge100_camera]
-xacro: {xacro: /home/rosbuild/hudson/workspace/doc-fuerte-xacro-precise-amd64/doc_stacks/2012-10-12_23-29-44.407857/xacro}
+xacro: {xacro: /home/rosbuild/hudson/workspace/doc-fuerte-xacro-precise-amd64/doc_stacks/2012-10-15_17-27-04.782394/xacro}
