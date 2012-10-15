@@ -33,15 +33,15 @@ clearpath_kinect: [clearpath_kinect_demo, clearpath_tools]
 clearpath_turtlebot: [turtlebot_rndmwalk, turtlebot_train, turtlebot_kinect]
 cob_extern: [libpcan, libphidgets, libntcan, libmesasr]
 common: {}
-common_msgs: {actionlib_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-common_msgs-precise-amd64/doc_stacks/2012-10-12_23-41-16.367196/common_msgs/actionlib_msgs,
-  diagnostic_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-common_msgs-precise-amd64/doc_stacks/2012-10-12_23-41-16.367196/common_msgs/diagnostic_msgs,
-  geometry_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-common_msgs-precise-amd64/doc_stacks/2012-10-12_23-41-16.367196/common_msgs/geometry_msgs,
-  nav_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-common_msgs-precise-amd64/doc_stacks/2012-10-12_23-41-16.367196/common_msgs/nav_msgs,
-  sensor_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-common_msgs-precise-amd64/doc_stacks/2012-10-12_23-41-16.367196/common_msgs/sensor_msgs,
-  shape_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-common_msgs-precise-amd64/doc_stacks/2012-10-12_23-41-16.367196/common_msgs/shape_msgs,
-  stereo_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-common_msgs-precise-amd64/doc_stacks/2012-10-12_23-41-16.367196/common_msgs/stereo_msgs,
-  trajectory_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-common_msgs-precise-amd64/doc_stacks/2012-10-12_23-41-16.367196/common_msgs/trajectory_msgs,
-  visualization_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-common_msgs-precise-amd64/doc_stacks/2012-10-12_23-41-16.367196/common_msgs/visualization_msgs}
+common_msgs: {actionlib_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-common_msgs-precise-amd64/doc_stacks/2012-10-15_18-17-15.399446/common_msgs/actionlib_msgs,
+  diagnostic_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-common_msgs-precise-amd64/doc_stacks/2012-10-15_18-17-15.399446/common_msgs/diagnostic_msgs,
+  geometry_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-common_msgs-precise-amd64/doc_stacks/2012-10-15_18-17-15.399446/common_msgs/geometry_msgs,
+  nav_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-common_msgs-precise-amd64/doc_stacks/2012-10-15_18-17-15.399446/common_msgs/nav_msgs,
+  sensor_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-common_msgs-precise-amd64/doc_stacks/2012-10-15_18-17-15.399446/common_msgs/sensor_msgs,
+  shape_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-common_msgs-precise-amd64/doc_stacks/2012-10-15_18-17-15.399446/common_msgs/shape_msgs,
+  stereo_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-common_msgs-precise-amd64/doc_stacks/2012-10-15_18-17-15.399446/common_msgs/stereo_msgs,
+  trajectory_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-common_msgs-precise-amd64/doc_stacks/2012-10-15_18-17-15.399446/common_msgs/trajectory_msgs,
+  visualization_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-common_msgs-precise-amd64/doc_stacks/2012-10-15_18-17-15.399446/common_msgs/visualization_msgs}
 common_rosdeps: {common_rosdeps: /home/rosbuild/hudson/workspace/doc-fuerte-common_rosdeps-precise-amd64/doc_stacks/2012-10-15_18-13-51.474850/common_rosdeps}
 common_tutorials: [turtle_actionlib, pluginlib_tutorials, actionlib_tutorials, nodelet_tutorial_math]
 control: [control_msgs]
@@ -76,7 +76,7 @@ imu_drivers: [microstrain_3dmgx2_imu]
 kingfisher: [kingfisher_node, kingfisher_bringup, kingfisher_msgs]
 langs: {}
 laser_pipeline: [laser_geometry, laser_filters, laser_assembler]
-megatree_pcl: {megatree_pcl: /home/rosbuild/hudson/workspace/doc-fuerte-megatree_pcl-precise-amd64/doc_stacks/2012-10-15_17-37-30.990573/megatree_pcl}
+megatree_pcl: {megatree_pcl: /home/rosbuild/hudson/workspace/doc-fuerte-megatree_pcl-precise-amd64/doc_stacks/2012-10-15_18-16-38.393504/megatree_pcl}
 multi_robot_collision_avoidance: {collvoid_controller: /home/rosbuild/hudson/workspace/doc-fuerte-multi_robot_collision_avoidance-precise-amd64/doc_stacks/2012-10-12_23-41-35.282928/multi_robot_collision_avoidance/collvoid_controller,
   collvoid_local_planner: /home/rosbuild/hudson/workspace/doc-fuerte-multi_robot_collision_avoidance-precise-amd64/doc_stacks/2012-10-12_23-41-35.282928/multi_robot_collision_avoidance/collvoid_local_planner,
   collvoid_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-multi_robot_collision_avoidance-precise-amd64/doc_stacks/2012-10-12_23-41-35.282928/multi_robot_collision_avoidance/collvoid_msgs,
@@ -182,6 +182,9 @@ universal_robot: {ur5_bringup: /home/rosbuild/hudson/workspace/doc-fuerte-univer
   ur5_gazebo: /home/rosbuild/hudson/workspace/doc-fuerte-universal_robot-precise-amd64/doc_stacks/2012-10-15_18-11-59.921423/universal_robot/ur5_gazebo}
 visualization_experimental: {ogre_tools_qt: /home/rosbuild/hudson/workspace/doc-fuerte-visualization_experimental-precise-amd64/doc_stacks/2012-10-12_23-42-12.553635/visualization_experimental/ogre_tools_qt,
   rviz_qt: /home/rosbuild/hudson/workspace/doc-fuerte-visualization_experimental-precise-amd64/doc_stacks/2012-10-12_23-42-12.553635/visualization_experimental/rviz_qt}
+warehousewg: {mongo_ros: /home/rosbuild/hudson/workspace/doc-fuerte-warehousewg-precise-amd64/doc_stacks/2012-10-15_18-16-14.950742/warehousewg/mongo_ros,
+  mongodb: /home/rosbuild/hudson/workspace/doc-fuerte-warehousewg-precise-amd64/doc_stacks/2012-10-15_18-16-14.950742/warehousewg/mongodb,
+  pymongo: /home/rosbuild/hudson/workspace/doc-fuerte-warehousewg-precise-amd64/doc_stacks/2012-10-15_18-16-14.950742/warehousewg/pymongo}
 wg_pr2_apps: [wg_pr2_2dnav]
 wge100_driver: [wge100_camera_firmware, wge100_camera]
 xacro: {xacro: /home/rosbuild/hudson/workspace/doc-fuerte-xacro-precise-amd64/doc_stacks/2012-10-15_18-06-21.880353/xacro}
