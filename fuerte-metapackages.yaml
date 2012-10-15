@@ -160,8 +160,8 @@ rospack: {rospack: /home/rosbuild/hudson/workspace/doc-fuerte-rospack-precise-am
 rosserial_android: {rosserial_adk_demo: /home/rosbuild/hudson/workspace/doc-fuerte-rosserial_android-precise-amd64/doc_stacks/2012-10-15_17-29-09.715443/rosserial_android/rosserial_adk_demo,
   rosserial_adk_demo_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-rosserial_android-precise-amd64/doc_stacks/2012-10-15_17-29-09.715443/rosserial_android/rosserial_adk_demo_msgs,
   rosserial_android: /home/rosbuild/hudson/workspace/doc-fuerte-rosserial_android-precise-amd64/doc_stacks/2012-10-15_17-29-09.715443/rosserial_android/rosserial_android}
-rosserial_java: {rosserial_java: /home/rosbuild/hudson/workspace/doc-fuerte-rosserial_java-precise-amd64/doc_stacks/2012-10-12_23-36-20.971907/rosserial_java/rosserial_java,
-  rosserial_java_node: /home/rosbuild/hudson/workspace/doc-fuerte-rosserial_java-precise-amd64/doc_stacks/2012-10-12_23-36-20.971907/rosserial_java/rosserial_java_node}
+rosserial_java: {rosserial_java: /home/rosbuild/hudson/workspace/doc-fuerte-rosserial_java-precise-amd64/doc_stacks/2012-10-15_17-32-17.772148/rosserial_java/rosserial_java,
+  rosserial_java_node: /home/rosbuild/hudson/workspace/doc-fuerte-rosserial_java-precise-amd64/doc_stacks/2012-10-15_17-32-17.772148/rosserial_java/rosserial_java_node}
 rx: [xdot, wxPython_swig_interface, rxbag, rxgraph, rxtools]
 serial_communication: [cereal_port]
 simple_object_capture: {simple_object_capture: /home/rosbuild/hudson/workspace/doc-fuerte-simple_object_capture-precise-amd64/doc_stacks/2012-10-12_23-38-19.251313/simple_object_capture}
