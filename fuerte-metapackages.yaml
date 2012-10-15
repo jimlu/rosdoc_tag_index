@@ -24,9 +24,9 @@ calibration: {calibration_estimation: /home/rosbuild/hudson/workspace/doc-fuerte
   settlerlib: /home/rosbuild/hudson/workspace/doc-fuerte-calibration-precise-amd64/doc_stacks/2012-10-15_18-05-58.137126/calibration/settlerlib}
 camera1394: [camera1394]
 camera_drivers: []
-camera_pose: {camera_pose_calibration: /home/rosbuild/hudson/workspace/doc-fuerte-camera_pose-precise-amd64/doc_stacks/2012-10-15_17-32-10.649972/camera_pose/camera_pose_calibration,
-  camera_pose_toolkits: /home/rosbuild/hudson/workspace/doc-fuerte-camera_pose-precise-amd64/doc_stacks/2012-10-15_17-32-10.649972/camera_pose/camera_pose_toolkits,
-  kinect_depth_calibration: /home/rosbuild/hudson/workspace/doc-fuerte-camera_pose-precise-amd64/doc_stacks/2012-10-15_17-32-10.649972/camera_pose/kinect_depth_calibration}
+camera_pose: {camera_pose_calibration: /home/rosbuild/hudson/workspace/doc-fuerte-camera_pose-precise-amd64/doc_stacks/2012-10-15_18-11-37.474184/camera_pose/camera_pose_calibration,
+  camera_pose_toolkits: /home/rosbuild/hudson/workspace/doc-fuerte-camera_pose-precise-amd64/doc_stacks/2012-10-15_18-11-37.474184/camera_pose/camera_pose_toolkits,
+  kinect_depth_calibration: /home/rosbuild/hudson/workspace/doc-fuerte-camera_pose-precise-amd64/doc_stacks/2012-10-15_18-11-37.474184/camera_pose/kinect_depth_calibration}
 catkin: {}
 clearpath_common: [clearpath_bringup, clearpath_base, clearpath_teleop]
 clearpath_kinect: [clearpath_kinect_demo, clearpath_tools]
