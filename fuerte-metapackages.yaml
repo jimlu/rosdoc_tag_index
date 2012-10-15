@@ -39,8 +39,8 @@ multimaster: [multimaster]
 multimaster_experimental: [rosproxy, app_manager_android, foreign_relay, app_manager_tutorial,
   pyqrnative, app_manager]
 navigation: [move_base, navfn, clear_costmap_recovery, nav_core, costmap_2d, dwa_local_planner,
-  carrot_planner, map_server, voxel_grid, rotate_recovery, amcl, fake_localization,
-  move_base_msgs, move_slow_and_clear, base_local_planner, robot_pose_ekf]
+  carrot_planner, map_server, robot_pose_ekf, rotate_recovery, amcl, fake_localization,
+  move_base_msgs, move_slow_and_clear, base_local_planner, voxel_grid]
 navigation_experimental: [pose_base_controller, goal_passer, assisted_teleop, eband_local_planner,
   pose_follower, twist_recovery, sbpl_lattice_planner, sbpl_recovery]
 navigation_tutorials: [navigation_stage, roomba_stage, odometry_publisher_tutorial,
@@ -50,6 +50,7 @@ nodelet_core: [nodelet_topic_tools, nodelet, test_nodelet]
 occupancy_grid_utils: [occupancy_grid_utils]
 openni_camera: [openni_camera]
 openni_kinect: [openni_camera_deprecated, openni, nite]
+openni_launch: [openni_launch]
 openni_tracker: [openni_tracker]
 pluginlib: [pluginlib]
 rcommander_core: [rcommander_plain, nodebox_qt, rcommander, tf_broadcast_server]
