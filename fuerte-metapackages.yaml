@@ -31,8 +31,8 @@ megatree: [megatree_cpp, megatree_import, megatree_web, megatree_storage, megatr
 megatree_pcl: [megatree_pcl]
 multimaster: [multimaster]
 navigation: [move_base, navfn, clear_costmap_recovery, nav_core, costmap_2d, dwa_local_planner,
-  carrot_planner, map_server, voxel_grid, rotate_recovery, amcl, fake_localization,
-  move_base_msgs, move_slow_and_clear, base_local_planner, robot_pose_ekf]
+  carrot_planner, map_server, robot_pose_ekf, rotate_recovery, amcl, fake_localization,
+  move_base_msgs, move_slow_and_clear, base_local_planner, voxel_grid]
 navigation_experimental: [pose_base_controller, goal_passer, assisted_teleop, eband_local_planner,
   pose_follower, twist_recovery, sbpl_lattice_planner, sbpl_recovery]
 navigation_tutorials: [navigation_stage, roomba_stage, odometry_publisher_tutorial,
