@@ -7,6 +7,7 @@ executive_smach_visualization: [smach_viewer]
 gencpp: [gencpp]
 genlisp: [genlisp]
 geometry: [tf, angles, tf_conversions, eigen_conversions]
+langs: []
 megatree: [megatree_cpp, megatree_import, megatree_web, megatree_storage, megatree_core,
   megatree_server]
 multimaster: [multimaster]
