@@ -1,3 +1,4 @@
+actionlib: [actionlib]
 bfl: [bfl]
 genlisp: [genlisp]
 navigation: [move_base, navfn, clear_costmap_recovery, nav_core, costmap_2d, dwa_local_planner,
