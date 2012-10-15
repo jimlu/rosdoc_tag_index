@@ -175,6 +175,7 @@ navigation: [actionlib, bfl, common_msgs, common_rosdeps, dynamic_reconfigure, g
 navigation_stage: [move_base, stage, amcl, map_server, fake_localization, gmapping]
 navigation_tutorials: [common, common_msgs, geometry, navigation, ros, ros_comm, slam_gmapping,
   stage]
+nite: [openni, nite-dev, ps-engine]
 nmea_gps_driver: [sensor_msgs, std_msgs, rospy, geometry_msgs, python-serial]
 nodelet: [pluginlib, roscpp, rospy, bondcpp, uuid]
 nodelet_core: [bond_core, dynamic_reconfigure, pluginlib, ros, ros_comm]
@@ -186,8 +187,15 @@ occupancy_grid_utils: [nav_msgs, geometry_msgs, tf, sensor_msgs, roscpp, laser_g
 odometry_publisher_tutorial: [roscpp, nav_msgs, tf]
 ogre_tools_qt: [ogre, rosconsole, roslib]
 open_street_map: [common_msgs, driver_common, geographic_info, geometry, ros, ros_comm]
+openni: [openni-dev]
 openni_camera: [camera_info_manager, dynamic_reconfigure, image_transport, nodelet,
   roscpp, sensor_msgs, libusb-1.0-dev, openni-dev, ps-engine]
+openni_camera_deprecated: [openni_camera, camera_info_manager, dynamic_reconfigure,
+  image_transport, nodelet, roscpp, sensor_msgs, common_rosdeps, pcl, pcl_ros, stereo_msgs,
+  tf, eigen]
+openni_kinect: [common_msgs, common_rosdeps, dynamic_reconfigure, geometry, image_common,
+  nodelet_core, openni_camera, openni_launch, openni_tracker, perception_pcl, ros,
+  ros_comm]
 openni_launch: [depth_image_proc, image_proc, nodelet, openni_camera, tf]
 openni_tracker: [geometry_msgs, kdl, roscpp, roslib, tf, openni-dev, nite-dev, ps-engine]
 openrtm_cpp: [pkg-config, uuid, omniorb, python-yaml, doxygen]

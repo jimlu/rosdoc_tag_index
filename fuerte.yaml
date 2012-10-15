@@ -322,6 +322,13 @@ ros-fuerte-open-street-map:
 ros-fuerte-openni-camera:
 - {docs_url: ../../../api/openni_camera/html, location: 'http://ros.org/rosdoclite/fuerte/api/openni_camera/tags/openni_camera.tag',
   package: openni_camera}
+ros-fuerte-openni-kinect:
+- {docs_url: ../../../api/openni_camera_deprecated/html, location: 'http://ros.org/rosdoclite/fuerte/api/openni_camera_deprecated/tags/openni_camera_deprecated.tag',
+  package: openni_camera_deprecated}
+- {docs_url: ../../../api/openni/html, location: 'http://ros.org/rosdoclite/fuerte/api/openni/tags/openni.tag',
+  package: openni}
+- {docs_url: ../../../api/nite/html, location: 'http://ros.org/rosdoclite/fuerte/api/nite/tags/nite.tag',
+  package: nite}
 ros-fuerte-openni-launch:
 - {docs_url: ../../../api/openni_launch/html, location: 'http://ros.org/rosdoclite/fuerte/api/openni_launch/tags/openni_launch.tag',
   package: openni_launch}
