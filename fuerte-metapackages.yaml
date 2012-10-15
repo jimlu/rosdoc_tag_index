@@ -29,6 +29,8 @@ megatree: [megatree_cpp, megatree_import, megatree_web, megatree_storage, megatr
   megatree_server]
 megatree_pcl: [megatree_pcl]
 multimaster: [multimaster]
+multimaster_experimental: [rosproxy, app_manager_android, foreign_relay, app_manager_tutorial,
+  pyqrnative, app_manager]
 navigation: [move_base, navfn, clear_costmap_recovery, nav_core, costmap_2d, dwa_local_planner,
   carrot_planner, map_server, voxel_grid, rotate_recovery, amcl, fake_localization,
   move_base_msgs, move_slow_and_clear, base_local_planner, robot_pose_ekf]
