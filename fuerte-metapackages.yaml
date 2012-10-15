@@ -180,4 +180,4 @@ visualization_experimental: {ogre_tools_qt: /home/rosbuild/hudson/workspace/doc-
   rviz_qt: /home/rosbuild/hudson/workspace/doc-fuerte-visualization_experimental-precise-amd64/doc_stacks/2012-10-12_23-42-12.553635/visualization_experimental/rviz_qt}
 wg_pr2_apps: [wg_pr2_2dnav]
 wge100_driver: [wge100_camera_firmware, wge100_camera]
-xacro: {xacro: /home/rosbuild/hudson/workspace/doc-fuerte-xacro-precise-amd64/doc_stacks/2012-10-15_17-27-04.782394/xacro}
+xacro: {xacro: /home/rosbuild/hudson/workspace/doc-fuerte-xacro-precise-amd64/doc_stacks/2012-10-15_18-06-21.880353/xacro}
