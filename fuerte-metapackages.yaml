@@ -1,5 +1,6 @@
 actionlib: [actionlib]
 bfl: [bfl]
+executive_smach_visualization: [smach_viewer]
 genlisp: [genlisp]
 megatree: [megatree_cpp, megatree_import, megatree_web, megatree_storage, megatree_core,
   megatree_server]
