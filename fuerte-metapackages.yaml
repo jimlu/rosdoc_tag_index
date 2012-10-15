@@ -117,9 +117,9 @@ navigation_tutorials: {laser_scan_publisher_tutorial: /home/rosbuild/hudson/work
   roomba_stage: /home/rosbuild/hudson/workspace/doc-fuerte-navigation_tutorials-precise-amd64/doc_stacks/2012-10-15_17-28-27.777583/navigation_tutorials/roomba_stage,
   simple_navigation_goals_tutorial: /home/rosbuild/hudson/workspace/doc-fuerte-navigation_tutorials-precise-amd64/doc_stacks/2012-10-15_17-28-27.777583/navigation_tutorials/simple_navigation_goals_tutorial}
 nmea_gps_driver: [nmea_gps_driver]
-nodelet_core: {nodelet: /home/rosbuild/hudson/workspace/doc-fuerte-nodelet_core-precise-amd64/doc_stacks/2012-10-15_17-27-12.170457/nodelet_core/nodelet,
-  nodelet_topic_tools: /home/rosbuild/hudson/workspace/doc-fuerte-nodelet_core-precise-amd64/doc_stacks/2012-10-15_17-27-12.170457/nodelet_core/nodelet_topic_tools,
-  test_nodelet: /home/rosbuild/hudson/workspace/doc-fuerte-nodelet_core-precise-amd64/doc_stacks/2012-10-15_17-27-12.170457/nodelet_core/test_nodelet}
+nodelet_core: {nodelet: /home/rosbuild/hudson/workspace/doc-fuerte-nodelet_core-precise-amd64/doc_stacks/2012-10-15_18-06-37.166722/nodelet_core/nodelet,
+  nodelet_topic_tools: /home/rosbuild/hudson/workspace/doc-fuerte-nodelet_core-precise-amd64/doc_stacks/2012-10-15_18-06-37.166722/nodelet_core/nodelet_topic_tools,
+  test_nodelet: /home/rosbuild/hudson/workspace/doc-fuerte-nodelet_core-precise-amd64/doc_stacks/2012-10-15_18-06-37.166722/nodelet_core/test_nodelet}
 occupancy_grid_utils: {occupancy_grid_utils: /home/rosbuild/hudson/workspace/doc-fuerte-occupancy_grid_utils-precise-amd64/doc_stacks/2012-10-15_17-35-26.994699/occupancy_grid_utils}
 open_street_map: [route_network, test_osm, osm_cartography]
 openni_camera: {openni_camera: /home/rosbuild/hudson/workspace/doc-fuerte-openni_camera-precise-amd64/doc_stacks/2012-10-15_17-30-14.017247/openni_camera}
