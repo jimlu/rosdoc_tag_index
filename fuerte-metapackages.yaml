@@ -63,7 +63,10 @@ gencpp: {gencpp: /home/rosbuild/hudson/workspace/doc-fuerte-gencpp-precise-amd64
 genlisp: {genlisp: /home/rosbuild/hudson/workspace/doc-fuerte-genlisp-precise-amd64/doc_stacks/2012-10-15_18-06-03.733887/genlisp}
 genmsg: {genmsg: /home/rosbuild/hudson/workspace/doc-fuerte-genmsg-precise-amd64/doc_stacks/2012-10-15_18-06-26.938852/genmsg}
 genpy: {genpy: /home/rosbuild/hudson/workspace/doc-fuerte-genpy-precise-amd64/doc_stacks/2012-10-15_18-15-52.839549/genpy}
-geometry: [angles, tf_conversions, tf, eigen_conversions]
+geometry: {angles: /home/rosbuild/hudson/workspace/doc-fuerte-geometry-precise-amd64/doc_stacks/2012-10-15_21-49-57.129389/geometry/angles,
+  eigen_conversions: /home/rosbuild/hudson/workspace/doc-fuerte-geometry-precise-amd64/doc_stacks/2012-10-15_21-49-57.129389/geometry/eigen_conversions,
+  tf: /home/rosbuild/hudson/workspace/doc-fuerte-geometry-precise-amd64/doc_stacks/2012-10-15_21-49-57.129389/geometry/tf,
+  tf_conversions: /home/rosbuild/hudson/workspace/doc-fuerte-geometry-precise-amd64/doc_stacks/2012-10-15_21-49-57.129389/geometry/tf_conversions}
 geometry_experimental: {test_tf2: /home/rosbuild/hudson/workspace/doc-fuerte-geometry_experimental-precise-amd64/doc_stacks/2012-10-12_23-42-17.041537/geometry_experimental/test_tf2,
   tf2: /home/rosbuild/hudson/workspace/doc-fuerte-geometry_experimental-precise-amd64/doc_stacks/2012-10-12_23-42-17.041537/geometry_experimental/tf2,
   tf2_bullet: /home/rosbuild/hudson/workspace/doc-fuerte-geometry_experimental-precise-amd64/doc_stacks/2012-10-12_23-42-17.041537/geometry_experimental/tf2_bullet,
