@@ -10,6 +10,7 @@ common_msgs: [nav_msgs, shape_msgs, stereo_msgs, actionlib_msgs, trajectory_msgs
 common_rosdeps: [common_rosdeps]
 dynamic_reconfigure: [dynamic_reconfigure]
 eigen: [eigen]
+executive_smach: [smach_ros, smach, smach_msgs]
 executive_smach_visualization: [smach_viewer]
 filters: [filters]
 gencpp: [gencpp]
