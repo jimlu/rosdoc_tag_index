@@ -1,5 +1,11 @@
+actionlib: [actionlib]
+audio_common: [audio_capture, sound_play, audio_play, audio_common_msgs]
 bfl: [bfl]
+executive_smach_visualization: [smach_viewer]
 genlisp: [genlisp]
+megatree: [megatree_cpp, megatree_import, megatree_web, megatree_storage, megatree_core,
+  megatree_server]
+multimaster: [multimaster]
 navigation: [move_base, navfn, clear_costmap_recovery, nav_core, costmap_2d, dwa_local_planner,
   carrot_planner, map_server, voxel_grid, rotate_recovery, amcl, fake_localization,
   move_base_msgs, move_slow_and_clear, base_local_planner, robot_pose_ekf]
@@ -7,5 +13,11 @@ navigation_tutorials: [navigation_stage, roomba_stage, odometry_publisher_tutori
   point_cloud_publisher_tutorial, robot_setup_tf_tutorial, laser_scan_publisher_tutorial,
   simple_navigation_goals_tutorial]
 nodelet_core: [nodelet_topic_tools, nodelet, test_nodelet]
+openni_camera: [openni_camera]
+openni_kinect: [openni_camera_deprecated, openni, nite]
+robot_model_tutorials: [urdf_tutorial]
+ros_tutorials: [turtlesim, rospy_tutorials, roscpp_tutorials]
+rosh_core: [roshlaunch, rosh]
 rospack: [rospack]
+rosserial_android: [rosserial_android, rosserial_adk_demo_msgs, rosserial_adk_demo]
 xacro: [xacro]
