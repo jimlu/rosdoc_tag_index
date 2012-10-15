@@ -172,7 +172,7 @@ simple_object_capture: {simple_object_capture: /home/rosbuild/hudson/workspace/d
 slam_gmapping: [gmapping]
 sql_database: [student_database, database_interface]
 srs_common: [srs_object_database_msgs]
-std_msgs: {std_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-std_msgs-precise-amd64/doc_stacks/2012-10-12_23-40-59.461413/std_msgs}
+std_msgs: {std_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-std_msgs-precise-amd64/doc_stacks/2012-10-15_17-37-32.338873/std_msgs}
 unique_identifier: [uuid_msgs, unique_id]
 visualization_experimental: {ogre_tools_qt: /home/rosbuild/hudson/workspace/doc-fuerte-visualization_experimental-precise-amd64/doc_stacks/2012-10-12_23-42-12.553635/visualization_experimental/ogre_tools_qt,
   rviz_qt: /home/rosbuild/hudson/workspace/doc-fuerte-visualization_experimental-precise-amd64/doc_stacks/2012-10-12_23-42-12.553635/visualization_experimental/rviz_qt}
