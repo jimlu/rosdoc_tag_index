@@ -9,6 +9,7 @@ dynamic_reconfigure: [dynamic_reconfigure]
 executive_smach_visualization: [smach_viewer]
 gencpp: [gencpp]
 genlisp: [genlisp]
+genpy: [genpy]
 geometry: [tf, angles, tf_conversions, eigen_conversions]
 langs: []
 megatree: [megatree_cpp, megatree_import, megatree_web, megatree_storage, megatree_core,
