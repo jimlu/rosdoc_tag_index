@@ -42,7 +42,7 @@ common_msgs: {actionlib_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-common_
   stereo_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-common_msgs-precise-amd64/doc_stacks/2012-10-12_23-41-16.367196/common_msgs/stereo_msgs,
   trajectory_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-common_msgs-precise-amd64/doc_stacks/2012-10-12_23-41-16.367196/common_msgs/trajectory_msgs,
   visualization_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-common_msgs-precise-amd64/doc_stacks/2012-10-12_23-41-16.367196/common_msgs/visualization_msgs}
-common_rosdeps: {common_rosdeps: /home/rosbuild/hudson/workspace/doc-fuerte-common_rosdeps-precise-amd64/doc_stacks/2012-10-15_17-34-55.981480/common_rosdeps}
+common_rosdeps: {common_rosdeps: /home/rosbuild/hudson/workspace/doc-fuerte-common_rosdeps-precise-amd64/doc_stacks/2012-10-15_18-13-51.474850/common_rosdeps}
 common_tutorials: [turtle_actionlib, pluginlib_tutorials, actionlib_tutorials, nodelet_tutorial_math]
 control: [control_msgs]
 diagnostics_monitors: [runtime_monitor, robot_monitor]
