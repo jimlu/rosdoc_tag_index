@@ -68,6 +68,10 @@ clearpath_teleop: [rospy, sensor_msgs, geometry_msgs, std_msgs]
 clearpath_tools: [roscpp, pcl_ros, std_msgs, sensor_msgs]
 clearpath_turtlebot: [clearpath_kinect, openni_kinect, ros, turtlebot]
 cob_extern: [ros]
+collada_parser: [roscpp, urdf_interface, colladadom]
+collada_urdf: [roscpp, urdf, colladadom, resource_retriever, angles, common_rosdeps,
+  assimp]
+colladadom: [libxml2, unzip, pcre]
 collvoid_controller: [rospy, std_msgs, tf, geometry_msgs, std_srvs, collvoid_local_planner]
 collvoid_local_planner: [roscpp, collvoid_msgs, visualization_msgs, tf, angles, base_local_planner,
   pluginlib, nav_core, actionlib, move_base_msgs, std_srvs, dynamic_reconfigure]
@@ -81,6 +85,7 @@ common_tutorials: [actionlib, common_msgs, geometry, nodelet_core, pluginlib, ro
   ros_comm, ros_tutorials]
 control: [common_msgs, ros, ros_comm]
 control_msgs: [actionlib_msgs, geometry_msgs, trajectory_msgs, rospy]
+convex_decomposition: [unzip]
 costmap_2d: [rosconsole, roscpp, std_msgs, geometry_msgs, sensor_msgs, laser_geometry,
   tf, voxel_grid, nav_msgs, visualization_msgs, rosbag, map_server, pcl_ros, dynamic_reconfigure,
   common_rosdeps, pcl, eigen]
@@ -130,6 +135,7 @@ irobot_create_2_1: [roscpp, rospy, geometry_msgs, tf, nav_msgs, python-serial]
 joint_state_publisher: [rospy, sensor_msgs, wxpython]
 joint_states_settler: [roscpp, actionlib_msgs, sensor_msgs, actionlib, settlerlib,
   calibration_msgs]
+kdl_parser: [kdl, urdf, roscpp]
 kinect_depth_calibration: [rospy, roslib, opencv2, cv_bridge, geometry_msgs, sensor_msgs,
   stereo_msgs, tf_conversions, tf, kdl]
 kingfisher: [camera_drivers, image_pipeline, image_transport_plugins, multimaster_experimental,
@@ -229,6 +235,9 @@ rcommander: [rospy, nodebox_qt, smach, smach_ros, actionlib, geometry_msgs, tf, 
   python-qt4-gl]
 rcommander_core: [ros, ros_comm, common, common_msgs, executive_smach, geometry]
 rcommander_plain: [rospy, rcommander]
+resource_retriever: [roslib, rosconsole, curl]
+robot_model: [common_msgs, common_rosdeps, geometry, orocos_kinematics_dynamics, ros,
+  ros_comm]
 robot_model_py: [ros, ros_comm]
 robot_model_tutorials: [ros]
 robot_model_visualization: [common_msgs, ros, ros_comm]
@@ -237,6 +246,7 @@ robot_pose_ekf: [roscpp, rosbag, bfl, std_msgs, geometry_msgs, sensor_msgs, nav_
   tf]
 robot_pose_publisher: [roscpp, tf, geometry_msgs]
 robot_setup_tf_tutorial: [roscpp, tf, geometry_msgs]
+robot_state_publisher: [kdl_parser, sensor_msgs, roscpp, tf, tf_conversions]
 romeo: [ros]
 rosbag: [python-imaging, bzip2]
 rosconsole: [apr, log4cxx]
@@ -290,6 +300,7 @@ sensor_msgs: [geometry_msgs]
 serial_communication: [ros, ros_comm]
 settlerlib: [roscpp, calibration_msgs]
 shape_msgs: [std_msgs, geometry_msgs]
+simmechanics_to_urdf: [rospy, sensor_msgs, tf, python-yaml]
 simple_navigation_goals_tutorial: [move_base_msgs, actionlib, roscpp, tf]
 simple_object_capture: [pcl, roscpp, sensor_msgs, message_filters, dynamic_reconfigure,
   opencv2, cv_bridge, rosbag, image_geometry]
@@ -300,6 +311,7 @@ smach_viewer: [smach_ros, xdot, smach_msgs]
 sound_play: [rospy, roscpp, roslib, diagnostic_msgs, festival, libgstreamer0.10-dev,
   libgstreamer-plugins-base0.10-dev, python-gst, gstreamer0.10-plugins-ugly, gstreamer0.10-plugins-good]
 sql_database: [common_rosdeps, ros, ros_comm]
+srdf: [urdf, rosconsole, tinyxml]
 srs_common: [arm_navigation, common_msgs, perception_pcl, ros, ros_comm]
 srs_object_database_msgs: [pcl, visualization_msgs, sensor_msgs, arm_navigation_msgs]
 stereo_msgs: [sensor_msgs]
@@ -340,6 +352,9 @@ ur5_bringup: [tf2_ros, ur5_driver, ur5_description]
 ur5_description: [urdf]
 ur5_driver: [rospy, actionlib, control_msgs, sensor_msgs]
 ur5_gazebo: [ur5_description]
+urdf: [roscpp, colladadom, urdf_parser, collada_parser]
+urdf_interface: [tinyxml]
+urdf_parser: [roscpp, urdf_interface, tinyxml]
 urdf_parser_py: [rospy]
 visualization_experimental: [common_msgs, common_rosdeps, geometry, image_common,
   laser_pipeline, pluginlib, robot_model, ros, ros_comm, visualization, visualization_common]
