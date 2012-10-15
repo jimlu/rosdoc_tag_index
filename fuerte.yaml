@@ -59,6 +59,13 @@ ros-fuerte-calibration:
   package: joint_states_settler}
 - {docs_url: ../../../api/calibration_launch/html, location: 'http://ros.org/rosdoclite/fuerte/api/calibration_launch/tags/calibration_launch.tag',
   package: calibration_launch}
+ros-fuerte-camera-pose:
+- {docs_url: ../../../api/camera_pose_calibration/html, location: 'http://ros.org/rosdoclite/fuerte/api/camera_pose_calibration/tags/camera_pose_calibration.tag',
+  package: camera_pose_calibration}
+- {docs_url: ../../../api/camera_pose_toolkits/html, location: 'http://ros.org/rosdoclite/fuerte/api/camera_pose_toolkits/tags/camera_pose_toolkits.tag',
+  package: camera_pose_toolkits}
+- {docs_url: ../../../api/kinect_depth_calibration/html, location: 'http://ros.org/rosdoclite/fuerte/api/kinect_depth_calibration/tags/kinect_depth_calibration.tag',
+  package: kinect_depth_calibration}
 ros-fuerte-camera1394:
 - {docs_url: ../../../api/camera1394/html, location: 'http://ros.org/rosdoclite/fuerte/api/camera1394/tags/camera1394.tag',
   package: camera1394}
