@@ -170,7 +170,7 @@ rosserial_java: {rosserial_java: /home/rosbuild/hudson/workspace/doc-fuerte-ross
   rosserial_java_node: /home/rosbuild/hudson/workspace/doc-fuerte-rosserial_java-precise-amd64/doc_stacks/2012-10-15_18-11-36.166718/rosserial_java/rosserial_java_node}
 rx: [xdot, wxPython_swig_interface, rxbag, rxgraph, rxtools]
 serial_communication: [cereal_port]
-simple_object_capture: {simple_object_capture: /home/rosbuild/hudson/workspace/doc-fuerte-simple_object_capture-precise-amd64/doc_stacks/2012-10-15_17-35-08.254656/simple_object_capture}
+simple_object_capture: {simple_object_capture: /home/rosbuild/hudson/workspace/doc-fuerte-simple_object_capture-precise-amd64/doc_stacks/2012-10-15_18-13-40.873357/simple_object_capture}
 slam_gmapping: [gmapping]
 sql_database: [student_database, database_interface]
 srs_common: [srs_object_database_msgs]
