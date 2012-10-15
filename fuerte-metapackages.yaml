@@ -84,6 +84,12 @@ imu_drivers: [microstrain_3dmgx2_imu]
 kingfisher: [kingfisher_node, kingfisher_bringup, kingfisher_msgs]
 langs: {}
 laser_pipeline: [laser_geometry, laser_filters, laser_assembler]
+megatree: {megatree_core: /home/rosbuild/hudson/workspace/doc-fuerte-megatree-precise-amd64/doc_stacks/2012-10-15_21-53-29.618675/megatree/megatree_core,
+  megatree_cpp: /home/rosbuild/hudson/workspace/doc-fuerte-megatree-precise-amd64/doc_stacks/2012-10-15_21-53-29.618675/megatree/megatree_cpp,
+  megatree_import: /home/rosbuild/hudson/workspace/doc-fuerte-megatree-precise-amd64/doc_stacks/2012-10-15_21-53-29.618675/megatree/megatree_import,
+  megatree_server: /home/rosbuild/hudson/workspace/doc-fuerte-megatree-precise-amd64/doc_stacks/2012-10-15_21-53-29.618675/megatree/megatree_server,
+  megatree_storage: /home/rosbuild/hudson/workspace/doc-fuerte-megatree-precise-amd64/doc_stacks/2012-10-15_21-53-29.618675/megatree/megatree_storage,
+  megatree_web: /home/rosbuild/hudson/workspace/doc-fuerte-megatree-precise-amd64/doc_stacks/2012-10-15_21-53-29.618675/megatree/megatree_web}
 megatree_pcl: {megatree_pcl: /home/rosbuild/hudson/workspace/doc-fuerte-megatree_pcl-precise-amd64/doc_stacks/2012-10-15_18-16-38.393504/megatree_pcl}
 multi_robot_collision_avoidance: {collvoid_controller: /home/rosbuild/hudson/workspace/doc-fuerte-multi_robot_collision_avoidance-precise-amd64/doc_stacks/2012-10-12_23-41-35.282928/multi_robot_collision_avoidance/collvoid_controller,
   collvoid_local_planner: /home/rosbuild/hudson/workspace/doc-fuerte-multi_robot_collision_avoidance-precise-amd64/doc_stacks/2012-10-12_23-41-35.282928/multi_robot_collision_avoidance/collvoid_local_planner,
