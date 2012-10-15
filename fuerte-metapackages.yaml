@@ -64,7 +64,7 @@ geometry_experimental: {test_tf2: /home/rosbuild/hudson/workspace/doc-fuerte-geo
   tf2_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-geometry_experimental-precise-amd64/doc_stacks/2012-10-12_23-42-17.041537/geometry_experimental/tf2_msgs,
   tf2_ros: /home/rosbuild/hudson/workspace/doc-fuerte-geometry_experimental-precise-amd64/doc_stacks/2012-10-12_23-42-17.041537/geometry_experimental/tf2_ros,
   tf2_tools: /home/rosbuild/hudson/workspace/doc-fuerte-geometry_experimental-precise-amd64/doc_stacks/2012-10-12_23-42-17.041537/geometry_experimental/tf2_tools}
-geometry_tutorials: {turtle_tf: /home/rosbuild/hudson/workspace/doc-fuerte-geometry_tutorials-precise-amd64/doc_stacks/2012-10-12_23-27-25.809885/geometry_tutorials/turtle_tf}
+geometry_tutorials: {turtle_tf: /home/rosbuild/hudson/workspace/doc-fuerte-geometry_tutorials-precise-amd64/doc_stacks/2012-10-15_17-26-57.999052/geometry_tutorials/turtle_tf}
 geometry_visualization: {tf2_visualization: /home/rosbuild/hudson/workspace/doc-fuerte-geometry_visualization-precise-amd64/doc_stacks/2012-10-12_23-38-34.232146/geometry_visualization/tf2_visualization}
 gps_drivers: []
 gps_umd: [gpsd_client, gps_common]
