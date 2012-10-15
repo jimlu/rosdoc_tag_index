@@ -382,10 +382,10 @@ ros-fuerte-ros-comm:
 - {docs_url: ../../../api/std_srvs/html, location: 'http://ros.org/rosdoclite/fuerte/api/std_srvs/tags/std_srvs.tag',
   package: std_srvs}
 ros-fuerte-ros-tutorials:
-- {docs_url: ../../../api/rospy_tutorials/html, location: 'http://ros.org/rosdoclite/fuerte/api/rospy_tutorials/tags/rospy_tutorials.tag',
-  package: rospy_tutorials}
 - {docs_url: ../../../api/turtlesim/html, location: 'http://ros.org/rosdoclite/fuerte/api/turtlesim/tags/turtlesim.tag',
   package: turtlesim}
+- {docs_url: ../../../api/rospy_tutorials/html, location: 'http://ros.org/rosdoclite/fuerte/api/rospy_tutorials/tags/rospy_tutorials.tag',
+  package: rospy_tutorials}
 - {docs_url: ../../../api/roscpp_tutorials/html, location: 'http://ros.org/rosdoclite/fuerte/api/roscpp_tutorials/tags/roscpp_tutorials.tag',
   package: roscpp_tutorials}
 ros-fuerte-roscpp-core:
@@ -442,6 +442,15 @@ ros-fuerte-unique-identifier:
   package: uuid_msgs}
 - {docs_url: ../../../api/unique_id/html, location: 'http://ros.org/rosdoclite/fuerte/api/unique_id/tags/unique_id.tag',
   package: unique_id}
+ros-fuerte-universal-robot:
+- {docs_url: ../../../api/ur5_description/html, location: 'http://ros.org/rosdoclite/fuerte/api/ur5_description/tags/ur5_description.tag',
+  package: ur5_description}
+- {docs_url: ../../../api/ur5_gazebo/html, location: 'http://ros.org/rosdoclite/fuerte/api/ur5_gazebo/tags/ur5_gazebo.tag',
+  package: ur5_gazebo}
+- {docs_url: ../../../api/ur5_driver/html, location: 'http://ros.org/rosdoclite/fuerte/api/ur5_driver/tags/ur5_driver.tag',
+  package: ur5_driver}
+- {docs_url: ../../../api/ur5_bringup/html, location: 'http://ros.org/rosdoclite/fuerte/api/ur5_bringup/tags/ur5_bringup.tag',
+  package: ur5_bringup}
 ros-fuerte-wg-pr2-apps:
 - {docs_url: ../../../api/wg_pr2_2dnav/html, location: 'http://ros.org/rosdoclite/fuerte/api/wg_pr2_2dnav/tags/wg_pr2_2dnav.tag',
   package: wg_pr2_2dnav}
