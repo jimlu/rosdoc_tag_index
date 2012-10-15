@@ -123,7 +123,7 @@ nodelet_core: {nodelet: /home/rosbuild/hudson/workspace/doc-fuerte-nodelet_core-
 occupancy_grid_utils: {occupancy_grid_utils: /home/rosbuild/hudson/workspace/doc-fuerte-occupancy_grid_utils-precise-amd64/doc_stacks/2012-10-15_17-35-26.994699/occupancy_grid_utils}
 open_street_map: [route_network, test_osm, osm_cartography]
 openni_camera: {openni_camera: /home/rosbuild/hudson/workspace/doc-fuerte-openni_camera-precise-amd64/doc_stacks/2012-10-15_18-09-47.255732/openni_camera}
-openni_launch: {openni_launch: /home/rosbuild/hudson/workspace/doc-fuerte-openni_launch-precise-amd64/doc_stacks/2012-10-12_23-34-12.359166/openni_launch}
+openni_launch: {openni_launch: /home/rosbuild/hudson/workspace/doc-fuerte-openni_launch-precise-amd64/doc_stacks/2012-10-15_18-09-36.753643/openni_launch}
 openni_tracker: {openni_tracker: /home/rosbuild/hudson/workspace/doc-fuerte-openni_tracker-precise-amd64/doc_stacks/2012-10-15_17-37-41.092496/openni_tracker}
 openrtm_cpp: [openrtm_cpp]
 pluginlib: {pluginlib: /home/rosbuild/hudson/workspace/doc-fuerte-pluginlib-precise-amd64/doc_stacks/2012-10-15_18-13-37.919476/pluginlib}
@@ -176,6 +176,10 @@ sql_database: [student_database, database_interface]
 srs_common: [srs_object_database_msgs]
 std_msgs: {std_msgs: /home/rosbuild/hudson/workspace/doc-fuerte-std_msgs-precise-amd64/doc_stacks/2012-10-15_17-37-32.338873/std_msgs}
 unique_identifier: [uuid_msgs, unique_id]
+universal_robot: {ur5_bringup: /home/rosbuild/hudson/workspace/doc-fuerte-universal_robot-precise-amd64/doc_stacks/2012-10-15_18-11-59.921423/universal_robot/ur5_bringup,
+  ur5_description: /home/rosbuild/hudson/workspace/doc-fuerte-universal_robot-precise-amd64/doc_stacks/2012-10-15_18-11-59.921423/universal_robot/ur5_description,
+  ur5_driver: /home/rosbuild/hudson/workspace/doc-fuerte-universal_robot-precise-amd64/doc_stacks/2012-10-15_18-11-59.921423/universal_robot/ur5_driver,
+  ur5_gazebo: /home/rosbuild/hudson/workspace/doc-fuerte-universal_robot-precise-amd64/doc_stacks/2012-10-15_18-11-59.921423/universal_robot/ur5_gazebo}
 visualization_experimental: {ogre_tools_qt: /home/rosbuild/hudson/workspace/doc-fuerte-visualization_experimental-precise-amd64/doc_stacks/2012-10-12_23-42-12.553635/visualization_experimental/ogre_tools_qt,
   rviz_qt: /home/rosbuild/hudson/workspace/doc-fuerte-visualization_experimental-precise-amd64/doc_stacks/2012-10-12_23-42-12.553635/visualization_experimental/rviz_qt}
 wg_pr2_apps: [wg_pr2_2dnav]
