@@ -1,4 +1,5 @@
 actionlib: [actionlib]
+audio_common: [audio_capture, sound_play, audio_play, audio_common_msgs]
 bfl: [bfl]
 genlisp: [genlisp]
 megatree: [megatree_cpp, megatree_import, megatree_web, megatree_storage, megatree_core,
@@ -9,6 +10,7 @@ navigation: [move_base, navfn, clear_costmap_recovery, nav_core, costmap_2d, dwa
   move_base_msgs, move_slow_and_clear, base_local_planner, robot_pose_ekf]
 nodelet_core: [nodelet_topic_tools, nodelet, test_nodelet]
 robot_model_tutorials: [urdf_tutorial]
+rosh_core: [roshlaunch, rosh]
 rospack: [rospack]
 rosserial_android: [rosserial_android, rosserial_adk_demo_msgs, rosserial_adk_demo]
 xacro: [xacro]
