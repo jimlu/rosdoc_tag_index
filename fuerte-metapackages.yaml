@@ -38,9 +38,9 @@ multi_robot_collision_avoidance: [collvoid_local_planner, collvoid_simple_global
 multimaster: [multimaster]
 multimaster_experimental: [rosproxy, app_manager_android, foreign_relay, app_manager_tutorial,
   pyqrnative, app_manager]
-navigation: [move_base, navfn, clear_costmap_recovery, nav_core, costmap_2d, dwa_local_planner,
-  carrot_planner, map_server, robot_pose_ekf, rotate_recovery, amcl, fake_localization,
-  move_base_msgs, move_slow_and_clear, base_local_planner, voxel_grid]
+navigation: [move_base, map_server, clear_costmap_recovery, costmap_2d, dwa_local_planner,
+  carrot_planner, navfn, voxel_grid, rotate_recovery, nav_core, fake_localization,
+  move_base_msgs, move_slow_and_clear, amcl, base_local_planner, robot_pose_ekf]
 navigation_experimental: [pose_base_controller, goal_passer, assisted_teleop, eband_local_planner,
   pose_follower, twist_recovery, sbpl_lattice_planner, sbpl_recovery]
 navigation_tutorials: [navigation_stage, roomba_stage, odometry_publisher_tutorial,
