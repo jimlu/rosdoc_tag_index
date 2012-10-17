@@ -1,4 +1,9 @@
 actionlib: [actionlib]
+arm_navigation: [move_arm, trajectory_filter_server, joint_normalization_filters,
+  kinematics_base, planning_models, mapping_rviz_plugin, spline_smoother, robot_self_filter,
+  constraint_aware_spline_smoother, arm_kinematics_constraint_aware, kinematics_msgs,
+  collision_map, planning_environment, collision_space, arm_navigation_msgs, geometric_shapes,
+  motion_planning_rviz_plugin, ompl_ros_interface]
 assimp: [assimp]
 audio_common: [audio_capture, sound_play, audio_play, audio_common_msgs]
 bfl: [bfl]
