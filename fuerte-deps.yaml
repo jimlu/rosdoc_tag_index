@@ -23,6 +23,11 @@ arm_kinematics_constraint_aware: [kinematics_base, arm_navigation_msgs, kinemati
   planning_models]
 arm_navigation: [actionlib, bullet, common_msgs, control, filters, geometry, orocos_kinematics_dynamics,
   perception_pcl, physics_ode, pluginlib, robot_model, ros, ros_comm, visualization]
+arm_navigation_experimental: [actionlib, arm_navigation, bullet, common_msgs, common_rosdeps,
+  control, filters, geometry, image_common, octomap_mapping, orocos_kinematics_dynamics,
+  perception_pcl, pluginlib, pr2_controllers, pr2_mechanism, robot_model, ros, ros_comm,
+  vision_opencv, visualization, warehousewg]
+arm_navigation_experimental_tools: [planning_environment]
 arm_navigation_msgs: [std_msgs, actionlib_msgs, sensor_msgs, geometry_msgs, trajectory_msgs,
   tf]
 assimp: [assimp]
@@ -64,6 +69,10 @@ camera_pose_toolkits: [std_msgs, rospy, roscpp, tf, geometry_msgs, sensor_msgs, 
 carrot_planner: [roscpp, costmap_2d, pluginlib, nav_core, base_local_planner, tf,
   angles, common_rosdeps, eigen]
 cereal_port: [roscpp]
+chomp_motion_planner: [roscpp, planning_models, planning_environment, arm_navigation_msgs,
+  kdl, kdl_parser, angles, visualization_msgs, tf, distance_field, sensor_msgs, trajectory_msgs,
+  filters, spline_smoother, collision_proximity, constraint_aware_spline_smoother,
+  common_rosdeps, eigen]
 clear_costmap_recovery: [roscpp, tf, costmap_2d, nav_core, pluginlib, common_rosdeps,
   eigen]
 clearpath_base: [rospy, std_msgs, geometry_msgs, python-serial, pkg-config]
@@ -79,8 +88,17 @@ collada_parser: [roscpp, urdf_interface, colladadom]
 collada_urdf: [roscpp, urdf, colladadom, resource_retriever, angles, common_rosdeps,
   assimp]
 colladadom: [libxml2, unzip, pcre]
+collider: [roscpp, octomap, octomap_ros, octomap_msgs, tf, visualization_msgs, arm_navigation_msgs,
+  std_msgs, std_srvs, actionlib, actionlib_msgs, pcl, pcl_ros, image_transport, image_geometry,
+  robot_self_filter, planning_environment, common_rosdeps, eigen, opencv2]
+collision_free_arm_trajectory_controller: [arm_navigation_msgs, planning_environment,
+  trajectory_msgs, pr2_controllers_msgs, actionlib_msgs, common_rosdeps, eigen]
 collision_map: [roscpp, tf, visualization_msgs, std_msgs, std_srvs, robot_self_filter,
   arm_navigation_msgs, actionlib]
+collision_proximity: [distance_field, planning_models, geometric_shapes, planning_environment,
+  bullet, kinematics_msgs, spline_smoother, arm_navigation_msgs]
+collision_proximity_planner: [planning_environment, spline_smoother, collision_proximity,
+  visualization_msgs, arm_navigation_msgs, sensor_msgs, kdl, kdl_parser, angles, pluginlib]
 collision_space: [rosconsole, planning_models, geometric_shapes, opende, bullet, pkg-config]
 collvoid_controller: [rospy, std_msgs, tf, geometry_msgs, std_srvs, collvoid_local_planner]
 collvoid_local_planner: [roscpp, collvoid_msgs, visualization_msgs, tf, angles, base_local_planner,
@@ -103,6 +121,7 @@ costmap_2d: [rosconsole, roscpp, std_msgs, geometry_msgs, sensor_msgs, laser_geo
   common_rosdeps, pcl, eigen]
 database_interface: [roscpp, common_rosdeps, libpq-dev, yaml-cpp]
 diagnostics_monitors: [common_msgs, ros, ros_comm, rx]
+distance_field: [roscpp, visualization_msgs, arm_navigation_msgs, bullet]
 driver_base: [roscpp, self_test, diagnostic_updater, dynamic_reconfigure]
 driver_common: [diagnostics, ros, dynamic_reconfigure]
 dwa_local_planner: [roscpp, tf, costmap_2d, roslib, nav_core, nav_msgs, base_local_planner,
@@ -138,11 +157,14 @@ gps_umd: [common_msgs, ros, ros_comm]
 gpsd_client: [roscpp, sensor_msgs, gps_common, libgps]
 halfsteps_pattern_generator: [common_rosdeps, rospy, bullet, walk_interfaces, walk_msgs,
   visualization_msgs, angles, boost, eigen]
+head_monitor_msgs: [actionlib_msgs, arm_navigation_msgs]
 humanoid_walk: [bullet, common_msgs, common_rosdeps, diagnostics, geometry, ros, ros_comm,
   robot_model_py]
 image_cb_detector: [calibration_msgs, roscpp, cv_bridge, actionlib, actionlib_msgs,
   image_transport, sensor_msgs, geometry_msgs, pcl_ros, opencv2]
 imu_drivers: [common_msgs, diagnostics, geometry, ros, ros_comm]
+interpolated_ik_motion_planner: [rospy, kinematics_msgs, geometry_msgs, arm_navigation_msgs,
+  visualization_msgs, sensor_msgs, trajectory_msgs]
 interval_intersection: [roscpp, actionlib_msgs, actionlib, calibration_msgs]
 irobot_create_2_1: [roscpp, rospy, geometry_msgs, tf, nav_msgs, python-serial]
 joint_normalization_filters: [spline_smoother, angles, filters]
@@ -190,6 +212,15 @@ motion_planning_rviz_plugin: [rviz, roscpp, tf, planning_models, planning_enviro
 move_arm: [roscpp, rosconsole, std_msgs, geometry_msgs, visualization_msgs, geometric_shapes,
   planning_models, planning_environment, actionlib, actionlib_msgs, tf_conversions,
   control_msgs, trajectory_msgs, kinematics_msgs, arm_navigation_msgs, interactive_markers]
+move_arm_head_monitor: [roscpp, actionlib, actionlib_msgs, pr2_controllers_msgs, control_msgs,
+  visualization_msgs, tf, planning_environment, head_monitor_msgs, common_rosdeps,
+  eigen]
+move_arm_warehouse: [roscpp, rosconsole, std_msgs, arm_navigation_msgs, geometry_msgs,
+  arm_navigation_msgs, visualization_msgs, geometric_shapes, planning_models, planning_environment,
+  actionlib, actionlib_msgs, tf_conversions, pr2_controllers_msgs, kinematics_msgs,
+  mongo_ros, move_arm_head_monitor, geometry_msgs, interactive_markers, pr2_mechanism_msgs,
+  interpolated_ik_motion_planner, ompl_ros_interface, interpolated_ik_motion_planner,
+  constraint_aware_spline_smoother]
 move_base: [roscpp, rosconsole, std_msgs, move_base_msgs, geometry_msgs, visualization_msgs,
   actionlib, nav_core, pluginlib, costmap_2d, tf, nav_msgs, roslib, rospy, rosmsg,
   rostopic, std_srvs, dynamic_reconfigure, common_rosdeps, base_local_planner, navfn,
@@ -368,6 +399,8 @@ tf2_visualization: [tf2_msgs, tf2, tf2_ros, xdot, rxbag]
 tf_broadcast_server: [tf, geometry_msgs]
 tf_conversions: [tf, kdl, geometry_msgs, eigen]
 timestamp_tools: [roslib, roscpp]
+trajectory_execution_monitor: [arm_navigation_msgs, control_msgs, actionlib, pr2_controllers_msgs,
+  planning_environment]
 trajectory_filter_server: [filters, roscpp, trajectory_msgs, arm_navigation_msgs,
   spline_smoother, joint_normalization_filters, urdf]
 turtle_actionlib: [roscpp, std_msgs, rosconsole, actionlib, actionlib_msgs, turtlesim,
