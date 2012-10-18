@@ -572,6 +572,11 @@ ros-fuerte-srs-common:
 ros-fuerte-std-msgs:
 - {docs_url: ../../../api/std_msgs/html, location: 'http://ros.org/rosdoclite/fuerte/api/std_msgs/tags/std_msgs.tag',
   package: std_msgs}
+ros-fuerte-turtlebot-simulator:
+- {docs_url: ../../../api/turtlebot_gazebo/html, location: 'http://ros.org/rosdoclite/fuerte/api/turtlebot_gazebo/tags/turtlebot_gazebo.tag',
+  package: turtlebot_gazebo}
+- {docs_url: ../../../api/turtlebot_gazebo_plugins/html, location: 'http://ros.org/rosdoclite/fuerte/api/turtlebot_gazebo_plugins/tags/turtlebot_gazebo_plugins.tag',
+  package: turtlebot_gazebo_plugins}
 ros-fuerte-turtlebot-viz:
 - {docs_url: ../../../api/turtlebot_interactive_markers/html, location: 'http://ros.org/rosdoclite/fuerte/api/turtlebot_interactive_markers/tags/turtlebot_interactive_markers.tag',
   package: turtlebot_interactive_markers}
