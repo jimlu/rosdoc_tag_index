@@ -406,9 +406,12 @@ trajectory_filter_server: [filters, roscpp, trajectory_msgs, arm_navigation_msgs
 turtle_actionlib: [roscpp, std_msgs, rosconsole, actionlib, actionlib_msgs, turtlesim,
   angles]
 turtle_tf: [roscpp, rospy, turtlesim, tf]
+turtlebot_dashboard: [rxtools, robot_monitor, std_msgs, std_srvs, rospy, roslib, turtlebot_node]
+turtlebot_interactive_markers: [roscpp, visualization_msgs, interactive_markers]
 turtlebot_kinect: [openni_camera, clearpath_tools, clearpath_kinect_demo]
 turtlebot_rndmwalk: [clearpath_tools, clearpath_kinect_demo, turtlebot_node]
 turtlebot_train: [clearpath_tools, clearpath_kinect_demo, turtlebot_node]
+turtlebot_viz: [common_msgs, diagnostics_monitors, ros, ros_comm, rx, turtlebot, visualization]
 turtlesim: [libqt4-dev, qt4-qmake]
 twist_recovery: [nav_core, costmap_2d, geometry_msgs, pluginlib, base_local_planner]
 unique_id: [roscpp, rospy, rosunit, uuid_msgs]

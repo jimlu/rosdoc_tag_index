@@ -572,6 +572,11 @@ ros-fuerte-srs-common:
 ros-fuerte-std-msgs:
 - {docs_url: ../../../api/std_msgs/html, location: 'http://ros.org/rosdoclite/fuerte/api/std_msgs/tags/std_msgs.tag',
   package: std_msgs}
+ros-fuerte-turtlebot-viz:
+- {docs_url: ../../../api/turtlebot_interactive_markers/html, location: 'http://ros.org/rosdoclite/fuerte/api/turtlebot_interactive_markers/tags/turtlebot_interactive_markers.tag',
+  package: turtlebot_interactive_markers}
+- {docs_url: ../../../api/turtlebot_dashboard/html, location: 'http://ros.org/rosdoclite/fuerte/api/turtlebot_dashboard/tags/turtlebot_dashboard.tag',
+  package: turtlebot_dashboard}
 ros-fuerte-unique-identifier:
 - {docs_url: ../../../api/uuid_msgs/html, location: 'http://ros.org/rosdoclite/fuerte/api/uuid_msgs/tags/uuid_msgs.tag',
   package: uuid_msgs}
