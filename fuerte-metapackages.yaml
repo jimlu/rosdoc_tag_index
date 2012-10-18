@@ -66,6 +66,8 @@ robot_model: [urdf_parser, urdf_interface, simmechanics_to_urdf, collada_parser,
   urdf, ivcon, srdf, collada_urdf, colladadom, convex_decomposition, kdl_parser, resource_retriever]
 robot_model_tutorials: [urdf_tutorial]
 robot_model_visualization: [joint_state_publisher]
+ros: [rosmake, rosboost_cfg, rosbash, roslib, roscreate, mk, rosbuild, rosclean, rosunit,
+  roslang]
 ros_tutorials: [turtlesim, rospy_tutorials, roscpp_tutorials]
 roscpp_core: [roscpp_traits, cpp_common, rostime, roscpp_serialization]
 rosh_core: [roshlaunch, rosh]
