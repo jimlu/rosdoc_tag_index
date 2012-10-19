@@ -314,6 +314,7 @@ rosbag: [python-imaging, bzip2]
 rosconsole: [apr, log4cxx]
 roscpp: [roslang, pkg-config]
 roscpp_tutorials: [roscpp, std_srvs, std_msgs]
+rosdoc_lite: [rospkg, genmsg, doxygen, epydoc, python-sphinx, python-yaml]
 rosh: [roshlaunch, rospy, rosgraph, rosnode, rostopic, rosservice, rosparam, rosmsg,
   ipython]
 rosh_common: [rospy, rosmsg, rostopic, roslib, rosh, actionlib, std_msgs, sensor_msgs,
