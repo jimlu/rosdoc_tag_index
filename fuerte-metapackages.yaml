@@ -82,6 +82,7 @@ rosh_robot_plugins: [rosh_robot, rosh_geometry, rosh_common]
 rospack: [rospack]
 rosserial_android: [rosserial_android, rosserial_adk_demo_msgs, rosserial_adk_demo]
 rosserial_java: [rosserial_java_node, rosserial_java]
+rx: [rxtools, xdot, rxbag, rxgraph, wxPython_swig_interface]
 simple_object_capture: [simple_object_capture]
 std_msgs: [std_msgs]
 turtlebot: [turtlebot_node, turtlebot_description, turtlebot_bringup, turtlebot_driver,
