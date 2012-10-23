@@ -77,7 +77,7 @@ sensor_msgs: [catkin, genmsg, geometry_msgs, langs-dev, std_msgs, geometry_msgs,
   std_msgs]
 shape_msgs: [catkin, genmsg, geometry_msgs, langs-dev, std_msgs, geometry_msgs, langs,
   std_msgs]
-std_msgs: [catkin, genmsg, langs-dev, langs]
+std_msgs: [langs-dev, langs, genmsg, catkin]
 std_srvs: [catkin, genmsg, langs-dev, langs]
 stereo_msgs: [catkin, genmsg, langs-dev, sensor_msgs, std_msgs, langs, sensor_msgs,
   std_msgs]
