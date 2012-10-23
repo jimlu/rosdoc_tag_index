@@ -5,5 +5,5 @@ ros_comm: [roscpp, rospy, rosgraph_msgs, std_srvs, ros, rosbag, rosconsole, rosg
   roslaunch, rosmaster, rosmsg, rosnode, rosout, rosparam, rosservice, rostest, rostopic,
   topic_tools, message_filters, roswtf, xmlrpcpp]
 ros_tutorials: [catkin, roscpp_tutorials, rospy_tutorials, turtlesim]
-roscpp_core: [cpp_common, roscpp_serialization, roscpp_traits, rostime]
+roscpp_core: [roscpp_traits, cpp_common, rostime, roscpp_serialization]
 rx: [rxbag, rxgraph, rxtools, wxpython_swig_interface, xdot]

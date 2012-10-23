@@ -39,10 +39,9 @@ roscpp: [catkin, cpp_common, genmsg, langs-dev, pkg-config, rosconsole, roscpp_s
   roscpp_traits, rosgraph_msgs, roslang, rostest, rostime, rosunit, std_msgs, xmlrpcpp,
   cpp_common, langs, rosconsole, roscpp_serialization, roscpp_traits, rosgraph_msgs,
   rostime, std_msgs, xmlrpcpp]
-roscpp_core: [cpp_common, roscpp_serialization, roscpp_traits, rostime]
-roscpp_serialization: [catkin, cpp_common, roscpp_traits, rostime, cpp_common, roscpp_traits,
-  rostime]
-roscpp_traits: [catkin, rostime, rostime]
+roscpp_core: [roscpp_traits, cpp_common, rostime, roscpp_serialization]
+roscpp_serialization: [roscpp_traits, rostime, cpp_common, catkin]
+roscpp_traits: [rostime, catkin]
 roscpp_tutorials: [catkin, genmsg, langs-dev, rosconsole, roscpp, roscpp_serialization,
   rostime, std_msgs, langs, rosconsole, roscpp, roscpp_serialization, rostime]
 roscreate: [catkin, python-rospkg]
@@ -63,7 +62,7 @@ rospy: [catkin, genpy, python-numpy, python-rospkg, rosgraph, roslib, std_msgs]
 rospy_tutorials: [catkin, genmsg, langs-dev, rostest, std_msgs, rospy, std_msgs]
 rosservice: [catkin, genpy, rosgraph, roslib, rospy, rosmsg]
 rostest: [boost, catkin, rosunit, boost, rospy, roslaunch, rosunit]
-rostime: [boost, catkin, cpp_common, rosunit, boost, cpp_common]
+rostime: [catkin, cpp_common, boost, rosunit]
 rostopic: [catkin, rostest, rospy]
 rosunit: [catkin, python-rospkg]
 roswtf: [catkin, rostest, python-paramiko]
