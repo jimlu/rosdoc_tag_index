@@ -1,8 +1,7 @@
 actionlib: [rosconsole, genmsg, catkin, roscpp, actionlib_msgs, ros_comm, rostime,
   ros, langs-dev, roscpp_traits, langs, cpp_common, boost, common_msgs]
 actionlib_msgs: [catkin, genmsg, langs-dev, std_msgs, langs, std_msgs]
-catkin: [gtest, python-argparse, python-catkin-pkg, python-empy, python-nose, cmake,
-  cmake, gtest, python-argparse, python-catkin-pkg, python-empy, python-nose]
+catkin: [cmake, python-empy, python-catkin-pkg, python-argparse, gtest, python-nose]
 common_msgs: [actionlib_msgs, diagnostic_msgs, geometry_msgs, nav_msgs, sensor_msgs,
   shape_msgs, stereo_msgs, trajectory_msgs, visualization_msgs]
 cpp_common: [catkin]
