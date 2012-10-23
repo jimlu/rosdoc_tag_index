@@ -101,12 +101,13 @@ collision_proximity_planner: [planning_environment, spline_smoother, collision_p
   visualization_msgs, arm_navigation_msgs, sensor_msgs, kdl, kdl_parser, angles, pluginlib]
 collision_space: [rosconsole, planning_models, geometric_shapes, opende, bullet, pkg-config]
 collvoid_controller: [rospy, std_msgs, tf, geometry_msgs, std_srvs, collvoid_local_planner]
-collvoid_local_planner: [roscpp, collvoid_msgs, visualization_msgs, tf, angles, base_local_planner,
-  pluginlib, nav_core, actionlib, move_base_msgs, std_srvs, dynamic_reconfigure]
+collvoid_local_planner: [roscpp, collvoid_msgs, visualization_msgs, laser_geometry,
+  tf, angles, base_local_planner, pluginlib, nav_core, actionlib, move_base_msgs,
+  std_srvs, dynamic_reconfigure, amcl]
 collvoid_msgs: [geometry_msgs, nav_msgs]
 collvoid_simple_global_planner: [roscpp, pluginlib, nav_core, costmap_2d, base_local_planner,
   tf, angles]
-collvoid_stage: [stage, collvoid_local_planner]
+collvoid_stage: [stage, cocalu_local_planner]
 common: [actionlib, pluginlib, ros, ros_comm]
 common_rosdeps: [ros]
 common_tutorials: [actionlib, common_msgs, geometry, nodelet_core, pluginlib, ros,
