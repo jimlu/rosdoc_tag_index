@@ -49,8 +49,8 @@ multimaster_experimental: [rosproxy, app_manager_android, foreign_relay, app_man
 navigation: [move_base, map_server, clear_costmap_recovery, costmap_2d, dwa_local_planner,
   carrot_planner, navfn, voxel_grid, rotate_recovery, nav_core, fake_localization,
   move_base_msgs, move_slow_and_clear, amcl, base_local_planner, robot_pose_ekf]
-navigation_experimental: [pose_base_controller, goal_passer, assisted_teleop, eband_local_planner,
-  pose_follower, twist_recovery, sbpl_lattice_planner, sbpl_recovery]
+navigation_experimental: [pose_base_controller, goal_passer, twist_recovery, eband_local_planner,
+  pose_follower, assisted_teleop, sbpl_lattice_planner, sbpl_recovery]
 navigation_tutorials: [navigation_stage, roomba_stage, odometry_publisher_tutorial,
   point_cloud_publisher_tutorial, robot_setup_tf_tutorial, laser_scan_publisher_tutorial,
   simple_navigation_goals_tutorial]
