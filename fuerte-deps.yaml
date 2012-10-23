@@ -380,6 +380,11 @@ sbpl_lattice_planner: [roscpp, costmap_2d, nav_core, pluginlib, geometry_msgs, n
   sbpl]
 sbpl_recovery: [roscpp, nav_core, sbpl_lattice_planner, pose_follower, costmap_2d,
   pluginlib, base_local_planner]
+semantic_model_web_interface: [semanticmodel, pcl, mongo_ros]
+semanticmodel: [sensor_msgs, std_srvs, pcl16_ros, flann, pcl16, nodelet, visualization_msgs,
+  tf, driver_base, dynamic_reconfigure, opencv2, image_transport, image_geometry,
+  geometry_msgs, actionlib, opencv2, cv_bridge, rospy, topic_tools, mongo_ros, mongodb,
+  move_base_msgs, message_filters, nav_msgs, stereo_msgs, occupancy_grid_utils]
 sensor_msgs: [geometry_msgs]
 serial_communication: [ros, ros_comm]
 settlerlib: [roscpp, calibration_msgs]
@@ -476,6 +481,10 @@ wge100_camera: [rostest, roscpp, rospy, std_msgs, sensor_msgs, diagnostic_update
 wge100_camera_firmware: [rostest, rospy, gforth]
 wge100_driver: [common_msgs, diagnostics, driver_common, dynamic_reconfigure, image_common,
   ros, ros_comm]
+worldmodel: [common, common_msgs, continuous_ops, driver_common, geometry, image_common,
+  navigation, nodelet_core, openni_kinect, perception_pcl, pr2_common_actions, pr2_controllers,
+  ros, ros_comm, vision_opencv, warehousewg]
+worldmodel_ops: [continuous_ops_task_manager]
 wxPython_swig_interface: [wxpython]
 xacro: [rostest, rosbuild]
 xdot: [wxpython, graphviz]
