@@ -384,6 +384,24 @@ rotate_recovery: [roscpp, nav_core, tf, costmap_2d, geometry_msgs, base_local_pl
 route_network: [dynamic_reconfigure, geodesy, geographic_msgs, geometry_msgs, nav_msgs,
   rospy, visualization_msgs]
 runtime_monitor: [rospy, diagnostic_msgs, rxbag, wxwidgets, wxpython]
+rve_common: [rve_msgs, roslib, eigen]
+rve_common_transformers: [roscpp, rve_properties, rve_render_client, rve_transformer,
+  rve_common, rve_pluginloader, tf2, nav_msgs, sensor_msgs]
+rve_dynlib: [rosconsole, roslib]
+rve_geometry: [roscpp, rve_common, rve_render_client, rve_msgs]
+rve_interface_gen: [roslib, roscpp, rve_rpc, std_msgs]
+rve_interfaces: [rve_interface_gen, rve_msgs, geometry_msgs, std_msgs, sensor_msgs]
+rve_mesh_loader: [assimp, rosconsole, eigen, rve_msgs, rve_common, resource_retriever]
+rve_msgs: [geometry_msgs, std_msgs, roscpp]
+rve_pluginloader: [yaml_cpp, rosconsole, rve_dynlib]
+rve_properties: [roscpp]
+rve_qt: [roscpp, rve_msgs, rve_render_client, rve_interfaces, qt4]
+rve_render_client: [rve_interfaces, rve_common, rve_mesh_loader, rve_properties, urdf]
+rve_render_server: [ogre, ogre_tools, rve_common, rve_interfaces, rve_mesh_loader,
+  sensor_msgs, roscpp]
+rve_rpc: [roscpp, roslib, rve_common, rve_msgs, std_msgs]
+rve_transformer: [roscpp, tf, tf2, tf2_ros, message_filters, rve_render_client, rve_interface_gen,
+  rve_interfaces, rve_msgs, rve_common, rve_pluginloader, rve_properties]
 rviz_qt: [ogre, ogre_tools_qt, roscpp, rospy, rosconsole, message_filters, std_msgs,
   std_srvs, sensor_msgs, geometry_msgs, nav_msgs, tf, laser_geometry, visualization_msgs,
   urdf, urdf_interface, resource_retriever, image_transport, interactive_markers,
@@ -453,6 +471,9 @@ test_bond: [rostest, bond, bondpy, bondcpp]
 test_nodelet: [nodelet, std_msgs, rostest, pluginlib]
 test_osm: [osm_cartography, route_network, geodesy, geographic_msgs]
 test_rospy: [python-numpy]
+test_rve: [roscpp, rosconsole, eigen, rve_msgs, rve_common, rve_interfaces, rve_interface_gen,
+  rve_render_server, rve_render_client, rve_qt, rve_transformer, rve_common_transformers,
+  urdf, nodelet, qt4]
 test_tf2: [rostest, tf, tf2, tf2_bullet, tf2_ros, tf2_geometry_msgs, tf2_kdl, tf2_msgs,
   roscpp, roslib]
 tf: [bullet, geometry_msgs, sensor_msgs, roscpp, rosconsole, angles, rospy, rostest,
@@ -548,6 +569,8 @@ urdf_parser_py: [rospy]
 viso2: [ros]
 viso2_ros: [libviso2, roscpp, sensor_msgs, nav_msgs, message_filters, image_transport,
   cv_bridge, image_geometry, tf, pcl_ros]
+visualization_engine: [common, common_msgs, geometry, laser_pipeline, robot_model,
+  ros, visualization_common, image_common]
 visualization_experimental: [common_msgs, common_rosdeps, geometry, image_common,
   laser_pipeline, pluginlib, robot_model, ros, ros_comm, visualization, visualization_common]
 visualization_msgs: [geometry_msgs, std_msgs]
