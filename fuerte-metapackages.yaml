@@ -87,7 +87,7 @@ rosserial: [rosserial_xbee, rosserial_arduino, rosserial_embeddedlinux, rosseria
   rosserial_msgs, rosserial_client]
 rosserial_android: [rosserial_android, rosserial_adk_demo_msgs, rosserial_adk_demo]
 rosserial_java: [rosserial_java_node, rosserial_java]
-rx: [rxtools, xdot, rxbag, rxgraph, wxPython_swig_interface]
+rx: [rxtools, rxbag, xdot, rxgraph, wxPython_swig_interface]
 simple_object_capture: [simple_object_capture]
 std_msgs: [std_msgs]
 telekyb_algo: [tk_param_estimator, telekyb_calculus, tk_ctrlalgo]
