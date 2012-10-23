@@ -502,6 +502,16 @@ turtle_tf: [roscpp, rospy, turtlesim, tf]
 turtlebot: [common_msgs, driver_common, geometry, image_transport_plugins, joystick_drivers,
   multimaster_experimental, nodelet_core, openni_kinect, orocos_kinematics_dynamics,
   perception_pcl, robot_model, ros, ros_comm, xacro]
+turtlebot_arm: [arbotix, arm_navigation, common, common_msgs, eigen, geometry, image_common,
+  perception_pcl, robot_model, ros, ros_comm, simple_arms, turtlebot, vision_opencv,
+  visualization, xacro]
+turtlebot_arm_bringup: [arbotix_python, arbotix_controllers, planning_environment,
+  simple_arm_server, arm_kinematics_constraint_aware]
+turtlebot_arm_description: [urdf, xacro, turtlebot_description]
+turtlebot_arm_interactive_markers: [roscpp, visualization_msgs, interactive_markers,
+  arbotix_msgs, arbotix_controllers, simple_arm_server, actionlib]
+turtlebot_block_manipulation: [roscpp, actionlib, visualization_msgs, interactive_markers,
+  simple_arm_server, simple_arm_actions, pcl_ros]
 turtlebot_bringup: [app_manager, turtlebot_driver, turtlebot_node, turtlebot_description,
   joy, robot_state_publisher, pointcloud_to_laserscan, openni_camera, compressed_image_transport]
 turtlebot_dashboard: [rxtools, robot_monitor, std_msgs, std_srvs, rospy, roslib, turtlebot_node]
@@ -509,6 +519,8 @@ turtlebot_description: [urdf, xacro]
 turtlebot_gazebo_plugins: [gazebo, nav_msgs, geometry_msgs, sensor_msgs, turtlebot_node]
 turtlebot_interactive_markers: [roscpp, visualization_msgs, interactive_markers]
 turtlebot_kinect: [openni_camera, clearpath_tools, clearpath_kinect_demo]
+turtlebot_kinect_arm_calibration: [roscpp, visualization_msgs, tf, eigen, opencv2,
+  image_geometry, pcl, pcl_ros, image_transport, cv_bridge]
 turtlebot_node: [turtlebot_driver, rospy, tf, nav_msgs, geometry_msgs, diagnostic_msgs,
   kdl, dynamic_reconfigure, daemontools]
 turtlebot_rndmwalk: [clearpath_tools, clearpath_kinect_demo, turtlebot_node]
