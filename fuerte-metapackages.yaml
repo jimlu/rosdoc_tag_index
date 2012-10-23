@@ -34,7 +34,7 @@ genmsg: [genmsg]
 genpy: [genpy]
 geometry: [tf, tf_conversions, angles, eigen_conversions]
 geometry_experimental: [tf2_geometry_msgs, tf2_bullet, tf2_tools, test_tf2, tf2_ros,
-  tf2_kdl, tf2_msgs, tf2]
+  tf2, tf2_msgs, tf2_kdl]
 geometry_tutorials: [turtle_tf]
 geometry_visualization: [tf2_visualization]
 imu_filter: [imu_filter]
@@ -66,28 +66,29 @@ openni_tracker: [openni_tracker]
 pluginlib: [pluginlib]
 rcommander_core: [rcommander_plain, nodebox_qt, rcommander, tf_broadcast_server]
 rcommander_pr2: [pycontroller_manager, tts_server, ptp_arm_action, rcommander_pr2_gui]
-robot_model: [urdf_parser, urdf_interface, simmechanics_to_urdf, collada_parser, robot_state_publisher,
-  urdf, ivcon, srdf, collada_urdf, colladadom, convex_decomposition, kdl_parser, resource_retriever]
+robot_model: [urdf_parser, urdf_interface, ivcon, collada_parser, srdf, robot_state_publisher,
+  urdf, simmechanics_to_urdf, resource_retriever, collada_urdf, colladadom, convex_decomposition,
+  kdl_parser]
 robot_model_tutorials: [urdf_tutorial]
 robot_model_visualization: [joint_state_publisher]
 ros: [rosmake, rosboost_cfg, rosbash, roslib, roscreate, mk, rosbuild, rosclean, rosunit,
   roslang]
-ros_comm: [rosconsole, test_roscpp_serialization, test_ros, perf_roscpp, test_roscpp_serialization_perf,
+ros_comm: [rosconsole, test_roscpp_serialization, test_ros, rosgraph, test_roscpp_serialization_perf,
   test_roslib_comm, test_rostime, roscpp, rosparam, rosout, test_crosspackage, topic_tools,
-  rostest, rostopic, test_rospy, roswtf, roslaunch, roslisp, message_filters, rosgraph,
-  rosservice, rospy, test_rosbag, test_rosservice, rosgraph_msgs, test_roscpp, std_srvs,
-  xmlrpcpp, rosmaster, rosmsg, rosnode, rosbag]
+  rostest, rostopic, test_rospy, roswtf, rosgraph_msgs, roslisp, message_filters,
+  perf_roscpp, rosservice, rospy, test_rosbag, test_rosservice, roslaunch, test_roscpp,
+  std_srvs, xmlrpcpp, rosmaster, rosmsg, rosnode, rosbag]
 ros_tutorials: [turtlesim, rospy_tutorials, roscpp_tutorials]
 roscpp_core: [roscpp_traits, cpp_common, rostime, roscpp_serialization]
 rosdoc_lite: [rosdoc_lite]
 rosh_core: [roshlaunch, rosh]
-rosh_robot_plugins: [rosh_robot, rosh_geometry, rosh_common]
+rosh_robot_plugins: [rosh_common, rosh_geometry, rosh_robot]
 rospack: [rospack]
 rosserial: [rosserial_xbee, rosserial_arduino, rosserial_embeddedlinux, rosserial_python,
   rosserial_msgs, rosserial_client]
-rosserial_android: [rosserial_android, rosserial_adk_demo_msgs, rosserial_adk_demo]
+rosserial_android: [rosserial_adk_demo, rosserial_adk_demo_msgs, rosserial_android]
 rosserial_java: [rosserial_java_node, rosserial_java]
-rx: [rxtools, xdot, rxbag, rxgraph, wxPython_swig_interface]
+rx: [rxtools, rxbag, xdot, rxgraph, wxPython_swig_interface]
 simple_object_capture: [simple_object_capture]
 std_msgs: [std_msgs]
 telekyb_algo: [tk_param_estimator, telekyb_calculus, tk_ctrlalgo]
