@@ -18,6 +18,7 @@ langs: [catkin, catkin, roscpp_core, langs-dev]
 message_filters: [boost, catkin, rosconsole, roscpp, rostest, rosunit, xmlrpcpp, rosconsole,
   roscpp, xmlrpcpp]
 mk: [catkin]
+multi_master_fkie: [ros]
 nav_msgs: [catkin, genmsg, geometry_msgs, langs-dev, std_msgs, geometry_msgs, langs,
   std_msgs]
 ros: [catkin, catkin, mk, rosbuild, roslang, roslib, rosbash, rosboost_cfg, rosclean,
