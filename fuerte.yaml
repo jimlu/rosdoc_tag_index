@@ -595,6 +595,19 @@ ros-fuerte-turtlebot:
   package: pointcloud_to_laserscan}
 - {docs_url: ../../../api/turtlebot_bringup/html, location: 'http://ros.org/rosdoclite/fuerte/api/turtlebot_bringup/tags/turtlebot_bringup.tag',
   package: turtlebot_bringup}
+ros-fuerte-turtlebot-apps:
+- {docs_url: ../../../api/turtlebot_follower/html, location: 'http://ros.org/rosdoclite/fuerte/api/turtlebot_follower/tags/turtlebot_follower.tag',
+  package: turtlebot_follower}
+- {docs_url: ../../../api/turtlebot_teleop/html, location: 'http://ros.org/rosdoclite/fuerte/api/turtlebot_teleop/tags/turtlebot_teleop.tag',
+  package: turtlebot_teleop}
+- {docs_url: ../../../api/turtlebot_calibration/html, location: 'http://ros.org/rosdoclite/fuerte/api/turtlebot_calibration/tags/turtlebot_calibration.tag',
+  package: turtlebot_calibration}
+- {docs_url: ../../../api/turtlebot_navigation/html, location: 'http://ros.org/rosdoclite/fuerte/api/turtlebot_navigation/tags/turtlebot_navigation.tag',
+  package: turtlebot_navigation}
+- {docs_url: ../../../api/turtlebot_sounds/html, location: 'http://ros.org/rosdoclite/fuerte/api/turtlebot_sounds/tags/turtlebot_sounds.tag',
+  package: turtlebot_sounds}
+- {docs_url: ../../../api/turtlebot_actions/html, location: 'http://ros.org/rosdoclite/fuerte/api/turtlebot_actions/tags/turtlebot_actions.tag',
+  package: turtlebot_actions}
 ros-fuerte-turtlebot-simulator:
 - {docs_url: ../../../api/turtlebot_gazebo/html, location: 'http://ros.org/rosdoclite/fuerte/api/turtlebot_gazebo/tags/turtlebot_gazebo.tag',
   package: turtlebot_gazebo}
