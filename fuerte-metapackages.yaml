@@ -74,7 +74,7 @@ ros_comm: [rosconsole, test_roscpp_serialization, test_ros, perf_roscpp, test_ro
   rostest, rostopic, test_rospy, roswtf, roslaunch, roslisp, message_filters, rosgraph,
   rosservice, rospy, test_rosbag, test_rosservice, rosgraph_msgs, test_roscpp, std_srvs,
   xmlrpcpp, rosmaster, rosmsg, rosnode, rosbag]
-ros_tutorials: [rospy_tutorials, turtlesim, roscpp_tutorials]
+ros_tutorials: [turtlesim, rospy_tutorials, roscpp_tutorials]
 roscpp_core: [roscpp_traits, cpp_common, rostime, roscpp_serialization]
 rosdoc_lite: [rosdoc_lite]
 rosh_core: [roshlaunch, rosh]
