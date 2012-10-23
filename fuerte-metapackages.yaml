@@ -99,8 +99,8 @@ telekyb_drivers: [telekyb_joystick, telekyb_hid, dhd32_driver, dhd_driver, telek
   tk_smurf_interface]
 telekyb_exp: [tk_vrqc2011, tk_exp_rigidity, tk_exp_joystick, tk_mk_tools, tk_exp_smurf]
 telekyb_haptics: [tk_haptics_base, tk_haptics_msgs]
-telekyb_main: [telekyb_core, tk_trajctrl, tk_state, tk_mkinterface, tk_trajprocessor,
-  tk_obstacle, tk_exception, tk_behavior, telekyb_interface]
+telekyb_main: [telekyb_core, tk_trajctrl, tk_exception, tk_state, tk_trajprocessor,
+  tk_obstacle, tk_mkinterface, tk_behavior, telekyb_interface]
 telekyb_sensors: [telekyb_vrpn, telekyb_vicon]
 telekyb_swarm: [tk_formation]
 telekyb_utils: [tk_generic_killer, tk_bagtools, tk_handjoystick, tk_conversion]
