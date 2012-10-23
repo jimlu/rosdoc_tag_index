@@ -550,6 +550,19 @@ ros-fuerte-rosh-robot-plugins:
 ros-fuerte-rospack:
 - {docs_url: ../../../api/rospack/html, location: 'http://ros.org/rosdoclite/fuerte/api/rospack/tags/rospack.tag',
   package: rospack}
+ros-fuerte-rosserial:
+- {docs_url: ../../../api/rosserial_msgs/html, location: 'http://ros.org/rosdoclite/fuerte/api/rosserial_msgs/tags/rosserial_msgs.tag',
+  package: rosserial_msgs}
+- {docs_url: ../../../api/rosserial_python/html, location: 'http://ros.org/rosdoclite/fuerte/api/rosserial_python/tags/rosserial_python.tag',
+  package: rosserial_python}
+- {docs_url: ../../../api/rosserial_xbee/html, location: 'http://ros.org/rosdoclite/fuerte/api/rosserial_xbee/tags/rosserial_xbee.tag',
+  package: rosserial_xbee}
+- {docs_url: ../../../api/rosserial_client/html, location: 'http://ros.org/rosdoclite/fuerte/api/rosserial_client/tags/rosserial_client.tag',
+  package: rosserial_client}
+- {docs_url: ../../../api/rosserial_arduino/html, location: 'http://ros.org/rosdoclite/fuerte/api/rosserial_arduino/tags/rosserial_arduino.tag',
+  package: rosserial_arduino}
+- {docs_url: ../../../api/rosserial_embeddedlinux/html, location: 'http://ros.org/rosdoclite/fuerte/api/rosserial_embeddedlinux/tags/rosserial_embeddedlinux.tag',
+  package: rosserial_embeddedlinux}
 ros-fuerte-rx:
 - {docs_url: ../../../api/wxPython_swig_interface/html, location: 'http://ros.org/rosdoclite/fuerte/api/wxPython_swig_interface/tags/wxPython_swig_interface.tag',
   package: wxPython_swig_interface}

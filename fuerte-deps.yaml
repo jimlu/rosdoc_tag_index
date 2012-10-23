@@ -356,11 +356,18 @@ roslisp: [roslang]
 rosparam: [python-yaml]
 rosproxy: [rospy, rosgraph, roslib, rosservice, rostopic]
 rospy: [roslang]
+rosserial: [common_msgs, geometry, ros, ros_comm]
 rosserial_adk_demo: [rosserial_arduino, std_msgs, sensor_msgs, geometry_msgs, rosserial_adk_demo_msgs]
 rosserial_android: [rosjava, rosserial_java, std_msgs, sensor_msgs, nav_msgs, rosserial_msgs,
   android]
+rosserial_arduino: [std_msgs, sensor_msgs, geometry_msgs, nav_msgs, rosserial_client,
+  gcc-avr, avr-libc]
+rosserial_client: [std_msgs, rosserial_msgs, tf]
+rosserial_embeddedlinux: [std_msgs, sensor_msgs, geometry_msgs, nav_msgs, rosserial_client]
 rosserial_java: [rosjava, rosserial_msgs]
 rosserial_java_node: [rosserial_java]
+rosserial_python: [rospy, rosserial_msgs]
+rosserial_xbee: [rosserial_python]
 rosunit: [gtest]
 roswtf: [python-paramiko]
 rotate_recovery: [roscpp, nav_core, tf, costmap_2d, geometry_msgs, base_local_planner,
