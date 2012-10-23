@@ -1,9 +1,9 @@
 common_msgs: [actionlib_msgs, diagnostic_msgs, geometry_msgs, nav_msgs, sensor_msgs,
   shape_msgs, stereo_msgs, trajectory_msgs, visualization_msgs]
 multi_master_fkie: [node_manager_fkie, master_discovery_fkie, default_cfg_fkie, master_sync_fkie]
-ros_comm: [roscpp, rospy, rosgraph_msgs, std_srvs, ros, rosbag, rosconsole, rosgraph,
-  roslaunch, rosmaster, rosmsg, rosnode, rosout, rosparam, rosservice, rostest, rostopic,
-  topic_tools, message_filters, roswtf, xmlrpcpp]
+ros_comm: [rosgraph_msgs, rosconsole, rosnode, std_srvs, roscpp, message_filters,
+  xmlrpcpp, rosparam, rosgraph, topic_tools, rostopic, roswtf, rosout, rosmaster,
+  rospy, roslaunch, rosservice, rostest, ros, rosbag, rosmsg]
 ros_tutorials: [catkin, roscpp_tutorials, rospy_tutorials, turtlesim]
 roscpp_core: [roscpp_traits, cpp_common, rostime, roscpp_serialization]
 rx: [rxtools, rxbag, xdot, wxpython_swig_interface, rxgraph]

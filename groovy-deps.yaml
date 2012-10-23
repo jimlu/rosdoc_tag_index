@@ -12,32 +12,28 @@ genmsg: [catkin]
 genpy: [genmsg, catkin]
 geometry_msgs: [catkin, genmsg, langs-dev, std_msgs, langs, std_msgs]
 langs: [catkin, rostime, roscpp_serialization, roscpp_traits, langs-dev, cpp_common]
-message_filters: [boost, catkin, rosconsole, roscpp, rostest, rosunit, xmlrpcpp, rosconsole,
-  roscpp, xmlrpcpp]
+message_filters: [rosconsole, catkin, roscpp, xmlrpcpp, rostest, rosunit, boost]
 mk: [catkin]
 multi_master_fkie: [ros]
 nav_msgs: [catkin, genmsg, geometry_msgs, langs-dev, std_msgs, geometry_msgs, langs,
   std_msgs]
 ros: [rosmake, rosboost_cfg, catkin, rosbash, roslib, roscreate, mk, rosbuild, rosclean,
   rosunit, roslang]
-ros_comm: [roscpp, rospy, rosgraph_msgs, std_srvs, ros, rosbag, rosconsole, rosgraph,
-  roslaunch, rosmaster, rosmsg, rosnode, rosout, rosparam, rosservice, rostest, rostopic,
-  topic_tools, message_filters, roswtf, xmlrpcpp]
+ros_comm: [rosgraph_msgs, rosconsole, rosnode, std_srvs, roscpp, message_filters,
+  xmlrpcpp, rosparam, rosgraph, topic_tools, rostopic, roswtf, rosout, rosmaster,
+  rospy, roslaunch, rosservice, rostest, ros, rosbag, rosmsg]
 ros_tutorials: [catkin, roscpp_tutorials, rospy_tutorials, turtlesim]
-rosbag: [boost, bzip2, catkin, cpp_common, genmsg, langs-dev, python-imaging, rosconsole,
-  roscpp, roscpp_serialization, rosgraph_msgs, rostest, rosunit, topic_tools, xmlrpcpp,
-  boost, bzip2, genmsg, genpy, python-rospkg, roslib, roscpp, roscpp_traits, rospy,
-  rostime, topic_tools]
+rosbag: [rosgraph_msgs, rosconsole, bzip2, genmsg, catkin, roscpp, rospy, xmlrpcpp,
+  roslib, rostime, genpy, roscpp_serialization, python-rospkg, python-imaging, topic_tools,
+  rostest, langs-dev, rosunit, roscpp_traits, cpp_common, boost]
 rosbash: [catkin]
 rosboost_cfg: [catkin]
 rosbuild: [catkin]
 rosclean: [python-rospkg, catkin]
-rosconsole: [apr, boost, catkin, cpp_common, log4cxx, rostime, rosunit, apr, cpp_common,
-  log4cxx, rostime]
-roscpp: [catkin, cpp_common, genmsg, langs-dev, pkg-config, rosconsole, roscpp_serialization,
-  roscpp_traits, rosgraph_msgs, roslang, rostest, rostime, rosunit, std_msgs, xmlrpcpp,
-  cpp_common, langs, rosconsole, roscpp_serialization, roscpp_traits, rosgraph_msgs,
-  rostime, std_msgs, xmlrpcpp]
+rosconsole: [catkin, apr, rostime, rosunit, cpp_common, boost, log4cxx]
+roscpp: [rosgraph_msgs, rosconsole, genmsg, catkin, xmlrpcpp, std_msgs, rostime, roslang,
+  roscpp_serialization, roscpp_traits, rostest, langs-dev, rosunit, langs, cpp_common,
+  pkg-config]
 roscpp_core: [roscpp_traits, cpp_common, rostime, roscpp_serialization]
 roscpp_serialization: [roscpp_traits, rostime, cpp_common, catkin]
 roscpp_traits: [rostime, catkin]
@@ -45,26 +41,26 @@ roscpp_tutorials: [catkin, genmsg, langs-dev, rosconsole, roscpp, roscpp_seriali
   rostime, std_msgs, langs, rosconsole, roscpp, roscpp_serialization, rostime]
 roscreate: [python-rospkg, catkin]
 rosdoc_lite: [catkin, epydoc, doxygen, python-yaml, python-sphinx, genmsg, python-rospkg]
-rosgraph: [catkin, python-mock]
-rosgraph_msgs: [catkin, genmsg, std_msgs, langs-dev, langs]
+rosgraph: [python-mock, catkin]
+rosgraph_msgs: [langs-dev, std_msgs, langs, genmsg, catkin]
 roslang: [genmsg, catkin]
-roslaunch: [catkin, rosgraph_msgs, python-paramiko, python-yaml, rosclean, rosmaster]
+roslaunch: [rosgraph_msgs, python-yaml, catkin, rosmaster, rosclean, python-paramiko]
 roslib: [python-rospkg, catkin, rospack, boost]
 rosmake: [python-rospkg, catkin]
-rosmaster: [catkin, rosgraph]
-rosmsg: [catkin, genmsg, rosbag, roslib, python-rospkg]
-rosnode: [catkin, rostest, rosgraph, rostopic]
+rosmaster: [rosgraph, catkin]
+rosmsg: [python-rospkg, rosbag, genmsg, catkin, roslib]
+rosnode: [rosgraph, rostest, catkin, rostopic]
 rosout: [catkin, roscpp]
 rospack: [catkin, python, python-rosdep, gtest, python-coverage, boost]
-rosparam: [catkin, rostest, python-yaml]
-rospy: [catkin, genpy, python-numpy, python-rospkg, rosgraph, roslib, std_msgs]
+rosparam: [python-yaml, rostest, catkin]
+rospy: [genpy, catkin, rosgraph, roslib, python-numpy, python-rospkg, std_msgs]
 rospy_tutorials: [catkin, genmsg, langs-dev, rostest, std_msgs, rospy, std_msgs]
-rosservice: [catkin, genpy, rosgraph, roslib, rospy, rosmsg]
-rostest: [boost, catkin, rosunit, boost, rospy, roslaunch, rosunit]
+rosservice: [genpy, catkin, roslib, rosgraph, rospy, rosmsg]
+rostest: [roslaunch, catkin, boost, rosunit, rospy]
 rostime: [catkin, cpp_common, boost, rosunit]
-rostopic: [catkin, rostest, rospy]
+rostopic: [rospy, rostest, catkin]
 rosunit: [python-rospkg, catkin]
-roswtf: [catkin, rostest, python-paramiko]
+roswtf: [rostest, catkin, python-paramiko]
 rx: [rxtools, rxbag, xdot, wxpython_swig_interface, rxgraph]
 rxbag: [catkin, wxwidgets, roslib, rosgraph, wxpython_swig_interface, python-rospkg,
   wxpython, rospy, rosbag, python-gtk2]
@@ -77,15 +73,15 @@ sensor_msgs: [catkin, genmsg, geometry_msgs, langs-dev, std_msgs, geometry_msgs,
 shape_msgs: [catkin, genmsg, geometry_msgs, langs-dev, std_msgs, geometry_msgs, langs,
   std_msgs]
 std_msgs: [langs-dev, langs, genmsg, catkin]
-std_srvs: [catkin, genmsg, langs-dev, langs]
+std_srvs: [langs-dev, langs, genmsg, catkin]
 stereo_msgs: [catkin, genmsg, langs-dev, sensor_msgs, std_msgs, langs, sensor_msgs,
   std_msgs]
-test_rosgraph: [catkin, rostest]
-test_roslaunch: [catkin, rostest, python-rospkg, rosgraph, roslaunch]
-test_rosmaster: [catkin, genmsg, rosgraph, rostest]
+test_rosgraph: [rostest, catkin]
+test_roslaunch: [python-rospkg, rosgraph, rostest, catkin, roslaunch]
+test_rosmaster: [rosgraph, rostest, genmsg, catkin]
 test_rospy: [python-numpy]
-topic_tools: [catkin, cpp_common, genmsg, langs-dev, rosconsole, roscpp, rostest,
-  rostime, rosunit, xmlrpcpp, langs, rosconsole, roscpp, rostime, xmlrpcpp]
+topic_tools: [rosconsole, genmsg, catkin, roscpp, xmlrpcpp, rostime, rostest, langs-dev,
+  rosunit, langs, cpp_common]
 trajectory_msgs: [catkin, genmsg, langs-dev, std_msgs, langs, std_msgs]
 turtlesim: [catkin, genmsg, langs-dev, libqt4-dev, qt4-qmake, rosconsole, roscpp,
   roscpp_serialization, roslib, rostime, std_srvs, langs, libqt4, rosconsole, roscpp,
@@ -94,4 +90,4 @@ visualization_msgs: [catkin, genmsg, geometry_msgs, langs-dev, std_msgs, geometr
   langs, std_msgs]
 wxpython_swig_interface: [wxpython, catkin]
 xdot: [wxpython, catkin, graphviz]
-xmlrpcpp: [catkin, cpp_common]
+xmlrpcpp: [cpp_common, catkin]
