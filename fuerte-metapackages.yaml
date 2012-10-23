@@ -82,6 +82,8 @@ rosdoc_lite: [rosdoc_lite]
 rosh_core: [roshlaunch, rosh]
 rosh_robot_plugins: [rosh_robot, rosh_geometry, rosh_common]
 rospack: [rospack]
+rosserial: [rosserial_xbee, rosserial_arduino, rosserial_embeddedlinux, rosserial_python,
+  rosserial_msgs, rosserial_client]
 rosserial_android: [rosserial_android, rosserial_adk_demo_msgs, rosserial_adk_demo]
 rosserial_java: [rosserial_java_node, rosserial_java]
 rx: [rxtools, xdot, rxbag, rxgraph, wxPython_swig_interface]
