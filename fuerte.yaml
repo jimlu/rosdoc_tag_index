@@ -221,6 +221,9 @@ ros-fuerte-executive-smach:
 ros-fuerte-executive-smach-visualization:
 - {docs_url: ../../../api/smach_viewer/html, location: 'http://ros.org/rosdoclite/fuerte/api/smach_viewer/tags/smach_viewer.tag',
   package: smach_viewer}
+ros-fuerte-fcl:
+- {docs_url: ../../../api/fcl/html, location: 'http://ros.org/rosdoclite/fuerte/api/fcl/tags/fcl.tag',
+  package: fcl}
 ros-fuerte-filters:
 - {docs_url: ../../../api/filters/html, location: 'http://ros.org/rosdoclite/fuerte/api/filters/tags/filters.tag',
   package: filters}

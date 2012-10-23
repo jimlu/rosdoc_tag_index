@@ -137,6 +137,7 @@ executive_smach: [actionlib, common_msgs, ros, ros_comm]
 executive_smach_visualization: [executive_smach, ros, ros_comm, rx]
 fake_localization: [roscpp, rosconsole, nav_msgs, geometry_msgs, tf, message_filters,
   angles]
+fcl: [common_rosdeps, libccd, octomap]
 filters: [rosconsole, roscpp, pluginlib]
 flirtlib_features: [geometry, occupancy_grid_utils, ros, ros_comm, warehousewg, visualization]
 flirtlib_ros: [occupancy_grid_utils, tf, roscpp, interactive_markers, mongo_ros, actionlib,
