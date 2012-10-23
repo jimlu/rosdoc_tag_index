@@ -4,9 +4,10 @@ arm_navigation: [move_arm, trajectory_filter_server, joint_normalization_filters
   constraint_aware_spline_smoother, arm_kinematics_constraint_aware, kinematics_msgs,
   collision_map, planning_environment, collision_space, arm_navigation_msgs, geometric_shapes,
   motion_planning_rviz_plugin, ompl_ros_interface]
-arm_navigation_experimental: [head_monitor_msgs, collision_proximity_planner, arm_navigation_experimental_tools,
-  trajectory_execution_monitor, collider, move_arm_head_monitor, interpolated_ik_motion_planner,
-  chomp_motion_planner, distance_field, move_arm_warehouse, collision_proximity, collision_free_arm_trajectory_controller]
+arm_navigation_experimental: [head_monitor_msgs, collider, arm_navigation_experimental_tools,
+  trajectory_execution_monitor, move_arm_head_monitor, interpolated_ik_motion_planner,
+  chomp_motion_planner, move_arm_warehouse, distance_field, collision_proximity, collision_free_arm_trajectory_controller,
+  collision_proximity_planner]
 assimp: [assimp]
 audio_common: [audio_capture, sound_play, audio_play, audio_common_msgs]
 bfl: [bfl]
