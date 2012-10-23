@@ -12,7 +12,7 @@ genlisp: [genmsg, catkin]
 genmsg: [catkin]
 genpy: [genmsg, catkin]
 geometry_msgs: [catkin, genmsg, langs-dev, std_msgs, langs, std_msgs]
-langs: [catkin, catkin, roscpp_core, langs-dev]
+langs: [catkin, rostime, roscpp_serialization, roscpp_traits, langs-dev, cpp_common]
 message_filters: [boost, catkin, rosconsole, roscpp, rostest, rosunit, xmlrpcpp, rosconsole,
   roscpp, xmlrpcpp]
 mk: [catkin]
