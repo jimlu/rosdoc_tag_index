@@ -8,11 +8,11 @@ common_msgs: [actionlib_msgs, diagnostic_msgs, geometry_msgs, nav_msgs, sensor_m
 cpp_common: [catkin]
 diagnostic_msgs: [catkin, genmsg, langs-dev, std_msgs, langs, std_msgs]
 gencpp: [genmsg, catkin]
-genlisp: [catkin, genmsg, genmsg]
+genlisp: [genmsg, catkin]
 genmsg: [catkin]
 genpy: [genmsg, catkin]
 geometry_msgs: [catkin, genmsg, langs-dev, std_msgs, langs, std_msgs]
-langs: [catkin, catkin, roscpp_core, langs-dev]
+langs: [catkin, rostime, roscpp_serialization, roscpp_traits, langs-dev, cpp_common]
 message_filters: [boost, catkin, rosconsole, roscpp, rostest, rosunit, xmlrpcpp, rosconsole,
   roscpp, xmlrpcpp]
 mk: [catkin]
@@ -77,7 +77,7 @@ sensor_msgs: [catkin, genmsg, geometry_msgs, langs-dev, std_msgs, geometry_msgs,
   std_msgs]
 shape_msgs: [catkin, genmsg, geometry_msgs, langs-dev, std_msgs, geometry_msgs, langs,
   std_msgs]
-std_msgs: [catkin, genmsg, langs-dev, langs]
+std_msgs: [langs-dev, langs, genmsg, catkin]
 std_srvs: [catkin, genmsg, langs-dev, langs]
 stereo_msgs: [catkin, genmsg, langs-dev, sensor_msgs, std_msgs, langs, sensor_msgs,
   std_msgs]
