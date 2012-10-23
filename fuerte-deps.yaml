@@ -166,6 +166,8 @@ humanoid_walk: [bullet, common_msgs, common_rosdeps, diagnostics, geometry, ros,
 image_cb_detector: [calibration_msgs, roscpp, cv_bridge, actionlib, actionlib_msgs,
   image_transport, sensor_msgs, geometry_msgs, pcl_ros, opencv2]
 imu_drivers: [common_msgs, diagnostics, geometry, ros, ros_comm]
+imu_filter: [roscpp, microstrain_3dmgx2_imu, eigen, tf, visualization_msgs, geometry_msgs,
+  opencv2, dynamic_reconfigure]
 interpolated_ik_motion_planner: [rospy, kinematics_msgs, geometry_msgs, arm_navigation_msgs,
   visualization_msgs, sensor_msgs, trajectory_msgs]
 interval_intersection: [roscpp, actionlib_msgs, actionlib, calibration_msgs]
