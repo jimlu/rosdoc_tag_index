@@ -120,6 +120,7 @@ costmap_2d: [rosconsole, roscpp, std_msgs, geometry_msgs, sensor_msgs, laser_geo
   tf, voxel_grid, nav_msgs, visualization_msgs, rosbag, map_server, pcl_ros, dynamic_reconfigure,
   common_rosdeps, pcl, eigen]
 database_interface: [roscpp, common_rosdeps, libpq-dev, yaml-cpp]
+default_cfg_fkie: [rospy, roslib, roslaunch]
 diagnostics_monitors: [common_msgs, ros, ros_comm, rx]
 distance_field: [roscpp, visualization_msgs, arm_navigation_msgs, bullet]
 driver_base: [roscpp, self_test, diagnostic_updater, dynamic_reconfigure]
@@ -166,6 +167,8 @@ humanoid_walk: [bullet, common_msgs, common_rosdeps, diagnostics, geometry, ros,
 image_cb_detector: [calibration_msgs, roscpp, cv_bridge, actionlib, actionlib_msgs,
   image_transport, sensor_msgs, geometry_msgs, pcl_ros, opencv2]
 imu_drivers: [common_msgs, diagnostics, geometry, ros, ros_comm]
+imu_filter: [roscpp, microstrain_3dmgx2_imu, eigen, tf, visualization_msgs, geometry_msgs,
+  opencv2, dynamic_reconfigure]
 interpolated_ik_motion_planner: [rospy, kinematics_msgs, geometry_msgs, arm_navigation_msgs,
   visualization_msgs, sensor_msgs, trajectory_msgs]
 interval_intersection: [roscpp, actionlib_msgs, actionlib, calibration_msgs]
@@ -199,6 +202,8 @@ libphidgets: [libusb-dev]
 map_server: [rosconsole, roscpp, rospy, nav_msgs, tf, common_rosdeps, python-imaging,
   python-yaml, yaml-cpp, sdl-image]
 mapping_rviz_plugin: [rviz, roscpp, arm_navigation_msgs, tf]
+master_discovery_fkie: [rospy, roslib, python-avahi, avahi-daemon]
+master_sync_fkie: [rospy, roslib, rosgraph, master_discovery_fkie]
 megatree: [ros]
 megatree_cpp: [megatree_core, megatree_storage, eigen, gtest]
 megatree_import: [megatree_storage, megatree_cpp]
@@ -231,6 +236,7 @@ move_base: [roscpp, rosconsole, std_msgs, move_base_msgs, geometry_msgs, visuali
 move_base_msgs: [roslib, std_msgs, actionlib_msgs, geometry_msgs]
 move_slow_and_clear: [roscpp, nav_core, costmap_2d, geometry_msgs, pluginlib, dynamic_reconfigure,
   common_rosdeps, eigen]
+multi_master_fkie: [ros]
 multi_robot_collision_avoidance: [common, common_msgs, driver_common, geometry, navigation,
   pluginlib, ros, ros_comm, stage]
 multimaster: [rosgraph, rospy]
@@ -248,6 +254,9 @@ navigation_tutorials: [common, common_msgs, geometry, navigation, ros, ros_comm,
   stage]
 nite: [openni, nite-dev, ps-engine]
 nmea_gps_driver: [sensor_msgs, std_msgs, rospy, geometry_msgs, python-serial]
+node_manager_fkie: [rospy, roslib, rosgraph, roslaunch, rosservice, dynamic_reconfigure,
+  master_discovery_fkie, default_cfg_fkie, python-pyside, python-paramiko, python-psutil,
+  pyside-tools, python-pyside.qtuitools, screen, xterm]
 nodelet: [pluginlib, roscpp, rospy, bondcpp, uuid]
 nodelet_core: [bond_core, dynamic_reconfigure, pluginlib, ros, ros_comm]
 nodelet_topic_tools: [nodelet, roscpp, message_filters, dynamic_reconfigure, rospy,

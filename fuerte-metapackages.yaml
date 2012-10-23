@@ -31,15 +31,17 @@ gencpp: [gencpp]
 genlisp: [genlisp]
 genmsg: [genmsg]
 genpy: [genpy]
-geometry: [tf, angles, tf_conversions, eigen_conversions]
+geometry: [tf, tf_conversions, angles, eigen_conversions]
 geometry_experimental: [tf2_geometry_msgs, tf2_bullet, tf2_kdl, tf2_tools, test_tf2,
   tf2_ros, tf2_msgs, tf2]
 geometry_tutorials: [turtle_tf]
 geometry_visualization: [tf2_visualization]
+imu_filter: [imu_filter]
 langs: []
 megatree: [megatree_cpp, megatree_import, megatree_web, megatree_storage, megatree_core,
   megatree_server]
 megatree_pcl: [megatree_pcl]
+multi_master_fkie: [node_manager_fkie, master_discovery_fkie, default_cfg_fkie, master_sync_fkie]
 multi_robot_collision_avoidance: [collvoid_local_planner, collvoid_simple_global_planner,
   collvoid_controller, collvoid_msgs, collvoid_pr2, pacman_controller, collvoid_turtlebot,
   pacman_turtles, collvoid_stage]
