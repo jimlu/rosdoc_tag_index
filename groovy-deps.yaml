@@ -10,7 +10,7 @@ diagnostic_msgs: [catkin, genmsg, langs-dev, std_msgs, langs, std_msgs]
 gencpp: [catkin, genmsg, genmsg]
 genlisp: [catkin, genmsg, genmsg]
 genmsg: [catkin]
-genpy: [catkin, genmsg, genmsg]
+genpy: [genmsg, catkin]
 geometry_msgs: [catkin, genmsg, langs-dev, std_msgs, langs, std_msgs]
 langs: [catkin, catkin, roscpp_core, langs-dev]
 message_filters: [boost, catkin, rosconsole, roscpp, rostest, rosunit, xmlrpcpp, rosconsole,
