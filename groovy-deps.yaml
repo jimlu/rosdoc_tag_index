@@ -8,7 +8,7 @@ common_msgs: [actionlib_msgs, diagnostic_msgs, geometry_msgs, nav_msgs, sensor_m
 cpp_common: [catkin]
 diagnostic_msgs: [catkin, genmsg, langs-dev, std_msgs, langs, std_msgs]
 gencpp: [genmsg, catkin]
-genlisp: [catkin, genmsg, genmsg]
+genlisp: [genmsg, catkin]
 genmsg: [catkin]
 genpy: [genmsg, catkin]
 geometry_msgs: [catkin, genmsg, langs-dev, std_msgs, langs, std_msgs]
