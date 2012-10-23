@@ -267,6 +267,63 @@ ros-fuerte-gps-umd:
   package: gpsd_client}
 - {docs_url: ../../../api/gps_common/html, location: 'http://ros.org/rosdoclite/fuerte/api/gps_common/tags/gps_common.tag',
   package: gps_common}
+ros-fuerte-hector-common:
+- {docs_url: ../../../api/bfl_eigen/html, location: 'http://ros.org/rosdoclite/fuerte/api/bfl_eigen/tags/bfl_eigen.tag',
+  package: bfl_eigen}
+- {docs_url: ../../../api/bfl_boost/html, location: 'http://ros.org/rosdoclite/fuerte/api/bfl_boost/tags/bfl_boost.tag',
+  package: bfl_boost}
+- {docs_url: ../../../api/message_to_tf/html, location: 'http://ros.org/rosdoclite/fuerte/api/message_to_tf/tags/message_to_tf.tag',
+  package: message_to_tf}
+- {docs_url: ../../../api/hector_marker_drawing/html, location: 'http://ros.org/rosdoclite/fuerte/api/hector_marker_drawing/tags/hector_marker_drawing.tag',
+  package: hector_marker_drawing}
+- {docs_url: ../../../api/hector_std_msgs/html, location: 'http://ros.org/rosdoclite/fuerte/api/hector_std_msgs/tags/hector_std_msgs.tag',
+  package: hector_std_msgs}
+ros-fuerte-hector-gazebo:
+- {docs_url: ../../../api/hector_gazebo_plugins/html, location: 'http://ros.org/rosdoclite/fuerte/api/hector_gazebo_plugins/tags/hector_gazebo_plugins.tag',
+  package: hector_gazebo_plugins}
+- {docs_url: ../../../api/hector_gazebo_worlds/html, location: 'http://ros.org/rosdoclite/fuerte/api/hector_gazebo_worlds/tags/hector_gazebo_worlds.tag',
+  package: hector_gazebo_worlds}
+- {docs_url: ../../../api/hector_gazebo_thermal_camera/html, location: 'http://ros.org/rosdoclite/fuerte/api/hector_gazebo_thermal_camera/tags/hector_gazebo_thermal_camera.tag',
+  package: hector_gazebo_thermal_camera}
+ros-fuerte-hector-models:
+- {docs_url: ../../../api/hector_sensors_description/html, location: 'http://ros.org/rosdoclite/fuerte/api/hector_sensors_description/tags/hector_sensors_description.tag',
+  package: hector_sensors_description}
+- {docs_url: ../../../api/hector_sensors_gazebo/html, location: 'http://ros.org/rosdoclite/fuerte/api/hector_sensors_gazebo/tags/hector_sensors_gazebo.tag',
+  package: hector_sensors_gazebo}
+- {docs_url: ../../../api/hector_xacro_tools/html, location: 'http://ros.org/rosdoclite/fuerte/api/hector_xacro_tools/tags/hector_xacro_tools.tag',
+  package: hector_xacro_tools}
+ros-fuerte-hector-quadrotor:
+- {docs_url: ../../../api/hector_quadrotor_teleop/html, location: 'http://ros.org/rosdoclite/fuerte/api/hector_quadrotor_teleop/tags/hector_quadrotor_teleop.tag',
+  package: hector_quadrotor_teleop}
+- {docs_url: ../../../api/hector_uav_msgs/html, location: 'http://ros.org/rosdoclite/fuerte/api/hector_uav_msgs/tags/hector_uav_msgs.tag',
+  package: hector_uav_msgs}
+- {docs_url: ../../../api/hector_quadrotor_controller/html, location: 'http://ros.org/rosdoclite/fuerte/api/hector_quadrotor_controller/tags/hector_quadrotor_controller.tag',
+  package: hector_quadrotor_controller}
+- {docs_url: ../../../api/hector_quadrotor_gazebo_plugins/html, location: 'http://ros.org/rosdoclite/fuerte/api/hector_quadrotor_gazebo_plugins/tags/hector_quadrotor_gazebo_plugins.tag',
+  package: hector_quadrotor_gazebo_plugins}
+- {docs_url: ../../../api/hector_quadrotor_gazebo/html, location: 'http://ros.org/rosdoclite/fuerte/api/hector_quadrotor_gazebo/tags/hector_quadrotor_gazebo.tag',
+  package: hector_quadrotor_gazebo}
+- {docs_url: ../../../api/hector_quadrotor_urdf/html, location: 'http://ros.org/rosdoclite/fuerte/api/hector_quadrotor_urdf/tags/hector_quadrotor_urdf.tag',
+  package: hector_quadrotor_urdf}
+ros-fuerte-hector-slam:
+- {docs_url: ../../../api/hector_nav_msgs/html, location: 'http://ros.org/rosdoclite/fuerte/api/hector_nav_msgs/tags/hector_nav_msgs.tag',
+  package: hector_nav_msgs}
+- {docs_url: ../../../api/hector_map_tools/html, location: 'http://ros.org/rosdoclite/fuerte/api/hector_map_tools/tags/hector_map_tools.tag',
+  package: hector_map_tools}
+- {docs_url: ../../../api/hector_geotiff/html, location: 'http://ros.org/rosdoclite/fuerte/api/hector_geotiff/tags/hector_geotiff.tag',
+  package: hector_geotiff}
+- {docs_url: ../../../api/hector_imu_attitude_to_tf/html, location: 'http://ros.org/rosdoclite/fuerte/api/hector_imu_attitude_to_tf/tags/hector_imu_attitude_to_tf.tag',
+  package: hector_imu_attitude_to_tf}
+- {docs_url: ../../../api/hector_map_server/html, location: 'http://ros.org/rosdoclite/fuerte/api/hector_map_server/tags/hector_map_server.tag',
+  package: hector_map_server}
+- {docs_url: ../../../api/hector_mapping/html, location: 'http://ros.org/rosdoclite/fuerte/api/hector_mapping/tags/hector_mapping.tag',
+  package: hector_mapping}
+- {docs_url: ../../../api/hector_trajectory_server/html, location: 'http://ros.org/rosdoclite/fuerte/api/hector_trajectory_server/tags/hector_trajectory_server.tag',
+  package: hector_trajectory_server}
+- {docs_url: ../../../api/hector_slam_launch/html, location: 'http://ros.org/rosdoclite/fuerte/api/hector_slam_launch/tags/hector_slam_launch.tag',
+  package: hector_slam_launch}
+- {docs_url: ../../../api/hector_compressed_map_transport/html, location: 'http://ros.org/rosdoclite/fuerte/api/hector_compressed_map_transport/tags/hector_compressed_map_transport.tag',
+  package: hector_compressed_map_transport}
 ros-fuerte-humanoid-walk:
 - {docs_url: ../../../api/walk_msgs/html, location: 'http://ros.org/rosdoclite/fuerte/api/walk_msgs/tags/walk_msgs.tag',
   package: walk_msgs}
