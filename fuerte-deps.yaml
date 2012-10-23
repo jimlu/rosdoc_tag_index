@@ -137,6 +137,8 @@ executive_smach: [actionlib, common_msgs, ros, ros_comm]
 executive_smach_visualization: [executive_smach, ros, ros_comm, rx]
 fake_localization: [roscpp, rosconsole, nav_msgs, geometry_msgs, tf, message_filters,
   angles]
+falkor_ardrone: [rospy, opencv2, tf, joy, image_transport, cv_bridge, camera_info_manager,
+  sensor_msgs, ardrone_autonomy]
 fcl: [common_rosdeps, libccd, octomap]
 filters: [rosconsole, roscpp, pluginlib]
 flirtlib_features: [geometry, occupancy_grid_utils, ros, ros_comm, warehousewg, visualization]
