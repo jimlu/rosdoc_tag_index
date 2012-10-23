@@ -32,8 +32,8 @@ genlisp: [genlisp]
 genmsg: [genmsg]
 genpy: [genpy]
 geometry: [tf, tf_conversions, angles, eigen_conversions]
-geometry_experimental: [tf2_geometry_msgs, tf2_bullet, tf2_kdl, tf2_tools, test_tf2,
-  tf2_ros, tf2_msgs, tf2]
+geometry_experimental: [tf2_geometry_msgs, tf2_bullet, tf2_tools, test_tf2, tf2_ros,
+  tf2_kdl, tf2_msgs, tf2]
 geometry_tutorials: [turtle_tf]
 geometry_visualization: [tf2_visualization]
 imu_filter: [imu_filter]
