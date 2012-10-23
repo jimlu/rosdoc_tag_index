@@ -521,6 +521,9 @@ urdf: [roscpp, colladadom, urdf_parser, collada_parser]
 urdf_interface: [tinyxml]
 urdf_parser: [roscpp, urdf_interface, tinyxml]
 urdf_parser_py: [rospy]
+viso2: [ros]
+viso2_ros: [libviso2, roscpp, sensor_msgs, nav_msgs, message_filters, image_transport,
+  cv_bridge, image_geometry, tf, pcl_ros]
 visualization_experimental: [common_msgs, common_rosdeps, geometry, image_common,
   laser_pipeline, pluginlib, robot_model, ros, ros_comm, visualization, visualization_common]
 visualization_msgs: [geometry_msgs, std_msgs]

@@ -110,6 +110,7 @@ turtlebot: [turtlebot_node, turtlebot_description, turtlebot_bringup, turtlebot_
 turtlebot_simulator: [turtlebot_gazebo, turtlebot_gazebo_plugins]
 turtlebot_viz: [turtlebot_interactive_markers, turtlebot_dashboard]
 universal_robot: [ur5_gazebo, ur5_description, ur5_bringup, ur5_driver]
+viso2: [libviso2, viso2_ros]
 visualization_experimental: [ogre_tools_qt, rviz_qt]
 warehousewg: [pymongo, mongo_ros, mongodb]
 worldmodel: [worldmodel_ops, semantic_model_web_interface, semanticmodel]
