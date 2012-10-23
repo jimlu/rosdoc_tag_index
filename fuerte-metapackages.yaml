@@ -106,8 +106,8 @@ telekyb_main: [telekyb_core, tk_trajctrl, tk_exception, tk_state, tk_trajprocess
 telekyb_sensors: [telekyb_vrpn, telekyb_vicon]
 telekyb_swarm: [tk_formation]
 telekyb_utils: [tk_generic_killer, tk_bagtools, tk_handjoystick, tk_conversion]
-turtlebot: [turtlebot_node, turtlebot_description, turtlebot_bringup, turtlebot_driver,
-  pointcloud_to_laserscan]
+turtlebot: [turtlebot_driver, pointcloud_to_laserscan, turtlebot_bringup, turtlebot_node,
+  turtlebot_description]
 turtlebot_simulator: [turtlebot_gazebo, turtlebot_gazebo_plugins]
 turtlebot_viz: [turtlebot_interactive_markers, turtlebot_dashboard]
 universal_robot: [ur5_gazebo, ur5_description, ur5_bringup, ur5_driver]
