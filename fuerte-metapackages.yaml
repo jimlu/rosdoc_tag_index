@@ -36,6 +36,7 @@ geometry_experimental: [tf2_geometry_msgs, tf2_bullet, tf2_kdl, tf2_tools, test_
   tf2_ros, tf2_msgs, tf2]
 geometry_tutorials: [turtle_tf]
 geometry_visualization: [tf2_visualization]
+imu_filter: [imu_filter]
 langs: []
 megatree: [megatree_cpp, megatree_import, megatree_web, megatree_storage, megatree_core,
   megatree_server]
