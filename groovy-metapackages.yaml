@@ -1,5 +1,6 @@
 common_msgs: [actionlib_msgs, diagnostic_msgs, geometry_msgs, nav_msgs, sensor_msgs,
   shape_msgs, stereo_msgs, trajectory_msgs, visualization_msgs]
+multi_master_fkie: [node_manager_fkie, master_discovery_fkie, default_cfg_fkie, master_sync_fkie]
 ros_comm: [roscpp, rospy, rosgraph_msgs, std_srvs, ros, rosbag, rosconsole, rosgraph,
   roslaunch, rosmaster, rosmsg, rosnode, rosout, rosparam, rosservice, rostest, rostopic,
   topic_tools, message_filters, roswtf, xmlrpcpp]

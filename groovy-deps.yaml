@@ -18,6 +18,7 @@ langs: [catkin, catkin, roscpp_core, langs-dev]
 message_filters: [boost, catkin, rosconsole, roscpp, rostest, rosunit, xmlrpcpp, rosconsole,
   roscpp, xmlrpcpp]
 mk: [catkin]
+multi_master_fkie: [ros]
 nav_msgs: [catkin, genmsg, geometry_msgs, langs-dev, std_msgs, geometry_msgs, langs,
   std_msgs]
 ros: [catkin, catkin, mk, rosbuild, roslang, roslib, rosbash, rosboost_cfg, rosclean,
@@ -58,7 +59,7 @@ rosmaster: [catkin, rosgraph]
 rosmsg: [catkin, genmsg, rosbag, roslib, python-rospkg]
 rosnode: [catkin, rostest, rosgraph, rostopic]
 rosout: [catkin, roscpp]
-rospack: [boost, catkin, gtest, boost, gtest, python-coverage]
+rospack: [boost, catkin, gtest, python, boost, gtest, python, python-rosdep, python-coverage]
 rosparam: [catkin, rostest, python-yaml]
 rospy: [catkin, genpy, python-numpy, python-rospkg, rosgraph, roslib, std_msgs]
 rospy_tutorials: [catkin, genmsg, langs-dev, rostest, std_msgs, rospy, std_msgs]
