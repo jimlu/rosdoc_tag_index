@@ -191,7 +191,7 @@ kingfisher_node: [rospy, rosserial_python, kingfisher_msgs, std_msgs]
 laser_assembler: [roscpp, std_msgs, geometry_msgs, laser_geometry, laser_filters,
   sensor_msgs, tf]
 laser_cb_detector: [roscpp, message_filters, std_msgs, actionlib_msgs, calibration_msgs,
-  image_cb_detector, opencv2, cv_bridge]
+  image_cb_detector, cv_bridge, opencv2]
 laser_filters: [sensor_msgs, roscpp, tf, filters, message_filters, laser_geometry,
   pluginlib, pcl_ros]
 laser_geometry: [sensor_msgs, roscpp, tf, angles, common_rosdeps, eigen]
