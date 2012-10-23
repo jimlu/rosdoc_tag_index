@@ -31,7 +31,7 @@ gencpp: [gencpp]
 genlisp: [genlisp]
 genmsg: [genmsg]
 genpy: [genpy]
-geometry: [tf, angles, tf_conversions, eigen_conversions]
+geometry: [tf, tf_conversions, angles, eigen_conversions]
 geometry_experimental: [tf2_geometry_msgs, tf2_bullet, tf2_kdl, tf2_tools, test_tf2,
   tf2_ros, tf2_msgs, tf2]
 geometry_tutorials: [turtle_tf]
