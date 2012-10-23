@@ -38,6 +38,7 @@ audio_capture: [roscpp, audio_common_msgs, libgstreamer0.10-dev, libgstreamer-pl
 audio_common: [ros, common, common_msgs, common_rosdeps, ros_comm]
 audio_play: [roscpp, audio_common_msgs, libgstreamer0.10-dev, libgstreamer-plugins-base0.10-dev,
   python-gst, gstreamer0.10-plugins-ugly, gstreamer0.10-plugins-good]
+bag_tools: [rospy, rosbag, sensor_msgs, cv_bridge, message_filters, stereo_image_proc]
 base_local_planner: [std_msgs, nav_msgs, rosconsole, roscpp, tf, roslib, rospy, pluginlib,
   costmap_2d, voxel_grid, angles, visualization_msgs, geometry_msgs, nav_core, pcl_ros,
   common_rosdeps, pcl, eigen]
@@ -200,6 +201,7 @@ laser_geometry: [sensor_msgs, roscpp, tf, angles, common_rosdeps, eigen]
 laser_pipeline: [common_msgs, common_rosdeps, filters, geometry, perception_pcl, pluginlib,
   ros, ros_comm]
 laser_scan_publisher_tutorial: [roscpp, sensor_msgs]
+launch_tools: [rospy, roslib]
 libpcan: [linux-headers-generic, libpopt-dev]
 libphidgets: [libusb-dev]
 map_server: [rosconsole, roscpp, rospy, nav_msgs, tf, common_rosdeps, python-imaging,
@@ -414,6 +416,7 @@ sql_database: [common_rosdeps, ros, ros_comm]
 srdf: [urdf, rosconsole, tinyxml]
 srs_common: [arm_navigation, common_msgs, perception_pcl, ros, ros_comm]
 srs_object_database_msgs: [pcl, visualization_msgs, sensor_msgs, arm_navigation_msgs]
+srv_tools: [ros]
 stereo_msgs: [sensor_msgs]
 student_database: [database_interface]
 telekyb_algo: [ros, ros_comm, telekyb_common]
@@ -460,6 +463,7 @@ tf2_tools: [tf2_msgs, tf2, tf2_ros]
 tf2_visualization: [tf2_msgs, tf2, tf2_ros, xdot, rxbag]
 tf_broadcast_server: [tf, geometry_msgs]
 tf_conversions: [tf, kdl, geometry_msgs, eigen]
+tf_tools: [tf]
 timestamp_tools: [roslib, roscpp]
 tk_bagtools: [roscpp, rosbag, message_filters, telekyb_base, sensor_msgs, tk_haptics_msgs,
   telekyb_msgs, sensor_msgs]
