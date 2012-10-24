@@ -16,6 +16,7 @@ bond_core: [test_bond, smclib, bondpy, bondcpp, bond]
 bullet: [bullet]
 calibration: [interval_intersection, laser_cb_detector, calibration_estimation, monocam_settler,
   settlerlib, calibration_msgs, image_cb_detector, calibration_launch, joint_states_settler]
+camera_drivers: []
 camera_pose: [camera_pose_calibration, camera_pose_toolkits, kinect_depth_calibration]
 catkin: []
 common: []
