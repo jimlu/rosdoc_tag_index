@@ -372,7 +372,7 @@ planning_environment: [roscpp, rosconsole, rosbag, actionlib_msgs, actionlib, tf
   visualization_msgs, planning_models, collision_space, pcl_ros, robot_self_filter,
   rviz, yaml-cpp, libqt4-dev, tinyxml, pkg-config]
 planning_models: [urdf, rosconsole, geometric_shapes, bullet, angles, pkg-config]
-pluginlib: [roslib, rosconsole, tinyxml]
+pluginlib: [rosconsole, roslib, tinyxml]
 pluginlib_tutorials: [pluginlib, roscpp]
 point_cloud_publisher_tutorial: [roscpp, sensor_msgs]
 pointcloud_to_laserscan: [nodelet, sensor_msgs, pcl_ros, dynamic_reconfigure]
@@ -391,8 +391,8 @@ pycontroller_manager: [rospy, pr2_mechanism_msgs]
 pymongo: [mongodb]
 pyqrnative: [python-imaging]
 rbdl: [urdf, urdf_interface, eigen, libunittest++]
-rcommander: [rospy, nodebox_qt, smach, smach_ros, actionlib, geometry_msgs, tf, tf_broadcast_server,
-  python-qt4-gl]
+rcommander: [smach_ros, nodebox_qt, python-qt4-gl, actionlib, smach, rospy, tf_broadcast_server,
+  tf, geometry_msgs]
 rcommander_core: [ros, ros_comm, common, common_msgs, executive_smach, geometry]
 rcommander_plain: [rospy, rcommander]
 rcommander_pr2: [ros, ros_comm, common, common_msgs, geometry, navigation, arm_navigation,
