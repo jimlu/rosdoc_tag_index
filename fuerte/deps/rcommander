@@ -1,0 +1,2 @@
+[smach_ros, nodebox_qt, python-qt4-gl, actionlib, smach, rospy, tf_broadcast_server,
+  tf, geometry_msgs]
