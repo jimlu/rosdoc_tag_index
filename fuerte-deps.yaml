@@ -366,7 +366,7 @@ osm_cartography: [dynamic_reconfigure, geodesy, geographic_msgs, geometry_msgs, 
   tf, std_msgs, visualization_msgs]
 pacman_controller: [rospy, roscpp, std_msgs, std_srvs, visualization_msgs, geometry_msgs,
   collvoid_msgs, collvoid_local_planner, tf, actionlib, move_base_msgs]
-pipette_driver: [rospy, dynamic_reconfigure, driver_base, diagnostic_msgs]
+pipette_driver: [dynamic_reconfigure, driver_base, rospy, diagnostic_msgs]
 planning_environment: [roscpp, rosconsole, rosbag, actionlib_msgs, actionlib, tf,
   std_srvs, message_filters, angles, geometric_shapes, sensor_msgs, arm_navigation_msgs,
   visualization_msgs, planning_models, collision_space, pcl_ros, robot_self_filter,
@@ -378,9 +378,9 @@ point_cloud_publisher_tutorial: [sensor_msgs, roscpp]
 pointcloud_to_laserscan: [nodelet, sensor_msgs, pcl_ros, dynamic_reconfigure]
 pose_base_controller: [actionlib, move_base_msgs, nav_msgs, roscpp, tf, geometry_msgs]
 pose_follower: [nav_core, base_local_planner, costmap_2d, roscpp, tf, nav_msgs, pluginlib]
-pr2_biolab_gazebo_demo: [pr2_gazebo, gazebo_worlds, gazebo, pr2_tuckarm, robot_state_publisher,
-  pr2_common_action_msgs, actionlib, roscpp, joint_trajectory_action, geometry_msgs,
-  kinematics_msgs, pr2_controllers_msgs, tf, biolab_description]
+pr2_biolab_gazebo_demo: [roscpp, gazebo_worlds, robot_state_publisher, pr2_common_action_msgs,
+  joint_trajectory_action, geometry_msgs, tf, pr2_tuckarm, biolab_description, pr2_controllers_msgs,
+  gazebo, actionlib, kinematics_msgs, pr2_gazebo]
 pr2_make_a_map_app: [pr2_position_scripts, gmapping, tf, mongodb, topic_tools, map_store]
 pr2_pan_tilt: [geometry_msgs, pr2_controllers_msgs, topic_tools, actionlib, rospy,
   tf]
