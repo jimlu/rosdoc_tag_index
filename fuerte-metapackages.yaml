@@ -103,7 +103,7 @@ ros_tutorials: [turtlesim, rospy_tutorials, roscpp_tutorials]
 roscpp_core: [roscpp_traits, cpp_common, rostime, roscpp_serialization]
 rosdoc_lite: [rosdoc_lite]
 rosh_core: [roshlaunch, rosh]
-rosh_robot_plugins: [rosh_common, rosh_geometry, rosh_robot]
+rosh_robot_plugins: [rosh_robot, rosh_geometry, rosh_common]
 rosmatlab: [rosmatlab, rosmatlab_common_msgs, rosrtw_examples, rosrtw]
 rospack: [rospack]
 rosserial: [rosserial_xbee, rosserial_arduino, rosserial_embeddedlinux, rosserial_python,
