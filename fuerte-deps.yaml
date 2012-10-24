@@ -487,10 +487,10 @@ rviz_qt: [ogre, ogre_tools_qt, roscpp, rospy, rosconsole, message_filters, std_m
   urdf, urdf_interface, resource_retriever, image_transport, interactive_markers,
   pluginlib, common_rosdeps, libqt4-dev, libqt4-opengl-dev, qt4-qmake, assimp, pyside,
   yaml-cpp]
-rxbag: [rospy, roslib, std_msgs, rosbag, rosgraph, rxtools, python-gtk2, wxpython]
-rxgraph: [rosgraph, xdot, rostopic, rosnode]
-rxtools: [roscpp, rosgraph_msgs, roslib, rospy, wxPython_swig_interface, wxwidgets,
-  swig-wx, python-gtk2, python-matplotlib, wxpython]
+rxbag: [rxtools, rosgraph, roslib, std_msgs, wxpython, rospy, rosbag, python-gtk2]
+rxgraph: [xdot, rosnode, rosgraph, rostopic]
+rxtools: [rosgraph_msgs, python-matplotlib, wxwidgets, roslib, wxPython_swig_interface,
+  wxpython, rospy, swig-wx, python-gtk2, roscpp]
 sbpl_lattice_planner: [roscpp, costmap_2d, nav_core, pluginlib, geometry_msgs, nav_msgs,
   sbpl]
 sbpl_recovery: [roscpp, nav_core, sbpl_lattice_planner, pose_follower, costmap_2d,
