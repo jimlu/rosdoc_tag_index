@@ -143,6 +143,6 @@ visualization_engine: [test_rve, rve_dynlib, rve_rpc, rve_properties, rve_interf
   rve_common_transformers, rve_msgs, rve_geometry, rve_interfaces, rve_render_server]
 visualization_experimental: [ogre_tools_qt, rviz_qt]
 vrmagic_camera: [vrmagic_multi_driver, vrmagic_devkit_wrapper]
-warehousewg: [pymongo, mongo_ros, mongodb]
+warehousewg: [mongodb, pymongo, mongo_ros]
 worldmodel: [worldmodel_ops, semantic_model_web_interface, semanticmodel]
 xacro: [xacro]
