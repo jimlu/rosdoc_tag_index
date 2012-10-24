@@ -359,7 +359,8 @@ openni_kinect: [common_msgs, common_rosdeps, dynamic_reconfigure, geometry, imag
   nodelet_core, openni_camera, openni_launch, openni_tracker, perception_pcl, ros,
   ros_comm]
 openni_launch: [depth_image_proc, image_proc, nodelet, openni_camera, tf]
-openni_tracker: [geometry_msgs, kdl, roscpp, roslib, tf, openni-dev, nite-dev, ps-engine]
+openni_tracker: [kdl, openni-dev, roscpp, ps-engine, roslib, nite-dev, geometry_msgs,
+  tf]
 openrtm_cpp: [pkg-config, uuid, omniorb, python-yaml, doxygen]
 osm_cartography: [dynamic_reconfigure, geodesy, geographic_msgs, geometry_msgs, rospy,
   tf, std_msgs, visualization_msgs]
