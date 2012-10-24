@@ -80,6 +80,7 @@ navigation_experimental: [pose_base_controller, goal_passer, assisted_teleop, eb
 navigation_tutorials: [navigation_stage, roomba_stage, odometry_publisher_tutorial,
   point_cloud_publisher_tutorial, robot_setup_tf_tutorial, laser_scan_publisher_tutorial,
   simple_navigation_goals_tutorial]
+netft: [netft_rdt_driver, netft_ethercat_hardware, netft_example_controllers]
 nodelet_core: [nodelet_topic_tools, nodelet, test_nodelet]
 occupancy_grid_utils: [occupancy_grid_utils]
 openni_camera: [openni_camera]

@@ -334,6 +334,11 @@ navigation_experimental: [common, common_msgs, filters, geometry, navigation, pl
 navigation_stage: [move_base, map_server, gmapping, amcl, fake_localization, stage]
 navigation_tutorials: [common, common_msgs, geometry, navigation, ros, ros_comm, slam_gmapping,
   stage]
+netft: [common_msgs, diagnostics, pr2_ethercat_drivers, pr2_mechanism, ros, ros_comm]
+netft_ethercat_hardware: [netft_rdt_driver, geometry_msgs, roscpp, ethercat_hardware,
+  realtime_tools]
+netft_example_controllers: [roscpp, ethercat_hardware, pr2_controller_interface]
+netft_rdt_driver: [diagnostic_updater, geometry_msgs, roscpp, diagnostic_msgs]
 nite: [openni, nite-dev, ps-engine]
 nmea_gps_driver: [sensor_msgs, std_msgs, rospy, geometry_msgs, python-serial]
 node_manager_fkie: [rospy, roslib, rosgraph, roslaunch, rosservice, dynamic_reconfigure,
