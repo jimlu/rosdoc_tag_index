@@ -169,6 +169,7 @@ warehousewg: [mongodb, pymongo, mongo_ros]
 web_interface: [pyclearsilver, launchman, ros_apache2, rosweb, image_stream, webui,
   web_msgs, rosjson, ckill]
 wg_common: [willow_maps]
+wg_pr2_apps: [wg_pr2_2dnav]
 wg_robots_gazebo: [ros_epic_fail, icra_navigation_gazebo, pr2_arm_gazebo, pr2_laban_gazebo_demo,
   pr2_plugs_gazebo_demo, pr2_gazebo_wg, test_pr2_2dnav_gazebo, pr2_doors_gazebo_demo,
   pr2_tabletop_manipulation_gazebo_demo, pr2_pickup_object_demo, pr2_2dnav_gazebo,

@@ -816,8 +816,8 @@ webui: [pyclearsilver, std_srvs, launchman, rosweb, roslib, std_msgs, rosservice
   rospy, web_msgs, diagnostic_msgs, python-clearsilver]
 wg_common: [ros, langs, langs-dev]
 wg_flirtlib: [flirtlib_ros]
-wg_pr2_2dnav: [willow_maps, map_server, pr2_navigation_global, pr2_navigation_perception,
-  pr2_navigation_teleop, pr2_machine]
+wg_pr2_2dnav: [pr2_navigation_teleop, map_server, willow_maps, pr2_machine, pr2_navigation_global,
+  pr2_navigation_perception]
 wg_pr2_apps: [navigation, pr2_common, pr2_navigation, ros, wg_common]
 wg_robots_gazebo: [arm_navigation, bullet, camera_drivers, common, common_msgs, driver_common,
   geometry, image_pipeline, laser_pipeline, navigation, object_manipulation, physics_ode,
