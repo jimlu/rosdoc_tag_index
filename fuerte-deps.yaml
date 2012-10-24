@@ -375,7 +375,7 @@ planning_models: [urdf, rosconsole, geometric_shapes, bullet, angles, pkg-config
 pluginlib: [rosconsole, roslib, tinyxml]
 pluginlib_tutorials: [pluginlib, roscpp]
 point_cloud_publisher_tutorial: [sensor_msgs, roscpp]
-pointcloud_to_laserscan: [nodelet, sensor_msgs, pcl_ros, dynamic_reconfigure]
+pointcloud_to_laserscan: [dynamic_reconfigure, sensor_msgs, nodelet, pcl_ros]
 pose_base_controller: [actionlib, move_base_msgs, nav_msgs, roscpp, tf, geometry_msgs]
 pose_follower: [nav_core, base_local_planner, costmap_2d, roscpp, tf, nav_msgs, pluginlib]
 pr2_biolab_gazebo_demo: [pr2_gazebo, gazebo_worlds, gazebo, pr2_tuckarm, robot_state_publisher,
@@ -622,8 +622,8 @@ turtlebot_arm_interactive_markers: [roscpp, visualization_msgs, interactive_mark
   arbotix_msgs, arbotix_controllers, simple_arm_server, actionlib]
 turtlebot_block_manipulation: [roscpp, actionlib, visualization_msgs, interactive_markers,
   simple_arm_server, simple_arm_actions, pcl_ros]
-turtlebot_bringup: [app_manager, turtlebot_driver, turtlebot_node, turtlebot_description,
-  joy, robot_state_publisher, pointcloud_to_laserscan, openni_camera, compressed_image_transport]
+turtlebot_bringup: [compressed_image_transport, turtlebot_driver, joy, robot_state_publisher,
+  pointcloud_to_laserscan, openni_camera, turtlebot_node, turtlebot_description, app_manager]
 turtlebot_calibration: [rospy, sensor_msgs, nav_msgs, geometry_msgs, kdl]
 turtlebot_dashboard: [rxtools, robot_monitor, std_msgs, std_srvs, rospy, roslib, turtlebot_node]
 turtlebot_description: [urdf, xacro]
@@ -634,8 +634,8 @@ turtlebot_kinect: [openni_camera, clearpath_tools, clearpath_kinect_demo]
 turtlebot_kinect_arm_calibration: [roscpp, visualization_msgs, tf, eigen, opencv2,
   image_geometry, pcl, pcl_ros, image_transport, cv_bridge]
 turtlebot_navigation: [move_base, gmapping]
-turtlebot_node: [turtlebot_driver, rospy, tf, nav_msgs, geometry_msgs, diagnostic_msgs,
-  kdl, dynamic_reconfigure, daemontools]
+turtlebot_node: [nav_msgs, kdl, rospy, dynamic_reconfigure, turtlebot_driver, tf,
+  geometry_msgs, diagnostic_msgs, daemontools]
 turtlebot_rndmwalk: [clearpath_tools, clearpath_kinect_demo, turtlebot_node]
 turtlebot_simulator: [common_msgs, ros, simulator_gazebo, turtlebot]
 turtlebot_teleop: [joy, geometry_msgs, roscpp]
