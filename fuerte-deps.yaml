@@ -496,11 +496,11 @@ sbpl_lattice_planner: [roscpp, costmap_2d, nav_core, pluginlib, geometry_msgs, n
   sbpl]
 sbpl_recovery: [roscpp, nav_core, sbpl_lattice_planner, pose_follower, costmap_2d,
   pluginlib, base_local_planner]
-semantic_model_web_interface: [semanticmodel, pcl, mongo_ros]
-semanticmodel: [sensor_msgs, std_srvs, pcl16_ros, flann, pcl16, nodelet, visualization_msgs,
-  tf, driver_base, dynamic_reconfigure, opencv2, image_transport, image_geometry,
-  geometry_msgs, actionlib, opencv2, cv_bridge, rospy, topic_tools, mongo_ros, mongodb,
-  move_base_msgs, message_filters, nav_msgs, stereo_msgs, occupancy_grid_utils]
+semantic_model_web_interface: [mongo_ros, pcl, semanticmodel]
+semanticmodel: [stereo_msgs, move_base_msgs, mongo_ros, nav_msgs, actionlib, driver_base,
+  topic_tools, flann, visualization_msgs, tf, nodelet, image_geometry, message_filters,
+  mongodb, sensor_msgs, image_transport, opencv2, rospy, pcl16_ros, cv_bridge, dynamic_reconfigure,
+  std_srvs, occupancy_grid_utils, geometry_msgs, pcl16]
 sensor_msgs: [geometry_msgs]
 serial_communication: [ros, ros_comm]
 settlerlib: [roscpp, calibration_msgs]
