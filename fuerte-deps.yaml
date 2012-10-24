@@ -252,6 +252,8 @@ hector_ugv_description: [hector_xacro_tools, hector_sensors_description]
 hector_ugv_gazebo: [hector_ugv_description]
 hector_worldmodel: [common_msgs, geometry, hector_common, hector_slam, ros, ros_comm,
   vision_opencv]
+hokuyo_node: [self_test, dynamic_reconfigure, roscpp, diagnostic_updater, sensor_msgs,
+  driver_base]
 humanoid_walk: [bullet, common_msgs, common_rosdeps, diagnostics, geometry, ros, ros_comm,
   robot_model_py]
 image_cb_detector: [roscpp, actionlib, sensor_msgs, image_transport, opencv2, geometry_msgs,
@@ -283,6 +285,7 @@ laser_assembler: [roscpp, std_msgs, geometry_msgs, laser_geometry, laser_filters
   sensor_msgs, tf]
 laser_cb_detector: [roscpp, message_filters, actionlib_msgs, std_msgs, opencv2, calibration_msgs,
   image_cb_detector, cv_bridge]
+laser_drivers: [common_msgs, diagnostics, driver_common, ros, ros_comm]
 laser_filters: [sensor_msgs, roscpp, tf, filters, message_filters, laser_geometry,
   pluginlib, pcl_ros]
 laser_geometry: [sensor_msgs, roscpp, tf, angles, common_rosdeps, eigen]
@@ -542,6 +545,7 @@ sensor_msgs: [geometry_msgs]
 serial_communication: [ros, ros_comm]
 settlerlib: [roscpp, calibration_msgs]
 shape_msgs: [geometry_msgs, std_msgs]
+sicktoolbox_wrapper: [sicktoolbox, diagnostic_updater, sensor_msgs, roscpp]
 simmechanics_to_urdf: [rospy, sensor_msgs, tf, python-yaml]
 simple_navigation_goals_tutorial: [move_base_msgs, tf, actionlib, roscpp]
 simple_object_capture: [pcl, roscpp, sensor_msgs, message_filters, dynamic_reconfigure,
