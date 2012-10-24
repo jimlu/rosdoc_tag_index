@@ -276,6 +276,8 @@ laser_geometry: [sensor_msgs, roscpp, tf, angles, common_rosdeps, eigen]
 laser_pipeline: [common_msgs, common_rosdeps, filters, geometry, perception_pcl, pluginlib,
   ros, ros_comm]
 laser_scan_publisher_tutorial: [sensor_msgs, roscpp]
+laser_slam_mapper: [roscpp, topological_map_2d, mongo_roscpp, octomap_ros, pcl, visualization_msgs,
+  tf, laser_slam]
 launch_tools: [roslib, rospy]
 libfreenect: [git, cmake, glut, libusb-1.0-dev, libxi-dev, libxmu-dev, pkg-config]
 libpcan: [linux-headers-generic, libpopt-dev]
@@ -609,6 +611,12 @@ tk_trajctrl: [roscpp, telekyb_base, tk_param_estimator, tk_state, telekyb_msgs, 
   telekyb_defines]
 tk_trajprocessor: [roscpp, telekyb_base, pluginlib, tk_state, telekyb_msgs, tk_obstacle,
   tk_trajctrl, telekyb_defines, telekyb_srvs]
+topological_map_2d: [topological_nav_msgs, roscpp, graph_mapping_utils]
+topological_nav_msgs: [nav_msgs, geometry_msgs]
+topological_navigation: [common, common_msgs, geometry, graph_mapping, navigation,
+  ros, ros_comm, warehousewg]
+topological_roadmap: [navfn, costmap_2d, occupancy_grid_utils, actionlib, topological_nav_msgs,
+  topological_map_2d, graph_mapping_utils, mongo_roscpp, visualization_msgs, move_base_msgs]
 trajectory_execution_monitor: [arm_navigation_msgs, control_msgs, actionlib, pr2_controllers_msgs,
   planning_environment]
 trajectory_filter_server: [filters, roscpp, trajectory_msgs, arm_navigation_msgs,
