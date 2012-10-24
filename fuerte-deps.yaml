@@ -30,6 +30,12 @@ arm_navigation_experimental: [actionlib, arm_navigation, bullet, common_msgs, co
 arm_navigation_experimental_tools: [planning_environment]
 arm_navigation_msgs: [std_msgs, actionlib_msgs, sensor_msgs, geometry_msgs, trajectory_msgs,
   tf]
+arm_navigation_tests: [pr2_controller_manager, pr2_arm_navigation_filtering, pr2_arm_kinematics,
+  move_arm, single_joint_position_action, image_proc, planning_environment, pr2_arm_navigation_planning,
+  rostopic, collision_map, pr2_arm_navigation_kinematics, gazebo, pr2_description,
+  diagnostic_aggregator, robot_state_publisher, joint_trajectory_action, gazebo_tools,
+  pr2_gripper_action, pr2_head_action, pr2_gazebo, pr2_arm_navigation_perception,
+  pr2_arm_navigation_actions, pr2_arm_kinematics_constraint_aware]
 assimp: [assimp]
 assisted_teleop: [tf, costmap_2d, roscpp, roslib, geometry_msgs, move_base_msgs, actionlib,
   message_filters, base_local_planner, angles, pluginlib, sensor_msgs, filters, eigen]
@@ -382,6 +388,12 @@ point_cloud_publisher_tutorial: [sensor_msgs, roscpp]
 pointcloud_to_laserscan: [dynamic_reconfigure, sensor_msgs, nodelet, pcl_ros]
 pose_base_controller: [actionlib, move_base_msgs, nav_msgs, roscpp, tf, geometry_msgs]
 pose_follower: [nav_core, base_local_planner, costmap_2d, roscpp, tf, nav_msgs, pluginlib]
+pr2_arm_ik_tests: [pr2_controller_manager, pr2_arm_navigation_perception, pluginlib,
+  kinematics_base, robot_state_publisher, pr2_arm_kinematics, pr2_arm_navigation_kinematics,
+  gazebo, pr2_gazebo]
+pr2_arm_navigation_tests: [arm_navigation, common, common_msgs, diagnostics, image_pipeline,
+  kinematics, motion_planning_common, pr2_arm_navigation, pr2_common, pr2_controllers,
+  pr2_kinematics, pr2_mechanism, pr2_simulator, robot_model, ros, ros_comm, simulator_gazebo]
 pr2_biolab_gazebo_demo: [roscpp, gazebo_worlds, robot_state_publisher, pr2_common_action_msgs,
   joint_trajectory_action, geometry_msgs, tf, pr2_tuckarm, biolab_description, pr2_controllers_msgs,
   gazebo, actionlib, kinematics_msgs, pr2_gazebo]
@@ -556,6 +568,8 @@ telekyb_vicon: [roscpp, telekyb_base, telekyb_msgs, viconsdk_wrapper, geometry_m
 telekyb_vrpn: [tf, vrpn_wrapper, roscpp, telekyb_base]
 teleop_head: [joy, trajectory_msgs, sensor_msgs, roscpp]
 test_bond: [rostest, bondpy, bondcpp, bond]
+test_collision_space: [roslib, roscpp, planning_environment, planning_models, visualization_msgs,
+  collision_space]
 test_nodelet: [std_msgs, rostest, nodelet, pluginlib]
 test_osm: [osm_cartography, route_network, geodesy, geographic_msgs]
 test_rospy: [python-numpy]
