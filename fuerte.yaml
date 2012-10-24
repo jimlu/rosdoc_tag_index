@@ -635,10 +635,10 @@ ros-fuerte-slam-gmapping:
 - {docs_url: ../../../api/gmapping/html, location: 'http://ros.org/rosdoclite/fuerte/api/gmapping/tags/gmapping.tag',
   package: gmapping}
 ros-fuerte-sql-database:
-- {docs_url: ../../../api/student_database/html, location: 'http://ros.org/rosdoclite/fuerte/api/student_database/tags/student_database.tag',
-  package: student_database}
 - {docs_url: ../../../api/database_interface/html, location: 'http://ros.org/rosdoclite/fuerte/api/database_interface/tags/database_interface.tag',
   package: database_interface}
+- {docs_url: ../../../api/student_database/html, location: 'http://ros.org/rosdoclite/fuerte/api/student_database/tags/student_database.tag',
+  package: student_database}
 ros-fuerte-srs-common:
 - {docs_url: ../../../api/srs_object_database_msgs/html, location: 'http://ros.org/rosdoclite/fuerte/api/srs_object_database_msgs/tags/srs_object_database_msgs.tag',
   package: srs_object_database_msgs}
