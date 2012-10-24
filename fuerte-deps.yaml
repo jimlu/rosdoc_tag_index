@@ -656,8 +656,8 @@ urdf_interface: [tinyxml]
 urdf_parser: [roscpp, urdf_interface, tinyxml]
 urdf_parser_py: [rospy]
 viso2: [ros]
-viso2_ros: [libviso2, roscpp, sensor_msgs, nav_msgs, message_filters, image_transport,
-  cv_bridge, image_geometry, tf, pcl_ros]
+viso2_ros: [nav_msgs, image_geometry, roscpp, message_filters, libviso2, sensor_msgs,
+  image_transport, tf, cv_bridge, pcl_ros]
 visualization_engine: [common, common_msgs, geometry, laser_pipeline, robot_model,
   ros, visualization_common, image_common]
 visualization_experimental: [common_msgs, common_rosdeps, geometry, image_common,
