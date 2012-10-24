@@ -129,6 +129,8 @@ telekyb_main: [telekyb_core, tk_trajctrl, tk_exception, tk_state, tk_trajprocess
 telekyb_sensors: [telekyb_vrpn, telekyb_vicon]
 telekyb_swarm: [tk_formation]
 telekyb_utils: [tk_generic_killer, tk_bagtools, tk_handjoystick, tk_conversion]
+topological_navigation: [laser_slam_mapper, topological_roadmap, topological_nav_msgs,
+  topological_map_2d]
 turtlebot: [turtlebot_node, turtlebot_description, turtlebot_bringup, turtlebot_driver,
   pointcloud_to_laserscan]
 turtlebot_apps: [turtlebot_follower, turtlebot_teleop, turtlebot_calibration, turtlebot_navigation,
