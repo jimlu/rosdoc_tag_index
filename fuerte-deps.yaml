@@ -508,8 +508,8 @@ simple_navigation_goals_tutorial: [move_base_msgs, actionlib, roscpp, tf]
 simple_object_capture: [pcl, roscpp, sensor_msgs, message_filters, dynamic_reconfigure,
   opencv2, cv_bridge, rosbag, image_geometry]
 slam_gmapping: [common_msgs, geometry, navigation, ros, ros_comm]
-smach_ros: [smach, rospy, rostest, rostopic, actionlib, actionlib_msgs, smach_msgs,
-  std_msgs, std_srvs]
+smach_ros: [std_srvs, actionlib, std_msgs, smach, rostest, rospy, rostopic, smach_msgs,
+  actionlib_msgs]
 smach_viewer: [smach_ros, xdot, smach_msgs]
 sound_play: [roscpp, libgstreamer-plugins-base0.10-dev, festival, roslib, libgstreamer0.10-dev,
   gstreamer0.10-plugins-good, python-gst, rospy, gstreamer0.10-plugins-ugly, diagnostic_msgs]
