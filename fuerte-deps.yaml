@@ -52,7 +52,7 @@ bond_core: [ros, ros_comm]
 bondcpp: [bond, roscpp, smclib, uuid]
 bondpy: [bond, rospy, smclib]
 brown_drivers: [common_msgs, geometry, ros, ros_comm]
-bullet: [libxext, glut]
+bullet: [glut, libxext]
 calibration: [common, common_msgs, geometry, image_common, image_pipeline, perception_pcl,
   ros, ros_comm, vision_opencv]
 calibration_estimation: [rospy, rostest, sensor_msgs, calibration_msgs, visualization_msgs,
