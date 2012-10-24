@@ -1,0 +1,2 @@
+[dynamic_reconfigure, roscpp, opencv2, microstrain_3dmgx2_imu, geometry_msgs, visualization_msgs,
+  tf, eigen]
