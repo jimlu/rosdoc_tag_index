@@ -682,6 +682,7 @@ walk_msgs: [roscpp, rospy, common_rosdeps, bullet, geometry_msgs, nav_msgs, walk
 walk_tools: [rospy, geometry_msgs, sensor_msgs, message_filters, diagnostic_aggregator,
   diagnostic_updater, urdf_parser_py]
 warehousewg: [common_msgs, geometry, ros, ros_comm]
+wg_common: [ros, langs, langs-dev]
 wg_flirtlib: [flirtlib_ros]
 wg_pr2_2dnav: [willow_maps, map_server, pr2_navigation_global, pr2_navigation_perception,
   pr2_navigation_teleop, pr2_machine]
@@ -691,6 +692,7 @@ wge100_camera: [self_test, dynamic_reconfigure, timestamp_tools, roscpp, driver_
 wge100_camera_firmware: [gforth, rostest, rospy]
 wge100_driver: [common_msgs, diagnostics, driver_common, dynamic_reconfigure, image_common,
   ros, ros_comm]
+willow_maps: [langs, langs-dev]
 worldmodel: [common, common_msgs, continuous_ops, driver_common, geometry, image_common,
   navigation, nodelet_core, openni_kinect, perception_pcl, pr2_common_actions, pr2_controllers,
   ros, ros_comm, vision_opencv, warehousewg]
