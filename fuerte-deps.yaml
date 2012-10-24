@@ -149,7 +149,7 @@ fake_localization: [roscpp, rosconsole, nav_msgs, geometry_msgs, tf, message_fil
   angles]
 falkor_ardrone: [joy, camera_info_manager, sensor_msgs, image_transport, opencv2,
   rospy, tf, ardrone_autonomy, cv_bridge]
-fcl: [common_rosdeps, libccd, octomap]
+fcl: [common_rosdeps, octomap, libccd]
 filters: [rosconsole, roscpp, pluginlib]
 flirtlib_features: [geometry, occupancy_grid_utils, ros, ros_comm, warehousewg, visualization]
 flirtlib_ros: [occupancy_grid_utils, tf, roscpp, interactive_markers, mongo_ros, actionlib,
