@@ -61,6 +61,7 @@ hector_turtlebot: [hector_turtlebot_description, hector_turtlebot_scan_filter, h
 hector_ugv_common: [hector_ugv_description, hector_ugv_gazebo]
 hector_worldmodel: [object_tracker, worldmodel_msgs, worldmodel_geotiff_plugins]
 image_common: [polled_camera, camera_info_manager, image_transport, camera_calibration_parsers]
+imu_drivers: [microstrain_3dmgx2_imu]
 imu_filter: [imu_filter]
 langs: []
 megatree: [megatree_cpp, megatree_import, megatree_web, megatree_storage, megatree_core,
