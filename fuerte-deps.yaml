@@ -345,7 +345,7 @@ object_tracker: [roscpp, tf, tf_conversions, image_geometry, worldmodel_msgs, he
 occupancy_grid_utils: [nav_msgs, geometry_msgs, tf, sensor_msgs, roscpp, laser_geometry,
   bullet, rospy, map_server]
 odometry_publisher_tutorial: [nav_msgs, tf, roscpp]
-ogre_tools_qt: [ogre, rosconsole, roslib]
+ogre_tools_qt: [rosconsole, roslib, ogre]
 ompl_ros_interface: [sensor_msgs, planning_models, planning_environment, arm_navigation_msgs,
   kinematics_base, pluginlib, ompl]
 open_street_map: [common_msgs, driver_common, geographic_info, geometry, ros, ros_comm]
@@ -483,11 +483,10 @@ rve_render_server: [ogre, ogre_tools, rve_common, rve_interfaces, rve_mesh_loade
 rve_rpc: [roscpp, roslib, rve_common, rve_msgs, std_msgs]
 rve_transformer: [roscpp, tf, tf2, tf2_ros, message_filters, rve_render_client, rve_interface_gen,
   rve_interfaces, rve_msgs, rve_common, rve_pluginloader, rve_properties]
-rviz_qt: [ogre, ogre_tools_qt, roscpp, rospy, rosconsole, message_filters, std_msgs,
-  std_srvs, sensor_msgs, geometry_msgs, nav_msgs, tf, laser_geometry, visualization_msgs,
-  urdf, urdf_interface, resource_retriever, image_transport, interactive_markers,
-  pluginlib, common_rosdeps, libqt4-dev, libqt4-opengl-dev, qt4-qmake, assimp, pyside,
-  yaml-cpp]
+rviz_qt: [rosconsole, ogre, pyside, interactive_markers, resource_retriever, nav_msgs,
+  laser_geometry, roscpp, libqt4-dev, qt4-qmake, yaml-cpp, visualization_msgs, tf,
+  common_rosdeps, urdf_interface, urdf, message_filters, std_msgs, sensor_msgs, libqt4-opengl-dev,
+  image_transport, assimp, rospy, std_srvs, pluginlib, ogre_tools_qt, geometry_msgs]
 rxbag: [rxtools, rosgraph, roslib, std_msgs, wxpython, rospy, rosbag, python-gtk2]
 rxgraph: [xdot, rosnode, rosgraph, rostopic]
 rxtools: [rosgraph_msgs, python-matplotlib, wxwidgets, roslib, wxPython_swig_interface,
