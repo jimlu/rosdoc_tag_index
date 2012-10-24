@@ -169,6 +169,9 @@ warehousewg: [mongodb, pymongo, mongo_ros]
 web_interface: [pyclearsilver, launchman, ros_apache2, rosweb, image_stream, webui,
   web_msgs, rosjson, ckill]
 wg_common: [willow_maps]
+wg_hardware_test: [pr2_hardware_test_monitor, pr2_camera_focus, pr2_drive_life_test,
+  life_test, pr2_component_descriptions, wgtest_status_indicator, qualification, roslaunch_caller,
+  pr2_transmission_check, ectools, mtrace_tools, wg_invent_client]
 wg_pr2_apps: [wg_pr2_2dnav]
 wg_robots_gazebo: [ros_epic_fail, icra_navigation_gazebo, pr2_arm_gazebo, pr2_laban_gazebo_demo,
   pr2_plugs_gazebo_demo, pr2_gazebo_wg, test_pr2_2dnav_gazebo, pr2_doors_gazebo_demo,
