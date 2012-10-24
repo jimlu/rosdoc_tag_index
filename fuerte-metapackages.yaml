@@ -23,6 +23,7 @@ common_msgs: [nav_msgs, shape_msgs, stereo_msgs, actionlib_msgs, trajectory_msgs
   sensor_msgs, geometry_msgs, visualization_msgs, diagnostic_msgs]
 common_rosdeps: [common_rosdeps]
 cpp_introspection: [cpp_introspection]
+diagnostics_monitors: [runtime_monitor, robot_monitor]
 dynamic_reconfigure: [dynamic_reconfigure]
 eigen: [eigen]
 executive_smach: [smach_ros, smach, smach_msgs]

@@ -406,7 +406,7 @@ robot_model: [common_msgs, common_rosdeps, geometry, orocos_kinematics_dynamics,
 robot_model_py: [ros, ros_comm]
 robot_model_tutorials: [ros]
 robot_model_visualization: [common_msgs, ros, ros_comm]
-robot_monitor: [rospy, diagnostic_msgs, rxbag, wxwidgets, wxpython]
+robot_monitor: [rxbag, wxpython, rospy, diagnostic_msgs, wxwidgets]
 robot_pose_ekf: [roscpp, rosbag, bfl, std_msgs, geometry_msgs, sensor_msgs, nav_msgs,
   tf]
 robot_pose_publisher: [roscpp, tf, geometry_msgs]
@@ -462,7 +462,7 @@ rotate_recovery: [roscpp, nav_core, tf, costmap_2d, geometry_msgs, base_local_pl
   pluginlib, angles, common_rosdeps, eigen]
 route_network: [dynamic_reconfigure, geodesy, geographic_msgs, geometry_msgs, nav_msgs,
   rospy, visualization_msgs]
-runtime_monitor: [rospy, diagnostic_msgs, rxbag, wxwidgets, wxpython]
+runtime_monitor: [rxbag, wxpython, rospy, diagnostic_msgs, wxwidgets]
 rve_common: [rve_msgs, roslib, eigen]
 rve_common_transformers: [roscpp, rve_properties, rve_render_client, rve_transformer,
   rve_common, rve_pluginloader, tf2, nav_msgs, sensor_msgs]
