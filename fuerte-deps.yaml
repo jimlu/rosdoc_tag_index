@@ -46,7 +46,7 @@ bfl: [cppunit]
 bfl_eigen: [eigen]
 biorob_common: [ros, xacro, robot_model, pr2_simulator]
 biorob_description: [urdf, xacro]
-biorob_gazebo: [biorob_description, gazebo, gazebo_tools, pr2_gazebo_plugins]
+biorob_gazebo: [gazebo_tools, gazebo, pr2_gazebo_plugins, biorob_description]
 bond: [roslib]
 bond_core: [ros, ros_comm]
 bondcpp: [uuid, smclib, roscpp, bond]
@@ -125,7 +125,7 @@ convex_decomposition: [unzip]
 costmap_2d: [rosconsole, roscpp, std_msgs, geometry_msgs, sensor_msgs, laser_geometry,
   tf, voxel_grid, nav_msgs, visualization_msgs, rosbag, map_server, pcl_ros, dynamic_reconfigure,
   common_rosdeps, pcl, eigen]
-cpp_introspection: [rosconsole, rostime, roscpp_traits, roscpp_serialization, rosbuild]
+cpp_introspection: [roscpp_traits, rosconsole, rostime, roscpp_serialization, rosbuild]
 database_interface: [roscpp, common_rosdeps, libpq-dev, yaml-cpp]
 default_cfg_fkie: [rospy, roslib, roslaunch]
 dhd32_driver: [roscpp, dhd32_wrapper, telekyb_base, tk_haptics_base]
@@ -172,69 +172,67 @@ halfsteps_pattern_generator: [common_rosdeps, rospy, bullet, walk_interfaces, wa
   visualization_msgs, angles, boost, eigen]
 head_monitor_msgs: [actionlib_msgs, arm_navigation_msgs]
 hector_common: [common_msgs, geometry, ros, ros_comm]
-hector_compressed_map_transport: [image_transport, nav_msgs, cv_bridge, opencv2, hector_map_tools,
-  sensor_msgs, geometry_msgs, eigen]
+hector_compressed_map_transport: [nav_msgs, hector_map_tools, eigen, sensor_msgs,
+  image_transport, opencv2, geometry_msgs, cv_bridge]
 hector_gazebo: [common_msgs, driver_common, image_common, nodelet_core, perception_pcl,
   ros, ros_comm, simulator_gazebo]
-hector_gazebo_plugins: [roscpp, gazebo, std_msgs, geometry_msgs, nav_msgs]
-hector_gazebo_thermal_camera: [nodelet, pcl_ros, gazebo, image_transport, dynamic_reconfigure,
-  driver_base, gazebo_plugins]
-hector_gazebo_worlds: [gazebo, hector_gazebo_plugins]
-hector_geotiff: [nav_msgs, std_msgs, roscpp, hector_map_tools, hector_nav_msgs, pluginlib,
+hector_gazebo_plugins: [nav_msgs, std_msgs, geometry_msgs, gazebo, roscpp]
+hector_gazebo_thermal_camera: [dynamic_reconfigure, nodelet, image_transport, driver_base,
+  gazebo_plugins, gazebo, pcl_ros]
+hector_gazebo_worlds: [hector_gazebo_plugins, gazebo]
+hector_geotiff: [nav_msgs, hector_map_tools, roscpp, pluginlib, std_msgs, hector_nav_msgs,
   libqt4-dev, eigen]
-hector_imu_attitude_to_tf: [roscpp, tf]
-hector_interactive_marker_pose_server: [roscpp, visualization_msgs, geometry_msgs,
-  interactive_markers]
-hector_laserscan_to_pointcloud: [roscpp, laser_geometry]
+hector_imu_attitude_to_tf: [tf, roscpp]
+hector_interactive_marker_pose_server: [interactive_markers, geometry_msgs, roscpp,
+  visualization_msgs]
+hector_laserscan_to_pointcloud: [laser_geometry, roscpp]
 hector_localization: [common_msgs, geometry, hector_common, nodelet_core, ros, ros_comm]
-hector_map_server: [nav_msgs, hector_map_tools, hector_marker_drawing, hector_nav_msgs,
-  tf]
+hector_map_server: [nav_msgs, tf, hector_map_tools, hector_nav_msgs, hector_marker_drawing]
 hector_map_tools: [nav_msgs, eigen]
-hector_mapping: [roscpp, nav_msgs, visualization_msgs, tf, message_filters, laser_geometry,
-  tf_conversions, eigen]
-hector_marker_drawing: [visualization_msgs, roscpp, eigen]
+hector_mapping: [nav_msgs, laser_geometry, roscpp, message_filters, visualization_msgs,
+  tf, tf_conversions, eigen]
+hector_marker_drawing: [eigen, roscpp, visualization_msgs]
 hector_models: [ros]
 hector_nav_msgs: [nav_msgs, geometry_msgs]
 hector_nist_arena_elements: [gazebo]
 hector_nist_arena_worlds: [hector_nist_arena_elements]
 hector_nist_arenas_gazebo: [ros]
-hector_pose_estimation: [hector_pose_estimation_core, nodelet, sensor_msgs, geometry_msgs,
-  nav_msgs, tf, message_filters]
-hector_pose_estimation_core: [roscpp, bfl_eigen, sensor_msgs, geometry_msgs, nav_msgs,
+hector_pose_estimation: [nav_msgs, message_filters, sensor_msgs, geometry_msgs, hector_pose_estimation_core,
+  tf, nodelet]
+hector_pose_estimation_core: [bfl_eigen, nav_msgs, roscpp, sensor_msgs, geometry_msgs,
   tf, eigen]
-hector_pose_estimation_rtt: [hector_pose_estimation_core, rtt_rosnode, rtt_sensor_msgs,
-  rtt_geometry_msgs, rtt_nav_msgs]
+hector_pose_estimation_rtt: [rtt_nav_msgs, rtt_geometry_msgs, rtt_rosnode, hector_pose_estimation_core,
+  rtt_sensor_msgs]
 hector_quadrotor: [common_msgs, hector_common, hector_gazebo, hector_models, ros,
   ros_comm, simulator_gazebo]
 hector_quadrotor_apps: [hector_quadrotor, hector_slam]
-hector_quadrotor_controller: [roscpp, gazebo, geometry_msgs, sensor_msgs, nav_msgs,
-  hector_uav_msgs]
-hector_quadrotor_demo: [hector_quadrotor_gazebo, hector_gazebo_worlds, hector_mapping,
-  hector_geotiff, hector_trajectory_server]
+hector_quadrotor_controller: [nav_msgs, roscpp, hector_uav_msgs, sensor_msgs, geometry_msgs,
+  gazebo]
+hector_quadrotor_demo: [hector_gazebo_worlds, hector_quadrotor_gazebo, hector_geotiff,
+  hector_trajectory_server, hector_mapping]
 hector_quadrotor_experimental: [ros, hector_quadrotor, ethzasl_ptam]
-hector_quadrotor_gazebo: [gazebo_plugins, hector_gazebo_plugins, hector_sensors_gazebo,
-  hector_quadrotor_gazebo_plugins, hector_quadrotor_controller, message_to_tf]
-hector_quadrotor_gazebo_plugins: [roscpp, gazebo, hector_gazebo_plugins, geometry_msgs,
+hector_quadrotor_gazebo: [hector_quadrotor_gazebo_plugins, message_to_tf, hector_gazebo_plugins,
+  hector_quadrotor_controller, gazebo_plugins, hector_sensors_gazebo]
+hector_quadrotor_gazebo_plugins: [hector_gazebo_plugins, geometry_msgs, gazebo, roscpp,
   hector_uav_msgs]
-hector_quadrotor_ptam: [ptam, hector_nist_arena_worlds, hector_quadrotor_gazebo]
-hector_quadrotor_teleop: [roscpp, sensor_msgs, geometry_msgs]
+hector_quadrotor_ptam: [hector_quadrotor_gazebo, hector_nist_arena_worlds, ptam]
+hector_quadrotor_teleop: [geometry_msgs, sensor_msgs, roscpp]
 hector_quadrotor_urdf: [hector_sensors_description]
-hector_rgbd_test_gazebo: [gazebo, xacro, hector_sensors_gazebo, hector_xacro_tools]
+hector_rgbd_test_gazebo: [xacro, gazebo, hector_sensors_gazebo, hector_xacro_tools]
 hector_sandbox: [ros]
-hector_sensors_gazebo: [hector_sensors_description, gazebo_plugins, hector_gazebo_plugins]
+hector_sensors_gazebo: [hector_gazebo_plugins, gazebo_plugins, hector_sensors_description]
 hector_slam: [ros, common_msgs, geometry, ros_comm, laser_pipeline, image_common,
   hector_common, vision_opencv]
-hector_slam_launch: [hector_mapping, hector_map_server, hector_trajectory_server,
-  hector_geotiff]
-hector_trajectory_server: [hector_nav_msgs, nav_msgs, hector_map_tools, tf]
+hector_slam_launch: [hector_geotiff, hector_trajectory_server, hector_mapping, hector_map_server]
+hector_trajectory_server: [nav_msgs, tf, hector_map_tools, hector_nav_msgs]
 hector_turtlebot: [ros]
-hector_turtlebot_description: [turtlebot_description, hector_sensors_description]
+hector_turtlebot_description: [hector_sensors_description, turtlebot_description]
 hector_turtlebot_gazebo: [hector_turtlebot_description, hector_turtlebot_scan_filter,
-  turtlebot_gazebo, turtlebot_gazebo_plugins, pointcloud_to_laserscan]
+  pointcloud_to_laserscan, turtlebot_gazebo, turtlebot_gazebo_plugins]
 hector_turtlebot_scan_filter: [sensor_msgs]
 hector_uav_msgs: [geometry_msgs]
 hector_ugv_common: [ros]
-hector_ugv_description: [hector_sensors_description, hector_xacro_tools]
+hector_ugv_description: [hector_xacro_tools, hector_sensors_description]
 hector_ugv_gazebo: [hector_ugv_description]
 hector_worldmodel: [common_msgs, geometry, hector_common, hector_slam, ros, ros_comm,
   vision_opencv]
@@ -340,8 +338,8 @@ nodelet_core: [bond_core, dynamic_reconfigure, pluginlib, ros, ros_comm]
 nodelet_topic_tools: [nodelet, roscpp, message_filters, dynamic_reconfigure, rospy,
   std_msgs]
 nodelet_tutorial_math: [nodelet, roscpp, std_msgs]
-object_tracker: [roscpp, tf, tf_conversions, image_geometry, worldmodel_msgs, hector_nav_msgs,
-  hector_marker_drawing, eigen]
+object_tracker: [image_geometry, worldmodel_msgs, roscpp, hector_nav_msgs, hector_marker_drawing,
+  tf, tf_conversions, eigen]
 occupancy_grid_utils: [nav_msgs, geometry_msgs, tf, sensor_msgs, roscpp, laser_geometry,
   bullet, rospy, map_server]
 odometry_publisher_tutorial: [nav_msgs, tf, roscpp]
@@ -438,12 +436,12 @@ rosjs: [ros]
 roslaunch: [python-yaml, python-paramiko]
 roslib: [python, boost]
 roslisp: [roslang]
-rosmatlab: [roscpp, cpp_introspection, rosbuild]
+rosmatlab: [rosbuild, cpp_introspection, roscpp]
 rosmatlab_common_msgs: [rosmatlab, std_msgs]
 rosparam: [python-yaml]
 rosproxy: [rospy, rosgraph, roslib, rosservice, rostopic]
 rospy: [roslang]
-rosrtw: [rosmatlab, rosbuild]
+rosrtw: [rosbuild, rosmatlab]
 rosrtw_examples: [rosrtw]
 rosserial: [common_msgs, geometry, ros, ros_comm]
 rosserial_adk_demo: [sensor_msgs, std_msgs, rosserial_adk_demo_msgs, rosserial_arduino,
@@ -667,8 +665,8 @@ visualization_msgs: [std_msgs, geometry_msgs]
 voxel_grid: [rosconsole]
 vrmagic_camera: [ros]
 vrmagic_devkit_wrapper: [roscpp]
-vrmagic_multi_driver: [roscpp, image_transport, sensor_msgs, stereo_msgs, driver_base,
-  vrmagic_devkit_wrapper]
+vrmagic_multi_driver: [roscpp, stereo_msgs, sensor_msgs, vrmagic_devkit_wrapper, image_transport,
+  driver_base]
 walk_interfaces: [common_rosdeps, boost, eigen, yaml-cpp]
 walk_msgs: [roscpp, rospy, common_rosdeps, bullet, geometry_msgs, nav_msgs, walk_interfaces,
   visualization_msgs, angles, boost, eigen]
@@ -689,7 +687,7 @@ worldmodel: [common, common_msgs, continuous_ops, driver_common, geometry, image
   navigation, nodelet_core, openni_kinect, perception_pcl, pr2_common_actions, pr2_controllers,
   ros, ros_comm, vision_opencv, warehousewg]
 worldmodel_geotiff_plugins: [hector_geotiff, worldmodel_msgs]
-worldmodel_msgs: [sensor_msgs, geometry_msgs]
+worldmodel_msgs: [geometry_msgs, sensor_msgs]
 worldmodel_ops: [continuous_ops_task_manager]
 wxPython_swig_interface: [wxpython]
 xacro: [rostest, rosbuild]
