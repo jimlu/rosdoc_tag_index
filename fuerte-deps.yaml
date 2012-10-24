@@ -565,7 +565,7 @@ tf2_msgs: [geometry_msgs, actionlib_msgs]
 tf2_ros: [tf2, tf2_msgs, roscpp, rospy, geometry_msgs, std_msgs, actionlib, actionlib_msgs,
   rosgraph, message_filters]
 tf2_tools: [tf2_msgs, tf2, tf2_ros]
-tf2_visualization: [tf2_msgs, tf2, tf2_ros, xdot, rxbag]
+tf2_visualization: [xdot, rxbag, tf2_msgs, tf2_ros, tf2]
 tf_broadcast_server: [tf, geometry_msgs]
 tf_conversions: [tf, kdl, geometry_msgs, eigen]
 tf_tools: [tf]
@@ -602,7 +602,7 @@ trajectory_filter_server: [filters, roscpp, trajectory_msgs, arm_navigation_msgs
 tts_server: [rospy, festival-extra]
 turtle_actionlib: [roscpp, std_msgs, rosconsole, actionlib, actionlib_msgs, turtlesim,
   angles]
-turtle_tf: [roscpp, rospy, turtlesim, tf]
+turtle_tf: [tf, turtlesim, rospy, roscpp]
 turtlebot: [common_msgs, driver_common, geometry, image_transport_plugins, joystick_drivers,
   multimaster_experimental, nodelet_core, openni_kinect, orocos_kinematics_dynamics,
   perception_pcl, robot_model, ros, ros_comm, xacro]
