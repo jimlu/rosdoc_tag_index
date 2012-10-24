@@ -127,7 +127,7 @@ costmap_2d: [rosconsole, roscpp, std_msgs, geometry_msgs, sensor_msgs, laser_geo
   tf, voxel_grid, nav_msgs, visualization_msgs, rosbag, map_server, pcl_ros, dynamic_reconfigure,
   common_rosdeps, pcl, eigen]
 cpp_introspection: [roscpp_traits, rosconsole, rostime, roscpp_serialization, rosbuild]
-database_interface: [roscpp, common_rosdeps, libpq-dev, yaml-cpp]
+database_interface: [yaml-cpp, common_rosdeps, roscpp, libpq-dev]
 default_cfg_fkie: [rospy, roslib, roslaunch]
 dhd32_driver: [tk_haptics_base, dhd32_wrapper, roscpp, telekyb_base]
 dhd_driver: [tf, telekyb_msgs, telekyb_defines, roscpp, dhd_wrapper]
@@ -279,6 +279,8 @@ laser_geometry: [sensor_msgs, roscpp, tf, angles, common_rosdeps, eigen]
 laser_pipeline: [common_msgs, common_rosdeps, filters, geometry, perception_pcl, pluginlib,
   ros, ros_comm]
 laser_scan_publisher_tutorial: [sensor_msgs, roscpp]
+laser_slam_mapper: [roscpp, topological_map_2d, mongo_roscpp, octomap_ros, pcl, visualization_msgs,
+  tf, laser_slam]
 launch_tools: [roslib, rospy]
 libfreenect: [git, cmake, glut, libusb-1.0-dev, libxi-dev, libxmu-dev, pkg-config]
 libpcan: [linux-headers-generic, libpopt-dev]
@@ -337,6 +339,11 @@ navigation_experimental: [common, common_msgs, filters, geometry, navigation, pl
 navigation_stage: [move_base, map_server, gmapping, amcl, fake_localization, stage]
 navigation_tutorials: [common, common_msgs, geometry, navigation, ros, ros_comm, slam_gmapping,
   stage]
+netft: [common_msgs, diagnostics, pr2_ethercat_drivers, pr2_mechanism, ros, ros_comm]
+netft_ethercat_hardware: [netft_rdt_driver, geometry_msgs, roscpp, ethercat_hardware,
+  realtime_tools]
+netft_example_controllers: [roscpp, ethercat_hardware, pr2_controller_interface]
+netft_rdt_driver: [diagnostic_updater, geometry_msgs, roscpp, diagnostic_msgs]
 nite: [openni, nite-dev, ps-engine]
 nmea_gps_driver: [sensor_msgs, std_msgs, rospy, geometry_msgs, python-serial]
 node_manager_fkie: [rospy, roslib, rosgraph, roslaunch, rosservice, dynamic_reconfigure,
@@ -620,6 +627,12 @@ tk_trajctrl: [roscpp, telekyb_base, tk_param_estimator, tk_state, telekyb_msgs, 
   telekyb_defines]
 tk_trajprocessor: [roscpp, telekyb_base, pluginlib, tk_state, telekyb_msgs, tk_obstacle,
   tk_trajctrl, telekyb_defines, telekyb_srvs]
+topological_map_2d: [topological_nav_msgs, roscpp, graph_mapping_utils]
+topological_nav_msgs: [nav_msgs, geometry_msgs]
+topological_navigation: [common, common_msgs, geometry, graph_mapping, navigation,
+  ros, ros_comm, warehousewg]
+topological_roadmap: [navfn, costmap_2d, occupancy_grid_utils, actionlib, topological_nav_msgs,
+  topological_map_2d, graph_mapping_utils, mongo_roscpp, visualization_msgs, move_base_msgs]
 trajectory_execution_monitor: [arm_navigation_msgs, control_msgs, actionlib, pr2_controllers_msgs,
   planning_environment]
 trajectory_filter_server: [filters, roscpp, trajectory_msgs, arm_navigation_msgs,
@@ -698,6 +711,7 @@ walk_msgs: [roscpp, rospy, common_rosdeps, bullet, geometry_msgs, nav_msgs, walk
 walk_tools: [rospy, geometry_msgs, sensor_msgs, message_filters, diagnostic_aggregator,
   diagnostic_updater, urdf_parser_py]
 warehousewg: [common_msgs, geometry, ros, ros_comm]
+wg_common: [ros, langs, langs-dev]
 wg_flirtlib: [flirtlib_ros]
 wg_pr2_2dnav: [willow_maps, map_server, pr2_navigation_global, pr2_navigation_perception,
   pr2_navigation_teleop, pr2_machine]
@@ -707,6 +721,7 @@ wge100_camera: [self_test, dynamic_reconfigure, timestamp_tools, roscpp, driver_
 wge100_camera_firmware: [gforth, rostest, rospy]
 wge100_driver: [common_msgs, diagnostics, driver_common, dynamic_reconfigure, image_common,
   ros, ros_comm]
+willow_maps: [langs, langs-dev]
 worldmodel: [common, common_msgs, continuous_ops, driver_common, geometry, image_common,
   navigation, nodelet_core, openni_kinect, perception_pcl, pr2_common_actions, pr2_controllers,
   ros, ros_comm, vision_opencv, warehousewg]
