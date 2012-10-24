@@ -335,10 +335,10 @@ nmea_gps_driver: [sensor_msgs, std_msgs, rospy, geometry_msgs, python-serial]
 node_manager_fkie: [rospy, roslib, rosgraph, roslaunch, rosservice, dynamic_reconfigure,
   master_discovery_fkie, default_cfg_fkie, python-pyside, python-paramiko, python-psutil,
   pyside-tools, python-pyside.qtuitools, screen, xterm]
-nodelet: [pluginlib, roscpp, rospy, bondcpp, uuid]
+nodelet: [uuid, bondcpp, rospy, roscpp, pluginlib]
 nodelet_core: [bond_core, dynamic_reconfigure, pluginlib, ros, ros_comm]
-nodelet_topic_tools: [nodelet, roscpp, message_filters, dynamic_reconfigure, rospy,
-  std_msgs]
+nodelet_topic_tools: [dynamic_reconfigure, roscpp, message_filters, std_msgs, rospy,
+  nodelet]
 nodelet_tutorial_math: [nodelet, roscpp, std_msgs]
 object_tracker: [roscpp, tf, tf_conversions, image_geometry, worldmodel_msgs, hector_nav_msgs,
   hector_marker_drawing, eigen]
@@ -548,7 +548,7 @@ telekyb_utils: [common_msgs, ros, ros_comm, telekyb_common]
 telekyb_vicon: [roscpp, tf, geometry_msgs, telekyb_msgs, telekyb_base, viconsdk_wrapper]
 telekyb_vrpn: [roscpp, telekyb_base, tf, vrpn_wrapper]
 test_bond: [rostest, bondpy, bondcpp, bond]
-test_nodelet: [nodelet, std_msgs, rostest, pluginlib]
+test_nodelet: [std_msgs, rostest, nodelet, pluginlib]
 test_osm: [osm_cartography, route_network, geodesy, geographic_msgs]
 test_rospy: [python-numpy]
 test_rve: [roscpp, rosconsole, eigen, rve_msgs, rve_common, rve_interfaces, rve_interface_gen,
