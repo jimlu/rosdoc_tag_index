@@ -105,6 +105,8 @@ robot_model_tutorials: [urdf_tutorial]
 robot_model_visualization: [joint_state_publisher]
 ros: [rosmake, rosboost_cfg, rosbash, roslib, roscreate, mk, rosbuild, rosclean, rosunit,
   roslang]
+ros_applications: [application_client, dummy_applications, application_manager, application_msgs,
+  ui_preempter, ui_responder]
 ros_comm: [rosconsole, test_roscpp_serialization, rosgraph, test_roscpp_serialization_perf,
   test_ros, test_rostime, roscpp, rosparam, rosout, test_crosspackage, topic_tools,
   rostest, rostopic, test_rospy, roswtf, rosgraph_msgs, roslisp, message_filters,
