@@ -385,6 +385,8 @@ pose_follower: [nav_core, base_local_planner, costmap_2d, roscpp, tf, nav_msgs, 
 pr2_biolab_gazebo_demo: [roscpp, gazebo_worlds, robot_state_publisher, pr2_common_action_msgs,
   joint_trajectory_action, geometry_msgs, tf, pr2_tuckarm, biolab_description, pr2_controllers_msgs,
   gazebo, actionlib, kinematics_msgs, pr2_gazebo]
+pr2_common_alpha: [common_msgs, joystick_drivers, robot_model, ros, ros_comm, xacro]
+pr2_defs: [convex_decomposition, ivcon, urdf, xacro]
 pr2_make_a_map_app: [pr2_position_scripts, gmapping, tf, mongodb, topic_tools, map_store]
 pr2_pan_tilt: [geometry_msgs, pr2_controllers_msgs, topic_tools, actionlib, rospy,
   tf]
@@ -412,7 +414,7 @@ robot_model: [common_msgs, common_rosdeps, geometry, orocos_kinematics_dynamics,
 robot_model_py: [ros, ros_comm]
 robot_model_tutorials: [ros]
 robot_model_visualization: [common_msgs, ros, ros_comm]
-robot_monitor: [rospy, diagnostic_msgs, rxbag, wxwidgets, wxpython]
+robot_monitor: [rxbag, wxpython, rospy, diagnostic_msgs, wxwidgets]
 robot_pose_ekf: [roscpp, rosbag, bfl, std_msgs, geometry_msgs, sensor_msgs, nav_msgs,
   tf]
 robot_pose_publisher: [roscpp, tf, geometry_msgs]
@@ -468,7 +470,7 @@ rotate_recovery: [roscpp, nav_core, tf, costmap_2d, geometry_msgs, base_local_pl
   pluginlib, angles, common_rosdeps, eigen]
 route_network: [dynamic_reconfigure, geodesy, geographic_msgs, geometry_msgs, nav_msgs,
   rospy, visualization_msgs]
-runtime_monitor: [rospy, diagnostic_msgs, rxbag, wxwidgets, wxpython]
+runtime_monitor: [rxbag, wxpython, rospy, diagnostic_msgs, wxwidgets]
 rve_common: [rve_msgs, roslib, eigen]
 rve_common_transformers: [roscpp, rve_properties, rve_render_client, rve_transformer,
   rve_common, rve_pluginloader, tf2, nav_msgs, sensor_msgs]
@@ -552,6 +554,7 @@ telekyb_utils: [common_msgs, ros, ros_comm, telekyb_common]
 telekyb_vicon: [roscpp, telekyb_base, telekyb_msgs, viconsdk_wrapper, geometry_msgs,
   tf]
 telekyb_vrpn: [tf, vrpn_wrapper, roscpp, telekyb_base]
+teleop_head: [joy, trajectory_msgs, sensor_msgs, roscpp]
 test_bond: [rostest, bondpy, bondcpp, bond]
 test_nodelet: [std_msgs, rostest, nodelet, pluginlib]
 test_osm: [osm_cartography, route_network, geodesy, geographic_msgs]
@@ -683,10 +686,9 @@ wg_flirtlib: [flirtlib_ros]
 wg_pr2_2dnav: [willow_maps, map_server, pr2_navigation_global, pr2_navigation_perception,
   pr2_navigation_teleop, pr2_machine]
 wg_pr2_apps: [navigation, pr2_common, pr2_navigation, ros, wg_common]
-wge100_camera: [rostest, roscpp, rospy, std_msgs, sensor_msgs, diagnostic_updater,
-  driver_base, self_test, dynamic_reconfigure, camera_calibration_parsers, timestamp_tools,
-  image_transport]
-wge100_camera_firmware: [rostest, rospy, gforth]
+wge100_camera: [self_test, dynamic_reconfigure, timestamp_tools, roscpp, driver_base,
+  std_msgs, sensor_msgs, image_transport, diagnostic_updater, rostest, rospy, camera_calibration_parsers]
+wge100_camera_firmware: [gforth, rostest, rospy]
 wge100_driver: [common_msgs, diagnostics, driver_common, dynamic_reconfigure, image_common,
   ros, ros_comm]
 worldmodel: [common, common_msgs, continuous_ops, driver_common, geometry, image_common,
