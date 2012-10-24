@@ -272,7 +272,7 @@ laser_filters: [sensor_msgs, roscpp, tf, filters, message_filters, laser_geometr
 laser_geometry: [sensor_msgs, roscpp, tf, angles, common_rosdeps, eigen]
 laser_pipeline: [common_msgs, common_rosdeps, filters, geometry, perception_pcl, pluginlib,
   ros, ros_comm]
-laser_scan_publisher_tutorial: [roscpp, sensor_msgs]
+laser_scan_publisher_tutorial: [sensor_msgs, roscpp]
 launch_tools: [rospy, roslib]
 libpcan: [linux-headers-generic, libpopt-dev]
 libphidgets: [libusb-dev]
@@ -327,7 +327,7 @@ navigation: [actionlib, bfl, common_msgs, common_rosdeps, dynamic_reconfigure, g
   laser_pipeline, perception_pcl, pluginlib, ros, ros_comm]
 navigation_experimental: [common, common_msgs, filters, geometry, navigation, pluginlib,
   pr2_controllers, ros, ros_comm, common_rosdeps]
-navigation_stage: [move_base, stage, amcl, map_server, fake_localization, gmapping]
+navigation_stage: [move_base, map_server, gmapping, amcl, fake_localization, stage]
 navigation_tutorials: [common, common_msgs, geometry, navigation, ros, ros_comm, slam_gmapping,
   stage]
 nite: [openni, nite-dev, ps-engine]
@@ -344,7 +344,7 @@ object_tracker: [roscpp, tf, tf_conversions, image_geometry, worldmodel_msgs, he
   hector_marker_drawing, eigen]
 occupancy_grid_utils: [nav_msgs, geometry_msgs, tf, sensor_msgs, roscpp, laser_geometry,
   bullet, rospy, map_server]
-odometry_publisher_tutorial: [roscpp, nav_msgs, tf]
+odometry_publisher_tutorial: [nav_msgs, tf, roscpp]
 ogre_tools_qt: [ogre, rosconsole, roslib]
 ompl_ros_interface: [sensor_msgs, planning_models, planning_environment, arm_navigation_msgs,
   kinematics_base, pluginlib, ompl]
@@ -373,7 +373,7 @@ planning_environment: [roscpp, rosconsole, rosbag, actionlib_msgs, actionlib, tf
 planning_models: [urdf, rosconsole, geometric_shapes, bullet, angles, pkg-config]
 pluginlib: [roslib, rosconsole, tinyxml]
 pluginlib_tutorials: [pluginlib, roscpp]
-point_cloud_publisher_tutorial: [roscpp, sensor_msgs]
+point_cloud_publisher_tutorial: [sensor_msgs, roscpp]
 pointcloud_to_laserscan: [nodelet, sensor_msgs, pcl_ros, dynamic_reconfigure]
 pose_base_controller: [actionlib, move_base_msgs, nav_msgs, roscpp, tf, geometry_msgs]
 pose_follower: [nav_core, base_local_planner, costmap_2d, roscpp, tf, nav_msgs, pluginlib]
@@ -413,7 +413,7 @@ robot_pose_ekf: [roscpp, rosbag, bfl, std_msgs, geometry_msgs, sensor_msgs, nav_
 robot_pose_publisher: [roscpp, tf, geometry_msgs]
 robot_self_filter: [roscpp, tf, filters, sensor_msgs, visualization_msgs, geometric_shapes,
   urdf, resource_retriever, shape_msgs, pcl, assimp, pkg-config]
-robot_setup_tf_tutorial: [roscpp, tf, geometry_msgs]
+robot_setup_tf_tutorial: [tf, geometry_msgs, roscpp]
 robot_state_publisher: [kdl_parser, sensor_msgs, roscpp, tf, tf_conversions]
 romeo: [ros]
 rosbag: [python-imaging, bzip2]
@@ -504,7 +504,7 @@ serial_communication: [ros, ros_comm]
 settlerlib: [roscpp, calibration_msgs]
 shape_msgs: [geometry_msgs, std_msgs]
 simmechanics_to_urdf: [rospy, sensor_msgs, tf, python-yaml]
-simple_navigation_goals_tutorial: [move_base_msgs, actionlib, roscpp, tf]
+simple_navigation_goals_tutorial: [move_base_msgs, tf, actionlib, roscpp]
 simple_object_capture: [pcl, roscpp, sensor_msgs, message_filters, dynamic_reconfigure,
   opencv2, cv_bridge, rosbag, image_geometry]
 slam_gmapping: [common_msgs, geometry, navigation, ros, ros_comm]
