@@ -502,7 +502,7 @@ semanticmodel: [sensor_msgs, std_srvs, pcl16_ros, flann, pcl16, nodelet, visuali
 sensor_msgs: [geometry_msgs]
 serial_communication: [ros, ros_comm]
 settlerlib: [roscpp, calibration_msgs]
-shape_msgs: [std_msgs, geometry_msgs]
+shape_msgs: [geometry_msgs, std_msgs]
 simmechanics_to_urdf: [rospy, sensor_msgs, tf, python-yaml]
 simple_navigation_goals_tutorial: [move_base_msgs, actionlib, roscpp, tf]
 simple_object_capture: [pcl, roscpp, sensor_msgs, message_filters, dynamic_reconfigure,
@@ -661,7 +661,7 @@ visualization_engine: [common, common_msgs, geometry, laser_pipeline, robot_mode
   ros, visualization_common, image_common]
 visualization_experimental: [common_msgs, common_rosdeps, geometry, image_common,
   laser_pipeline, pluginlib, robot_model, ros, ros_comm, visualization, visualization_common]
-visualization_msgs: [geometry_msgs, std_msgs]
+visualization_msgs: [std_msgs, geometry_msgs]
 voxel_grid: [rosconsole]
 vrmagic_camera: [ros]
 vrmagic_devkit_wrapper: [roscpp]
