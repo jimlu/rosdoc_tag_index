@@ -446,8 +446,9 @@ rospy: [roslang]
 rosrtw: [rosmatlab, rosbuild]
 rosrtw_examples: [rosrtw]
 rosserial: [common_msgs, geometry, ros, ros_comm]
-rosserial_adk_demo: [rosserial_arduino, std_msgs, sensor_msgs, geometry_msgs, rosserial_adk_demo_msgs]
-rosserial_android: [rosjava, rosserial_java, std_msgs, sensor_msgs, nav_msgs, rosserial_msgs,
+rosserial_adk_demo: [sensor_msgs, std_msgs, rosserial_adk_demo_msgs, rosserial_arduino,
+  geometry_msgs]
+rosserial_android: [nav_msgs, rosserial_java, std_msgs, sensor_msgs, rosjava, rosserial_msgs,
   android]
 rosserial_arduino: [std_msgs, sensor_msgs, geometry_msgs, nav_msgs, rosserial_client,
   gcc-avr, avr-libc]
