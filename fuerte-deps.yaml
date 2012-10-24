@@ -350,8 +350,8 @@ ompl_ros_interface: [sensor_msgs, planning_models, planning_environment, arm_nav
   kinematics_base, pluginlib, ompl]
 open_street_map: [common_msgs, driver_common, geographic_info, geometry, ros, ros_comm]
 openni: [openni-dev]
-openni_camera: [camera_info_manager, dynamic_reconfigure, image_transport, nodelet,
-  roscpp, sensor_msgs, libusb-1.0-dev, openni-dev, ps-engine]
+openni_camera: [dynamic_reconfigure, openni-dev, roscpp, ps-engine, camera_info_manager,
+  sensor_msgs, image_transport, libusb-1.0-dev, nodelet]
 openni_camera_deprecated: [openni_camera, camera_info_manager, dynamic_reconfigure,
   image_transport, nodelet, roscpp, sensor_msgs, common_rosdeps, pcl, pcl_ros, stereo_msgs,
   tf, eigen]
