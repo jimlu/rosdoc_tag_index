@@ -442,6 +442,13 @@ ros-fuerte-navigation-tutorials:
   package: laser_scan_publisher_tutorial}
 - {docs_url: ../../../api/simple_navigation_goals_tutorial/html, location: 'http://ros.org/rosdoclite/fuerte/api/simple_navigation_goals_tutorial/tags/simple_navigation_goals_tutorial.tag',
   package: simple_navigation_goals_tutorial}
+ros-fuerte-netft:
+- {docs_url: ../../../api/netft_rdt_driver/html, location: 'http://ros.org/rosdoclite/fuerte/api/netft_rdt_driver/tags/netft_rdt_driver.tag',
+  package: netft_rdt_driver}
+- {docs_url: ../../../api/netft_ethercat_hardware/html, location: 'http://ros.org/rosdoclite/fuerte/api/netft_ethercat_hardware/tags/netft_ethercat_hardware.tag',
+  package: netft_ethercat_hardware}
+- {docs_url: ../../../api/netft_example_controllers/html, location: 'http://ros.org/rosdoclite/fuerte/api/netft_example_controllers/tags/netft_example_controllers.tag',
+  package: netft_example_controllers}
 ros-fuerte-nmea-gps-driver:
 - {docs_url: ../../../api/nmea_gps_driver/html, location: 'http://ros.org/rosdoclite/fuerte/api/nmea_gps_driver/tags/nmea_gps_driver.tag',
   package: nmea_gps_driver}
@@ -635,10 +642,10 @@ ros-fuerte-slam-gmapping:
 - {docs_url: ../../../api/gmapping/html, location: 'http://ros.org/rosdoclite/fuerte/api/gmapping/tags/gmapping.tag',
   package: gmapping}
 ros-fuerte-sql-database:
-- {docs_url: ../../../api/student_database/html, location: 'http://ros.org/rosdoclite/fuerte/api/student_database/tags/student_database.tag',
-  package: student_database}
 - {docs_url: ../../../api/database_interface/html, location: 'http://ros.org/rosdoclite/fuerte/api/database_interface/tags/database_interface.tag',
   package: database_interface}
+- {docs_url: ../../../api/student_database/html, location: 'http://ros.org/rosdoclite/fuerte/api/student_database/tags/student_database.tag',
+  package: student_database}
 ros-fuerte-srs-common:
 - {docs_url: ../../../api/srs_object_database_msgs/html, location: 'http://ros.org/rosdoclite/fuerte/api/srs_object_database_msgs/tags/srs_object_database_msgs.tag',
   package: srs_object_database_msgs}

@@ -80,6 +80,7 @@ navigation_experimental: [pose_base_controller, goal_passer, assisted_teleop, eb
 navigation_tutorials: [navigation_stage, roomba_stage, odometry_publisher_tutorial,
   point_cloud_publisher_tutorial, robot_setup_tf_tutorial, laser_scan_publisher_tutorial,
   simple_navigation_goals_tutorial]
+netft: [netft_rdt_driver, netft_ethercat_hardware, netft_example_controllers]
 nodelet_core: [nodelet_topic_tools, nodelet, test_nodelet]
 occupancy_grid_utils: [occupancy_grid_utils]
 openni_camera: [openni_camera]
@@ -116,8 +117,12 @@ rosserial_android: [rosserial_adk_demo, rosserial_adk_demo_msgs, rosserial_andro
 rosserial_java: [rosserial_java_node, rosserial_java]
 rx: [rxtools, rxbag, xdot, rxgraph, wxPython_swig_interface]
 simple_object_capture: [simple_object_capture]
+sql_database: [student_database, database_interface]
 srv_tools: [launch_tools, tf_tools, bag_tools]
 std_msgs: [std_msgs]
+tabletop_object_perception: [tabletop_collision_map_processing, object_recognition_gui,
+  tabletop_object_detector, active_realtime_segmentation, object_segmentation_gui,
+  fast_plane_detection]
 telekyb_algo: [tk_param_estimator, telekyb_calculus, tk_ctrlalgo]
 telekyb_behaviors: [tk_be_common]
 telekyb_common: [telekyb_msgs, telekyb_defines, tk_draft_msgs, telekyb_base, telekyb_srvs]
@@ -132,6 +137,8 @@ telekyb_main: [telekyb_core, tk_trajctrl, tk_exception, tk_state, tk_trajprocess
 telekyb_sensors: [telekyb_vrpn, telekyb_vicon]
 telekyb_swarm: [tk_formation]
 telekyb_utils: [tk_generic_killer, tk_bagtools, tk_handjoystick, tk_conversion]
+topological_navigation: [laser_slam_mapper, topological_roadmap, topological_nav_msgs,
+  topological_map_2d]
 turtlebot: [turtlebot_node, turtlebot_description, turtlebot_bringup, turtlebot_driver,
   pointcloud_to_laserscan]
 turtlebot_apps: [turtlebot_follower, turtlebot_teleop, turtlebot_calibration, turtlebot_navigation,
