@@ -136,12 +136,12 @@ driver_base: [roscpp, self_test, diagnostic_updater, dynamic_reconfigure]
 driver_common: [diagnostics, ros, dynamic_reconfigure]
 dwa_local_planner: [roscpp, tf, costmap_2d, roslib, nav_core, nav_msgs, base_local_planner,
   angles, dynamic_reconfigure, common_rosdeps, eigen]
-dynamic_reconfigure: [rospy, roscpp, rosservice, wxpython]
+dynamic_reconfigure: [wxpython, rosservice, rospy, roscpp]
 eband_local_planner: [roscpp, pluginlib, nav_core, costmap_2d, base_local_planner,
   nav_msgs, geometry_msgs, visualization_msgs, tf, tf_conversions, angles, control_toolbox,
   actionlib, eigen, tinyxml]
 eigen: [eigen]
-eigen_conversions: [geometry_msgs, kdl, tf, eigen]
+eigen_conversions: [kdl, tf, geometry_msgs, eigen]
 ethzasl_xsens_driver: [common_msgs, geometry, gps_umd, ros, ros_comm]
 executive_smach: [actionlib, common_msgs, ros, ros_comm]
 executive_smach_visualization: [executive_smach, ros, ros_comm, rx]
@@ -149,7 +149,7 @@ fake_localization: [roscpp, rosconsole, nav_msgs, geometry_msgs, tf, message_fil
   angles]
 falkor_ardrone: [joy, camera_info_manager, sensor_msgs, image_transport, opencv2,
   rospy, tf, ardrone_autonomy, cv_bridge]
-fcl: [common_rosdeps, libccd, octomap]
+fcl: [common_rosdeps, octomap, libccd]
 filters: [rosconsole, roscpp, pluginlib]
 flirtlib_features: [geometry, occupancy_grid_utils, ros, ros_comm, warehousewg, visualization]
 flirtlib_ros: [std_srvs, roscpp, occupancy_grid_utils, actionlib, interactive_markers,
@@ -282,10 +282,10 @@ mapping_rviz_plugin: [rviz, roscpp, arm_navigation_msgs, tf]
 master_discovery_fkie: [rospy, roslib, python-avahi, avahi-daemon]
 master_sync_fkie: [rospy, roslib, rosgraph, master_discovery_fkie]
 megatree: [ros]
-megatree_cpp: [megatree_core, megatree_storage, eigen, gtest]
-megatree_import: [megatree_storage, megatree_cpp]
+megatree_cpp: [megatree_core, gtest, megatree_storage, eigen]
+megatree_import: [megatree_cpp, megatree_storage]
 megatree_pcl: [pcl_ros, megatree_storage, megatree_cpp]
-megatree_server: [megatree_core, megatree_cpp, fcgi]
+megatree_server: [megatree_cpp, megatree_core, fcgi]
 megatree_storage: [megatree_core]
 megatree_web: [megatree_cpp]
 message_to_tf: [tf, nav_msgs, geometry_msgs, sensor_msgs]
@@ -555,8 +555,8 @@ test_rve: [roscpp, rosconsole, eigen, rve_msgs, rve_common, rve_interfaces, rve_
   urdf, nodelet, qt4]
 test_tf2: [rostest, tf, tf2, tf2_bullet, tf2_ros, tf2_geometry_msgs, tf2_kdl, tf2_msgs,
   roscpp, roslib]
-tf: [bullet, geometry_msgs, sensor_msgs, roscpp, rosconsole, angles, rospy, rostest,
-  roswtf, message_filters, python-numpy, graphviz]
+tf: [rosconsole, roscpp, bullet, python-numpy, sensor_msgs, graphviz, rostest, geometry_msgs,
+  angles, message_filters, rospy, roswtf]
 tf2: [geometry_msgs, tf2_msgs, rospy, roscpp]
 tf2_bullet: [tf2_ros, bullet, geometry_msgs]
 tf2_geometry_msgs: [geometry_msgs, tf2_ros, kdl]
@@ -565,7 +565,7 @@ tf2_msgs: [geometry_msgs, actionlib_msgs]
 tf2_ros: [tf2, tf2_msgs, roscpp, rospy, geometry_msgs, std_msgs, actionlib, actionlib_msgs,
   rosgraph, message_filters]
 tf2_tools: [tf2_msgs, tf2, tf2_ros]
-tf2_visualization: [tf2_msgs, tf2, tf2_ros, xdot, rxbag]
+tf2_visualization: [xdot, rxbag, tf2_msgs, tf2_ros, tf2]
 tf_broadcast_server: [tf, geometry_msgs]
 tf_conversions: [tf, kdl, geometry_msgs, eigen]
 tf_tools: [tf]
@@ -602,7 +602,7 @@ trajectory_filter_server: [filters, roscpp, trajectory_msgs, arm_navigation_msgs
 tts_server: [rospy, festival-extra]
 turtle_actionlib: [roscpp, std_msgs, rosconsole, actionlib, actionlib_msgs, turtlesim,
   angles]
-turtle_tf: [roscpp, rospy, turtlesim, tf]
+turtle_tf: [tf, turtlesim, rospy, roscpp]
 turtlebot: [common_msgs, driver_common, geometry, image_transport_plugins, joystick_drivers,
   multimaster_experimental, nodelet_core, openni_kinect, orocos_kinematics_dynamics,
   perception_pcl, robot_model, ros, ros_comm, xacro]
