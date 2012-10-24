@@ -565,7 +565,7 @@ tf2_msgs: [geometry_msgs, actionlib_msgs]
 tf2_ros: [tf2, tf2_msgs, roscpp, rospy, geometry_msgs, std_msgs, actionlib, actionlib_msgs,
   rosgraph, message_filters]
 tf2_tools: [tf2_msgs, tf2, tf2_ros]
-tf2_visualization: [tf2_msgs, tf2, tf2_ros, xdot, rxbag]
+tf2_visualization: [xdot, rxbag, tf2_msgs, tf2_ros, tf2]
 tf_broadcast_server: [tf, geometry_msgs]
 tf_conversions: [tf, kdl, geometry_msgs, eigen]
 tf_tools: [tf]
