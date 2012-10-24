@@ -720,6 +720,11 @@ ros-fuerte-universal-robot:
   package: ur5_bringup}
 - {docs_url: ../../../api/ur5_gazebo/html, location: 'http://ros.org/rosdoclite/fuerte/api/ur5_gazebo/tags/ur5_gazebo.tag',
   package: ur5_gazebo}
+ros-fuerte-visualization-common:
+- {docs_url: ../../../api/ogre/html, location: 'http://ros.org/rosdoclite/fuerte/api/ogre/tags/ogre.tag',
+  package: ogre}
+- {docs_url: ../../../api/ogre_tools/html, location: 'http://ros.org/rosdoclite/fuerte/api/ogre_tools/tags/ogre_tools.tag',
+  package: ogre_tools}
 ros-fuerte-warehousewg:
 - {docs_url: ../../../api/mongodb/html, location: 'http://ros.org/rosdoclite/fuerte/api/mongodb/tags/mongodb.tag',
   package: mongodb}
@@ -727,6 +732,25 @@ ros-fuerte-warehousewg:
   package: pymongo}
 - {docs_url: ../../../api/mongo_ros/html, location: 'http://ros.org/rosdoclite/fuerte/api/mongo_ros/tags/mongo_ros.tag',
   package: mongo_ros}
+ros-fuerte-web-interface:
+- {docs_url: ../../../api/pyclearsilver/html, location: 'http://ros.org/rosdoclite/fuerte/api/pyclearsilver/tags/pyclearsilver.tag',
+  package: pyclearsilver}
+- {docs_url: ../../../api/launchman/html, location: 'http://ros.org/rosdoclite/fuerte/api/launchman/tags/launchman.tag',
+  package: launchman}
+- {docs_url: ../../../api/web_msgs/html, location: 'http://ros.org/rosdoclite/fuerte/api/web_msgs/tags/web_msgs.tag',
+  package: web_msgs}
+- {docs_url: ../../../api/rosjson/html, location: 'http://ros.org/rosdoclite/fuerte/api/rosjson/tags/rosjson.tag',
+  package: rosjson}
+- {docs_url: ../../../api/rosweb/html, location: 'http://ros.org/rosdoclite/fuerte/api/rosweb/tags/rosweb.tag',
+  package: rosweb}
+- {docs_url: ../../../api/webui/html, location: 'http://ros.org/rosdoclite/fuerte/api/webui/tags/webui.tag',
+  package: webui}
+- {docs_url: ../../../api/ros_apache2/html, location: 'http://ros.org/rosdoclite/fuerte/api/ros_apache2/tags/ros_apache2.tag',
+  package: ros_apache2}
+- {docs_url: ../../../api/image_stream/html, location: 'http://ros.org/rosdoclite/fuerte/api/image_stream/tags/image_stream.tag',
+  package: image_stream}
+- {docs_url: ../../../api/ckill/html, location: 'http://ros.org/rosdoclite/fuerte/api/ckill/tags/ckill.tag',
+  package: ckill}
 ros-fuerte-wg-common:
 - {docs_url: ../../../api/willow_maps/html, location: 'http://ros.org/rosdoclite/fuerte/api/willow_maps/tags/willow_maps.tag',
   package: willow_maps}

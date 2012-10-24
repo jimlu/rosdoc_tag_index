@@ -155,12 +155,16 @@ turtlebot_simulator: [turtlebot_gazebo, turtlebot_gazebo_plugins]
 turtlebot_viz: [turtlebot_interactive_markers, turtlebot_dashboard]
 universal_robot: [ur5_driver, ur5_description, ur5_bringup, ur5_gazebo]
 viso2: [libviso2, viso2_ros]
+visualization_common: [ogre, ogre_tools]
 visualization_engine: [test_rve, rve_dynlib, rve_rpc, rve_properties, rve_interface_gen,
   rve_pluginloader, rve_qt, rve_render_client, rve_mesh_loader, rve_transformer, rve_common,
   rve_common_transformers, rve_msgs, rve_geometry, rve_interfaces, rve_render_server]
 visualization_experimental: [ogre_tools_qt, rviz_qt]
 vrmagic_camera: [vrmagic_multi_driver, vrmagic_devkit_wrapper]
+vslam: [bpcg, frame_common, posest, sparselib, vslam_system, sba, g2o, vocabulary_tree]
 warehousewg: [mongodb, pymongo, mongo_ros]
+web_interface: [pyclearsilver, launchman, ros_apache2, rosweb, image_stream, webui,
+  web_msgs, rosjson, ckill]
 wg_common: [willow_maps]
 wge100_driver: [wge100_camera_firmware, wge100_camera]
 worldmodel: [worldmodel_ops, semantic_model_web_interface, semanticmodel]
