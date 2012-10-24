@@ -386,8 +386,8 @@ pr2_pan_tilt: [geometry_msgs, pr2_controllers_msgs, topic_tools, actionlib, rosp
   tf]
 pr2_tabletop_manipulation_apps: [ros]
 pr2_tuck_arms_app: [rospy, trajectory_msgs, pr2_mechanism_msgs, pr2_tuck_arms_action]
-ptp_arm_action: [rospy, tf, actionlib, object_manipulator, pycontroller_manager]
-pycontroller_manager: [rospy, pr2_mechanism_msgs]
+ptp_arm_action: [tf, pycontroller_manager, actionlib, rospy, object_manipulator]
+pycontroller_manager: [pr2_mechanism_msgs, rospy]
 pymongo: [mongodb]
 pyqrnative: [python-imaging]
 rbdl: [urdf, urdf_interface, eigen, libunittest++]
@@ -397,11 +397,11 @@ rcommander_core: [ros, ros_comm, common, common_msgs, executive_smach, geometry]
 rcommander_plain: [rospy, rcommander]
 rcommander_pr2: [ros, ros_comm, common, common_msgs, geometry, navigation, arm_navigation,
   executive_smach, pr2_controllers, pr2_mechanism]
-rcommander_pr2_gui: [rospy, tf, smach, actionlib, rcommander, tts_server, geometry_msgs,
-  spline_smoother, arm_navigation_msgs, sensor_msgs, std_msgs, face_detector, move_base_msgs,
-  pr2_common_action_msgs, pr2_controllers_msgs, pr2_gripper_sensor_msgs, pr2_object_manipulation_msgs,
-  trajectory_msgs, object_manipulator, ptp_arm_action, kinematics_msgs, tf_broadcast_server,
-  face_detector]
+rcommander_pr2_gui: [arm_navigation_msgs, trajectory_msgs, spline_smoother, kinematics_msgs,
+  face_detector, actionlib, pr2_common_action_msgs, tts_server, ptp_arm_action, tf_broadcast_server,
+  tf, pr2_object_manipulation_msgs, sensor_msgs, std_msgs, pr2_gripper_sensor_msgs,
+  object_manipulator, rospy, move_base_msgs, pr2_controllers_msgs, smach, geometry_msgs,
+  rcommander]
 resource_retriever: [roslib, rosconsole, curl]
 robot_model: [common_msgs, common_rosdeps, geometry, orocos_kinematics_dynamics, ros,
   ros_comm]
