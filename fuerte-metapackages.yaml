@@ -63,6 +63,7 @@ hector_worldmodel: [object_tracker, worldmodel_msgs, worldmodel_geotiff_plugins]
 image_common: [polled_camera, camera_info_manager, image_transport, camera_calibration_parsers]
 imu_drivers: [microstrain_3dmgx2_imu]
 imu_filter: [imu_filter]
+joystick_drivers_tutorials: [turtle_teleop]
 langs: []
 megatree: [megatree_cpp, megatree_import, megatree_web, megatree_storage, megatree_core,
   megatree_server]

@@ -345,6 +345,9 @@ ros-fuerte-image-common:
 ros-fuerte-imu-drivers:
 - {docs_url: ../../../api/microstrain_3dmgx2_imu/html, location: 'http://ros.org/rosdoclite/fuerte/api/microstrain_3dmgx2_imu/tags/microstrain_3dmgx2_imu.tag',
   package: microstrain_3dmgx2_imu}
+ros-fuerte-joystick-drivers-tutorials:
+- {docs_url: ../../../api/turtle_teleop/html, location: 'http://ros.org/rosdoclite/fuerte/api/turtle_teleop/tags/turtle_teleop.tag',
+  package: turtle_teleop}
 ros-fuerte-kingfisher:
 - {docs_url: ../../../api/kingfisher_node/html, location: 'http://ros.org/rosdoclite/fuerte/api/kingfisher_node/tags/kingfisher_node.tag',
   package: kingfisher_node}
