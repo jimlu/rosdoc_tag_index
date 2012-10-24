@@ -250,7 +250,7 @@ interpolated_ik_motion_planner: [rospy, kinematics_msgs, geometry_msgs, arm_navi
 interval_intersection: [actionlib_msgs, calibration_msgs, roscpp, actionlib]
 irobot_create_2_1: [roscpp, rospy, geometry_msgs, tf, nav_msgs, python-serial]
 joint_normalization_filters: [spline_smoother, angles, filters]
-joint_state_publisher: [rospy, sensor_msgs, wxpython]
+joint_state_publisher: [sensor_msgs, wxpython, rospy]
 joint_states_settler: [roscpp, actionlib_msgs, sensor_msgs, settlerlib, calibration_msgs,
   actionlib]
 kdl_parser: [kdl, urdf, roscpp]
