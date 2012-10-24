@@ -1,0 +1,2 @@
+[common_msgs, diagnostics, driver_common, dynamic_reconfigure, image_common, ros,
+  ros_comm]
