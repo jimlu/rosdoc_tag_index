@@ -155,6 +155,11 @@ flirtlib_features: [geometry, occupancy_grid_utils, ros, ros_comm, warehousewg, 
 flirtlib_ros: [std_srvs, roscpp, occupancy_grid_utils, actionlib, interactive_markers,
   sensor_msgs, move_base_msgs, tf, flirtlib, mongo_ros]
 foreign_relay: [roscpp, xmlrpcpp, topic_tools]
+freenect_camera: [dynamic_reconfigure, roscpp, camera_info_manager, sensor_msgs, image_transport,
+  libfreenect, nodelet]
+freenect_launch: [tf, image_proc, depth_image_proc, freenect_camera, nodelet]
+freenect_stack: [common_msgs, dynamic_reconfigure, image_common, nodelet_core, ros_comm,
+  geometry]
 geometric_shapes: [bullet, rosconsole, resource_retriever, tf, assimp, pkg-config]
 geometry: [bullet, common_msgs, ros, ros_comm, orocos_kinematics_dynamics, common_rosdeps]
 geometry_experimental: [actionlib, bullet, common_msgs, geometry, orocos_kinematics_dynamics,
@@ -272,6 +277,7 @@ laser_pipeline: [common_msgs, common_rosdeps, filters, geometry, perception_pcl,
   ros, ros_comm]
 laser_scan_publisher_tutorial: [sensor_msgs, roscpp]
 launch_tools: [roslib, rospy]
+libfreenect: [git, cmake, glut, libusb-1.0-dev, libxi-dev, libxmu-dev, pkg-config]
 libpcan: [linux-headers-generic, libpopt-dev]
 libphidgets: [libusb-dev]
 map_server: [rosconsole, roscpp, rospy, nav_msgs, tf, common_rosdeps, python-imaging,
