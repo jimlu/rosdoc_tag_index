@@ -290,8 +290,8 @@ megatree_storage: [megatree_core]
 megatree_web: [megatree_cpp]
 message_to_tf: [tf, nav_msgs, geometry_msgs, sensor_msgs]
 microstrain_3dmgx2_imu: [roscpp, sensor_msgs, self_test, diagnostic_updater, tf, std_srvs]
-mongo_ros: [mongodb, pymongo, roscpp, rospy, std_msgs, geometry_msgs, tf]
-mongodb: [rospy, scons, tcsh, pcre-dev, xulrunner-dev, readline-dev]
+mongo_ros: [roscpp, mongodb, std_msgs, geometry_msgs, tf, rospy, pymongo]
+mongodb: [tcsh, xulrunner-dev, pcre-dev, scons, readline-dev, rospy]
 monocam_settler: [settlerlib, actionlib, roscpp, actionlib_msgs, calibration_msgs]
 motion_planning_rviz_plugin: [rviz, roscpp, tf, planning_models, planning_environment,
   arm_navigation_msgs]
@@ -345,7 +345,7 @@ object_tracker: [roscpp, tf, tf_conversions, image_geometry, worldmodel_msgs, he
 occupancy_grid_utils: [nav_msgs, geometry_msgs, tf, sensor_msgs, roscpp, laser_geometry,
   bullet, rospy, map_server]
 odometry_publisher_tutorial: [nav_msgs, tf, roscpp]
-ogre_tools_qt: [ogre, rosconsole, roslib]
+ogre_tools_qt: [rosconsole, roslib, ogre]
 ompl_ros_interface: [sensor_msgs, planning_models, planning_environment, arm_navigation_msgs,
   kinematics_base, pluginlib, ompl]
 open_street_map: [common_msgs, driver_common, geographic_info, geometry, ros, ros_comm]
@@ -483,11 +483,10 @@ rve_render_server: [ogre, ogre_tools, rve_common, rve_interfaces, rve_mesh_loade
 rve_rpc: [roscpp, roslib, rve_common, rve_msgs, std_msgs]
 rve_transformer: [roscpp, tf, tf2, tf2_ros, message_filters, rve_render_client, rve_interface_gen,
   rve_interfaces, rve_msgs, rve_common, rve_pluginloader, rve_properties]
-rviz_qt: [ogre, ogre_tools_qt, roscpp, rospy, rosconsole, message_filters, std_msgs,
-  std_srvs, sensor_msgs, geometry_msgs, nav_msgs, tf, laser_geometry, visualization_msgs,
-  urdf, urdf_interface, resource_retriever, image_transport, interactive_markers,
-  pluginlib, common_rosdeps, libqt4-dev, libqt4-opengl-dev, qt4-qmake, assimp, pyside,
-  yaml-cpp]
+rviz_qt: [rosconsole, ogre, pyside, interactive_markers, resource_retriever, nav_msgs,
+  laser_geometry, roscpp, libqt4-dev, qt4-qmake, yaml-cpp, visualization_msgs, tf,
+  common_rosdeps, urdf_interface, urdf, message_filters, std_msgs, sensor_msgs, libqt4-opengl-dev,
+  image_transport, assimp, rospy, std_srvs, pluginlib, ogre_tools_qt, geometry_msgs]
 rxbag: [rxtools, rosgraph, roslib, std_msgs, wxpython, rospy, rosbag, python-gtk2]
 rxgraph: [xdot, rosnode, rosgraph, rostopic]
 rxtools: [rosgraph_msgs, python-matplotlib, wxwidgets, roslib, wxPython_swig_interface,
@@ -617,24 +616,24 @@ turtlebot_apps: [common, common_msgs, common_rosdeps, geometry, image_common, jo
 turtlebot_arm: [arbotix, arm_navigation, common, common_msgs, eigen, geometry, image_common,
   perception_pcl, robot_model, ros, ros_comm, simple_arms, turtlebot, vision_opencv,
   visualization, xacro]
-turtlebot_arm_bringup: [arbotix_python, arbotix_controllers, planning_environment,
-  simple_arm_server, arm_kinematics_constraint_aware]
+turtlebot_arm_bringup: [simple_arm_server, planning_environment, arbotix_python, arm_kinematics_constraint_aware,
+  arbotix_controllers]
 turtlebot_arm_description: [urdf, xacro, turtlebot_description]
-turtlebot_arm_interactive_markers: [roscpp, visualization_msgs, interactive_markers,
-  arbotix_msgs, arbotix_controllers, simple_arm_server, actionlib]
-turtlebot_block_manipulation: [roscpp, actionlib, visualization_msgs, interactive_markers,
+turtlebot_arm_interactive_markers: [roscpp, arbotix_msgs, actionlib, interactive_markers,
+  visualization_msgs, simple_arm_server, arbotix_controllers]
+turtlebot_block_manipulation: [roscpp, actionlib, interactive_markers, visualization_msgs,
   simple_arm_server, simple_arm_actions, pcl_ros]
 turtlebot_bringup: [compressed_image_transport, turtlebot_driver, joy, robot_state_publisher,
   pointcloud_to_laserscan, openni_camera, turtlebot_node, turtlebot_description, app_manager]
 turtlebot_calibration: [rospy, sensor_msgs, nav_msgs, geometry_msgs, kdl]
-turtlebot_dashboard: [rxtools, robot_monitor, std_msgs, std_srvs, rospy, roslib, turtlebot_node]
+turtlebot_dashboard: [rxtools, std_srvs, roslib, std_msgs, robot_monitor, rospy, turtlebot_node]
 turtlebot_description: [urdf, xacro]
 turtlebot_follower: [nodelet, tf, roscpp, pcl_ros]
 turtlebot_gazebo_plugins: [gazebo, nav_msgs, geometry_msgs, sensor_msgs, turtlebot_node]
-turtlebot_interactive_markers: [roscpp, visualization_msgs, interactive_markers]
+turtlebot_interactive_markers: [interactive_markers, roscpp, visualization_msgs]
 turtlebot_kinect: [openni_camera, clearpath_tools, clearpath_kinect_demo]
-turtlebot_kinect_arm_calibration: [roscpp, visualization_msgs, tf, eigen, opencv2,
-  image_geometry, pcl, pcl_ros, image_transport, cv_bridge]
+turtlebot_kinect_arm_calibration: [image_geometry, eigen, image_transport, opencv2,
+  pcl, visualization_msgs, tf, pcl_ros, cv_bridge, roscpp]
 turtlebot_navigation: [move_base, gmapping]
 turtlebot_node: [nav_msgs, kdl, rospy, dynamic_reconfigure, turtlebot_driver, tf,
   geometry_msgs, diagnostic_msgs, daemontools]
@@ -649,9 +648,9 @@ unique_id: [roscpp, rospy, rosunit, uuid_msgs]
 unique_identifier: [ros, ros_comm]
 universal_robot: [geometry_experimental, robot_model, actionlib, ros_comm, control,
   common_msgs]
-ur5_bringup: [tf2_ros, ur5_driver, ur5_description]
+ur5_bringup: [ur5_driver, ur5_description, tf2_ros]
 ur5_description: [urdf]
-ur5_driver: [rospy, actionlib, control_msgs, sensor_msgs]
+ur5_driver: [sensor_msgs, control_msgs, actionlib, rospy]
 ur5_gazebo: [ur5_description]
 urdf: [roscpp, colladadom, urdf_parser, collada_parser]
 urdf_interface: [tinyxml]
