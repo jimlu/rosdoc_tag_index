@@ -63,7 +63,7 @@ langs: []
 megatree: [megatree_cpp, megatree_import, megatree_web, megatree_storage, megatree_core,
   megatree_server]
 megatree_pcl: [megatree_pcl]
-multi_master_fkie: [default_cfg_fkie, master_discovery_fkie, master_sync_fkie, node_manager_fkie]
+multi_master_fkie: [node_manager_fkie, master_discovery_fkie, master_sync_fkie, default_cfg_fkie]
 multi_robot_collision_avoidance: [collvoid_local_planner, pacman_controller, collvoid_controller,
   collvoid_msgs, collvoid_stage, collvoid_simple_global_planner, collvoid_turtlebot,
   pacman_turtles, collvoid_pr2]
@@ -75,7 +75,7 @@ navigation: [move_base, map_server, clear_costmap_recovery, costmap_2d, dwa_loca
   move_base_msgs, move_slow_and_clear, amcl, base_local_planner, robot_pose_ekf]
 navigation_experimental: [pose_base_controller, goal_passer, assisted_teleop, eband_local_planner,
   pose_follower, twist_recovery, sbpl_lattice_planner, sbpl_recovery]
-navigation_tutorials: [roomba_stage, navigation_stage, odometry_publisher_tutorial,
+navigation_tutorials: [navigation_stage, roomba_stage, odometry_publisher_tutorial,
   point_cloud_publisher_tutorial, robot_setup_tf_tutorial, laser_scan_publisher_tutorial,
   simple_navigation_goals_tutorial]
 nodelet_core: [nodelet_topic_tools, nodelet, test_nodelet]
@@ -94,16 +94,16 @@ robot_model_tutorials: [urdf_tutorial]
 robot_model_visualization: [joint_state_publisher]
 ros: [rosmake, rosboost_cfg, rosbash, roslib, roscreate, mk, rosbuild, rosclean, rosunit,
   roslang]
-ros_comm: [rosconsole, test_roscpp_serialization, test_ros, rosgraph, test_roscpp_serialization_perf,
-  test_roslib_comm, test_rostime, roscpp, rosparam, rosout, test_crosspackage, topic_tools,
+ros_comm: [rosconsole, test_roscpp_serialization, rosgraph, test_roscpp_serialization_perf,
+  test_ros, test_rostime, roscpp, rosparam, rosout, test_crosspackage, topic_tools,
   rostest, rostopic, test_rospy, roswtf, rosgraph_msgs, roslisp, message_filters,
   perf_roscpp, rosservice, rospy, test_rosbag, test_rosservice, roslaunch, test_roscpp,
-  std_srvs, xmlrpcpp, rosmaster, rosmsg, rosnode, rosbag]
+  std_srvs, xmlrpcpp, test_roslib_comm, rosmaster, rosmsg, rosnode, rosbag]
 ros_tutorials: [turtlesim, rospy_tutorials, roscpp_tutorials]
 roscpp_core: [roscpp_traits, cpp_common, rostime, roscpp_serialization]
 rosdoc_lite: [rosdoc_lite]
 rosh_core: [roshlaunch, rosh]
-rosh_robot_plugins: [rosh_common, rosh_geometry, rosh_robot]
+rosh_robot_plugins: [rosh_robot, rosh_geometry, rosh_common]
 rosmatlab: [rosmatlab, rosmatlab_common_msgs, rosrtw_examples, rosrtw]
 rospack: [rospack]
 rosserial: [rosserial_xbee, rosserial_arduino, rosserial_embeddedlinux, rosserial_python,
@@ -128,8 +128,8 @@ telekyb_main: [telekyb_core, tk_trajctrl, tk_exception, tk_state, tk_trajprocess
 telekyb_sensors: [telekyb_vrpn, telekyb_vicon]
 telekyb_swarm: [tk_formation]
 telekyb_utils: [tk_generic_killer, tk_bagtools, tk_handjoystick, tk_conversion]
-turtlebot: [turtlebot_driver, pointcloud_to_laserscan, turtlebot_bringup, turtlebot_node,
-  turtlebot_description]
+turtlebot: [turtlebot_node, turtlebot_description, turtlebot_bringup, turtlebot_driver,
+  pointcloud_to_laserscan]
 turtlebot_apps: [turtlebot_follower, turtlebot_teleop, turtlebot_calibration, turtlebot_navigation,
   turtlebot_sounds, turtlebot_actions]
 turtlebot_arm: [turtlebot_kinect_arm_calibration, turtlebot_arm_description, turtlebot_arm_bringup,
