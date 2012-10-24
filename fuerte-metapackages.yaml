@@ -63,7 +63,7 @@ langs: []
 megatree: [megatree_cpp, megatree_import, megatree_web, megatree_storage, megatree_core,
   megatree_server]
 megatree_pcl: [megatree_pcl]
-multi_master_fkie: [default_cfg_fkie, master_discovery_fkie, master_sync_fkie, node_manager_fkie]
+multi_master_fkie: [node_manager_fkie, master_discovery_fkie, master_sync_fkie, default_cfg_fkie]
 multi_robot_collision_avoidance: [collvoid_local_planner, pacman_controller, collvoid_controller,
   collvoid_msgs, collvoid_stage, collvoid_simple_global_planner, collvoid_turtlebot,
   pacman_turtles, collvoid_pr2]
