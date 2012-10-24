@@ -262,6 +262,7 @@ humanoid_walk: [bullet, common_msgs, common_rosdeps, diagnostics, geometry, ros,
 image_cb_detector: [roscpp, actionlib, sensor_msgs, image_transport, opencv2, geometry_msgs,
   calibration_msgs, cv_bridge, actionlib_msgs, pcl_ros]
 image_common: [common_msgs, pluginlib, ros, ros_comm]
+image_stream: [cv_bridge, rospy, opencv2, rosweb]
 image_transport: [sensor_msgs, roscpp, message_filters, pluginlib]
 imu_drivers: [common_msgs, diagnostics, geometry, ros, ros_comm]
 imu_filter: [dynamic_reconfigure, roscpp, opencv2, microstrain_3dmgx2_imu, geometry_msgs,
@@ -285,6 +286,7 @@ kingfisher: [camera_drivers, image_pipeline, image_transport_plugins, multimaste
 kingfisher_bringup: [kingfisher_msgs, rosserial_python, app_manager, camera1394, image_proc,
   compressed_image_transport]
 kingfisher_node: [rospy, rosserial_python, kingfisher_msgs, std_msgs]
+knem: [linux-libc, linux-headers, awk, dpkg, grep]
 laser_assembler: [roscpp, std_msgs, geometry_msgs, laser_geometry, laser_filters,
   sensor_msgs, tf]
 laser_cb_detector: [roscpp, message_filters, actionlib_msgs, std_msgs, opencv2, calibration_msgs,
@@ -299,6 +301,7 @@ laser_scan_publisher_tutorial: [sensor_msgs, roscpp]
 laser_slam_mapper: [roscpp, topological_map_2d, mongo_roscpp, octomap_ros, pcl, visualization_msgs,
   tf, laser_slam]
 launch_tools: [roslib, rospy]
+launchman: [roslaunch, std_msgs, rospy]
 libfreenect: [git, cmake, glut, libusb-1.0-dev, libxi-dev, libxmu-dev, pkg-config]
 libpcan: [linux-headers-generic, libpopt-dev]
 libphidgets: [libusb-dev]
@@ -341,6 +344,7 @@ move_base: [roscpp, rosconsole, std_msgs, move_base_msgs, geometry_msgs, visuali
 move_base_msgs: [roslib, std_msgs, actionlib_msgs, geometry_msgs]
 move_slow_and_clear: [roscpp, nav_core, costmap_2d, geometry_msgs, pluginlib, dynamic_reconfigure,
   common_rosdeps, eigen]
+mpi_test: [roscpp, openmpi_devel, eigen3]
 multi_master_fkie: [ros]
 multi_robot_collision_avoidance: [common, common_msgs, driver_common, geometry, navigation,
   pluginlib, ros, ros_comm, stage]
@@ -382,10 +386,14 @@ object_tracker: [image_geometry, worldmodel_msgs, roscpp, hector_nav_msgs, hecto
 occupancy_grid_utils: [nav_msgs, geometry_msgs, tf, sensor_msgs, roscpp, laser_geometry,
   bullet, rospy, map_server]
 odometry_publisher_tutorial: [nav_msgs, tf, roscpp]
+ogre: [nvidia-cg, opengl, freeimage, gtk2, libxaw, common_rosdeps, zziplib, libxrandr,
+  libxxf86vm, pkg-config]
+ogre_tools: [rosconsole, roslib, ogre]
 ogre_tools_qt: [rosconsole, roslib, ogre]
 ompl_ros_interface: [sensor_msgs, planning_models, planning_environment, arm_navigation_msgs,
   kinematics_base, pluginlib, ompl]
 open_street_map: [common_msgs, driver_common, geographic_info, geometry, ros, ros_comm]
+openmpi_devel: [knem]
 openni: [openni-dev]
 openni_camera: [dynamic_reconfigure, openni-dev, roscpp, ps-engine, camera_info_manager,
   sensor_msgs, image_transport, libusb-1.0-dev, nodelet]
@@ -464,6 +472,7 @@ robot_self_filter: [roscpp, tf, filters, sensor_msgs, visualization_msgs, geomet
 robot_setup_tf_tutorial: [tf, geometry_msgs, roscpp]
 robot_state_publisher: [kdl_parser, sensor_msgs, roscpp, tf, tf_conversions]
 romeo: [ros]
+ros_apache2: [webui]
 rosbag: [python-imaging, bzip2]
 rosconsole: [apr, log4cxx]
 roscpp: [roslang, pkg-config]
@@ -482,11 +491,13 @@ rosh_robot_plugins: [common, common_msgs, geometry, ros, ros_comm, rosh_core]
 rosh_visualization: [roslib, rosh, rviz]
 roshlaunch: [python-yaml, roslib, rosgraph, rosmaster, rosout, rosclean, rospy, paramiko]
 rosjs: [ros]
+rosjson: [roslib, rospy]
 roslaunch: [python-yaml, python-paramiko]
 roslib: [python, boost]
 roslisp: [roslang]
 rosmatlab: [rosbuild, cpp_introspection, roscpp]
 rosmatlab_common_msgs: [rosmatlab, std_msgs]
+rosmpi: [openmpi_devel, roscpp, pcl]
 rosparam: [python-yaml]
 rosproxy: [rospy, rosgraph, roslib, rosservice, rostopic]
 rospy: [roslang]
@@ -506,6 +517,7 @@ rosserial_java_node: [rosserial_java]
 rosserial_python: [rosserial_msgs, rospy]
 rosserial_xbee: [rosserial_python]
 rosunit: [gtest]
+rosweb: [std_msgs, rosjson, roslib, rospy, rosservice]
 roswtf: [python-paramiko]
 rotate_recovery: [roscpp, nav_core, tf, costmap_2d, geometry_msgs, base_local_planner,
   pluginlib, angles, common_rosdeps, eigen]
@@ -727,6 +739,7 @@ urdf_parser_py: [rospy]
 viso2: [ros]
 viso2_ros: [nav_msgs, image_geometry, roscpp, message_filters, libviso2, sensor_msgs,
   image_transport, tf, cv_bridge, pcl_ros]
+visualization_common: [common_rosdeps, ros, ros_comm]
 visualization_engine: [common, common_msgs, geometry, laser_pipeline, robot_model,
   ros, visualization_common, image_common]
 visualization_experimental: [common_msgs, common_rosdeps, geometry, image_common,
@@ -749,6 +762,9 @@ walk_msgs: [roscpp, rospy, common_rosdeps, bullet, geometry_msgs, nav_msgs, walk
 walk_tools: [rospy, geometry_msgs, sensor_msgs, message_filters, diagnostic_aggregator,
   diagnostic_updater, urdf_parser_py]
 warehousewg: [common_msgs, geometry, ros, ros_comm]
+web_interface: [common_msgs, ros, ros_comm, vision_opencv]
+webui: [pyclearsilver, std_srvs, launchman, rosweb, roslib, std_msgs, rosservice,
+  rospy, web_msgs, diagnostic_msgs, python-clearsilver]
 wg_common: [ros, langs, langs-dev]
 wg_flirtlib: [flirtlib_ros]
 wg_pr2_2dnav: [willow_maps, map_server, pr2_navigation_global, pr2_navigation_perception,
