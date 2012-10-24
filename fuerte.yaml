@@ -635,10 +635,10 @@ ros-fuerte-slam-gmapping:
 - {docs_url: ../../../api/gmapping/html, location: 'http://ros.org/rosdoclite/fuerte/api/gmapping/tags/gmapping.tag',
   package: gmapping}
 ros-fuerte-sql-database:
-- {docs_url: ../../../api/student_database/html, location: 'http://ros.org/rosdoclite/fuerte/api/student_database/tags/student_database.tag',
-  package: student_database}
 - {docs_url: ../../../api/database_interface/html, location: 'http://ros.org/rosdoclite/fuerte/api/database_interface/tags/database_interface.tag',
   package: database_interface}
+- {docs_url: ../../../api/student_database/html, location: 'http://ros.org/rosdoclite/fuerte/api/student_database/tags/student_database.tag',
+  package: student_database}
 ros-fuerte-srs-common:
 - {docs_url: ../../../api/srs_object_database_msgs/html, location: 'http://ros.org/rosdoclite/fuerte/api/srs_object_database_msgs/tags/srs_object_database_msgs.tag',
   package: srs_object_database_msgs}
@@ -696,6 +696,9 @@ ros-fuerte-warehousewg:
   package: pymongo}
 - {docs_url: ../../../api/mongo_ros/html, location: 'http://ros.org/rosdoclite/fuerte/api/mongo_ros/tags/mongo_ros.tag',
   package: mongo_ros}
+ros-fuerte-wg-common:
+- {docs_url: ../../../api/willow_maps/html, location: 'http://ros.org/rosdoclite/fuerte/api/willow_maps/tags/willow_maps.tag',
+  package: willow_maps}
 ros-fuerte-wg-pr2-apps:
 - {docs_url: ../../../api/wg_pr2_2dnav/html, location: 'http://ros.org/rosdoclite/fuerte/api/wg_pr2_2dnav/tags/wg_pr2_2dnav.tag',
   package: wg_pr2_2dnav}
