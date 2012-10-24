@@ -128,8 +128,8 @@ costmap_2d: [rosconsole, roscpp, std_msgs, geometry_msgs, sensor_msgs, laser_geo
 cpp_introspection: [rosconsole, rostime, roscpp_traits, roscpp_serialization, rosbuild]
 database_interface: [roscpp, common_rosdeps, libpq-dev, yaml-cpp]
 default_cfg_fkie: [rospy, roslib, roslaunch]
-dhd32_driver: [roscpp, dhd32_wrapper, telekyb_base, tk_haptics_base]
-dhd_driver: [roscpp, telekyb_defines, telekyb_msgs, tf, dhd_wrapper]
+dhd32_driver: [tk_haptics_base, dhd32_wrapper, roscpp, telekyb_base]
+dhd_driver: [tf, telekyb_msgs, telekyb_defines, roscpp, dhd_wrapper]
 diagnostics_monitors: [common_msgs, ros, ros_comm, rx]
 distance_field: [roscpp, visualization_msgs, arm_navigation_msgs, bullet]
 driver_base: [roscpp, self_test, diagnostic_updater, dynamic_reconfigure]
@@ -290,8 +290,8 @@ megatree_storage: [megatree_core]
 megatree_web: [megatree_cpp]
 message_to_tf: [tf, nav_msgs, geometry_msgs, sensor_msgs]
 microstrain_3dmgx2_imu: [roscpp, sensor_msgs, self_test, diagnostic_updater, tf, std_srvs]
-mongo_ros: [mongodb, pymongo, roscpp, rospy, std_msgs, geometry_msgs, tf]
-mongodb: [rospy, scons, tcsh, pcre-dev, xulrunner-dev, readline-dev]
+mongo_ros: [roscpp, mongodb, std_msgs, geometry_msgs, tf, rospy, pymongo]
+mongodb: [tcsh, xulrunner-dev, pcre-dev, scons, readline-dev, rospy]
 monocam_settler: [settlerlib, actionlib, roscpp, actionlib_msgs, calibration_msgs]
 motion_planning_rviz_plugin: [rviz, roscpp, tf, planning_models, planning_environment,
   arm_navigation_msgs]
@@ -335,10 +335,10 @@ nmea_gps_driver: [sensor_msgs, std_msgs, rospy, geometry_msgs, python-serial]
 node_manager_fkie: [rospy, roslib, rosgraph, roslaunch, rosservice, dynamic_reconfigure,
   master_discovery_fkie, default_cfg_fkie, python-pyside, python-paramiko, python-psutil,
   pyside-tools, python-pyside.qtuitools, screen, xterm]
-nodelet: [pluginlib, roscpp, rospy, bondcpp, uuid]
+nodelet: [uuid, bondcpp, rospy, roscpp, pluginlib]
 nodelet_core: [bond_core, dynamic_reconfigure, pluginlib, ros, ros_comm]
-nodelet_topic_tools: [nodelet, roscpp, message_filters, dynamic_reconfigure, rospy,
-  std_msgs]
+nodelet_topic_tools: [dynamic_reconfigure, roscpp, message_filters, std_msgs, rospy,
+  nodelet]
 nodelet_tutorial_math: [nodelet, roscpp, std_msgs]
 object_tracker: [roscpp, tf, tf_conversions, image_geometry, worldmodel_msgs, hector_nav_msgs,
   hector_marker_drawing, eigen]
@@ -366,7 +366,7 @@ osm_cartography: [dynamic_reconfigure, geodesy, geographic_msgs, geometry_msgs, 
   tf, std_msgs, visualization_msgs]
 pacman_controller: [rospy, roscpp, std_msgs, std_srvs, visualization_msgs, geometry_msgs,
   collvoid_msgs, collvoid_local_planner, tf, actionlib, move_base_msgs]
-pipette_driver: [rospy, dynamic_reconfigure, driver_base, diagnostic_msgs]
+pipette_driver: [dynamic_reconfigure, driver_base, rospy, diagnostic_msgs]
 planning_environment: [roscpp, rosconsole, rosbag, actionlib_msgs, actionlib, tf,
   std_srvs, message_filters, angles, geometric_shapes, sensor_msgs, arm_navigation_msgs,
   visualization_msgs, planning_models, collision_space, pcl_ros, robot_self_filter,
@@ -375,12 +375,12 @@ planning_models: [urdf, rosconsole, geometric_shapes, bullet, angles, pkg-config
 pluginlib: [rosconsole, roslib, tinyxml]
 pluginlib_tutorials: [pluginlib, roscpp]
 point_cloud_publisher_tutorial: [sensor_msgs, roscpp]
-pointcloud_to_laserscan: [nodelet, sensor_msgs, pcl_ros, dynamic_reconfigure]
+pointcloud_to_laserscan: [dynamic_reconfigure, sensor_msgs, nodelet, pcl_ros]
 pose_base_controller: [actionlib, move_base_msgs, nav_msgs, roscpp, tf, geometry_msgs]
 pose_follower: [nav_core, base_local_planner, costmap_2d, roscpp, tf, nav_msgs, pluginlib]
-pr2_biolab_gazebo_demo: [pr2_gazebo, gazebo_worlds, gazebo, pr2_tuckarm, robot_state_publisher,
-  pr2_common_action_msgs, actionlib, roscpp, joint_trajectory_action, geometry_msgs,
-  kinematics_msgs, pr2_controllers_msgs, tf, biolab_description]
+pr2_biolab_gazebo_demo: [roscpp, gazebo_worlds, robot_state_publisher, pr2_common_action_msgs,
+  joint_trajectory_action, geometry_msgs, tf, pr2_tuckarm, biolab_description, pr2_controllers_msgs,
+  gazebo, actionlib, kinematics_msgs, pr2_gazebo]
 pr2_make_a_map_app: [pr2_position_scripts, gmapping, tf, mongodb, topic_tools, map_store]
 pr2_pan_tilt: [geometry_msgs, pr2_controllers_msgs, topic_tools, actionlib, rospy,
   tf]
@@ -450,13 +450,13 @@ rosserial_adk_demo: [sensor_msgs, std_msgs, rosserial_adk_demo_msgs, rosserial_a
   geometry_msgs]
 rosserial_android: [nav_msgs, rosserial_java, std_msgs, sensor_msgs, rosjava, rosserial_msgs,
   android]
-rosserial_arduino: [std_msgs, sensor_msgs, geometry_msgs, nav_msgs, rosserial_client,
-  gcc-avr, avr-libc]
-rosserial_client: [std_msgs, rosserial_msgs, tf]
-rosserial_embeddedlinux: [std_msgs, sensor_msgs, geometry_msgs, nav_msgs, rosserial_client]
+rosserial_arduino: [nav_msgs, avr-libc, std_msgs, sensor_msgs, gcc-avr, geometry_msgs,
+  rosserial_client]
+rosserial_client: [tf, rosserial_msgs, std_msgs]
+rosserial_embeddedlinux: [nav_msgs, sensor_msgs, std_msgs, geometry_msgs, rosserial_client]
 rosserial_java: [rosjava, rosserial_msgs]
 rosserial_java_node: [rosserial_java]
-rosserial_python: [rospy, rosserial_msgs]
+rosserial_python: [rosserial_msgs, rospy]
 rosserial_xbee: [rosserial_python]
 rosunit: [gtest]
 roswtf: [python-paramiko]
@@ -523,32 +523,33 @@ srv_tools: [ros]
 stereo_msgs: [sensor_msgs]
 student_database: [database_interface]
 telekyb_algo: [ros, ros_comm, telekyb_common]
-telekyb_base: [roscpp, yaml_wrapper, eigen3_wrapper, telekyb_defines, telekyb_msgs,
+telekyb_base: [roscpp, telekyb_msgs, telekyb_defines, yaml_wrapper, eigen3_wrapper,
   telekyb_srvs]
 telekyb_behaviors: [ros, ros_comm, telekyb_main]
 telekyb_calculus: [roscpp, telekyb_base]
 telekyb_common: [ros, ros_comm]
-telekyb_core: [roscpp, sensor_msgs, telekyb_defines, telekyb_base, telekyb_msgs, tk_trajctrl,
-  tk_trajprocessor, tk_behavior, tk_state]
+telekyb_core: [tk_trajprocessor, roscpp, telekyb_base, tk_state, telekyb_msgs, sensor_msgs,
+  tk_trajctrl, tk_behavior, telekyb_defines]
 telekyb_deps: [ros]
 telekyb_drivers: [ros, ros_comm, telekyb_deps]
 telekyb_exp: [ros, ros_comm]
 telekyb_haptics: [pluginlib, ros, ros_comm]
-telekyb_hid: [roscpp, telekyb_defines, telekyb_base, hidapi_wrapper, yaml_wrapper,
-  sensor_msgs]
-telekyb_interface: [roscpp, telekyb_defines, telekyb_msgs, telekyb_srvs, telekyb_base]
-telekyb_joystick: [roscpp, telekyb_defines, telekyb_base, sensor_msgs]
+telekyb_hid: [yaml_wrapper, telekyb_base, sensor_msgs, hidapi_wrapper, telekyb_defines,
+  roscpp]
+telekyb_interface: [telekyb_msgs, telekyb_defines, roscpp, telekyb_base, telekyb_srvs]
+telekyb_joystick: [sensor_msgs, telekyb_defines, roscpp, telekyb_base]
 telekyb_main: [ros, ros_comm, telekyb_common]
-telekyb_msgs: [std_msgs, geometry_msgs]
+telekyb_msgs: [geometry_msgs, std_msgs]
 telekyb_sensors: [ros, ros_comm, telekyb_common]
-telekyb_serial: [roscpp, telekyb_defines]
-telekyb_srvs: [std_srvs, telekyb_msgs]
+telekyb_serial: [telekyb_defines, roscpp]
+telekyb_srvs: [telekyb_msgs, std_srvs]
 telekyb_swarm: [ros, ros_comm, telekyb_common, telekyb_main]
 telekyb_utils: [common_msgs, ros, ros_comm, telekyb_common]
-telekyb_vicon: [roscpp, tf, geometry_msgs, telekyb_msgs, telekyb_base, viconsdk_wrapper]
-telekyb_vrpn: [roscpp, telekyb_base, tf, vrpn_wrapper]
+telekyb_vicon: [roscpp, telekyb_base, telekyb_msgs, viconsdk_wrapper, geometry_msgs,
+  tf]
+telekyb_vrpn: [tf, vrpn_wrapper, roscpp, telekyb_base]
 test_bond: [rostest, bondpy, bondcpp, bond]
-test_nodelet: [nodelet, std_msgs, rostest, pluginlib]
+test_nodelet: [std_msgs, rostest, nodelet, pluginlib]
 test_osm: [osm_cartography, route_network, geodesy, geographic_msgs]
 test_rospy: [python-numpy]
 test_rve: [roscpp, rosconsole, eigen, rve_msgs, rve_common, rve_interfaces, rve_interface_gen,
@@ -571,31 +572,31 @@ tf_broadcast_server: [tf, geometry_msgs]
 tf_conversions: [tf, kdl, geometry_msgs, eigen]
 tf_tools: [tf]
 timestamp_tools: [roslib, roscpp]
-tk_bagtools: [roscpp, rosbag, message_filters, telekyb_base, sensor_msgs, tk_haptics_msgs,
-  telekyb_msgs, sensor_msgs]
-tk_be_common: [roscpp, tk_behavior, sensor_msgs]
-tk_behavior: [roscpp, telekyb_defines, telekyb_base, pluginlib, telekyb_srvs, telekyb_msgs,
-  tk_state, tk_trajprocessor, tk_trajctrl]
-tk_conversion: [roscpp, telekyb_base, telekyb_msgs]
-tk_ctrlalgo: [roscpp, telekyb_defines, telekyb_base]
+tk_bagtools: [telekyb_base, roscpp, message_filters, telekyb_msgs, sensor_msgs, tk_haptics_msgs,
+  rosbag]
+tk_be_common: [tk_behavior, sensor_msgs, roscpp]
+tk_behavior: [tk_trajprocessor, roscpp, telekyb_base, pluginlib, tk_state, telekyb_msgs,
+  tk_trajctrl, telekyb_defines, telekyb_srvs]
+tk_conversion: [telekyb_msgs, roscpp, telekyb_base]
+tk_ctrlalgo: [telekyb_defines, roscpp, telekyb_base]
 tk_draft_msgs: [telekyb_msgs]
-tk_exception: [roscpp, telekyb_defines, telekyb_base, telekyb_msgs]
-tk_formation: [roscpp, telekyb_base, telekyb_interface, telekyb_calculus, tk_behavior,
-  tk_obstacle, tk_haptics_base]
-tk_generic_killer: [roscpp, topic_tools, telekyb_base]
-tk_handjoystick: [roscpp, geometry_msgs, telekyb_base, sensor_msgs]
-tk_haptics_base: [roscpp, pluginlib, telekyb_defines, telekyb_base, tk_haptics_msgs]
+tk_exception: [telekyb_msgs, telekyb_defines, roscpp, telekyb_base]
+tk_formation: [telekyb_calculus, roscpp, telekyb_base, telekyb_interface, tk_haptics_base,
+  tk_obstacle, tk_behavior]
+tk_generic_killer: [topic_tools, roscpp, telekyb_base]
+tk_handjoystick: [sensor_msgs, geometry_msgs, roscpp, telekyb_base]
+tk_haptics_base: [tk_haptics_msgs, telekyb_defines, roscpp, telekyb_base, pluginlib]
 tk_haptics_msgs: [telekyb_msgs]
-tk_mkinterface: [roscpp, telekyb_serial, telekyb_msgs, telekyb_base]
-tk_obstacle: [roscpp, telekyb_base, telekyb_calculus, pluginlib]
-tk_param_estimator: [roscpp, telekyb_defines, telekyb_base, tk_draft_msgs, pluginlib]
-tk_smurf_interface: [roscpp, tk_draft_msgs, telekyb_msgs, telekyb_base, telekyb_serial]
-tk_state: [roscpp, telekyb_defines, telekyb_base, telekyb_msgs, tk_draft_msgs, odeint_wrapper,
-  sensor_msgs, pluginlib, tf]
-tk_trajctrl: [roscpp, telekyb_defines, telekyb_base, telekyb_msgs, tk_ctrlalgo, tk_param_estimator,
-  tk_state]
-tk_trajprocessor: [roscpp, telekyb_defines, telekyb_base, pluginlib, telekyb_msgs,
-  telekyb_srvs, tk_state, tk_trajctrl, tk_obstacle]
+tk_mkinterface: [telekyb_serial, telekyb_base, roscpp, telekyb_msgs]
+tk_obstacle: [telekyb_calculus, roscpp, telekyb_base, pluginlib]
+tk_param_estimator: [pluginlib, telekyb_defines, roscpp, telekyb_base, tk_draft_msgs]
+tk_smurf_interface: [telekyb_serial, telekyb_msgs, roscpp, telekyb_base, tk_draft_msgs]
+tk_state: [roscpp, telekyb_base, pluginlib, telekyb_msgs, sensor_msgs, odeint_wrapper,
+  telekyb_defines, tf, tk_draft_msgs]
+tk_trajctrl: [roscpp, telekyb_base, tk_param_estimator, tk_state, telekyb_msgs, tk_ctrlalgo,
+  telekyb_defines]
+tk_trajprocessor: [roscpp, telekyb_base, pluginlib, tk_state, telekyb_msgs, tk_obstacle,
+  tk_trajctrl, telekyb_defines, telekyb_srvs]
 trajectory_execution_monitor: [arm_navigation_msgs, control_msgs, actionlib, pr2_controllers_msgs,
   planning_environment]
 trajectory_filter_server: [filters, roscpp, trajectory_msgs, arm_navigation_msgs,
@@ -622,8 +623,8 @@ turtlebot_arm_interactive_markers: [roscpp, visualization_msgs, interactive_mark
   arbotix_msgs, arbotix_controllers, simple_arm_server, actionlib]
 turtlebot_block_manipulation: [roscpp, actionlib, visualization_msgs, interactive_markers,
   simple_arm_server, simple_arm_actions, pcl_ros]
-turtlebot_bringup: [app_manager, turtlebot_driver, turtlebot_node, turtlebot_description,
-  joy, robot_state_publisher, pointcloud_to_laserscan, openni_camera, compressed_image_transport]
+turtlebot_bringup: [compressed_image_transport, turtlebot_driver, joy, robot_state_publisher,
+  pointcloud_to_laserscan, openni_camera, turtlebot_node, turtlebot_description, app_manager]
 turtlebot_calibration: [rospy, sensor_msgs, nav_msgs, geometry_msgs, kdl]
 turtlebot_dashboard: [rxtools, robot_monitor, std_msgs, std_srvs, rospy, roslib, turtlebot_node]
 turtlebot_description: [urdf, xacro]
@@ -634,8 +635,8 @@ turtlebot_kinect: [openni_camera, clearpath_tools, clearpath_kinect_demo]
 turtlebot_kinect_arm_calibration: [roscpp, visualization_msgs, tf, eigen, opencv2,
   image_geometry, pcl, pcl_ros, image_transport, cv_bridge]
 turtlebot_navigation: [move_base, gmapping]
-turtlebot_node: [turtlebot_driver, rospy, tf, nav_msgs, geometry_msgs, diagnostic_msgs,
-  kdl, dynamic_reconfigure, daemontools]
+turtlebot_node: [nav_msgs, kdl, rospy, dynamic_reconfigure, turtlebot_driver, tf,
+  geometry_msgs, diagnostic_msgs, daemontools]
 turtlebot_rndmwalk: [clearpath_tools, clearpath_kinect_demo, turtlebot_node]
 turtlebot_simulator: [common_msgs, ros, simulator_gazebo, turtlebot]
 turtlebot_teleop: [joy, geometry_msgs, roscpp]
@@ -691,6 +692,6 @@ worldmodel_geotiff_plugins: [hector_geotiff, worldmodel_msgs]
 worldmodel_msgs: [sensor_msgs, geometry_msgs]
 worldmodel_ops: [continuous_ops_task_manager]
 wxPython_swig_interface: [wxpython]
-xacro: [rostest, rosbuild]
+xacro: [rosbuild, rostest]
 xdot: [wxpython, graphviz]
 xsens_driver: [rospy, tf, std_msgs, sensor_msgs, geometry_msgs, gps_common, diagnostic_msgs]
