@@ -84,6 +84,7 @@ openni_kinect: [openni_camera_deprecated, openni, nite]
 openni_launch: [openni_launch]
 openni_tracker: [openni_tracker]
 pluginlib: [pluginlib]
+pr2_common_alpha: [pr2_defs, teleop_head]
 rcommander_core: [rcommander_plain, nodebox_qt, rcommander, tf_broadcast_server]
 rcommander_pr2: [pycontroller_manager, tts_server, ptp_arm_action, rcommander_pr2_gui]
 robot_model: [urdf_parser, urdf_interface, ivcon, collada_parser, srdf, robot_state_publisher,

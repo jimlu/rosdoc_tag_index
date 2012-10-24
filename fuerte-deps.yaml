@@ -379,6 +379,8 @@ pose_follower: [nav_core, base_local_planner, costmap_2d, roscpp, tf, nav_msgs, 
 pr2_biolab_gazebo_demo: [roscpp, gazebo_worlds, robot_state_publisher, pr2_common_action_msgs,
   joint_trajectory_action, geometry_msgs, tf, pr2_tuckarm, biolab_description, pr2_controllers_msgs,
   gazebo, actionlib, kinematics_msgs, pr2_gazebo]
+pr2_common_alpha: [common_msgs, joystick_drivers, robot_model, ros, ros_comm, xacro]
+pr2_defs: [convex_decomposition, ivcon, urdf, xacro]
 pr2_make_a_map_app: [pr2_position_scripts, gmapping, tf, mongodb, topic_tools, map_store]
 pr2_pan_tilt: [geometry_msgs, pr2_controllers_msgs, topic_tools, actionlib, rospy,
   tf]
@@ -546,6 +548,7 @@ telekyb_utils: [common_msgs, ros, ros_comm, telekyb_common]
 telekyb_vicon: [roscpp, telekyb_base, telekyb_msgs, viconsdk_wrapper, geometry_msgs,
   tf]
 telekyb_vrpn: [tf, vrpn_wrapper, roscpp, telekyb_base]
+teleop_head: [joy, trajectory_msgs, sensor_msgs, roscpp]
 test_bond: [rostest, bondpy, bondcpp, bond]
 test_nodelet: [std_msgs, rostest, nodelet, pluginlib]
 test_osm: [osm_cartography, route_network, geodesy, geographic_msgs]
