@@ -33,11 +33,11 @@ arm_navigation_msgs: [std_msgs, actionlib_msgs, sensor_msgs, geometry_msgs, traj
 assimp: [assimp]
 assisted_teleop: [tf, costmap_2d, roscpp, roslib, geometry_msgs, move_base_msgs, actionlib,
   message_filters, base_local_planner, angles, pluginlib, sensor_msgs, filters, eigen]
-audio_capture: [roscpp, audio_common_msgs, libgstreamer0.10-dev, libgstreamer-plugins-base0.10-dev,
-  python-gst, gstreamer0.10-plugins-ugly, gstreamer0.10-plugins-good]
+audio_capture: [roscpp, libgstreamer-plugins-base0.10-dev, gstreamer0.10-plugins-good,
+  libgstreamer0.10-dev, python-gst, gstreamer0.10-plugins-ugly, audio_common_msgs]
 audio_common: [ros, common, common_msgs, common_rosdeps, ros_comm]
-audio_play: [roscpp, audio_common_msgs, libgstreamer0.10-dev, libgstreamer-plugins-base0.10-dev,
-  python-gst, gstreamer0.10-plugins-ugly, gstreamer0.10-plugins-good]
+audio_play: [roscpp, libgstreamer-plugins-base0.10-dev, gstreamer0.10-plugins-good,
+  libgstreamer0.10-dev, python-gst, gstreamer0.10-plugins-ugly, audio_common_msgs]
 bag_tools: [rospy, rosbag, sensor_msgs, cv_bridge, message_filters, stereo_image_proc]
 base_local_planner: [std_msgs, nav_msgs, rosconsole, roscpp, tf, roslib, rospy, pluginlib,
   costmap_2d, voxel_grid, angles, visualization_msgs, geometry_msgs, nav_core, pcl_ros,
@@ -49,8 +49,8 @@ biorob_description: [urdf, xacro]
 biorob_gazebo: [biorob_description, gazebo, gazebo_tools, pr2_gazebo_plugins]
 bond: [roslib]
 bond_core: [ros, ros_comm]
-bondcpp: [bond, roscpp, smclib, uuid]
-bondpy: [bond, rospy, smclib]
+bondcpp: [uuid, smclib, roscpp, bond]
+bondpy: [smclib, rospy, bond]
 brown_drivers: [common_msgs, geometry, ros, ros_comm]
 bullet: [glut, libxext]
 calibration: [common, common_msgs, geometry, image_common, image_pipeline, perception_pcl,
@@ -511,8 +511,8 @@ slam_gmapping: [common_msgs, geometry, navigation, ros, ros_comm]
 smach_ros: [smach, rospy, rostest, rostopic, actionlib, actionlib_msgs, smach_msgs,
   std_msgs, std_srvs]
 smach_viewer: [smach_ros, xdot, smach_msgs]
-sound_play: [rospy, roscpp, roslib, diagnostic_msgs, festival, libgstreamer0.10-dev,
-  libgstreamer-plugins-base0.10-dev, python-gst, gstreamer0.10-plugins-ugly, gstreamer0.10-plugins-good]
+sound_play: [roscpp, libgstreamer-plugins-base0.10-dev, festival, roslib, libgstreamer0.10-dev,
+  gstreamer0.10-plugins-good, python-gst, rospy, gstreamer0.10-plugins-ugly, diagnostic_msgs]
 spline_smoother: [urdf, angles, roscpp, filters, trajectory_msgs, arm_navigation_msgs]
 sql_database: [common_rosdeps, ros, ros_comm]
 srdf: [urdf, rosconsole, tinyxml]
@@ -546,7 +546,7 @@ telekyb_swarm: [ros, ros_comm, telekyb_common, telekyb_main]
 telekyb_utils: [common_msgs, ros, ros_comm, telekyb_common]
 telekyb_vicon: [roscpp, tf, geometry_msgs, telekyb_msgs, telekyb_base, viconsdk_wrapper]
 telekyb_vrpn: [roscpp, telekyb_base, tf, vrpn_wrapper]
-test_bond: [rostest, bond, bondpy, bondcpp]
+test_bond: [rostest, bondpy, bondcpp, bond]
 test_nodelet: [nodelet, std_msgs, rostest, pluginlib]
 test_osm: [osm_cartography, route_network, geodesy, geographic_msgs]
 test_rospy: [python-numpy]
