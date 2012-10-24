@@ -58,6 +58,7 @@ bond: [roslib]
 bond_core: [ros, ros_comm]
 bondcpp: [uuid, smclib, roscpp, bond]
 bondpy: [smclib, rospy, bond]
+bpcg: [eigen]
 brown_drivers: [common_msgs, geometry, ros, ros_comm]
 bullet: [glut, libxext]
 calibration: [common, common_msgs, geometry, image_common, image_pipeline, perception_pcl,
@@ -166,11 +167,13 @@ flirtlib_features: [geometry, occupancy_grid_utils, ros, ros_comm, warehousewg, 
 flirtlib_ros: [std_srvs, roscpp, occupancy_grid_utils, actionlib, interactive_markers,
   sensor_msgs, move_base_msgs, tf, flirtlib, mongo_ros]
 foreign_relay: [roscpp, xmlrpcpp, topic_tools]
+frame_common: [opencv2, eigen, pcl]
 freenect_camera: [dynamic_reconfigure, roscpp, camera_info_manager, sensor_msgs, image_transport,
   libfreenect, nodelet]
 freenect_launch: [tf, image_proc, depth_image_proc, freenect_camera, nodelet]
 freenect_stack: [common_msgs, dynamic_reconfigure, image_common, nodelet_core, ros_comm,
   geometry]
+g2o: [eigen, suitesparse]
 geometric_shapes: [bullet, rosconsole, resource_retriever, tf, assimp, pkg-config]
 geometry: [bullet, common_msgs, ros, ros_comm, orocos_kinematics_dynamics, common_rosdeps]
 geometry_experimental: [actionlib, bullet, common_msgs, geometry, orocos_kinematics_dynamics,
@@ -413,6 +416,7 @@ pointcloud_to_laserscan: [dynamic_reconfigure, sensor_msgs, nodelet, pcl_ros]
 polled_camera: [sensor_msgs, image_transport]
 pose_base_controller: [actionlib, move_base_msgs, nav_msgs, roscpp, tf, geometry_msgs]
 pose_follower: [nav_core, base_local_planner, costmap_2d, roscpp, tf, nav_msgs, pluginlib]
+posest: [opencv2, frame_common, sba, eigen, libtbb]
 pr2_arm_ik_tests: [pr2_controller_manager, pr2_arm_navigation_perception, pluginlib,
   kinematics_base, robot_state_publisher, pr2_arm_kinematics, pr2_arm_navigation_kinematics,
   gazebo, pr2_gazebo]
@@ -534,6 +538,7 @@ rxbag: [rxtools, rosgraph, roslib, std_msgs, wxpython, rospy, rosbag, python-gtk
 rxgraph: [xdot, rosnode, rosgraph, rostopic]
 rxtools: [rosgraph_msgs, python-matplotlib, wxwidgets, roslib, wxPython_swig_interface,
   wxpython, rospy, swig-wx, python-gtk2, roscpp]
+sba: [bpcg, eigen, std_msgs, geometry_msgs, visualization_msgs, suitesparse, roscpp]
 sbpl_lattice_planner: [roscpp, costmap_2d, nav_core, pluginlib, geometry_msgs, nav_msgs,
   sbpl]
 sbpl_recovery: [roscpp, nav_core, sbpl_lattice_planner, pose_follower, costmap_2d,
@@ -558,6 +563,7 @@ smach_ros: [std_srvs, actionlib, std_msgs, smach, rostest, rospy, rostopic, smac
 smach_viewer: [smach_ros, xdot, smach_msgs]
 sound_play: [roscpp, libgstreamer-plugins-base0.10-dev, festival, roslib, libgstreamer0.10-dev,
   gstreamer0.10-plugins-good, python-gst, rospy, gstreamer0.10-plugins-ugly, diagnostic_msgs]
+sparselib: [unzip]
 spline_smoother: [urdf, angles, roscpp, filters, trajectory_msgs, arm_navigation_msgs]
 sql_database: [common_rosdeps, ros, ros_comm]
 srdf: [urdf, rosconsole, tinyxml]
@@ -726,11 +732,17 @@ visualization_engine: [common, common_msgs, geometry, laser_pipeline, robot_mode
 visualization_experimental: [common_msgs, common_rosdeps, geometry, image_common,
   laser_pipeline, pluginlib, robot_model, ros, ros_comm, visualization, visualization_common]
 visualization_msgs: [std_msgs, geometry_msgs]
+vocabulary_tree: [opencv2, roscpp, eigen]
 voxel_grid: [rosconsole]
 vrmagic_camera: [ros]
 vrmagic_devkit_wrapper: [roscpp]
 vrmagic_multi_driver: [roscpp, stereo_msgs, sensor_msgs, vrmagic_devkit_wrapper, image_transport,
   driver_base]
+vslam: [common_msgs, driver_common, geometry, image_common, perception_pcl, ros, ros_comm,
+  vision_opencv]
+vslam_system: [image_geometry, nav_msgs, roscpp, message_filters, posest, sensor_msgs,
+  vocabulary_tree, std_msgs, image_transport, opencv2, stereo_msgs, sba, dynamic_reconfigure,
+  pcl, tf, cv_bridge]
 walk_interfaces: [common_rosdeps, boost, eigen, yaml-cpp]
 walk_msgs: [roscpp, rospy, common_rosdeps, bullet, geometry_msgs, nav_msgs, walk_interfaces,
   visualization_msgs, angles, boost, eigen]
