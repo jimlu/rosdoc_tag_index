@@ -152,8 +152,8 @@ falkor_ardrone: [joy, camera_info_manager, sensor_msgs, image_transport, opencv2
 fcl: [common_rosdeps, libccd, octomap]
 filters: [rosconsole, roscpp, pluginlib]
 flirtlib_features: [geometry, occupancy_grid_utils, ros, ros_comm, warehousewg, visualization]
-flirtlib_ros: [occupancy_grid_utils, tf, roscpp, interactive_markers, mongo_ros, actionlib,
-  sensor_msgs, move_base_msgs, std_srvs, flirtlib]
+flirtlib_ros: [std_srvs, roscpp, occupancy_grid_utils, actionlib, interactive_markers,
+  sensor_msgs, move_base_msgs, tf, flirtlib, mongo_ros]
 foreign_relay: [roscpp, xmlrpcpp, topic_tools]
 geometric_shapes: [bullet, rosconsole, resource_retriever, tf, assimp, pkg-config]
 geometry: [bullet, common_msgs, ros, ros_comm, orocos_kinematics_dynamics, common_rosdeps]
