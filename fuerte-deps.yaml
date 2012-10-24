@@ -141,7 +141,7 @@ eband_local_planner: [roscpp, pluginlib, nav_core, costmap_2d, base_local_planne
   nav_msgs, geometry_msgs, visualization_msgs, tf, tf_conversions, angles, control_toolbox,
   actionlib, eigen, tinyxml]
 eigen: [eigen]
-eigen_conversions: [geometry_msgs, kdl, tf, eigen]
+eigen_conversions: [kdl, tf, geometry_msgs, eigen]
 ethzasl_xsens_driver: [common_msgs, geometry, gps_umd, ros, ros_comm]
 executive_smach: [actionlib, common_msgs, ros, ros_comm]
 executive_smach_visualization: [executive_smach, ros, ros_comm, rx]
@@ -555,8 +555,8 @@ test_rve: [roscpp, rosconsole, eigen, rve_msgs, rve_common, rve_interfaces, rve_
   urdf, nodelet, qt4]
 test_tf2: [rostest, tf, tf2, tf2_bullet, tf2_ros, tf2_geometry_msgs, tf2_kdl, tf2_msgs,
   roscpp, roslib]
-tf: [bullet, geometry_msgs, sensor_msgs, roscpp, rosconsole, angles, rospy, rostest,
-  roswtf, message_filters, python-numpy, graphviz]
+tf: [rosconsole, roscpp, bullet, python-numpy, sensor_msgs, graphviz, rostest, geometry_msgs,
+  angles, message_filters, rospy, roswtf]
 tf2: [geometry_msgs, tf2_msgs, rospy, roscpp]
 tf2_bullet: [tf2_ros, bullet, geometry_msgs]
 tf2_geometry_msgs: [geometry_msgs, tf2_ros, kdl]
