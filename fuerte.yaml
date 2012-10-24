@@ -696,6 +696,9 @@ ros-fuerte-warehousewg:
   package: pymongo}
 - {docs_url: ../../../api/mongo_ros/html, location: 'http://ros.org/rosdoclite/fuerte/api/mongo_ros/tags/mongo_ros.tag',
   package: mongo_ros}
+ros-fuerte-wg-common:
+- {docs_url: ../../../api/willow_maps/html, location: 'http://ros.org/rosdoclite/fuerte/api/willow_maps/tags/willow_maps.tag',
+  package: willow_maps}
 ros-fuerte-wg-pr2-apps:
 - {docs_url: ../../../api/wg_pr2_2dnav/html, location: 'http://ros.org/rosdoclite/fuerte/api/wg_pr2_2dnav/tags/wg_pr2_2dnav.tag',
   package: wg_pr2_2dnav}
