@@ -38,7 +38,7 @@ audio_capture: [roscpp, libgstreamer-plugins-base0.10-dev, gstreamer0.10-plugins
 audio_common: [ros, common, common_msgs, common_rosdeps, ros_comm]
 audio_play: [roscpp, libgstreamer-plugins-base0.10-dev, gstreamer0.10-plugins-good,
   libgstreamer0.10-dev, python-gst, gstreamer0.10-plugins-ugly, audio_common_msgs]
-bag_tools: [rospy, rosbag, sensor_msgs, cv_bridge, message_filters, stereo_image_proc]
+bag_tools: [message_filters, cv_bridge, sensor_msgs, rospy, stereo_image_proc, rosbag]
 base_local_planner: [std_msgs, nav_msgs, rosconsole, roscpp, tf, roslib, rospy, pluginlib,
   costmap_2d, voxel_grid, angles, visualization_msgs, geometry_msgs, nav_core, pcl_ros,
   common_rosdeps, pcl, eigen]
@@ -273,7 +273,7 @@ laser_geometry: [sensor_msgs, roscpp, tf, angles, common_rosdeps, eigen]
 laser_pipeline: [common_msgs, common_rosdeps, filters, geometry, perception_pcl, pluginlib,
   ros, ros_comm]
 laser_scan_publisher_tutorial: [sensor_msgs, roscpp]
-launch_tools: [rospy, roslib]
+launch_tools: [roslib, rospy]
 libpcan: [linux-headers-generic, libpopt-dev]
 libphidgets: [libusb-dev]
 map_server: [rosconsole, roscpp, rospy, nav_msgs, tf, common_rosdeps, python-imaging,
