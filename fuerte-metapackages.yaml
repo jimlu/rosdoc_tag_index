@@ -117,6 +117,9 @@ rx: [rxtools, rxbag, xdot, rxgraph, wxPython_swig_interface]
 simple_object_capture: [simple_object_capture]
 srv_tools: [launch_tools, tf_tools, bag_tools]
 std_msgs: [std_msgs]
+tabletop_object_perception: [tabletop_collision_map_processing, object_recognition_gui,
+  tabletop_object_detector, active_realtime_segmentation, object_segmentation_gui,
+  fast_plane_detection]
 telekyb_algo: [tk_param_estimator, telekyb_calculus, tk_ctrlalgo]
 telekyb_behaviors: [tk_be_common]
 telekyb_common: [telekyb_msgs, telekyb_defines, tk_draft_msgs, telekyb_base, telekyb_srvs]

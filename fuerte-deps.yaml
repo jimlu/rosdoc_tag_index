@@ -7,6 +7,7 @@ ADEPT_VIPER_S650_ikfast_arm_navigation: [kinematics_base, planning_environment, 
 ackermann_msgs: [std_msgs]
 actionlib: [actionlib_msgs, rostest, rospy, roscpp]
 actionlib_tutorials: [roscpp, rospy, roslib, std_msgs, rosconsole, actionlib, actionlib_msgs]
+active_realtime_segmentation: [sensor_msgs, roscpp, stereo_msgs]
 adept: [arm_navigation, common, common_msgs, control, robot_model, ros, ros_comm,
   industrial]
 adept_common: [std_msgs, roscpp, actionlib, trajectory_msgs, actionlib_msgs, control_msgs,
@@ -149,6 +150,8 @@ fake_localization: [roscpp, rosconsole, nav_msgs, geometry_msgs, tf, message_fil
   angles]
 falkor_ardrone: [joy, camera_info_manager, sensor_msgs, image_transport, opencv2,
   rospy, tf, ardrone_autonomy, cv_bridge]
+fast_plane_detection: [roscpp, stereo_msgs, std_msgs, sensor_msgs, image_transport,
+  geometry_msgs, tf, rviz]
 fcl: [common_rosdeps, octomap, libccd]
 filters: [rosconsole, roscpp, pluginlib]
 flirtlib_features: [geometry, occupancy_grid_utils, ros, ros_comm, warehousewg, visualization]
@@ -344,6 +347,11 @@ nodelet_core: [bond_core, dynamic_reconfigure, pluginlib, ros, ros_comm]
 nodelet_topic_tools: [dynamic_reconfigure, roscpp, message_filters, std_msgs, rospy,
   nodelet]
 nodelet_tutorial_math: [nodelet, roscpp, std_msgs]
+object_recognition_gui: [roscpp, rviz_interaction_tools, ogre_tools, actionlib, sensor_msgs,
+  geometric_shapes_msgs, stereo_msgs, geometry_msgs, actionlib_msgs, rviz]
+object_segmentation_gui: [tabletop_object_detector, rviz, stereo_msgs, ogre_tools,
+  actionlib, active_realtime_segmentation, sensor_msgs, image_transport, rviz_interaction_tools,
+  geometry_msgs, rgbd_assembler, tf, actionlib_msgs, roscpp]
 object_tracker: [image_geometry, worldmodel_msgs, roscpp, hector_nav_msgs, hector_marker_drawing,
   tf, tf_conversions, eigen]
 occupancy_grid_utils: [nav_msgs, geometry_msgs, tf, sensor_msgs, roscpp, laser_geometry,
@@ -528,6 +536,14 @@ srs_object_database_msgs: [pcl, visualization_msgs, sensor_msgs, arm_navigation_
 srv_tools: [ros]
 stereo_msgs: [sensor_msgs]
 student_database: [database_interface]
+tabletop_collision_map_processing: [household_objects_database_msgs, std_srvs, actionlib,
+  geometric_shapes_msgs, collision_environment_msgs, pr2_msgs, tf, mapping_msgs, object_manipulation_msgs,
+  tabletop_object_detector]
+tabletop_object_detector: [household_objects_database_msgs, roscpp, sensor_msgs, distance_field,
+  geometry_msgs, pcl, visualization_msgs, tf, pcl_ros]
+tabletop_object_perception: [common, common_msgs, geometry, image_common, motion_planning_common,
+  object_manipulation, perception_pcl, pr2_common, pr2_object_manipulation, ros, ros_comm,
+  visualization, visualization_common]
 telekyb_algo: [ros, ros_comm, telekyb_common]
 telekyb_base: [roscpp, telekyb_msgs, telekyb_defines, yaml_wrapper, eigen3_wrapper,
   telekyb_srvs]
