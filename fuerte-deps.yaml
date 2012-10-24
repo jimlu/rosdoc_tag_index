@@ -49,10 +49,10 @@ biorob_description: [urdf, xacro]
 biorob_gazebo: [biorob_description, gazebo, gazebo_tools, pr2_gazebo_plugins]
 bond: [roslib]
 bond_core: [ros, ros_comm]
-bondcpp: [bond, roscpp, smclib, uuid]
-bondpy: [bond, rospy, smclib]
+bondcpp: [uuid, smclib, roscpp, bond]
+bondpy: [smclib, rospy, bond]
 brown_drivers: [common_msgs, geometry, ros, ros_comm]
-bullet: [libxext, glut]
+bullet: [glut, libxext]
 calibration: [common, common_msgs, geometry, image_common, image_pipeline, perception_pcl,
   ros, ros_comm, vision_opencv]
 calibration_estimation: [sensor_msgs, python-scipy, rostest, rospy, calibration_msgs,
@@ -136,24 +136,24 @@ driver_base: [roscpp, self_test, diagnostic_updater, dynamic_reconfigure]
 driver_common: [diagnostics, ros, dynamic_reconfigure]
 dwa_local_planner: [roscpp, tf, costmap_2d, roslib, nav_core, nav_msgs, base_local_planner,
   angles, dynamic_reconfigure, common_rosdeps, eigen]
-dynamic_reconfigure: [rospy, roscpp, rosservice, wxpython]
+dynamic_reconfigure: [wxpython, rosservice, rospy, roscpp]
 eband_local_planner: [roscpp, pluginlib, nav_core, costmap_2d, base_local_planner,
   nav_msgs, geometry_msgs, visualization_msgs, tf, tf_conversions, angles, control_toolbox,
   actionlib, eigen, tinyxml]
 eigen: [eigen]
-eigen_conversions: [geometry_msgs, kdl, tf, eigen]
+eigen_conversions: [kdl, tf, geometry_msgs, eigen]
 ethzasl_xsens_driver: [common_msgs, geometry, gps_umd, ros, ros_comm]
 executive_smach: [actionlib, common_msgs, ros, ros_comm]
 executive_smach_visualization: [executive_smach, ros, ros_comm, rx]
 fake_localization: [roscpp, rosconsole, nav_msgs, geometry_msgs, tf, message_filters,
   angles]
-falkor_ardrone: [rospy, opencv2, tf, joy, image_transport, cv_bridge, camera_info_manager,
-  sensor_msgs, ardrone_autonomy]
-fcl: [common_rosdeps, libccd, octomap]
+falkor_ardrone: [joy, camera_info_manager, sensor_msgs, image_transport, opencv2,
+  rospy, tf, ardrone_autonomy, cv_bridge]
+fcl: [common_rosdeps, octomap, libccd]
 filters: [rosconsole, roscpp, pluginlib]
 flirtlib_features: [geometry, occupancy_grid_utils, ros, ros_comm, warehousewg, visualization]
-flirtlib_ros: [occupancy_grid_utils, tf, roscpp, interactive_markers, mongo_ros, actionlib,
-  sensor_msgs, move_base_msgs, std_srvs, flirtlib]
+flirtlib_ros: [std_srvs, roscpp, occupancy_grid_utils, actionlib, interactive_markers,
+  sensor_msgs, move_base_msgs, tf, flirtlib, mongo_ros]
 foreign_relay: [roscpp, xmlrpcpp, topic_tools]
 geometric_shapes: [bullet, rosconsole, resource_retriever, tf, assimp, pkg-config]
 geometry: [bullet, common_msgs, ros, ros_comm, orocos_kinematics_dynamics, common_rosdeps]
@@ -282,10 +282,10 @@ mapping_rviz_plugin: [rviz, roscpp, arm_navigation_msgs, tf]
 master_discovery_fkie: [rospy, roslib, python-avahi, avahi-daemon]
 master_sync_fkie: [rospy, roslib, rosgraph, master_discovery_fkie]
 megatree: [ros]
-megatree_cpp: [megatree_core, megatree_storage, eigen, gtest]
-megatree_import: [megatree_storage, megatree_cpp]
+megatree_cpp: [megatree_core, gtest, megatree_storage, eigen]
+megatree_import: [megatree_cpp, megatree_storage]
 megatree_pcl: [pcl_ros, megatree_storage, megatree_cpp]
-megatree_server: [megatree_core, megatree_cpp, fcgi]
+megatree_server: [megatree_cpp, megatree_core, fcgi]
 megatree_storage: [megatree_core]
 megatree_web: [megatree_cpp]
 message_to_tf: [tf, nav_msgs, geometry_msgs, sensor_msgs]
@@ -502,14 +502,14 @@ semanticmodel: [sensor_msgs, std_srvs, pcl16_ros, flann, pcl16, nodelet, visuali
 sensor_msgs: [geometry_msgs]
 serial_communication: [ros, ros_comm]
 settlerlib: [roscpp, calibration_msgs]
-shape_msgs: [std_msgs, geometry_msgs]
+shape_msgs: [geometry_msgs, std_msgs]
 simmechanics_to_urdf: [rospy, sensor_msgs, tf, python-yaml]
 simple_navigation_goals_tutorial: [move_base_msgs, actionlib, roscpp, tf]
 simple_object_capture: [pcl, roscpp, sensor_msgs, message_filters, dynamic_reconfigure,
   opencv2, cv_bridge, rosbag, image_geometry]
 slam_gmapping: [common_msgs, geometry, navigation, ros, ros_comm]
-smach_ros: [smach, rospy, rostest, rostopic, actionlib, actionlib_msgs, smach_msgs,
-  std_msgs, std_srvs]
+smach_ros: [std_srvs, actionlib, std_msgs, smach, rostest, rospy, rostopic, smach_msgs,
+  actionlib_msgs]
 smach_viewer: [smach_ros, xdot, smach_msgs]
 sound_play: [roscpp, libgstreamer-plugins-base0.10-dev, festival, roslib, libgstreamer0.10-dev,
   gstreamer0.10-plugins-good, python-gst, rospy, gstreamer0.10-plugins-ugly, diagnostic_msgs]
@@ -546,7 +546,7 @@ telekyb_swarm: [ros, ros_comm, telekyb_common, telekyb_main]
 telekyb_utils: [common_msgs, ros, ros_comm, telekyb_common]
 telekyb_vicon: [roscpp, tf, geometry_msgs, telekyb_msgs, telekyb_base, viconsdk_wrapper]
 telekyb_vrpn: [roscpp, telekyb_base, tf, vrpn_wrapper]
-test_bond: [rostest, bond, bondpy, bondcpp]
+test_bond: [rostest, bondpy, bondcpp, bond]
 test_nodelet: [nodelet, std_msgs, rostest, pluginlib]
 test_osm: [osm_cartography, route_network, geodesy, geographic_msgs]
 test_rospy: [python-numpy]
@@ -555,8 +555,8 @@ test_rve: [roscpp, rosconsole, eigen, rve_msgs, rve_common, rve_interfaces, rve_
   urdf, nodelet, qt4]
 test_tf2: [rostest, tf, tf2, tf2_bullet, tf2_ros, tf2_geometry_msgs, tf2_kdl, tf2_msgs,
   roscpp, roslib]
-tf: [bullet, geometry_msgs, sensor_msgs, roscpp, rosconsole, angles, rospy, rostest,
-  roswtf, message_filters, python-numpy, graphviz]
+tf: [rosconsole, roscpp, bullet, python-numpy, sensor_msgs, graphviz, rostest, geometry_msgs,
+  angles, message_filters, rospy, roswtf]
 tf2: [geometry_msgs, tf2_msgs, rospy, roscpp]
 tf2_bullet: [tf2_ros, bullet, geometry_msgs]
 tf2_geometry_msgs: [geometry_msgs, tf2_ros, kdl]
@@ -565,7 +565,7 @@ tf2_msgs: [geometry_msgs, actionlib_msgs]
 tf2_ros: [tf2, tf2_msgs, roscpp, rospy, geometry_msgs, std_msgs, actionlib, actionlib_msgs,
   rosgraph, message_filters]
 tf2_tools: [tf2_msgs, tf2, tf2_ros]
-tf2_visualization: [tf2_msgs, tf2, tf2_ros, xdot, rxbag]
+tf2_visualization: [xdot, rxbag, tf2_msgs, tf2_ros, tf2]
 tf_broadcast_server: [tf, geometry_msgs]
 tf_conversions: [tf, kdl, geometry_msgs, eigen]
 tf_tools: [tf]
@@ -602,7 +602,7 @@ trajectory_filter_server: [filters, roscpp, trajectory_msgs, arm_navigation_msgs
 tts_server: [rospy, festival-extra]
 turtle_actionlib: [roscpp, std_msgs, rosconsole, actionlib, actionlib_msgs, turtlesim,
   angles]
-turtle_tf: [roscpp, rospy, turtlesim, tf]
+turtle_tf: [tf, turtlesim, rospy, roscpp]
 turtlebot: [common_msgs, driver_common, geometry, image_transport_plugins, joystick_drivers,
   multimaster_experimental, nodelet_core, openni_kinect, orocos_kinematics_dynamics,
   perception_pcl, robot_model, ros, ros_comm, xacro]
@@ -661,7 +661,7 @@ visualization_engine: [common, common_msgs, geometry, laser_pipeline, robot_mode
   ros, visualization_common, image_common]
 visualization_experimental: [common_msgs, common_rosdeps, geometry, image_common,
   laser_pipeline, pluginlib, robot_model, ros, ros_comm, visualization, visualization_common]
-visualization_msgs: [geometry_msgs, std_msgs]
+visualization_msgs: [std_msgs, geometry_msgs]
 voxel_grid: [rosconsole]
 vrmagic_camera: [ros]
 vrmagic_devkit_wrapper: [roscpp]
