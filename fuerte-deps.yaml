@@ -55,12 +55,12 @@ brown_drivers: [common_msgs, geometry, ros, ros_comm]
 bullet: [glut, libxext]
 calibration: [common, common_msgs, geometry, image_common, image_pipeline, perception_pcl,
   ros, ros_comm, vision_opencv]
-calibration_estimation: [rospy, rostest, sensor_msgs, calibration_msgs, visualization_msgs,
-  tf, python-scipy]
-calibration_launch: [topic_tools, image_cb_detector, laser_cb_detector, image_view,
-  message_filters, sensor_msgs, monocam_settler, joint_states_settler, interval_intersection,
-  calibration_msgs, sensor_msgs, geometry_msgs, trajectory_msgs, rospy, std_msgs]
-calibration_msgs: [geometry_msgs, sensor_msgs]
+calibration_estimation: [sensor_msgs, python-scipy, rostest, rospy, calibration_msgs,
+  visualization_msgs, tf]
+calibration_launch: [laser_cb_detector, message_filters, image_view, monocam_settler,
+  trajectory_msgs, sensor_msgs, interval_intersection, topic_tools, geometry_msgs,
+  joint_states_settler, std_msgs, rospy, image_cb_detector, calibration_msgs]
+calibration_msgs: [sensor_msgs, geometry_msgs]
 camera1394: [camera_info_manager, diagnostic_updater, driver_base, dynamic_reconfigure,
   image_transport, nodelet, tf, libdc1394-dev]
 camera_drivers: [camera1394, prosilica_driver, wge100_driver]
@@ -152,8 +152,8 @@ falkor_ardrone: [joy, camera_info_manager, sensor_msgs, image_transport, opencv2
 fcl: [common_rosdeps, octomap, libccd]
 filters: [rosconsole, roscpp, pluginlib]
 flirtlib_features: [geometry, occupancy_grid_utils, ros, ros_comm, warehousewg, visualization]
-flirtlib_ros: [occupancy_grid_utils, tf, roscpp, interactive_markers, mongo_ros, actionlib,
-  sensor_msgs, move_base_msgs, std_srvs, flirtlib]
+flirtlib_ros: [std_srvs, roscpp, occupancy_grid_utils, actionlib, interactive_markers,
+  sensor_msgs, move_base_msgs, tf, flirtlib, mongo_ros]
 foreign_relay: [roscpp, xmlrpcpp, topic_tools]
 geometric_shapes: [bullet, rosconsole, resource_retriever, tf, assimp, pkg-config]
 geometry: [bullet, common_msgs, ros, ros_comm, orocos_kinematics_dynamics, common_rosdeps]
@@ -240,19 +240,19 @@ hector_worldmodel: [common_msgs, geometry, hector_common, hector_slam, ros, ros_
   vision_opencv]
 humanoid_walk: [bullet, common_msgs, common_rosdeps, diagnostics, geometry, ros, ros_comm,
   robot_model_py]
-image_cb_detector: [calibration_msgs, roscpp, cv_bridge, actionlib, actionlib_msgs,
-  image_transport, sensor_msgs, geometry_msgs, pcl_ros, opencv2]
+image_cb_detector: [roscpp, actionlib, sensor_msgs, image_transport, opencv2, geometry_msgs,
+  calibration_msgs, cv_bridge, actionlib_msgs, pcl_ros]
 imu_drivers: [common_msgs, diagnostics, geometry, ros, ros_comm]
-imu_filter: [roscpp, microstrain_3dmgx2_imu, eigen, tf, visualization_msgs, geometry_msgs,
-  opencv2, dynamic_reconfigure]
+imu_filter: [dynamic_reconfigure, roscpp, opencv2, microstrain_3dmgx2_imu, geometry_msgs,
+  visualization_msgs, tf, eigen]
 interpolated_ik_motion_planner: [rospy, kinematics_msgs, geometry_msgs, arm_navigation_msgs,
   visualization_msgs, sensor_msgs, trajectory_msgs]
-interval_intersection: [roscpp, actionlib_msgs, actionlib, calibration_msgs]
+interval_intersection: [actionlib_msgs, calibration_msgs, roscpp, actionlib]
 irobot_create_2_1: [roscpp, rospy, geometry_msgs, tf, nav_msgs, python-serial]
 joint_normalization_filters: [spline_smoother, angles, filters]
 joint_state_publisher: [rospy, sensor_msgs, wxpython]
-joint_states_settler: [roscpp, actionlib_msgs, sensor_msgs, actionlib, settlerlib,
-  calibration_msgs]
+joint_states_settler: [roscpp, actionlib_msgs, sensor_msgs, settlerlib, calibration_msgs,
+  actionlib]
 kdl_parser: [kdl, urdf, roscpp]
 kinect_depth_calibration: [rospy, roslib, opencv2, cv_bridge, geometry_msgs, sensor_msgs,
   stereo_msgs, tf_conversions, tf, kdl]
@@ -265,8 +265,8 @@ kingfisher_bringup: [kingfisher_msgs, rosserial_python, app_manager, camera1394,
 kingfisher_node: [rospy, rosserial_python, kingfisher_msgs, std_msgs]
 laser_assembler: [roscpp, std_msgs, geometry_msgs, laser_geometry, laser_filters,
   sensor_msgs, tf]
-laser_cb_detector: [roscpp, message_filters, std_msgs, actionlib_msgs, calibration_msgs,
-  image_cb_detector, cv_bridge, opencv2]
+laser_cb_detector: [roscpp, message_filters, actionlib_msgs, std_msgs, opencv2, calibration_msgs,
+  image_cb_detector, cv_bridge]
 laser_filters: [sensor_msgs, roscpp, tf, filters, message_filters, laser_geometry,
   pluginlib, pcl_ros]
 laser_geometry: [sensor_msgs, roscpp, tf, angles, common_rosdeps, eigen]
@@ -292,7 +292,7 @@ message_to_tf: [tf, nav_msgs, geometry_msgs, sensor_msgs]
 microstrain_3dmgx2_imu: [roscpp, sensor_msgs, self_test, diagnostic_updater, tf, std_srvs]
 mongo_ros: [mongodb, pymongo, roscpp, rospy, std_msgs, geometry_msgs, tf]
 mongodb: [rospy, scons, tcsh, pcre-dev, xulrunner-dev, readline-dev]
-monocam_settler: [roscpp, actionlib, actionlib_msgs, settlerlib, calibration_msgs]
+monocam_settler: [settlerlib, actionlib, roscpp, actionlib_msgs, calibration_msgs]
 motion_planning_rviz_plugin: [rviz, roscpp, tf, planning_models, planning_environment,
   arm_navigation_msgs]
 move_arm: [roscpp, rosconsole, std_msgs, geometry_msgs, visualization_msgs, geometric_shapes,
@@ -317,7 +317,7 @@ move_slow_and_clear: [roscpp, nav_core, costmap_2d, geometry_msgs, pluginlib, dy
 multi_master_fkie: [ros]
 multi_robot_collision_avoidance: [common, common_msgs, driver_common, geometry, navigation,
   pluginlib, ros, ros_comm, stage]
-multimaster: [rosgraph, rospy]
+multimaster: [rospy, rosgraph]
 multimaster_experimental: [ros, ros_comm]
 nav_core: [std_msgs, geometry_msgs, costmap_2d, tf]
 nav_msgs: [geometry_msgs]
@@ -350,8 +350,8 @@ ompl_ros_interface: [sensor_msgs, planning_models, planning_environment, arm_nav
   kinematics_base, pluginlib, ompl]
 open_street_map: [common_msgs, driver_common, geographic_info, geometry, ros, ros_comm]
 openni: [openni-dev]
-openni_camera: [camera_info_manager, dynamic_reconfigure, image_transport, nodelet,
-  roscpp, sensor_msgs, libusb-1.0-dev, openni-dev, ps-engine]
+openni_camera: [dynamic_reconfigure, openni-dev, roscpp, ps-engine, camera_info_manager,
+  sensor_msgs, image_transport, libusb-1.0-dev, nodelet]
 openni_camera_deprecated: [openni_camera, camera_info_manager, dynamic_reconfigure,
   image_transport, nodelet, roscpp, sensor_msgs, common_rosdeps, pcl, pcl_ros, stereo_msgs,
   tf, eigen]
