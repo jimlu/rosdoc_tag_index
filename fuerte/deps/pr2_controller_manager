@@ -1,0 +1,3 @@
+[pr2_description, pr2_mechanism_msgs, roscpp, pr2_mechanism_diagnostics, pr2_controller_interface,
+  robot_state_publisher, rosparam, sensor_msgs, realtime_tools, pr2_hardware_interface,
+  rospy, tinyxml, diagnostic_msgs, pluginlib, pr2_mechanism_model]
