@@ -136,7 +136,7 @@ driver_base: [roscpp, self_test, diagnostic_updater, dynamic_reconfigure]
 driver_common: [diagnostics, ros, dynamic_reconfigure]
 dwa_local_planner: [roscpp, tf, costmap_2d, roslib, nav_core, nav_msgs, base_local_planner,
   angles, dynamic_reconfigure, common_rosdeps, eigen]
-dynamic_reconfigure: [rospy, roscpp, rosservice, wxpython]
+dynamic_reconfigure: [wxpython, rosservice, rospy, roscpp]
 eband_local_planner: [roscpp, pluginlib, nav_core, costmap_2d, base_local_planner,
   nav_msgs, geometry_msgs, visualization_msgs, tf, tf_conversions, angles, control_toolbox,
   actionlib, eigen, tinyxml]
