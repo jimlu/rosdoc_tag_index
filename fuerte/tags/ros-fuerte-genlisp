@@ -1,0 +1,2 @@
+- {docs_url: ../../../api/genlisp/html, location: 'http://ros.org/rosdoclite/fuerte/api/genlisp/tags/genlisp.tag',
+  package: genlisp}
