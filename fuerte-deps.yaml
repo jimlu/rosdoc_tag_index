@@ -576,6 +576,7 @@ slam_gmapping: [common_msgs, geometry, navigation, ros, ros_comm]
 smach_ros: [std_srvs, actionlib, std_msgs, smach, rostest, rospy, rostopic, smach_msgs,
   actionlib_msgs]
 smach_viewer: [smach_ros, xdot, smach_msgs]
+sound_drivers: [ros, audio_common]
 sound_play: [roscpp, libgstreamer-plugins-base0.10-dev, festival, roslib, libgstreamer0.10-dev,
   gstreamer0.10-plugins-good, python-gst, rospy, gstreamer0.10-plugins-ugly, diagnostic_msgs]
 sparselib: [unzip]

@@ -123,6 +123,7 @@ rosserial_android: [rosserial_adk_demo, rosserial_adk_demo_msgs, rosserial_andro
 rosserial_java: [rosserial_java_node, rosserial_java]
 rx: [rxtools, rxbag, xdot, rxgraph, wxPython_swig_interface]
 simple_object_capture: [simple_object_capture]
+sound_drivers: []
 sql_database: [student_database, database_interface]
 srv_tools: [launch_tools, tf_tools, bag_tools]
 std_msgs: [std_msgs]
