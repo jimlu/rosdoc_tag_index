@@ -33,11 +33,11 @@ arm_navigation_msgs: [std_msgs, actionlib_msgs, sensor_msgs, geometry_msgs, traj
 assimp: [assimp]
 assisted_teleop: [tf, costmap_2d, roscpp, roslib, geometry_msgs, move_base_msgs, actionlib,
   message_filters, base_local_planner, angles, pluginlib, sensor_msgs, filters, eigen]
-audio_capture: [roscpp, audio_common_msgs, libgstreamer0.10-dev, libgstreamer-plugins-base0.10-dev,
-  python-gst, gstreamer0.10-plugins-ugly, gstreamer0.10-plugins-good]
+audio_capture: [roscpp, libgstreamer-plugins-base0.10-dev, gstreamer0.10-plugins-good,
+  libgstreamer0.10-dev, python-gst, gstreamer0.10-plugins-ugly, audio_common_msgs]
 audio_common: [ros, common, common_msgs, common_rosdeps, ros_comm]
-audio_play: [roscpp, audio_common_msgs, libgstreamer0.10-dev, libgstreamer-plugins-base0.10-dev,
-  python-gst, gstreamer0.10-plugins-ugly, gstreamer0.10-plugins-good]
+audio_play: [roscpp, libgstreamer-plugins-base0.10-dev, gstreamer0.10-plugins-good,
+  libgstreamer0.10-dev, python-gst, gstreamer0.10-plugins-ugly, audio_common_msgs]
 bag_tools: [rospy, rosbag, sensor_msgs, cv_bridge, message_filters, stereo_image_proc]
 base_local_planner: [std_msgs, nav_msgs, rosconsole, roscpp, tf, roslib, rospy, pluginlib,
   costmap_2d, voxel_grid, angles, visualization_msgs, geometry_msgs, nav_core, pcl_ros,
@@ -511,8 +511,8 @@ slam_gmapping: [common_msgs, geometry, navigation, ros, ros_comm]
 smach_ros: [smach, rospy, rostest, rostopic, actionlib, actionlib_msgs, smach_msgs,
   std_msgs, std_srvs]
 smach_viewer: [smach_ros, xdot, smach_msgs]
-sound_play: [rospy, roscpp, roslib, diagnostic_msgs, festival, libgstreamer0.10-dev,
-  libgstreamer-plugins-base0.10-dev, python-gst, gstreamer0.10-plugins-ugly, gstreamer0.10-plugins-good]
+sound_play: [roscpp, libgstreamer-plugins-base0.10-dev, festival, roslib, libgstreamer0.10-dev,
+  gstreamer0.10-plugins-good, python-gst, rospy, gstreamer0.10-plugins-ugly, diagnostic_msgs]
 spline_smoother: [urdf, angles, roscpp, filters, trajectory_msgs, arm_navigation_msgs]
 sql_database: [common_rosdeps, ros, ros_comm]
 srdf: [urdf, rosconsole, tinyxml]
