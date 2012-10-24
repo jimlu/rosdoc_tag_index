@@ -317,7 +317,7 @@ move_slow_and_clear: [roscpp, nav_core, costmap_2d, geometry_msgs, pluginlib, dy
 multi_master_fkie: [ros]
 multi_robot_collision_avoidance: [common, common_msgs, driver_common, geometry, navigation,
   pluginlib, ros, ros_comm, stage]
-multimaster: [rosgraph, rospy]
+multimaster: [rospy, rosgraph]
 multimaster_experimental: [ros, ros_comm]
 nav_core: [std_msgs, geometry_msgs, costmap_2d, tf]
 nav_msgs: [geometry_msgs]
