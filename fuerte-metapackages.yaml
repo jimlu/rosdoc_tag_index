@@ -128,21 +128,21 @@ telekyb_main: [telekyb_core, tk_trajctrl, tk_exception, tk_state, tk_trajprocess
 telekyb_sensors: [telekyb_vrpn, telekyb_vicon]
 telekyb_swarm: [tk_formation]
 telekyb_utils: [tk_generic_killer, tk_bagtools, tk_handjoystick, tk_conversion]
-turtlebot: [turtlebot_driver, pointcloud_to_laserscan, turtlebot_bringup, turtlebot_node,
-  turtlebot_description]
+turtlebot: [turtlebot_node, turtlebot_description, turtlebot_bringup, turtlebot_driver,
+  pointcloud_to_laserscan]
 turtlebot_apps: [turtlebot_follower, turtlebot_teleop, turtlebot_calibration, turtlebot_navigation,
   turtlebot_sounds, turtlebot_actions]
 turtlebot_arm: [turtlebot_kinect_arm_calibration, turtlebot_arm_description, turtlebot_arm_bringup,
   turtlebot_arm_interactive_markers, turtlebot_block_manipulation]
 turtlebot_simulator: [turtlebot_gazebo, turtlebot_gazebo_plugins]
 turtlebot_viz: [turtlebot_interactive_markers, turtlebot_dashboard]
-universal_robot: [ur5_gazebo, ur5_description, ur5_bringup, ur5_driver]
+universal_robot: [ur5_driver, ur5_description, ur5_bringup, ur5_gazebo]
 viso2: [libviso2, viso2_ros]
 visualization_engine: [test_rve, rve_dynlib, rve_rpc, rve_properties, rve_interface_gen,
   rve_pluginloader, rve_qt, rve_render_client, rve_mesh_loader, rve_transformer, rve_common,
   rve_common_transformers, rve_msgs, rve_geometry, rve_interfaces, rve_render_server]
 visualization_experimental: [ogre_tools_qt, rviz_qt]
 vrmagic_camera: [vrmagic_multi_driver, vrmagic_devkit_wrapper]
-warehousewg: [pymongo, mongo_ros, mongodb]
+warehousewg: [mongodb, pymongo, mongo_ros]
 worldmodel: [worldmodel_ops, semantic_model_web_interface, semanticmodel]
 xacro: [xacro]

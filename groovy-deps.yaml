@@ -40,7 +40,7 @@ roscpp_traits: [rostime, catkin]
 roscpp_tutorials: [catkin, genmsg, langs-dev, rosconsole, roscpp, roscpp_serialization,
   rostime, std_msgs, langs, rosconsole, roscpp, roscpp_serialization, rostime]
 roscreate: [python-rospkg, catkin]
-rosdoc_lite: [catkin, epydoc, doxygen, python-yaml, python-sphinx, genmsg, python-rospkg]
+rosdoc_lite: [epydoc, python-yaml, doxygen, catkin, python-rospkg, genmsg, python-sphinx]
 rosgraph: [python-mock, catkin]
 rosgraph_msgs: [langs-dev, std_msgs, langs, genmsg, catkin]
 roslang: [genmsg, catkin]
