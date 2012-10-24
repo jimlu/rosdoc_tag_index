@@ -385,6 +385,7 @@ ogre_tools_qt: [rosconsole, roslib, ogre]
 ompl_ros_interface: [sensor_msgs, planning_models, planning_environment, arm_navigation_msgs,
   kinematics_base, pluginlib, ompl]
 open_street_map: [common_msgs, driver_common, geographic_info, geometry, ros, ros_comm]
+opende: [libx11, unzip, libtool, automake]
 openmpi_devel: [knem]
 openni: [openni-dev]
 openni_camera: [dynamic_reconfigure, openni-dev, roscpp, ps-engine, camera_info_manager,
@@ -403,6 +404,8 @@ osm_cartography: [dynamic_reconfigure, geodesy, geographic_msgs, geometry_msgs, 
   tf, std_msgs, visualization_msgs]
 pacman_controller: [rospy, roscpp, std_msgs, std_srvs, visualization_msgs, geometry_msgs,
   collvoid_msgs, collvoid_local_planner, tf, actionlib, move_base_msgs]
+parallel_quickstep: [rosbuild, opende]
+physics_ode: [ros]
 pipette_driver: [dynamic_reconfigure, driver_base, rospy, diagnostic_msgs]
 planning_environment: [roscpp, rosconsole, rosbag, actionlib_msgs, actionlib, tf,
   std_srvs, message_filters, angles, geometric_shapes, sensor_msgs, arm_navigation_msgs,

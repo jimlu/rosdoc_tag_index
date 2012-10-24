@@ -500,6 +500,11 @@ ros-fuerte-openni-launch:
 ros-fuerte-openni-tracker:
 - {docs_url: ../../../api/openni_tracker/html, location: 'http://ros.org/rosdoclite/fuerte/api/openni_tracker/tags/openni_tracker.tag',
   package: openni_tracker}
+ros-fuerte-physics-ode:
+- {docs_url: ../../../api/opende/html, location: 'http://ros.org/rosdoclite/fuerte/api/opende/tags/opende.tag',
+  package: opende}
+- {docs_url: ../../../api/parallel_quickstep/html, location: 'http://ros.org/rosdoclite/fuerte/api/parallel_quickstep/tags/parallel_quickstep.tag',
+  package: parallel_quickstep}
 ros-fuerte-pluginlib:
 - {docs_url: ../../../api/pluginlib/html, location: 'http://ros.org/rosdoclite/fuerte/api/pluginlib/tags/pluginlib.tag',
   package: pluginlib}
