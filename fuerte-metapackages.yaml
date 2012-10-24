@@ -14,9 +14,8 @@ bfl: [bfl]
 biorob_common: [biorob_gazebo, biorob_description]
 bond_core: [test_bond, smclib, bondpy, bondcpp, bond]
 bullet: [bullet]
-calibration: [laser_cb_detector, calibration_msgs, calibration_estimation, monocam_settler,
-  interval_intersection, joint_states_settler, image_cb_detector, calibration_launch,
-  settlerlib]
+calibration: [interval_intersection, laser_cb_detector, calibration_estimation, monocam_settler,
+  settlerlib, calibration_msgs, image_cb_detector, calibration_launch, joint_states_settler]
 camera_pose: [camera_pose_calibration, camera_pose_toolkits, kinect_depth_calibration]
 catkin: []
 common: []
