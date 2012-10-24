@@ -38,7 +38,7 @@ audio_capture: [roscpp, libgstreamer-plugins-base0.10-dev, gstreamer0.10-plugins
 audio_common: [ros, common, common_msgs, common_rosdeps, ros_comm]
 audio_play: [roscpp, libgstreamer-plugins-base0.10-dev, gstreamer0.10-plugins-good,
   libgstreamer0.10-dev, python-gst, gstreamer0.10-plugins-ugly, audio_common_msgs]
-bag_tools: [rospy, rosbag, sensor_msgs, cv_bridge, message_filters, stereo_image_proc]
+bag_tools: [message_filters, cv_bridge, sensor_msgs, rospy, stereo_image_proc, rosbag]
 base_local_planner: [std_msgs, nav_msgs, rosconsole, roscpp, tf, roslib, rospy, pluginlib,
   costmap_2d, voxel_grid, angles, visualization_msgs, geometry_msgs, nav_core, pcl_ros,
   common_rosdeps, pcl, eigen]
@@ -250,7 +250,7 @@ interpolated_ik_motion_planner: [rospy, kinematics_msgs, geometry_msgs, arm_navi
 interval_intersection: [actionlib_msgs, calibration_msgs, roscpp, actionlib]
 irobot_create_2_1: [roscpp, rospy, geometry_msgs, tf, nav_msgs, python-serial]
 joint_normalization_filters: [spline_smoother, angles, filters]
-joint_state_publisher: [rospy, sensor_msgs, wxpython]
+joint_state_publisher: [sensor_msgs, wxpython, rospy]
 joint_states_settler: [roscpp, actionlib_msgs, sensor_msgs, settlerlib, calibration_msgs,
   actionlib]
 kdl_parser: [kdl, urdf, roscpp]
@@ -272,8 +272,8 @@ laser_filters: [sensor_msgs, roscpp, tf, filters, message_filters, laser_geometr
 laser_geometry: [sensor_msgs, roscpp, tf, angles, common_rosdeps, eigen]
 laser_pipeline: [common_msgs, common_rosdeps, filters, geometry, perception_pcl, pluginlib,
   ros, ros_comm]
-laser_scan_publisher_tutorial: [roscpp, sensor_msgs]
-launch_tools: [rospy, roslib]
+laser_scan_publisher_tutorial: [sensor_msgs, roscpp]
+launch_tools: [roslib, rospy]
 libpcan: [linux-headers-generic, libpopt-dev]
 libphidgets: [libusb-dev]
 map_server: [rosconsole, roscpp, rospy, nav_msgs, tf, common_rosdeps, python-imaging,
@@ -327,7 +327,7 @@ navigation: [actionlib, bfl, common_msgs, common_rosdeps, dynamic_reconfigure, g
   laser_pipeline, perception_pcl, pluginlib, ros, ros_comm]
 navigation_experimental: [common, common_msgs, filters, geometry, navigation, pluginlib,
   pr2_controllers, ros, ros_comm, common_rosdeps]
-navigation_stage: [move_base, stage, amcl, map_server, fake_localization, gmapping]
+navigation_stage: [move_base, map_server, gmapping, amcl, fake_localization, stage]
 navigation_tutorials: [common, common_msgs, geometry, navigation, ros, ros_comm, slam_gmapping,
   stage]
 nite: [openni, nite-dev, ps-engine]
@@ -344,7 +344,7 @@ object_tracker: [roscpp, tf, tf_conversions, image_geometry, worldmodel_msgs, he
   hector_marker_drawing, eigen]
 occupancy_grid_utils: [nav_msgs, geometry_msgs, tf, sensor_msgs, roscpp, laser_geometry,
   bullet, rospy, map_server]
-odometry_publisher_tutorial: [roscpp, nav_msgs, tf]
+odometry_publisher_tutorial: [nav_msgs, tf, roscpp]
 ogre_tools_qt: [ogre, rosconsole, roslib]
 ompl_ros_interface: [sensor_msgs, planning_models, planning_environment, arm_navigation_msgs,
   kinematics_base, pluginlib, ompl]
@@ -372,9 +372,9 @@ planning_environment: [roscpp, rosconsole, rosbag, actionlib_msgs, actionlib, tf
   visualization_msgs, planning_models, collision_space, pcl_ros, robot_self_filter,
   rviz, yaml-cpp, libqt4-dev, tinyxml, pkg-config]
 planning_models: [urdf, rosconsole, geometric_shapes, bullet, angles, pkg-config]
-pluginlib: [roslib, rosconsole, tinyxml]
+pluginlib: [rosconsole, roslib, tinyxml]
 pluginlib_tutorials: [pluginlib, roscpp]
-point_cloud_publisher_tutorial: [roscpp, sensor_msgs]
+point_cloud_publisher_tutorial: [sensor_msgs, roscpp]
 pointcloud_to_laserscan: [nodelet, sensor_msgs, pcl_ros, dynamic_reconfigure]
 pose_base_controller: [actionlib, move_base_msgs, nav_msgs, roscpp, tf, geometry_msgs]
 pose_follower: [nav_core, base_local_planner, costmap_2d, roscpp, tf, nav_msgs, pluginlib]
@@ -391,8 +391,8 @@ pycontroller_manager: [pr2_mechanism_msgs, rospy]
 pymongo: [mongodb]
 pyqrnative: [python-imaging]
 rbdl: [urdf, urdf_interface, eigen, libunittest++]
-rcommander: [rospy, nodebox_qt, smach, smach_ros, actionlib, geometry_msgs, tf, tf_broadcast_server,
-  python-qt4-gl]
+rcommander: [smach_ros, nodebox_qt, python-qt4-gl, actionlib, smach, rospy, tf_broadcast_server,
+  tf, geometry_msgs]
 rcommander_core: [ros, ros_comm, common, common_msgs, executive_smach, geometry]
 rcommander_plain: [rospy, rcommander]
 rcommander_pr2: [ros, ros_comm, common, common_msgs, geometry, navigation, arm_navigation,
@@ -414,28 +414,28 @@ robot_pose_ekf: [roscpp, rosbag, bfl, std_msgs, geometry_msgs, sensor_msgs, nav_
 robot_pose_publisher: [roscpp, tf, geometry_msgs]
 robot_self_filter: [roscpp, tf, filters, sensor_msgs, visualization_msgs, geometric_shapes,
   urdf, resource_retriever, shape_msgs, pcl, assimp, pkg-config]
-robot_setup_tf_tutorial: [roscpp, tf, geometry_msgs]
+robot_setup_tf_tutorial: [tf, geometry_msgs, roscpp]
 robot_state_publisher: [kdl_parser, sensor_msgs, roscpp, tf, tf_conversions]
 romeo: [ros]
 rosbag: [python-imaging, bzip2]
 rosconsole: [apr, log4cxx]
 roscpp: [roslang, pkg-config]
-roscpp_tutorials: [roscpp, std_srvs, std_msgs]
+roscpp_tutorials: [std_msgs, std_srvs, roscpp]
 rosdoc_lite: [rospkg, genmsg, doxygen, epydoc, python-sphinx, python-yaml]
-rosh: [roshlaunch, rospy, rosgraph, rosnode, rostopic, rosservice, rosparam, rosmsg,
-  ipython]
-rosh_common: [rospy, rosmsg, rostopic, roslib, rosh, actionlib, std_msgs, sensor_msgs,
-  nav_msgs]
+rosh: [rosparam, roshlaunch, rosgraph, rosservice, rospy, rostopic, ipython, rosnode,
+  rosmsg]
+rosh_common: [nav_msgs, rosh, sensor_msgs, actionlib, roslib, std_msgs, rospy, rosmsg,
+  rostopic]
 rosh_core: [ros, ros_comm]
 rosh_desktop: [rosh, rosh_robot, rosh_visualization]
 rosh_desktop_plugins: [ros, rosh_robot_plugins, visualization]
-rosh_geometry: [roslib, rospy, tf, geometry_msgs, rosh]
-rosh_robot: [rosh, rosh_common, rosh_geometry]
+rosh_geometry: [tf, geometry_msgs, roslib, rospy, rosh]
+rosh_robot: [rosh, rosh_geometry, rosh_common]
 rosh_robot_plugins: [common, common_msgs, geometry, ros, ros_comm, rosh_core]
 rosh_visualization: [roslib, rosh, rviz]
-roshlaunch: [roslib, rosclean, rosgraph, rospy, rosmaster, rosout, paramiko, python-yaml]
+roshlaunch: [python-yaml, roslib, rosgraph, rosmaster, rosout, rosclean, rospy, paramiko]
 rosjs: [ros]
-roslaunch: [python-paramiko, python-yaml]
+roslaunch: [python-yaml, python-paramiko]
 roslib: [python, boost]
 roslisp: [roslang]
 rosmatlab: [roscpp, cpp_introspection, rosbuild]
@@ -446,8 +446,9 @@ rospy: [roslang]
 rosrtw: [rosmatlab, rosbuild]
 rosrtw_examples: [rosrtw]
 rosserial: [common_msgs, geometry, ros, ros_comm]
-rosserial_adk_demo: [rosserial_arduino, std_msgs, sensor_msgs, geometry_msgs, rosserial_adk_demo_msgs]
-rosserial_android: [rosjava, rosserial_java, std_msgs, sensor_msgs, nav_msgs, rosserial_msgs,
+rosserial_adk_demo: [sensor_msgs, std_msgs, rosserial_adk_demo_msgs, rosserial_arduino,
+  geometry_msgs]
+rosserial_android: [nav_msgs, rosserial_java, std_msgs, sensor_msgs, rosjava, rosserial_msgs,
   android]
 rosserial_arduino: [std_msgs, sensor_msgs, geometry_msgs, nav_msgs, rosserial_client,
   gcc-avr, avr-libc]
@@ -487,10 +488,10 @@ rviz_qt: [ogre, ogre_tools_qt, roscpp, rospy, rosconsole, message_filters, std_m
   urdf, urdf_interface, resource_retriever, image_transport, interactive_markers,
   pluginlib, common_rosdeps, libqt4-dev, libqt4-opengl-dev, qt4-qmake, assimp, pyside,
   yaml-cpp]
-rxbag: [rospy, roslib, std_msgs, rosbag, rosgraph, rxtools, python-gtk2, wxpython]
-rxgraph: [rosgraph, xdot, rostopic, rosnode]
-rxtools: [roscpp, rosgraph_msgs, roslib, rospy, wxPython_swig_interface, wxwidgets,
-  swig-wx, python-gtk2, python-matplotlib, wxpython]
+rxbag: [rxtools, rosgraph, roslib, std_msgs, wxpython, rospy, rosbag, python-gtk2]
+rxgraph: [xdot, rosnode, rosgraph, rostopic]
+rxtools: [rosgraph_msgs, python-matplotlib, wxwidgets, roslib, wxPython_swig_interface,
+  wxpython, rospy, swig-wx, python-gtk2, roscpp]
 sbpl_lattice_planner: [roscpp, costmap_2d, nav_core, pluginlib, geometry_msgs, nav_msgs,
   sbpl]
 sbpl_recovery: [roscpp, nav_core, sbpl_lattice_planner, pose_follower, costmap_2d,
@@ -505,7 +506,7 @@ serial_communication: [ros, ros_comm]
 settlerlib: [roscpp, calibration_msgs]
 shape_msgs: [geometry_msgs, std_msgs]
 simmechanics_to_urdf: [rospy, sensor_msgs, tf, python-yaml]
-simple_navigation_goals_tutorial: [move_base_msgs, actionlib, roscpp, tf]
+simple_navigation_goals_tutorial: [move_base_msgs, tf, actionlib, roscpp]
 simple_object_capture: [pcl, roscpp, sensor_msgs, message_filters, dynamic_reconfigure,
   opencv2, cv_bridge, rosbag, image_geometry]
 slam_gmapping: [common_msgs, geometry, navigation, ros, ros_comm]
@@ -641,7 +642,7 @@ turtlebot_simulator: [common_msgs, ros, simulator_gazebo, turtlebot]
 turtlebot_teleop: [joy, geometry_msgs, roscpp]
 turtlebot_train: [clearpath_tools, clearpath_kinect_demo, turtlebot_node]
 turtlebot_viz: [common_msgs, diagnostics_monitors, ros, ros_comm, rx, turtlebot, visualization]
-turtlesim: [libqt4-dev, qt4-qmake]
+turtlesim: [qt4-qmake, libqt4-dev]
 twist_recovery: [nav_core, costmap_2d, geometry_msgs, pluginlib, base_local_planner]
 unique_id: [roscpp, rospy, rosunit, uuid_msgs]
 unique_identifier: [ros, ros_comm]
@@ -656,8 +657,8 @@ urdf_interface: [tinyxml]
 urdf_parser: [roscpp, urdf_interface, tinyxml]
 urdf_parser_py: [rospy]
 viso2: [ros]
-viso2_ros: [libviso2, roscpp, sensor_msgs, nav_msgs, message_filters, image_transport,
-  cv_bridge, image_geometry, tf, pcl_ros]
+viso2_ros: [nav_msgs, image_geometry, roscpp, message_filters, libviso2, sensor_msgs,
+  image_transport, tf, cv_bridge, pcl_ros]
 visualization_engine: [common, common_msgs, geometry, laser_pipeline, robot_model,
   ros, visualization_common, image_common]
 visualization_experimental: [common_msgs, common_rosdeps, geometry, image_common,

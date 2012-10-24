@@ -75,7 +75,7 @@ navigation: [move_base, map_server, clear_costmap_recovery, costmap_2d, dwa_loca
   move_base_msgs, move_slow_and_clear, amcl, base_local_planner, robot_pose_ekf]
 navigation_experimental: [pose_base_controller, goal_passer, assisted_teleop, eband_local_planner,
   pose_follower, twist_recovery, sbpl_lattice_planner, sbpl_recovery]
-navigation_tutorials: [roomba_stage, navigation_stage, odometry_publisher_tutorial,
+navigation_tutorials: [navigation_stage, roomba_stage, odometry_publisher_tutorial,
   point_cloud_publisher_tutorial, robot_setup_tf_tutorial, laser_scan_publisher_tutorial,
   simple_navigation_goals_tutorial]
 nodelet_core: [nodelet_topic_tools, nodelet, test_nodelet]
@@ -94,16 +94,16 @@ robot_model_tutorials: [urdf_tutorial]
 robot_model_visualization: [joint_state_publisher]
 ros: [rosmake, rosboost_cfg, rosbash, roslib, roscreate, mk, rosbuild, rosclean, rosunit,
   roslang]
-ros_comm: [rosconsole, test_roscpp_serialization, test_ros, rosgraph, test_roscpp_serialization_perf,
-  test_roslib_comm, test_rostime, roscpp, rosparam, rosout, test_crosspackage, topic_tools,
+ros_comm: [rosconsole, test_roscpp_serialization, rosgraph, test_roscpp_serialization_perf,
+  test_ros, test_rostime, roscpp, rosparam, rosout, test_crosspackage, topic_tools,
   rostest, rostopic, test_rospy, roswtf, rosgraph_msgs, roslisp, message_filters,
   perf_roscpp, rosservice, rospy, test_rosbag, test_rosservice, roslaunch, test_roscpp,
-  std_srvs, xmlrpcpp, rosmaster, rosmsg, rosnode, rosbag]
+  std_srvs, xmlrpcpp, test_roslib_comm, rosmaster, rosmsg, rosnode, rosbag]
 ros_tutorials: [turtlesim, rospy_tutorials, roscpp_tutorials]
 roscpp_core: [roscpp_traits, cpp_common, rostime, roscpp_serialization]
 rosdoc_lite: [rosdoc_lite]
 rosh_core: [roshlaunch, rosh]
-rosh_robot_plugins: [rosh_common, rosh_geometry, rosh_robot]
+rosh_robot_plugins: [rosh_robot, rosh_geometry, rosh_common]
 rosmatlab: [rosmatlab, rosmatlab_common_msgs, rosrtw_examples, rosrtw]
 rospack: [rospack]
 rosserial: [rosserial_xbee, rosserial_arduino, rosserial_embeddedlinux, rosserial_python,
