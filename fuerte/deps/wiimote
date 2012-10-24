@@ -1,0 +1,2 @@
+[std_srvs, sensor_msgs, roslib, std_msgs, geometry_msgs, python-cwiid, python-numpy,
+  rospy]
