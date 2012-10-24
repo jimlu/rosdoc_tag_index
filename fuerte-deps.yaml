@@ -269,6 +269,7 @@ joint_normalization_filters: [spline_smoother, angles, filters]
 joint_state_publisher: [sensor_msgs, wxpython, rospy]
 joint_states_settler: [roscpp, actionlib_msgs, sensor_msgs, settlerlib, calibration_msgs,
   actionlib]
+joystick_drivers_tutorials: [common_msgs, joystick_drivers, ros, ros_comm, ros_tutorials]
 kdl_parser: [kdl, urdf, roscpp]
 kinect_depth_calibration: [kdl, stereo_msgs, roslib, sensor_msgs, opencv2, rospy,
   tf, geometry_msgs, cv_bridge, tf_conversions]
@@ -659,6 +660,7 @@ trajectory_filter_server: [filters, roscpp, trajectory_msgs, arm_navigation_msgs
 tts_server: [rospy, festival-extra]
 turtle_actionlib: [roscpp, std_msgs, rosconsole, actionlib, actionlib_msgs, turtlesim,
   angles]
+turtle_teleop: [spacenav_node, roscpp, joy, sensor_msgs, rospy, ps3joy, wiimote, turtlesim]
 turtle_tf: [tf, turtlesim, rospy, roscpp]
 turtlebot: [common_msgs, driver_common, geometry, image_transport_plugins, joystick_drivers,
   multimaster_experimental, nodelet_core, openni_kinect, orocos_kinematics_dynamics,
