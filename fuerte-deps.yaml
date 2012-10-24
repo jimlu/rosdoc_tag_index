@@ -243,8 +243,8 @@ humanoid_walk: [bullet, common_msgs, common_rosdeps, diagnostics, geometry, ros,
 image_cb_detector: [roscpp, actionlib, sensor_msgs, image_transport, opencv2, geometry_msgs,
   calibration_msgs, cv_bridge, actionlib_msgs, pcl_ros]
 imu_drivers: [common_msgs, diagnostics, geometry, ros, ros_comm]
-imu_filter: [roscpp, microstrain_3dmgx2_imu, eigen, tf, visualization_msgs, geometry_msgs,
-  opencv2, dynamic_reconfigure]
+imu_filter: [dynamic_reconfigure, roscpp, opencv2, microstrain_3dmgx2_imu, geometry_msgs,
+  visualization_msgs, tf, eigen]
 interpolated_ik_motion_planner: [rospy, kinematics_msgs, geometry_msgs, arm_navigation_msgs,
   visualization_msgs, sensor_msgs, trajectory_msgs]
 interval_intersection: [actionlib_msgs, calibration_msgs, roscpp, actionlib]
@@ -317,7 +317,7 @@ move_slow_and_clear: [roscpp, nav_core, costmap_2d, geometry_msgs, pluginlib, dy
 multi_master_fkie: [ros]
 multi_robot_collision_avoidance: [common, common_msgs, driver_common, geometry, navigation,
   pluginlib, ros, ros_comm, stage]
-multimaster: [rosgraph, rospy]
+multimaster: [rospy, rosgraph]
 multimaster_experimental: [ros, ros_comm]
 nav_core: [std_msgs, geometry_msgs, costmap_2d, tf]
 nav_msgs: [geometry_msgs]
