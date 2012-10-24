@@ -66,11 +66,11 @@ camera1394: [camera_info_manager, diagnostic_updater, driver_base, dynamic_recon
 camera_drivers: [camera1394, prosilica_driver, wge100_driver]
 camera_pose: [common_msgs, driver_common, geometry, geometry_experimental, orocos_kinematics_dynamics,
   pr2_calibration, robot_model, ros, ros_comm, vision_opencv]
-camera_pose_calibration: [geometry_msgs, calibration_msgs, sensor_msgs, image_cb_detector,
-  monocam_settler, interval_intersection, joint_states_settler, kdl, tf_conversions,
-  tf2_ros, tf2_kdl, message_filters, opencv2]
-camera_pose_toolkits: [std_msgs, rospy, roscpp, tf, geometry_msgs, sensor_msgs, camera_pose_calibration,
-  kdl, kdl_parser, robot_state_publisher, dynamic_reconfigure]
+camera_pose_calibration: [kdl, opencv2, tf2_kdl, message_filters, monocam_settler,
+  sensor_msgs, interval_intersection, geometry_msgs, calibration_msgs, tf2_ros, image_cb_detector,
+  tf_conversions, joint_states_settler]
+camera_pose_toolkits: [kdl, dynamic_reconfigure, roscpp, sensor_msgs, robot_state_publisher,
+  std_msgs, kdl_parser, rospy, camera_pose_calibration, tf, geometry_msgs]
 carrot_planner: [roscpp, costmap_2d, pluginlib, nav_core, base_local_planner, tf,
   angles, common_rosdeps, eigen]
 cereal_port: [roscpp]
@@ -254,8 +254,8 @@ joint_state_publisher: [rospy, sensor_msgs, wxpython]
 joint_states_settler: [roscpp, actionlib_msgs, sensor_msgs, settlerlib, calibration_msgs,
   actionlib]
 kdl_parser: [kdl, urdf, roscpp]
-kinect_depth_calibration: [rospy, roslib, opencv2, cv_bridge, geometry_msgs, sensor_msgs,
-  stereo_msgs, tf_conversions, tf, kdl]
+kinect_depth_calibration: [kdl, stereo_msgs, roslib, sensor_msgs, opencv2, rospy,
+  tf, geometry_msgs, cv_bridge, tf_conversions]
 kinematics_base: [kinematics_msgs]
 kinematics_msgs: [geometry_msgs, trajectory_msgs, arm_navigation_msgs]
 kingfisher: [camera_drivers, image_pipeline, image_transport_plugins, multimaster_experimental,
