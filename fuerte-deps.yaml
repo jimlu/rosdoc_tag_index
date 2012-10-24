@@ -263,6 +263,8 @@ hokuyo_node: [self_test, dynamic_reconfigure, roscpp, diagnostic_updater, sensor
   driver_base]
 humanoid_walk: [bullet, common_msgs, common_rosdeps, diagnostics, geometry, ros, ros_comm,
   robot_model_py]
+icra_navigation_gazebo: [ros_epic_fail, actionlib, roslib, pr2_2dnav_local, rospy,
+  move_base_msgs, gazebo, pr2_gazebo]
 image_cb_detector: [roscpp, actionlib, sensor_msgs, image_transport, opencv2, geometry_msgs,
   calibration_msgs, cv_bridge, actionlib_msgs, pcl_ros]
 image_common: [common_msgs, pluginlib, ros, ros_comm]
@@ -432,6 +434,14 @@ polled_camera: [sensor_msgs, image_transport]
 pose_base_controller: [actionlib, move_base_msgs, nav_msgs, roscpp, tf, geometry_msgs]
 pose_follower: [nav_core, base_local_planner, costmap_2d, roscpp, tf, nav_msgs, pluginlib]
 posest: [opencv2, frame_common, sba, eigen, libtbb]
+pr2_2dnav_gazebo: [move_base, pr2_navigation_teleop, map_server, rviz, gazebo_worlds,
+  std_msgs, pr2_gazebo_plugins, pr2_machine, pr2_navigation_global, gazebo_tools,
+  amcl, fake_localization, gazebo_plugins, pr2_navigation_perception, pr2_tuckarm,
+  pr2_gazebo]
+pr2_arm_gazebo: [nav_msgs, pr2_mechanism_msgs, pr2_gazebo_plugins, gazebo_worlds,
+  actionlib, std_msgs, pr2_ogre, gazebo_msgs, robot_mechanism_controllers, pr2_mechanism_controllers,
+  rospy, gazebo_plugins, pr2_controller_configuration_gazebo, gazebo, robot_state_publisher,
+  pr2_controllers_msgs]
 pr2_arm_ik_tests: [pr2_controller_manager, pr2_arm_navigation_perception, pluginlib,
   kinematics_base, robot_state_publisher, pr2_arm_kinematics, pr2_arm_navigation_kinematics,
   gazebo, pr2_gazebo]
@@ -441,12 +451,36 @@ pr2_arm_navigation_tests: [arm_navigation, common, common_msgs, diagnostics, ima
 pr2_biolab_gazebo_demo: [roscpp, gazebo_worlds, robot_state_publisher, pr2_common_action_msgs,
   joint_trajectory_action, geometry_msgs, tf, pr2_tuckarm, biolab_description, pr2_controllers_msgs,
   gazebo, actionlib, kinematics_msgs, pr2_gazebo]
+pr2_bringup_gazebo_demo: [pr2_description, xacro, std_msgs, pr2_gazebo, pr2_bringup,
+  pr2_mechanism_model]
+pr2_build_map_gazebo_demo: [pr2_teleop, pr2_tuckarm, gmapping, rviz, pr2_gazebo]
 pr2_common_alpha: [common_msgs, joystick_drivers, robot_model, ros, ros_comm, xacro]
 pr2_defs: [convex_decomposition, ivcon, urdf, xacro]
+pr2_doors_gazebo_demo: [pr2_controller_manager, ros_epic_fail, actionlib, pr2_doors_actions,
+  gazebo_tools, rostopic, pr2_doors_executive, move_base_msgs, pr2_tuckarm, gazebo,
+  pr2_gazebo]
+pr2_gazebo_wg: [pr2_description, pr2_gazebo_plugins, rviz, actionlib_msgs, gazebo_worlds,
+  actionlib, pr2_common_action_msgs, pr2_ogre, trajectory_msgs, std_msgs, robot_mechanism_controllers,
+  pr2_mechanism_controllers, gazebo_tools, rospy, gazebo_plugins, pr2_controller_configuration_gazebo,
+  household_objects_database, pr2_tuckarm, robot_state_publisher, pr2_controllers_msgs]
+pr2_laban_gazebo_demo: [roscpp, robot_state_publisher, pr2_common_action_msgs, joint_trajectory_action,
+  geometry_msgs, tf, pr2_tuckarm, pr2_controllers_msgs, gazebo, actionlib, kinematics_msgs,
+  pr2_gazebo]
 pr2_make_a_map_app: [pr2_position_scripts, gmapping, tf, mongodb, topic_tools, map_store]
 pr2_pan_tilt: [geometry_msgs, pr2_controllers_msgs, topic_tools, actionlib, rospy,
   tf]
+pr2_pickup_object_demo: [rxtools, dynamic_reconfigure, xacro, roscpp, stereo_msgs,
+  wge100_camera, trajectory_msgs, sensor_msgs, driver_base, gazebo_tools, geometry_msgs,
+  gazebo_plugins, image_geometry, tf, rospy, pr2_controllers_msgs, gazebo, kinematics_msgs,
+  pr2_gazebo]
+pr2_plugs_gazebo_demo: [nav_msgs, joint_trajectory_generator, roscpp, bullet, pr2_2dnav,
+  pr2_arm_move_ik, pr2_tuck_arms_action, gazebo_tools, geometry_msgs, pr2_plugs_actions,
+  gazebo, pr2_gazebo]
 pr2_tabletop_manipulation_apps: [ros]
+pr2_tabletop_manipulation_gazebo_demo: [pr2_tabletop_manipulation_launch, rosgraph_msgs,
+  pr2_common_action_msgs, robot_state_publisher, pr2_pick_and_place_demos, gazebo_msgs,
+  python-scipy, gazebo_plugins, household_objects_database, pr2_tuckarm, pr2_controllers_msgs,
+  gazebo, actionlib, pr2_gazebo]
 pr2_tuck_arms_app: [rospy, trajectory_msgs, pr2_mechanism_msgs, pr2_tuck_arms_action]
 ptp_arm_action: [tf, pycontroller_manager, actionlib, rospy, object_manipulator]
 pycontroller_manager: [pr2_mechanism_msgs, rospy]
@@ -481,6 +515,7 @@ robot_state_publisher: [kdl_parser, sensor_msgs, roscpp, tf, tf_conversions]
 romeo: [ros]
 ros_apache2: [webui]
 ros_applications: [common, common_msgs, ros, ros_comm]
+ros_epic_fail: [rostest, roslib, rospy]
 rosbag: [python-imaging, bzip2]
 rosconsole: [apr, log4cxx]
 roscpp: [roslang, pkg-config]
@@ -633,6 +668,9 @@ test_collision_space: [roslib, roscpp, planning_environment, planning_models, vi
   collision_space]
 test_nodelet: [std_msgs, rostest, nodelet, pluginlib]
 test_osm: [osm_cartography, route_network, geodesy, geographic_msgs]
+test_pr2_2dnav_gazebo: [nav_msgs, rxtools, map_server, rviz, std_msgs, gazebo_msgs,
+  pr2_gazebo_plugins, fake_localization, gazebo_plugins, pr2_2dnav_gazebo, tf, laser_assembler,
+  robot_pose_ekf, pr2_gazebo]
 test_rospy: [python-numpy]
 test_rve: [roscpp, rosconsole, eigen, rve_msgs, rve_common, rve_interfaces, rve_interface_gen,
   rve_render_server, rve_render_client, rve_qt, rve_transformer, rve_common_transformers,
@@ -781,6 +819,12 @@ wg_flirtlib: [flirtlib_ros]
 wg_pr2_2dnav: [willow_maps, map_server, pr2_navigation_global, pr2_navigation_perception,
   pr2_navigation_teleop, pr2_machine]
 wg_pr2_apps: [navigation, pr2_common, pr2_navigation, ros, wg_common]
+wg_robots_gazebo: [arm_navigation, bullet, camera_drivers, common, common_msgs, driver_common,
+  geometry, image_pipeline, laser_pipeline, navigation, object_manipulation, physics_ode,
+  pr2_apps, pr2_arm_navigation, pr2_common, pr2_common_actions, pr2_controllers, pr2_doors,
+  pr2_mechanism, pr2_navigation, pr2_navigation_apps, pr2_object_manipulation, pr2_plugs,
+  pr2_robot, pr2_simulator, robot_model, ros, ros_comm, rx, simulator_gazebo, slam_gmapping,
+  vision_opencv, visualization, xacro]
 wge100_camera: [self_test, dynamic_reconfigure, timestamp_tools, roscpp, driver_base,
   std_msgs, sensor_msgs, image_transport, diagnostic_updater, rostest, rospy, camera_calibration_parsers]
 wge100_camera_firmware: [gforth, rostest, rospy]
