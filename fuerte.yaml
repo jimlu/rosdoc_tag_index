@@ -715,6 +715,11 @@ ros-fuerte-universal-robot:
   package: ur5_bringup}
 - {docs_url: ../../../api/ur5_gazebo/html, location: 'http://ros.org/rosdoclite/fuerte/api/ur5_gazebo/tags/ur5_gazebo.tag',
   package: ur5_gazebo}
+ros-fuerte-visualization-common:
+- {docs_url: ../../../api/ogre/html, location: 'http://ros.org/rosdoclite/fuerte/api/ogre/tags/ogre.tag',
+  package: ogre}
+- {docs_url: ../../../api/ogre_tools/html, location: 'http://ros.org/rosdoclite/fuerte/api/ogre_tools/tags/ogre_tools.tag',
+  package: ogre_tools}
 ros-fuerte-warehousewg:
 - {docs_url: ../../../api/mongodb/html, location: 'http://ros.org/rosdoclite/fuerte/api/mongodb/tags/mongodb.tag',
   package: mongodb}

@@ -381,6 +381,9 @@ object_tracker: [image_geometry, worldmodel_msgs, roscpp, hector_nav_msgs, hecto
 occupancy_grid_utils: [nav_msgs, geometry_msgs, tf, sensor_msgs, roscpp, laser_geometry,
   bullet, rospy, map_server]
 odometry_publisher_tutorial: [nav_msgs, tf, roscpp]
+ogre: [nvidia-cg, opengl, freeimage, gtk2, libxaw, common_rosdeps, zziplib, libxrandr,
+  libxxf86vm, pkg-config]
+ogre_tools: [rosconsole, roslib, ogre]
 ogre_tools_qt: [rosconsole, roslib, ogre]
 ompl_ros_interface: [sensor_msgs, planning_models, planning_environment, arm_navigation_msgs,
   kinematics_base, pluginlib, ompl]
@@ -725,6 +728,7 @@ urdf_parser_py: [rospy]
 viso2: [ros]
 viso2_ros: [nav_msgs, image_geometry, roscpp, message_filters, libviso2, sensor_msgs,
   image_transport, tf, cv_bridge, pcl_ros]
+visualization_common: [common_rosdeps, ros, ros_comm]
 visualization_engine: [common, common_msgs, geometry, laser_pipeline, robot_model,
   ros, visualization_common, image_common]
 visualization_experimental: [common_msgs, common_rosdeps, geometry, image_common,
