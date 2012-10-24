@@ -372,7 +372,7 @@ planning_environment: [roscpp, rosconsole, rosbag, actionlib_msgs, actionlib, tf
   visualization_msgs, planning_models, collision_space, pcl_ros, robot_self_filter,
   rviz, yaml-cpp, libqt4-dev, tinyxml, pkg-config]
 planning_models: [urdf, rosconsole, geometric_shapes, bullet, angles, pkg-config]
-pluginlib: [roslib, rosconsole, tinyxml]
+pluginlib: [rosconsole, roslib, tinyxml]
 pluginlib_tutorials: [pluginlib, roscpp]
 point_cloud_publisher_tutorial: [roscpp, sensor_msgs]
 pointcloud_to_laserscan: [nodelet, sensor_msgs, pcl_ros, dynamic_reconfigure]
