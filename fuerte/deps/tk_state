@@ -1,0 +1,2 @@
+[roscpp, telekyb_base, pluginlib, telekyb_msgs, sensor_msgs, odeint_wrapper, telekyb_defines,
+  tf, tk_draft_msgs]
