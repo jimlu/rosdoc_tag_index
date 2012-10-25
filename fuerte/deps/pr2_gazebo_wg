@@ -1,0 +1,4 @@
+[pr2_description, pr2_gazebo_plugins, rviz, actionlib_msgs, gazebo_worlds, actionlib,
+  pr2_common_action_msgs, pr2_ogre, trajectory_msgs, std_msgs, robot_mechanism_controllers,
+  pr2_mechanism_controllers, gazebo_tools, rospy, gazebo_plugins, pr2_controller_configuration_gazebo,
+  household_objects_database, pr2_tuckarm, robot_state_publisher, pr2_controllers_msgs]
