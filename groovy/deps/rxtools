@@ -1,0 +1,2 @@
+[rosgraph_msgs, python-matplotlib, catkin, roscpp, roslib, wxpython_swig_interface,
+  xdot, wxpython, rospy, swig-wx, python-gtk2, wxwidgets]
