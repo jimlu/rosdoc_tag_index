@@ -1,0 +1,4 @@
+[laser_joint_processor, laser_cb_detector, image_view, calibration_estimation, laser_joint_projector,
+  sensor_msgs, kdl_parser, robot_mechanism_controllers, pr2_teleop, rostest, pr2_dense_laser_snapshotter,
+  geometry_msgs, calibration_msgs, monocam_settler, stereo_image_proc, rospy, kdl,
+  image_cb_detector, calibration_launch]
