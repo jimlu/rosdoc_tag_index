@@ -1,0 +1,2 @@
+[nav_msgs, joint_trajectory_generator, roscpp, bullet, pr2_2dnav, pr2_arm_move_ik,
+  pr2_tuck_arms_action, gazebo_tools, geometry_msgs, pr2_plugs_actions, gazebo, pr2_gazebo]

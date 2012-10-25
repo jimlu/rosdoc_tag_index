@@ -1,0 +1,6 @@
+[arm_navigation, bullet, camera_drivers, common, common_msgs, driver_common, geometry,
+  image_pipeline, laser_pipeline, navigation, object_manipulation, physics_ode, pr2_apps,
+  pr2_arm_navigation, pr2_common, pr2_common_actions, pr2_controllers, pr2_doors,
+  pr2_mechanism, pr2_navigation, pr2_navigation_apps, pr2_object_manipulation, pr2_plugs,
+  pr2_robot, pr2_simulator, robot_model, ros, ros_comm, rx, simulator_gazebo, slam_gmapping,
+  vision_opencv, visualization, xacro]
