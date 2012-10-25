@@ -1,0 +1,2 @@
+[rosconsole, genmsg, catkin, roscpp, actionlib_msgs, ros_comm, rostime, ros, langs-dev,
+  roscpp_traits, langs, cpp_common, boost, common_msgs]
