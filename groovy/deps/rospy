@@ -1,0 +1,1 @@
+[genpy, catkin, rosgraph, roslib, python-numpy, python-rospkg, std_msgs]
