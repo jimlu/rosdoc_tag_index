@@ -1,0 +1,2 @@
+[nav_msgs, laser_geometry, roscpp, occupancy_grid_utils, sensor_msgs, sba, geometry_msgs,
+  eigen3, visualization_msgs, tf, rosbag]
