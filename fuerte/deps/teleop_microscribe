@@ -1,0 +1,2 @@
+[std_srvs, roscpp, pr2_cockpit_msgs, actionlib, image_rotate, microscribe, infinity_pedals,
+  geometry_msgs, tf, rospy, pr2_controllers_msgs]
