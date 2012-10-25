@@ -1,0 +1,1 @@
+[roslib, trajectory_msgs, rospy, joint_trajectory_action, pr2_controllers_msgs]
