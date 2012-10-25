@@ -1,0 +1,2 @@
+[common_msgs, common_rosdeps, geometry, image_common, laser_pipeline, pluginlib, robot_model,
+  ros, ros_comm, visualization, visualization_common]
