@@ -1,0 +1,3 @@
+[common, common_msgs, geometry, image_common, motion_planning_common, object_manipulation,
+  perception_pcl, pr2_common, pr2_object_manipulation, ros, ros_comm, visualization,
+  visualization_common]
