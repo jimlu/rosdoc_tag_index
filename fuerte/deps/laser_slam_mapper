@@ -1,0 +1,2 @@
+[roscpp, topological_map_2d, mongo_roscpp, octomap_ros, pcl, visualization_msgs, tf,
+  laser_slam]
