@@ -1,0 +1,2 @@
+[common, common_msgs, geometry, laser_pipeline, arm_navigation, navigation, pr2_common,
+  pr2_controllers, pr2_mechanism, pr2_navigation, pr2_simulator, ros, ros_comm, simulator_stage]
