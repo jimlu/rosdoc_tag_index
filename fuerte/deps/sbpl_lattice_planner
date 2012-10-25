@@ -1,0 +1,1 @@
+[nav_msgs, roscpp, costmap_2d, pluginlib, sbpl, nav_core, geometry_msgs]
