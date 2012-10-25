@@ -1,0 +1,3 @@
+[pr2_navigation_teleop, pr2_navigation_self_filter, pr2_move_base, pr2_navigation_config,
+  pr2_navigation_slam, laser_tilt_controller_filter, pr2_navigation_global, pr2_navigation_local,
+  pr2_navigation_perception, semantic_point_annotator]

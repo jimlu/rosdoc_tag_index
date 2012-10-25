@@ -1,0 +1,2 @@
+[common, policy_learning, openni_kinect, arm_navigation, pr2_common, pr2_controllers,
+  pr2_mechanosm, ros, ros_comm]

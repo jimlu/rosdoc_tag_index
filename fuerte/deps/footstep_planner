@@ -1,0 +1,2 @@
+[map_server, roscpp, humanoid_nav_msgs, actionlib, sbpl, rospy, gridmap_2d, angles,
+  visualization_msgs, tf]

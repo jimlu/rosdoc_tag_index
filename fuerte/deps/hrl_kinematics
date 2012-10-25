@@ -1,0 +1,2 @@
+[roscpp, robot_state_publisher, sensor_msgs, kdl_parser, assimp, pcl, visualization_msgs,
+  geometric_shapes, tf_conversions]
