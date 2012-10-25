@@ -1,0 +1,5 @@
+[arm_navigation_msgs, trajectory_msgs, spline_smoother, kinematics_msgs, face_detector,
+  actionlib, pr2_common_action_msgs, tts_server, ptp_arm_action, tf_broadcast_server,
+  tf, pr2_object_manipulation_msgs, sensor_msgs, std_msgs, pr2_gripper_sensor_msgs,
+  object_manipulator, rospy, move_base_msgs, pr2_controllers_msgs, smach, geometry_msgs,
+  rcommander]
