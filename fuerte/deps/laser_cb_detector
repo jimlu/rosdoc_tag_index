@@ -1,0 +1,2 @@
+[roscpp, message_filters, actionlib_msgs, std_msgs, opencv2, calibration_msgs, image_cb_detector,
+  cv_bridge]

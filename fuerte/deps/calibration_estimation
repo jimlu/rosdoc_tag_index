@@ -1,0 +1,2 @@
+[sensor_msgs, python-scipy, rostest, rospy, calibration_msgs, visualization_msgs,
+  tf]
