@@ -1,0 +1,1 @@
+[base_local_planner, nav_core, geometry_msgs, costmap_2d, pluginlib]
