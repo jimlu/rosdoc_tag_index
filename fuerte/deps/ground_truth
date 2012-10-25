@@ -1,0 +1,2 @@
+[image_geometry, eigen, image_transport, opencv2, pcl, color_table, cv_bridge, pcl_visualization,
+  pcl_ros]
