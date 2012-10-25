@@ -1,0 +1,3 @@
+[pr2_tabletop_manipulation_launch, rosgraph_msgs, pr2_common_action_msgs, robot_state_publisher,
+  pr2_pick_and_place_demos, gazebo_msgs, python-scipy, gazebo_plugins, household_objects_database,
+  pr2_tuckarm, pr2_controllers_msgs, gazebo, actionlib, pr2_gazebo]

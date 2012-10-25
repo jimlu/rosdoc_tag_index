@@ -1,0 +1,2 @@
+[nav_msgs, rxtools, map_server, rviz, std_msgs, gazebo_msgs, pr2_gazebo_plugins, fake_localization,
+  gazebo_plugins, pr2_2dnav_gazebo, tf, laser_assembler, robot_pose_ekf, pr2_gazebo]

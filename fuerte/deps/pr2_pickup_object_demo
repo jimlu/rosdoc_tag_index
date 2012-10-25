@@ -1,0 +1,3 @@
+[rxtools, dynamic_reconfigure, xacro, roscpp, stereo_msgs, wge100_camera, trajectory_msgs,
+  sensor_msgs, driver_base, gazebo_tools, geometry_msgs, gazebo_plugins, image_geometry,
+  tf, rospy, pr2_controllers_msgs, gazebo, kinematics_msgs, pr2_gazebo]
