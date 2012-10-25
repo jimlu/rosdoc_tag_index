@@ -1,0 +1,2 @@
+[door_handle_detector, pr2_doors_common, pr2_laser_snapshotter, pr2_doors_actions,
+  door_msgs, tff_controller, pr2_doors_executive, ANN_doors]

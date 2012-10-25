@@ -1,0 +1,2 @@
+[common, common_msgs, filters, geometry, navigation, pluginlib, pr2_controllers, ros,
+  ros_comm, common_rosdeps]
