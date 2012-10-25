@@ -1,0 +1,3 @@
+[actionlib, arm_navigation, arm_navigation_experimental, common_msgs, control, dynamic_reconfigure,
+  image_pipeline, laser_pipeline, pr2_common, pr2_controllers, pr2_kinematics, pr2_mechanism,
+  robot_model, ros, ros_comm]
