@@ -1,0 +1,2 @@
+- {docs_url: ../../../api/rosbuild/html, location: 'http://ros.org/rosdoclite/groovy/api/rosbuild/tags/rosbuild.tag',
+  package: rosbuild}
