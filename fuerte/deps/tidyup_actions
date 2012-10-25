@@ -1,0 +1,4 @@
+[planner_benchmarks, tidyup_msgs, std_srvs, tidyup_utils, tfd_modules, planner_modules_pr2,
+  coverage_3d_srvs, state_transformer, door_perception_msgs, tf, continual_planning_monitor,
+  hardcoded_facts, visualization_msgs, move_base_msgs, roscpp, continual_planning_executive,
+  arm_navigation_msgs]

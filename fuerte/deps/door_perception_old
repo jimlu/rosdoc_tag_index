@@ -1,0 +1,1 @@
+[std_srvs, roscpp, actionlib, std_msgs, articulation_msgs, geometry_msgs, tf, pr2_controllers_msgs]

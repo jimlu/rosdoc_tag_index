@@ -1,0 +1,2 @@
+[roscpp, sensor_msgs, image_transport, python-imaging-tk, opencv2, rospy, portrait_robot_msgs,
+  tinyxml, cv_bridge]

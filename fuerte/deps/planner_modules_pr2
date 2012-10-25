@@ -1,0 +1,2 @@
+[nav_msgs, planner_benchmarks, tidyup_msgs, tidyup_utils, tfd_modules, pluginlib,
+  hardcoded_facts, tf, continual_planning_executive, arm_navigation_msgs]

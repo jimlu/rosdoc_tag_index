@@ -1,0 +1,2 @@
+[image_proc, eigen, uvc_cam2, articulation_structure, compressed_image_transport,
+  articulation_models, checkerboard_detector2]

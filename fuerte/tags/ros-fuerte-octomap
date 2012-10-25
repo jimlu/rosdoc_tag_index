@@ -1,0 +1,2 @@
+- {docs_url: ../../../api/octomap/html, location: 'http://ros.org/rosdoclite/fuerte/api/octomap/tags/octomap.tag',
+  package: octomap}

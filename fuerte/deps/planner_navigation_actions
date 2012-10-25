@@ -1,0 +1,2 @@
+[hardcoded_facts, roscpp, pluginlib, actionlib, tf, move_base_msgs, continual_planning_executive,
+  tidyup_utils]

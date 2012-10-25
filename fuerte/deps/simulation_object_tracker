@@ -1,0 +1,2 @@
+[tidyup_msgs, actionlib, pr2_python, tidyup_arm_services, hardcoded_facts, rospy,
+  visualization_msgs, tf, arm_navigation_msgs]

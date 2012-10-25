@@ -1,0 +1,2 @@
+[eigen, bullet, libgsl, sensor_msgs, articulation_msgs, gaussian_process, libatlas,
+  geometry_msgs, visualization_msgs, tf, icp]

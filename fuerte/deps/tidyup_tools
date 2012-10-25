@@ -1,0 +1,2 @@
+[sbpl_3dnav_planner, hardcoded_facts, roscpp, planner_modules_pr2, pr2_python, tidyup_arm_services,
+  rospy]

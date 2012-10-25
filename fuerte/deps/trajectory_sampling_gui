@@ -1,0 +1,2 @@
+[dmp_motion_learner, pr2_mechanism_msgs, rosparam, roslib, sensor_msgs, dmp_motion_controller,
+  rosservice, rospy]

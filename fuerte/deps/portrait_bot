@@ -1,0 +1,3 @@
+[common, common_msgs, driver_common, ee_cart_imped, geometry, image_common, image_transport_plugins,
+  laser_pipeline, people, perception_pcl, pr2_common, pr2_controllers, ros, ros_comm,
+  vision_opencv]
