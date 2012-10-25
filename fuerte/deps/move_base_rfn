@@ -1,0 +1,1 @@
+[move_base_msgs, location_memorizer, geometry_msgs, rfnserver, tf, rospy]

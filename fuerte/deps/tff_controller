@@ -1,0 +1,2 @@
+[kdl, control_toolbox, pr2_controller_interface, pluginlib, realtime_tools, geometry_msgs,
+  tf, pr2_mechanism_model]
