@@ -1,0 +1,3 @@
+[ogre, libxml2, urdf, protobuf-dev, fltk, roslib, libqt4-dev, yaml, dynamic_reconfigure,
+  tf, common_rosdeps, urdf_interface, gazebo_msgs, libqt4-opengl-dev, libtool, tinyxml,
+  tbb, roscpp, rosgraph_msgs, std_srvs, bullet, geometry_msgs, pkg-config]
