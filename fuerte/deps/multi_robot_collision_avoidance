@@ -1,0 +1,2 @@
+[common, common_msgs, driver_common, geometry, navigation, pluginlib, ros, ros_comm,
+  stage]

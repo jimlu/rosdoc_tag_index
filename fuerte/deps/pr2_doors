@@ -1,0 +1,4 @@
+[arm_navigation, common, common_msgs, common_rosdeps, diagnostics, executive_smach,
+  geometry, laser_pipeline, navigation, orocos_kinematics_dynamics, pluginlib, pr2_common,
+  pr2_common_actions, pr2_controllers, pr2_mechanism, pr2_navigation, ros, ros_comm,
+  vision_opencv]

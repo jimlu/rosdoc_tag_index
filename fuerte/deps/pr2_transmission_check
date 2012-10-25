@@ -1,0 +1,2 @@
+[pr2_description, pr2_mechanism_msgs, std_srvs, roscpp, urdf, std_msgs, diagnostic_updater,
+  rospy, pr2_msgs, angles, xacro, pr2_component_descriptions, diagnostic_msgs, pr2_mechanism_model]

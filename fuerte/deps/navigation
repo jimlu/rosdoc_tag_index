@@ -1,0 +1,2 @@
+[actionlib, bfl, common_msgs, common_rosdeps, dynamic_reconfigure, geometry, laser_pipeline,
+  perception_pcl, pluginlib, ros, ros_comm]

@@ -1,0 +1,2 @@
+[telekyb_base, roscpp, message_filters, telekyb_msgs, sensor_msgs, tk_haptics_msgs,
+  rosbag]

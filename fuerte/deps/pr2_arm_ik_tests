@@ -1,0 +1,3 @@
+[pr2_controller_manager, pr2_arm_navigation_perception, pluginlib, kinematics_base,
+  robot_state_publisher, pr2_arm_kinematics, pr2_arm_navigation_kinematics, gazebo,
+  pr2_gazebo]
