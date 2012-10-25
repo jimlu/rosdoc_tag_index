@@ -1,0 +1,2 @@
+[dynamic_reconfigure, image_proc, roscpp, message_filters, nodelet, sensor_msgs, opencv2,
+  stereo_msgs, cv_bridge]
