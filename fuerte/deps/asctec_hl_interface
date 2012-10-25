@@ -1,0 +1,2 @@
+[dynamic_reconfigure, roscpp, sensor_fusion_comm, asctec_hl_comm, actionlib, sensor_msgs,
+  diagnostic_updater, geometry_msgs, tf]
