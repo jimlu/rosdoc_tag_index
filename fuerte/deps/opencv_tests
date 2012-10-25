@@ -1,0 +1,1 @@
+[sensor_msgs, rospy, rostest, cv_bridge, opencv2]
