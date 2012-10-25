@@ -1,0 +1,2 @@
+[ros, ros_comm, perception_pcl_unstable, common_msgs, geometry, common_rosdeps, eigen,
+  common, pr2_controllers, bosch_manipulation_utils]

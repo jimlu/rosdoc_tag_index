@@ -1,0 +1,2 @@
+[pr2_navigation_teleop, pr2_controller_manager, door_handle_detector, pr2_mechanism_msgs,
+  smach_ros, pr2_doors_actions, smach, pr2_navigation_local, pr2_navigation_perception]

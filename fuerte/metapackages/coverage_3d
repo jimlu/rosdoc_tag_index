@@ -1,0 +1,2 @@
+[coverage_3d_planning, coverage_3d_srvs, coverage_3d_tools, coverage_3d_arm_navigation,
+  voro, coverage_3d_executive, coverage_3d_msgs, lkh_solver, surfacelet]

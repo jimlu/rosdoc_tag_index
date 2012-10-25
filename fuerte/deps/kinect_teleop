@@ -1,0 +1,3 @@
+[nav_msgs, pr2_controller_manager, ps-engine, eigen, message_filters, pr2_mechanism_msgs,
+  actionlib, roslib, std_msgs, openni, geometry_msgs, tf, roscpp, kdl, robot_state_publisher,
+  pr2_controllers_msgs]

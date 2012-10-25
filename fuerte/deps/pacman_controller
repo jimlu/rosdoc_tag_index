@@ -1,0 +1,2 @@
+[collvoid_local_planner, std_srvs, roscpp, actionlib, std_msgs, collvoid_msgs, move_base_msgs,
+  geometry_msgs, visualization_msgs, tf, rospy]

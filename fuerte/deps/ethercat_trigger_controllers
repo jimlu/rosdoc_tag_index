@@ -1,0 +1,1 @@
+[roscpp, pluginlib, pr2_controller_interface, realtime_tools, rospy, libtool, diagnostic_msgs]

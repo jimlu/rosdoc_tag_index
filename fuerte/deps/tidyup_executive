@@ -1,0 +1,5 @@
+[sbpl_3dnav_planner, screenrun, tidyup_utils, tfd_modules, continual_planning_executive,
+  sushi_turntable, pymongo, planner_modules_pr2, state_transformer, sensor_msgs, continual_planning_monitor,
+  tidyup_actions, planner_navigation_actions, pose_follower_3d, mobile_manipulation_msgs,
+  tidyup_arm_services, object_manipulator, pr2_gripper_grasp_planner_cluster, pr2_tasks,
+  geometry_msgs, coverage_3d_executive, door_executive]
