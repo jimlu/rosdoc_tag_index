@@ -1,0 +1,1 @@
+[nav_msgs, avr-libc, std_msgs, sensor_msgs, gcc-avr, geometry_msgs, rosserial_client]

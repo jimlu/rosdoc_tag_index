@@ -1,0 +1,2 @@
+[joy, camera_info_manager, sensor_msgs, image_transport, opencv2, rospy, tf, ardrone_autonomy,
+  cv_bridge]
