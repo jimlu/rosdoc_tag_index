@@ -1,0 +1,3 @@
+[libg2o, libgsl, roscpp, cv_bridge, libglew-dev, sensor_msgs, libqt4-opengl-dev, libqt4-dev,
+  libdevil-dev, eigen, rospy, pcl, visualization_msgs, tf, geometry_msgs, rosbag,
+  pcl_ros]

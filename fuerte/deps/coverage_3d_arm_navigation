@@ -1,0 +1,4 @@
+[kdl, eigen, spline_smoother, tf2, roscpp, planning_environment, actionlib, coverage_3d_tools,
+  pcl_ros, pcl, visualization_msgs, tf, common_rosdeps, lkh_solver, pr2_controllers_msgs,
+  std_msgs, octomap_ros, rospy, angles, arm_navigation_msgs, std_srvs, kdl_parser,
+  octomap]

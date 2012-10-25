@@ -1,0 +1,3 @@
+[pr2_mechanism_msgs, std_srvs, eigen, ee_cart_imped_control, actionlib, sensor_msgs,
+  geometry_msgs, pcl, visualization_msgs, tf, ee_cart_imped_action, pr2_controllers_msgs,
+  pcl_ros]

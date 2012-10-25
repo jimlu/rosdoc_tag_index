@@ -1,0 +1,2 @@
+[hogman_minimal, eigen, articulation_models, articulation_msgs, geometry_msgs, visualization_msgs,
+  tf]

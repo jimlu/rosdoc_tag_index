@@ -1,0 +1,2 @@
+[common, common_msgs, driver_common, geometry, ros, ros_comm, visualization, visualization_common,
+  freiburg_tools, image_transport_plugins, image_pipeline, vision_opencv]

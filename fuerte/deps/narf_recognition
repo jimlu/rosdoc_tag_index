@@ -1,0 +1,2 @@
+[tidyup_msgs, roscpp, std_msgs, eigen, rospy, pcl, visualization_msgs, tf, common_rosdeps,
+  pcl_ros]
