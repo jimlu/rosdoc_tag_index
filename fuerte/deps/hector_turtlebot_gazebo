@@ -1,0 +1,2 @@
+[hector_turtlebot_description, hector_turtlebot_scan_filter, pointcloud_to_laserscan,
+  turtlebot_gazebo, turtlebot_gazebo_plugins]
