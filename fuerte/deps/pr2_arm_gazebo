@@ -1,0 +1,4 @@
+[nav_msgs, pr2_mechanism_msgs, pr2_gazebo_plugins, gazebo_worlds, actionlib, std_msgs,
+  pr2_ogre, gazebo_msgs, robot_mechanism_controllers, pr2_mechanism_controllers, rospy,
+  gazebo_plugins, pr2_controller_configuration_gazebo, gazebo, robot_state_publisher,
+  pr2_controllers_msgs]

@@ -1,0 +1,3 @@
+[move_base, pr2_navigation_teleop, map_server, rviz, gazebo_worlds, std_msgs, pr2_gazebo_plugins,
+  pr2_machine, pr2_navigation_global, gazebo_tools, amcl, fake_localization, gazebo_plugins,
+  pr2_navigation_perception, pr2_tuckarm, pr2_gazebo]
