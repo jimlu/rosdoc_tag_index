@@ -1,0 +1,2 @@
+[roscpp, message_filters, rve_common, rve_interface_gen, rve_pluginloader, rve_render_client,
+  tf2_ros, rve_properties, tf, rve_msgs, rve_interfaces, tf2]

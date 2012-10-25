@@ -1,0 +1,2 @@
+[pose_base_controller, goal_passer, assisted_teleop, eband_local_planner, pose_follower,
+  twist_recovery, sbpl_lattice_planner, sbpl_recovery]

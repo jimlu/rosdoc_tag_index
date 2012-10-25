@@ -1,0 +1,2 @@
+[map_server, articulate_cart, pr2_machine, cart_state_estimator, cart_pushing_executive,
+  fake_localization, rostopic, manipulation_transforms, stage]

@@ -1,0 +1,2 @@
+[actionlib, common_msgs, driver_common, executive_smach, pr2_common, ros, ros_comm,
+  ros_tutorials]

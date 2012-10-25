@@ -1,0 +1,3 @@
+[image_geometry, nav_msgs, roscpp, message_filters, posest, sensor_msgs, vocabulary_tree,
+  std_msgs, image_transport, opencv2, stereo_msgs, sba, dynamic_reconfigure, pcl,
+  tf, cv_bridge]

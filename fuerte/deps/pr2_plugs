@@ -1,0 +1,3 @@
+[actionlib, bfl, dynamic_reconfigure, executive_smach, geometry, geometry_experimental,
+  image_common, navigation, orocos_kinematics_dynamics, perception_pcl, pr2_common,
+  pr2_common_actions, pr2_controllers, pr2_mechanism, ros, vision_opencv]

@@ -1,0 +1,2 @@
+[common, common_msgs, geometry, object_manipulation, pr2_controllers, pr2_object_manipulation,
+  ros, ros_comm, tabletop_object_perception, visualization]

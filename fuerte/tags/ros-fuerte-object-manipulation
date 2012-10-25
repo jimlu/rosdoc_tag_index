@@ -1,0 +1,16 @@
+- {docs_url: ../../../api/household_objects_database_msgs/html, location: 'http://ros.org/rosdoclite/fuerte/api/household_objects_database_msgs/tags/household_objects_database_msgs.tag',
+  package: household_objects_database_msgs}
+- {docs_url: ../../../api/rviz_interaction_tools/html, location: 'http://ros.org/rosdoclite/fuerte/api/rviz_interaction_tools/tags/rviz_interaction_tools.tag',
+  package: rviz_interaction_tools}
+- {docs_url: ../../../api/object_manipulation_msgs/html, location: 'http://ros.org/rosdoclite/fuerte/api/object_manipulation_msgs/tags/object_manipulation_msgs.tag',
+  package: object_manipulation_msgs}
+- {docs_url: ../../../api/object_manipulator/html, location: 'http://ros.org/rosdoclite/fuerte/api/object_manipulator/tags/object_manipulator.tag',
+  package: object_manipulator}
+- {docs_url: ../../../api/household_objects_database/html, location: 'http://ros.org/rosdoclite/fuerte/api/household_objects_database/tags/household_objects_database.tag',
+  package: household_objects_database}
+- {docs_url: ../../../api/bayesian_grasp_planner/html, location: 'http://ros.org/rosdoclite/fuerte/api/bayesian_grasp_planner/tags/bayesian_grasp_planner.tag',
+  package: bayesian_grasp_planner}
+- {docs_url: ../../../api/static_transform_broadcaster/html, location: 'http://ros.org/rosdoclite/fuerte/api/static_transform_broadcaster/tags/static_transform_broadcaster.tag',
+  package: static_transform_broadcaster}
+- {docs_url: ../../../api/probabilistic_grasp_planner/html, location: 'http://ros.org/rosdoclite/fuerte/api/probabilistic_grasp_planner/tags/probabilistic_grasp_planner.tag',
+  package: probabilistic_grasp_planner}

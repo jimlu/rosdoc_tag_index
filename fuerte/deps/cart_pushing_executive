@@ -1,0 +1,4 @@
+[move_base, map_server, twist_recovery, pr2_navigation_perception, pr2_machine, articulate_cart,
+  actionlib, laser_filters, cart_local_planner, cart_pushing_msgs, pr2_navigation_global,
+  move_base_msgs, topic_tools, amcl, pr2_pose_saver, pr2_gripper_action, tf, cart_state_estimator,
+  sbpl_cart_planner, isolated_point_filter, pr2_controllers_msgs]

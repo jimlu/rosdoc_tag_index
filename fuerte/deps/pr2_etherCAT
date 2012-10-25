@@ -1,0 +1,2 @@
+[pr2_controller_manager, std_srvs, roscpp, ethercat_hardware, diagnostic_updater,
+  realtime_tools, pr2_hardware_interface, diagnostic_msgs, pr2_mechanism_model]

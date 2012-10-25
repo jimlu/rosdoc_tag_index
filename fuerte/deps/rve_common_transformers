@@ -1,0 +1,2 @@
+[nav_msgs, roscpp, rve_properties, sensor_msgs, rve_pluginloader, rve_render_client,
+  rve_transformer, rve_common, tf2]
