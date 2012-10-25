@@ -1,0 +1,1 @@
+[dynamic_reconfigure, image_common, pluginlib, ros_comm, vision_opencv]
