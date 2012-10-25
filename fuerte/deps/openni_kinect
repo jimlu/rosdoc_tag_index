@@ -1,0 +1,2 @@
+[common_msgs, common_rosdeps, dynamic_reconfigure, geometry, image_common, nodelet_core,
+  openni_camera, openni_launch, openni_tracker, perception_pcl, ros, ros_comm]
