@@ -1,0 +1,1 @@
+[catkin, python, python-rosdep, gtest, python-coverage, boost]

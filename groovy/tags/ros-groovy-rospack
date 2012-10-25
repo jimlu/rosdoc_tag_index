@@ -1,0 +1,2 @@
+- {docs_url: ../../../api/rospack/html, location: 'http://ros.org/rosdoclite/groovy/api/rospack/tags/rospack.tag',
+  package: rospack}
