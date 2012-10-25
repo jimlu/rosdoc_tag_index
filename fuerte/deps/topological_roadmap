@@ -1,0 +1,2 @@
+[navfn, costmap_2d, occupancy_grid_utils, actionlib, topological_nav_msgs, topological_map_2d,
+  graph_mapping_utils, mongo_roscpp, visualization_msgs, move_base_msgs]
