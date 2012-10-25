@@ -1,0 +1,2 @@
+[dynamic_reconfigure, laser_geometry, std_srvs, roscpp, pluginlib, actionlib, collvoid_msgs,
+  move_base_msgs, nav_core, angles, visualization_msgs, tf, amcl, base_local_planner]

@@ -1,0 +1,3 @@
+[dynamic_reconfigure, ieee80211_channels, python-scapy, std_msgs, asmach, udhcpc,
+  beep, python-libpcap, rospy, pr2_msgs, wpa_supplicant_node, python-twisted-core,
+  diagnostic_msgs, network_monitor_udp]

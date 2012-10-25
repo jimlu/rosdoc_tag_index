@@ -1,0 +1,4 @@
+[kdl, joint_trajectory_generator, actionlib_msgs, door_msgs, diagnostic_updater, roscpp,
+  actionlib, pr2_arm_move_ik, tff_controller, tf, base_local_planner, door_handle_detector,
+  costmap_2d, pr2_common_action_msgs, std_msgs, move_base_msgs, laser_assembler, diagnostic_msgs,
+  pr2_controllers_msgs, pr2_laser_snapshotter, geometry_msgs, pr2_doors_common]
