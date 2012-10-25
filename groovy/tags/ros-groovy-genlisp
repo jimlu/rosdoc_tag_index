@@ -1,0 +1,2 @@
+- {docs_url: ../../../api/genlisp/html, location: 'http://ros.org/rosdoclite/groovy/api/genlisp/tags/genlisp.tag',
+  package: genlisp}
