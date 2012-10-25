@@ -1,0 +1,1 @@
+[message_filters, cv_bridge, sensor_msgs, rospy, stereo_image_proc, rosbag]
