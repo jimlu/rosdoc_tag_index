@@ -1,0 +1,2 @@
+- {docs_url: ../../../api/cpp_common/html, location: 'http://ros.org/rosdoclite/groovy/api/cpp_common/tags/cpp_common.tag',
+  package: cpp_common}
