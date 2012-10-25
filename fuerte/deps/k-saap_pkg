@@ -1,0 +1,1 @@
+[std_msgs, auction_msgs, rospy, roscpp, auction_srvs]
