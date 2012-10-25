@@ -1,0 +1,2 @@
+[ros, ros_comm, common, common_msgs, geometry, navigation, arm_navigation, executive_smach,
+  pr2_controllers, pr2_mechanism]
