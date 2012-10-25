@@ -1,0 +1,1 @@
+[roscpp, costmap_2d, pluginlib, pose_follower, nav_core, sbpl_lattice_planner, base_local_planner]
