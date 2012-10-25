@@ -1,0 +1,5 @@
+[arm_navigation, arm_navigation_experimental, camera_drivers, common, common_msgs,
+  diagnostics, diagnostics_monitors, geometry, image_pipeline, imu_drivers, joystick_drivers,
+  laser_drivers, navigation, pr2_apps, pr2_arm_navigation, pr2_common, pr2_controllers,
+  pr2_ethercat_drivers, pr2_mechanism, pr2_power_drivers, pr2_robot, pr2_self_test,
+  robot_model, ros, ros_comm, rx, vision_opencv, visualization]
