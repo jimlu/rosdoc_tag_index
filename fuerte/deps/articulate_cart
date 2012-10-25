@@ -1,0 +1,2 @@
+[pr2_mechanism_msgs, pr2_controller_manager, actionlib, roslib, std_msgs, rospy, manipulation_transforms,
+  move_base_msgs, geometry_msgs, pr2_controllers_msgs]
