@@ -1,0 +1,3 @@
+[actionlib, bullet, dynamic_reconfigure, filters, geometry, laser_pipeline, navigation,
+  pluginlib, pr2_apps, pr2_common, pr2_common_actions, pr2_controllers, robot_model,
+  ros_comm, ros, slam_gmapping]

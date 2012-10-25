@@ -1,0 +1,2 @@
+[dynamic_reconfigure, actionlib, pr2_common_action_msgs, rospy, pr2_msgs, move_base_msgs,
+  actionlib_msgs, pr2_controllers_msgs]
