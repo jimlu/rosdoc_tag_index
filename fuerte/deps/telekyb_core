@@ -1,0 +1,2 @@
+[tk_trajprocessor, roscpp, telekyb_base, tk_state, telekyb_msgs, sensor_msgs, tk_trajctrl,
+  tk_behavior, telekyb_defines]

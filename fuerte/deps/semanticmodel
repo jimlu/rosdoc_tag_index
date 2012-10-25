@@ -1,0 +1,4 @@
+[stereo_msgs, move_base_msgs, mongo_ros, nav_msgs, actionlib, driver_base, topic_tools,
+  flann, visualization_msgs, tf, nodelet, image_geometry, message_filters, mongodb,
+  sensor_msgs, image_transport, opencv2, rospy, pcl16_ros, cv_bridge, dynamic_reconfigure,
+  std_srvs, occupancy_grid_utils, geometry_msgs, pcl16]

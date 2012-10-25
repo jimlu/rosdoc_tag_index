@@ -1,0 +1,2 @@
+[laser_geometry, eigen, actionlib, sensor_msgs, pr2_msgs, common_rosdeps, actionlib_msgs,
+  pcl_ros]

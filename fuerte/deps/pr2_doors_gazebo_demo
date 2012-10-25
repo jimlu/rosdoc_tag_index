@@ -1,0 +1,2 @@
+[pr2_controller_manager, ros_epic_fail, actionlib, pr2_doors_actions, gazebo_tools,
+  rostopic, pr2_doors_executive, move_base_msgs, pr2_tuckarm, gazebo, pr2_gazebo]

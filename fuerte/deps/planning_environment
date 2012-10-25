@@ -1,0 +1,4 @@
+[rosconsole, angles, actionlib_msgs, collision_space, pcl_ros, roscpp, actionlib,
+  libqt4-dev, yaml-cpp, visualization_msgs, tf, arm_navigation_msgs, geometric_shapes,
+  message_filters, sensor_msgs, robot_self_filter, tinyxml, rviz, std_srvs, planning_models,
+  rosbag, pkg-config]
