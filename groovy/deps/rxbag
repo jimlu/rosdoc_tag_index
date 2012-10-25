@@ -1,0 +1,2 @@
+[catkin, wxwidgets, roslib, rosgraph, wxpython_swig_interface, python-rospkg, wxpython,
+  rospy, rosbag, python-gtk2]

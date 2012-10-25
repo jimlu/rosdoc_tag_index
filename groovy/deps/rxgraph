@@ -1,0 +1,1 @@
+[catkin, wxwidgets, rosgraph, wxpython_swig_interface, xdot, wxpython, rostopic, rosnode]
