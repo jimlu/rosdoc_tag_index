@@ -1,0 +1,3 @@
+[household_objects_database_msgs, rviz_interaction_tools, object_manipulator, bayesian_grasp_planner,
+  household_objects_database, static_transform_broadcaster, probabilistic_grasp_planner,
+  object_manipulation_msgs]
