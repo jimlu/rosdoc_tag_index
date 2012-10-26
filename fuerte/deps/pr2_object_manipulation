@@ -1,0 +1,3 @@
+[arm_navigation, common, common_msgs, driver_common, geometry, motion_planners, motion_planning_common,
+  object_manipulation, perception_pcl, pr2_arm_navigation, pr2_controllers, pr2_mechanism,
+  ros, ros_comm, ros_realtime, trajectory_filters, visualization, visualization_common]

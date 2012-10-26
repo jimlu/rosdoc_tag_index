@@ -1,0 +1,2 @@
+[modular_cloud_matcher_experiments, libnabo, point_cloud_vtk_tools, extrinsic_calibration,
+  libpointmatcher, libpointmatcher_ros, modular_cloud_matcher, mapping_msgs]

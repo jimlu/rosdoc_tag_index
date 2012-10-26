@@ -1,0 +1,2 @@
+[kdl, std_srvs, roscpp, pr2_controller_interface, pluginlib, robot_mechanism_controllers,
+  geometry_msgs, tf]
