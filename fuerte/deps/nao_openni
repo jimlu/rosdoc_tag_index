@@ -1,0 +1,2 @@
+[nav_msgs, kdl, roscpp, message_filters, robot_state_publisher, roslib, std_msgs,
+  nao_description, nao_ctrl, geometry_msgs, tf, openni]
