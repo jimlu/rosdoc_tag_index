@@ -1,4 +1,4 @@
 [pr2_gripper_sensor_action, pr2_gripper_click, simple_Jtranspose_controller, pr2_gripper_reactive_approach,
   pr2_gripper_grasp_planner_cluster, pr2_gripper_sensor_msgs, rgbd_assembler, pr2_gripper_sensor_controller,
-  pr2_object_manipulation_launch, pr2_gripper_grasp_controller, pr2_grasp_adjust,
+  pr2_grasp_adjust, pr2_gripper_grasp_controller, pr2_object_manipulation_launch,
   pr2_handy_tools]
