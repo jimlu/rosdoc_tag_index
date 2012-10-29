@@ -30,3 +30,7 @@
   package: arm_kinematics_constraint_aware}
 - {docs_url: ../../../api/collision_map/html, location: 'http://ros.org/rosdoclite/fuerte/api/collision_map/tags/collision_map.tag',
   package: collision_map}
+- {docs_url: ../../../api/ompl_ros_interface/html, location: 'http://ros.org/rosdoclite/fuerte/api/ompl_ros_interface/tags/ompl_ros_interface.tag',
+  package: ompl_ros_interface}
+- {docs_url: ../../../api/motion_planning_rviz_plugin/html, location: 'http://ros.org/rosdoclite/fuerte/api/motion_planning_rviz_plugin/tags/motion_planning_rviz_plugin.tag',
+  package: motion_planning_rviz_plugin}
