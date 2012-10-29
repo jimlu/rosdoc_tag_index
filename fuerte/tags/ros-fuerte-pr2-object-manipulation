@@ -6,10 +6,6 @@
   package: pr2_gripper_sensor_action}
 - {docs_url: ../../../api/rgbd_assembler/html, location: 'http://ros.org/rosdoclite/fuerte/api/rgbd_assembler/tags/rgbd_assembler.tag',
   package: rgbd_assembler}
-- {docs_url: ../../../api/pr2_grasp_adjust/html, location: 'http://ros.org/rosdoclite/fuerte/api/pr2_grasp_adjust/tags/pr2_grasp_adjust.tag',
-  package: pr2_grasp_adjust}
-- {docs_url: ../../../api/pr2_gripper_click/html, location: 'http://ros.org/rosdoclite/fuerte/api/pr2_gripper_click/tags/pr2_gripper_click.tag',
-  package: pr2_gripper_click}
 - {docs_url: ../../../api/simple_Jtranspose_controller/html, location: 'http://ros.org/rosdoclite/fuerte/api/simple_Jtranspose_controller/tags/simple_Jtranspose_controller.tag',
   package: simple_Jtranspose_controller}
 - {docs_url: ../../../api/pr2_gripper_reactive_approach/html, location: 'http://ros.org/rosdoclite/fuerte/api/pr2_gripper_reactive_approach/tags/pr2_gripper_reactive_approach.tag',
