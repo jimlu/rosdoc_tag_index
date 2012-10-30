@@ -1,0 +1,2 @@
+[image_proc, camera1394, compressed_image_transport, kingfisher_msgs, rosserial_python,
+  app_manager]
