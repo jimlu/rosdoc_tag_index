@@ -1,0 +1,1 @@
+[move_base, rospy, geometry_msgs, std_msgs, roscpp]
