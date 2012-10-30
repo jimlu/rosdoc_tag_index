@@ -1,0 +1,2 @@
+[roscpp, roslib, std_msgs, libavahi-core-dev, zeroconf_comms, libavahi-client-dev,
+  avahi-daemon, rospy]
