@@ -1,0 +1,2 @@
+[image_geometry, roscpp, message_filters, urdf, sensor_msgs, resource_retriever, image_transport,
+  opencv2, tf, cv_bridge, libglew-dev]
