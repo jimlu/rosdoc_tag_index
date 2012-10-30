@@ -1,0 +1,2 @@
+[eigen, bullet, walk_interfaces, rospy, walk_msgs, angles, visualization_msgs, common_rosdeps,
+  boost]
