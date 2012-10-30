@@ -1,0 +1,2 @@
+[kdl, pluginlib, planning_environment, sensor_msgs, kdl_parser, spline_smoother, collision_proximity,
+  angles, visualization_msgs, arm_navigation_msgs]
