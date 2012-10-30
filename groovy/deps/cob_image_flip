@@ -1,0 +1,2 @@
+[roscpp, cv_bridge, sensor_msgs, cob_vision_utils, image_transport, opencv2, pcl,
+  tf, nodelet, pcl_ros]
