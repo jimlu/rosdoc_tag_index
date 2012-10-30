@@ -1,0 +1,2 @@
+[ros_comm, common_msgs, std_msgs, geometry, ros, perception_pcl, rosbridge_suite,
+  mjpeg_server]

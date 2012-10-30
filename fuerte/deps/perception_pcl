@@ -1,0 +1,1 @@
+[nodelet_core, common_msgs, driver_common, geometry, ros, ros_comm, common_rosdeps]
