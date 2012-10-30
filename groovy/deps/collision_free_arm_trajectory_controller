@@ -1,0 +1,2 @@
+[eigen, planning_environment, actionlib_msgs, trajectory_msgs, common_rosdeps, arm_navigation_msgs,
+  pr2_controllers_msgs]

@@ -1,0 +1,2 @@
+[rxtools, std_srvs, wxwidgets, roslib, std_msgs, robot_monitor, pr2_power_board, wxpython,
+  rospy, pr2_msgs]

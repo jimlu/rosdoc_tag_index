@@ -1,0 +1,2 @@
+[actionlib, common_msgs, geometry, laser_pipeline, orocos_kinematics_dynamics, perception_pcl,
+  pr2_common, pr2_controllers, pr2_kinematics, robot_model, ros, ros_comm, common_rosdeps]
