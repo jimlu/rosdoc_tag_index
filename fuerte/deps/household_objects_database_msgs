@@ -1,1 +1,1 @@
-[geometric_shapes_msgs, sensor_msgs, geometry_msgs]
+[sensor_msgs, geometry_msgs, arm_navigation_msgs]

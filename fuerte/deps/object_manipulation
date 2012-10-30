@@ -1,2 +1,2 @@
-[arm_navigation, common, common_msgs, geometry, kinematics, motion_planners, motion_planning_common,
-  pr2_controllers, pr2_mechanism, ros, ros_comm, sql_database, visualization, visualization_common]
+[actionlib, arm_navigation, arm_navigation_experimental, common_rosdeps, geometry,
+  pr2_controllers, pr2_mechanism, ros, sql_database, visualization]

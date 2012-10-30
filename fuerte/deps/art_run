@@ -1,0 +1,3 @@
+[rxtools, simulator_art, art_nav, velodyne_pointcloud, sicktoolbox_wrapper, art_image,
+  joy, velodyne_driver, art_pilot, art_teleop, camera1394, tf, art_servo, art_common,
+  velodyne_height_map, applanix, art_observers, art_map]

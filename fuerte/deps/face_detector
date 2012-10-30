@@ -1,0 +1,2 @@
+[image_geometry, std_srvs, roscpp, stereo_msgs, sensor_msgs, actionlib_msgs, std_msgs,
+  rosbag, image_transport, opencv2, geometry_msgs, people_msgs, tf, cv_bridge, actionlib]
