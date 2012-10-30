@@ -1,0 +1,2 @@
+[nvidia-cg, opengl, freeimage, gtk2, libxaw, common_rosdeps, zziplib, libxrandr, libxxf86vm,
+  pkg-config]
