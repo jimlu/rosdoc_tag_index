@@ -1,0 +1,2 @@
+[bmp085_driver, bma180_driver, bmc050_driver, bosch_drivers_common, sub20_interface,
+  arduino_interface]
