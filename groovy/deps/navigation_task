@@ -1,0 +1,2 @@
+[smach_ros, roslib, actionlib, continuous_ops_task_manager, pr2_common_action_msgs,
+  smach, rospy, move_base_msgs, continuous_ops_msgs, actionlib_msgs, pr2_controllers_msgs]
