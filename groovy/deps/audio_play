@@ -1,0 +1,2 @@
+[roscpp, libgstreamer-plugins-base0.10-dev, gstreamer0.10-plugins-good, libgstreamer0.10-dev,
+  python-gst, gstreamer0.10-plugins-ugly, audio_common_msgs]
