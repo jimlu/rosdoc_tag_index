@@ -1,0 +1,1 @@
+[hokuyo_node, rostest, sensor_msgs, roscpp, pr2_controllers_msgs]
