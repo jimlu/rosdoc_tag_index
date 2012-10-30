@@ -1,0 +1,2 @@
+[roscpp, point_cloud_server, interactive_markers, sensor_msgs, interactive_marker_helpers,
+  object_manipulator, geometry_msgs, visualization_msgs, tf, pr2_object_manipulation_msgs]

@@ -1,0 +1,1 @@
+[cob_environments, common, common_msgs, geometry, navigation, ros, ros_comm, slam_gmapping]

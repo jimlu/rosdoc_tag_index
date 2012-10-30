@@ -1,0 +1,2 @@
+[actionlib, control, geometry, nasa_r2_common, orocos_kinematics_dynamics, pluginlib,
+  pr2_controllers, pr2_mechanism, pr2_simulator, robot_model, ros]
