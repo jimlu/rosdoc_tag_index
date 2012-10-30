@@ -1,0 +1,2 @@
+[bullet, planning_environment, planning_models, distance_field, kinematics_msgs, spline_smoother,
+  geometric_shapes, arm_navigation_msgs]
