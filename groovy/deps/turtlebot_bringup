@@ -1,0 +1,2 @@
+[compressed_image_transport, turtlebot_driver, joy, robot_state_publisher, pointcloud_to_laserscan,
+  openni_camera, turtlebot_node, turtlebot_description, app_manager]
