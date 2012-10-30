@@ -1,0 +1,2 @@
+[cob_canopen_motor, roscpp, cob_utilities, sensor_msgs, cob_srvs, cob_generic_can,
+  libpcan, diagnostic_msgs, pr2_controllers_msgs]
