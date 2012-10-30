@@ -1,0 +1,2 @@
+[arm_navigation, arm_navigation_experimental, common, common_msgs, control, object_manipulation,
+  robot_model, ros, ros_comm, industrial]
