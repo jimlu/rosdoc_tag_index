@@ -1,0 +1,2 @@
+[roscpp, actionlib, urdf, pr2_common_action_msgs, pr2_arm_kinematics, geometry_msgs,
+  tf, actionlib_msgs, pr2_controllers_msgs]
