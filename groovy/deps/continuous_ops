@@ -1,0 +1,2 @@
+[common, common_msgs, executive_smach, geometry, navigation, pr2_common, pr2_common_actions,
+  pr2_controllers, pr2_plugs, ros, web_interface]
