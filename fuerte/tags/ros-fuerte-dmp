@@ -1,0 +1,2 @@
+- {docs_url: ../../../api/dmp/html, location: 'http://ros.org/rosdoclite/fuerte/api/dmp/tags/dmp.tag',
+  package: dmp}
