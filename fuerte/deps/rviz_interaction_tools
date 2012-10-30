@@ -1,1 +1,1 @@
-[rviz, stereo_msgs, ogre_tools, sensor_msgs, geometric_shapes_msgs, geometry_msgs]
+[geometry_msgs, sensor_msgs, rviz, stereo_msgs, arm_navigation_msgs]
