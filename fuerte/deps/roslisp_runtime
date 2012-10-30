@@ -1,0 +1,1 @@
+[roslisp, rospack, ros_comm, std_msgs, std_srvs, sbcl]
