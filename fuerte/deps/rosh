@@ -1,1 +1,2 @@
-[rosparam, roshlaunch, rosgraph, rosservice, rospy, rostopic, ipython, rosnode, rosmsg]
+[rosparam, roslib_electric, roshlaunch, rosgraph, rosservice, rospy, rostopic, ipython,
+  rosnode, rosmsg]
