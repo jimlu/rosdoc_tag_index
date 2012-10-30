@@ -1,0 +1,6 @@
+[pr2_create_object_model, pr2_interactive_object_detection, robot_self_filter_color,
+  rviz_view_controllers, tabletop_collision_map_processing, rviz, tf, pr2_object_manipulation_msgs,
+  segmented_clutter_grasp_planner, sensor_msgs, std_msgs, object_manipulator, pr2_interactive_gripper_pose_action,
+  move_base_msgs, pr2_object_manipulation_launch, pr2_controllers_msgs, dynamic_reconfigure,
+  std_srvs, pr2_marker_control, tf_throttle, pr2_grasp_adjust, object_manipulation_msgs,
+  pr2_wrappers]
