@@ -1,0 +1,2 @@
+[brics_actuator, roscpp, cob_srvs, urdf, sensor_msgs, schunk_libm5api, diagnostic_updater,
+  rostest, libpcan, libntcan, diagnostic_msgs, pr2_controllers_msgs]

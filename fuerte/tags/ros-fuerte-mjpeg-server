@@ -1,0 +1,2 @@
+- {docs_url: ../../../api/mjpeg_server/html, location: 'http://ros.org/rosdoclite/fuerte/api/mjpeg_server/tags/mjpeg_server.tag',
+  package: mjpeg_server}

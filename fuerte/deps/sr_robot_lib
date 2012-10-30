@@ -1,0 +1,2 @@
+[sr_ethercat_hand_config, std_srvs, sr_external_dependencies, sr_robot_msgs, realtime_tools,
+  diagnostic_updater, sr_hardware_interface, rospy, sr_utilities, roscpp]
