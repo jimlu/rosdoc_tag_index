@@ -1,0 +1,2 @@
+[nav_msgs, angles, std_msgs, roslib, sensor_msgs, art_msgs, geometry_msgs, pcl, tf,
+  roscpp, pcl_ros, stage, art_common]

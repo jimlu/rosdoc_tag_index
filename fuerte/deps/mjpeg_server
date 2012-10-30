@@ -1,0 +1,1 @@
+[roscpp, roslib, std_msgs, image_transport, opencv2, cv_bridge]

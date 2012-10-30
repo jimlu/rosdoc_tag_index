@@ -1,0 +1,3 @@
+[household_objects_database_msgs, libsoqt4-dev, liblapack-dev, libqhull, libqt4-opengl-dev,
+  libqt4-dev, libcoin60-dev, libqt4-sql-psql, household_objects_database, libblas-dev,
+  object_manipulation_msgs]

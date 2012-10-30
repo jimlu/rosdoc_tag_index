@@ -1,0 +1,2 @@
+[common_msgs, diagnostics, pr2_controllers, pr2_ethercat_drivers, pr2_mechanism, pr2_robot,
+  robot_model, ros, ros_comm, shadow_robot, sr_config, xacro]

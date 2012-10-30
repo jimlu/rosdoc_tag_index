@@ -1,1 +1,2 @@
-[angles, roscpp, pluginlib, urdf, kdl_parser, pr2_hardware_interface, tinyxml]
+[urdf_interface, tinyxml, roscpp, pluginlib, urdf, kdl_parser, pr2_hardware_interface,
+  angles]
