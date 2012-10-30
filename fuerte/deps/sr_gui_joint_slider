@@ -1,0 +1,2 @@
+[pr2_mechanism_msgs, sr_hand, rqt_gui, std_msgs, sr_robot_lib, rospy, rqt_gui_py,
+  sr_robot_msgs]
