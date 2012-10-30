@@ -1,0 +1,4 @@
+- {docs_url: ../../../api/geographic_msgs/html, location: 'http://ros.org/rosdoclite/fuerte/api/geographic_msgs/tags/geographic_msgs.tag',
+  package: geographic_msgs}
+- {docs_url: ../../../api/geodesy/html, location: 'http://ros.org/rosdoclite/fuerte/api/geodesy/tags/geodesy.tag',
+  package: geodesy}
