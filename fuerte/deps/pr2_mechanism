@@ -1,1 +1,1 @@
-[common, common_msgs, diagnostics, geometry, pr2_common, robot_model, ros, ros_comm]
+[common_msgs, diagnostics, geometry, pluginlib, pr2_common, robot_model, ros, ros_comm]
