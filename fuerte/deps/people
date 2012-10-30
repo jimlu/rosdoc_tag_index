@@ -1,0 +1,2 @@
+[common, common_msgs, geometry, image_common, image_pipeline, ros, vision_opencv,
+  ros_comm]
