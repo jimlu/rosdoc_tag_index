@@ -1,0 +1,2 @@
+[camera_drivers, image_pipeline, image_transport_plugins, multimaster_experimental,
+  ros, ros_comm, rosserial]
