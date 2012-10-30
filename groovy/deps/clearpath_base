@@ -1,0 +1,1 @@
+[std_msgs, rospy, geometry_msgs, python-serial, pkg-config]
