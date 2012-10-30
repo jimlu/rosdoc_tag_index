@@ -1,0 +1,1 @@
+[self_test, roscpp, std_msgs, sensor_msgs, opencv2, libgphoto-dev]
