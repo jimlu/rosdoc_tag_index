@@ -1,0 +1,2 @@
+[household_objects_database_msgs, roscpp, actionlib, object_manipulator, household_objects_database,
+  object_manipulation_msgs]
