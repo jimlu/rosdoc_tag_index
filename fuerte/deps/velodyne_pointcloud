@@ -1,0 +1,2 @@
+[python-yaml, velodyne_driver, sensor_msgs, velodyne_msgs, rostest, yaml-cpp, tf,
+  nodelet, pcl_ros]
