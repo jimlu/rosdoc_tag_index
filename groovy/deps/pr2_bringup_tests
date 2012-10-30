@@ -1,0 +1,2 @@
+[pr2_controller_manager, image_view, pr2_mannequin_mode, ethercat_trigger_controllers,
+  pr2_bringup, camera_calibration]

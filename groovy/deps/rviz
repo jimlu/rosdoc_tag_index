@@ -1,0 +1,4 @@
+[rosconsole, interactive_markers, resource_retriever, nav_msgs, python_qt_binding,
+  laser_geometry, roscpp, libqt4-dev, qt4-qmake, yaml-cpp, visualization_msgs, tf,
+  urdf_interface, urdf, message_filters, std_msgs, sensor_msgs, libqt4-opengl-dev,
+  image_transport, assimp, rospy, std_srvs, pluginlib, libogre-dev, geometry_msgs]

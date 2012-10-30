@@ -1,0 +1,2 @@
+[schunk_powercube_chain, schunk_default_config, cob_script_server, schunk_hardware_config,
+  robot_state_publisher, cob_dashboard, schunk_sdh, cob_command_gui, cob_trajectory_controller]
