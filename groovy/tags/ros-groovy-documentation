@@ -1,0 +1,2 @@
+- {docs_url: ../../../api/rosdoc/html, location: 'http://ros.org/rosdoclite/groovy/api/rosdoc/tags/rosdoc.tag',
+  package: rosdoc}
