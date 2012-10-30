@@ -1,0 +1,1 @@
+[visp, image_proc, roscpp, std_msgs, geometry_msgs, visp_bridge, rospy]
