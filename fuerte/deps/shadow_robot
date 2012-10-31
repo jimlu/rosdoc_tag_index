@@ -1,0 +1,3 @@
+[arm_navigation, bullet, common, common_msgs, diagnostics, driver_common, geometry,
+  image_common, object_manipulation, physics_ode, pluginlib, pr2_common, pr2_controllers,
+  pr2_mechanism, pr2_simulator, robot_model, ros, ros_comm, simulator_gazebo, vision_opencv]

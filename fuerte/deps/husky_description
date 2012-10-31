@@ -1,0 +1,2 @@
+[xacro, roscpp, gazebo_worlds, robot_state_publisher, urdf, std_msgs, joint_state_publisher,
+  gazebo_tools, rospy, gazebo_plugins, gazebo]

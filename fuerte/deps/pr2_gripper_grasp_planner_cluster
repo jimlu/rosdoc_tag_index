@@ -1,2 +1,2 @@
-[interpolated_ik_motion_planner, object_manipulator, geometry_msgs, visualization_msgs,
+[actionlib, interpolated_ik_motion_planner, object_manipulator, geometry_msgs, visualization_msgs,
   tf, rospy, object_manipulation_msgs]
