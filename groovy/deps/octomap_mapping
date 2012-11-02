@@ -1,2 +1,1 @@
-[octomap_msgs, octomap_ros, arm_navigation, common_msgs, geometry, perception_pcl,
-  ros, ros_comm]
+[arm_navigation, common_msgs, geometry, perception_pcl, ros, ros_comm]
