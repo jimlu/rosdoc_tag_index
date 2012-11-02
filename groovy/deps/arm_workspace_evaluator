@@ -1,0 +1,2 @@
+[roscpp, arm_kinematics_constraint_aware, geometry_msgs, pcl, tf, kinematics_msgs,
+  arm_navigation_msgs, pcl_ros]
