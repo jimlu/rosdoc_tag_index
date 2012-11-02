@@ -1,0 +1,2 @@
+- {docs_url: ../../../api/rviz/html, location: 'http://ros.org/doc/groovy/api/rviz/tags/rviz.tag',
+  package: rviz}
