@@ -1,0 +1,2 @@
+[rosjs_remotelabwidgets, rosjs_common, rosapi, visualization_msgs, rosbridge_server,
+  rosjs_visualization]
