@@ -1,1 +1,1 @@
-[qt4, roscpp]
+[roscpp, libqt4-dev]
