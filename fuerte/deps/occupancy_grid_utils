@@ -1,1 +1,2 @@
-[nav_msgs, laser_geometry, roscpp, sensor_msgs, geometry_msgs, tf]
+[nav_msgs, laser_geometry, roscpp, bullet, sensor_msgs, map_server, geometry_msgs,
+  tf, rospy]
