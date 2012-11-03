@@ -1,0 +1,4 @@
+[corobot_srvs, corobot_camera, corobot_ssc32, corobot_pantilt, roscpp, PhidgetMotor,
+  corobot_arm, PhidgetServo, nav_msgs, qt4, corobot_msgs, joy, sensor_msgs, openni_camera,
+  rospy, corobot_phidgetIK, roslaunch, corobot_state_tf, corobot_joystick, corobot_gps,
+  corobot_hokuyo, qt_build]

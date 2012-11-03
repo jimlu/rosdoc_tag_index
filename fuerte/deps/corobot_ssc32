@@ -1,0 +1,1 @@
+[rospy, corobot_msgs, std_msgs, roscpp, corobot_srvs]
