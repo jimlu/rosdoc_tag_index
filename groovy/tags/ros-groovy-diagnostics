@@ -1,4 +1,4 @@
-- {docs_url: ../../../api/self_test/html, location: 'http://ros.org/doc/groovy/api/self_test/tags/self_test.tag',
-  package: self_test}
 - {docs_url: ../../../api/test_diagnostic_aggregator/html, location: 'http://ros.org/doc/groovy/api/test_diagnostic_aggregator/tags/test_diagnostic_aggregator.tag',
   package: test_diagnostic_aggregator}
+- {docs_url: ../../../api/self_test/html, location: 'http://ros.org/doc/groovy/api/self_test/tags/self_test.tag',
+  package: self_test}
