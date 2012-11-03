@@ -1,0 +1,1 @@
+[corobot_ssc32, corobot_msgs, roscpp, corobot_srvs, joy, std_msgs]
