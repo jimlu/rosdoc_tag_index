@@ -1,0 +1,2 @@
+[self_test, dynamic_reconfigure, timestamp_tools, roscpp, driver_base, std_msgs, sensor_msgs,
+  image_transport, diagnostic_updater, rostest, rospy, camera_calibration_parsers]
