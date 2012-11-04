@@ -1,0 +1,2 @@
+[laser_joint_processor, pr2_calibration_launch, pr2_se_calibration_launch, dense_laser_assembler,
+  pr2_dense_laser_snapshotter, laser_joint_projector]
