@@ -1,1 +1,1 @@
-[rosserial_adk_demo, rosserial_adk_demo_msgs, rosserial_android]
+[rosserial_android, rosserial_adk_demo_msgs, rosserial_adk_demo]
