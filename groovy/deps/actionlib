@@ -1,2 +1,2 @@
-[rosconsole, genmsg, catkin, roscpp, actionlib_msgs, roscpp_traits, rostime, ros,
-  rostest, langs-dev, rospy, langs, cpp_common, boost]
+[rosconsole, genmsg, catkin, roscpp, actionlib_msgs, rostime, roscpp_traits, rostest,
+  langs-dev, rospy, langs, cpp_common, boost]
