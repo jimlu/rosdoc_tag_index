@@ -1,4 +1,4 @@
 [pr2_tabletop_manipulation_launch, tabletop_collision_map_processing, tabletop_object_detector,
   roscpp, pr2_gripper_reactive_approach, actionlib, object_manipulator, geometry_msgs,
-  household_objects_database, object_manipulation_msgs, actionlib_msgs, tf_conversions,
-  simple_Jtranspose_controller]
+  pr2_manipulation_controllers, household_objects_database, object_manipulation_msgs,
+  actionlib_msgs, tf_conversions, pr2_controllers_msgs]
