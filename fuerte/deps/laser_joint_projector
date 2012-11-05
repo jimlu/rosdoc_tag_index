@@ -1,1 +1,1 @@
-[kdl, geometry_msgs, calibration_msgs, kdl_parser]
+[orocos_kdl, geometry_msgs, calibration_msgs, kdl_parser]
