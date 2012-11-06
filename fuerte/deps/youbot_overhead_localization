@@ -1,0 +1,2 @@
+[nav_msgs, python-yaml, navfn, youbot_overhead_vision, roscpp, costmap_2d, actionlib,
+  python-imaging, geometry_msgs, yaml-cpp, tf, cv_bridge, actionlib_msgs]
