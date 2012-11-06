@@ -1,3 +1,3 @@
-[tabletop_object_detector, rviz, stereo_msgs, ogre_tools, actionlib, active_realtime_segmentation,
+[tabletop_object_detector, rviz, stereo_msgs, actionlib, active_realtime_segmentation,
   sensor_msgs, image_transport, rviz_interaction_tools, geometry_msgs, rgbd_assembler,
   tf, actionlib_msgs, roscpp]
