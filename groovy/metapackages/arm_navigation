@@ -1,5 +1,5 @@
 [move_arm, trajectory_filter_server, joint_normalization_filters, planning_environment,
   planning_models, mapping_rviz_plugin, spline_smoother, robot_self_filter, constraint_aware_spline_smoother,
   arm_kinematics_constraint_aware, kinematics_msgs, collision_map, kinematics_base,
-  collision_space, ompl_ros_interface, geometric_shapes, motion_planning_rviz_plugin,
-  arm_navigation_msgs]
+  collision_space, arm_navigation_msgs, geometric_shapes, motion_planning_rviz_plugin,
+  ompl_ros_interface]
