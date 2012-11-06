@@ -1,0 +1,2 @@
+[ros, youbot_common, simulator_gazebo, pr2_common, joystick_drivers, robot_model,
+  youbot_drivers, openni_launch]
