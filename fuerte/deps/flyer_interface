@@ -1,0 +1,2 @@
+[dynamic_reconfigure, roscpp, message_filters, std_msgs, mav_common, sensor_msgs,
+  mav_srvs, geometry_msgs, tf, nodelet, mav_msgs]
