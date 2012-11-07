@@ -1,0 +1,2 @@
+[common_msgs, control, diagnostics, ecl_core, ecl_navigation, geometry, nodelet_core,
+  ros, ros_comm, pcl_ros]
