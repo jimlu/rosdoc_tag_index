@@ -1,0 +1,2 @@
+[rail_youbot_description, xacro, rail_worlds, mjpeg_server, youbot_description, youbot_overhead_localization,
+  rosbridge_server, gazebo]

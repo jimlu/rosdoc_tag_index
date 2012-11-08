@@ -1,2 +1,2 @@
-[household_objects_database, pr2_object_manipulation_launch, pr2_interactive_manipulation,
-  tabletop_object_detector, tabletop_collision_map_processing]
+[household_objects_database, pr2_object_manipulation_launch, tabletop_object_detector,
+  tabletop_collision_map_processing]
