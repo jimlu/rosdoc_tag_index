@@ -1,0 +1,1 @@
+[redis, zeroconf_comms, roslib, rospy, gateway_comms]
