@@ -1,0 +1,2 @@
+[nav_msgs, roscpp, message_filters, pluginlib, std_msgs, cv_bridge, sensor_msgs, openni_camera,
+  opencv2, geometry_msgs, image_transport, pcl, visualization_msgs, tf, nodelet]

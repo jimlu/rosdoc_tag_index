@@ -1,0 +1,2 @@
+[nav_msgs, starmac_roslib, flyer_controller, python-numpy, python-scipy, geometry_msgs,
+  tf, rospy]

@@ -1,0 +1,1 @@
+[nav_msgs, eigen, pluginlib, diagnostic_updater, geometry_msgs, tf, nodelet]

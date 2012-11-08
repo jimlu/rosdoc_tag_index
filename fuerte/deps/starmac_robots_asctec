@@ -1,0 +1,2 @@
+[dynamic_reconfigure, std_srvs, flyer_common, pluginlib, asctec_hl_comm, sensor_msgs,
+  driver_base, angles, flyer_controller, nodelet]

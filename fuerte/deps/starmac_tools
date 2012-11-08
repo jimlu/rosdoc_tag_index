@@ -1,0 +1,2 @@
+[nav_msgs, starmac_msgs, starmac_roslib, nodelet, pluginlib, python-numpy, python-scipy,
+  topic_tools, tf, rosbag]
