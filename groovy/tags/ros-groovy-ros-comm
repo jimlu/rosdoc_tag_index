@@ -1,5 +1,3 @@
-- {docs_url: ../../../api/test_roslaunch/html, location: 'http://ros.org/doc/groovy/api/test_roslaunch/tags/test_roslaunch.tag',
-  package: test_roslaunch}
 - {docs_url: ../../../api/test_rosgraph/html, location: 'http://ros.org/doc/groovy/api/test_rosgraph/tags/test_rosgraph.tag',
   package: test_rosgraph}
 - {docs_url: ../../../api/test_roslib_comm/html, location: 'http://ros.org/doc/groovy/api/test_roslib_comm/tags/test_roslib_comm.tag',
