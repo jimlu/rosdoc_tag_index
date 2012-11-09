@@ -10,7 +10,5 @@
   package: sr_gui_movement_recorder}
 - {docs_url: ../../../api/sr_gui_grasp_controller/html, location: 'http://ros.org/doc/fuerte/api/sr_gui_grasp_controller/tags/sr_gui_grasp_controller.tag',
   package: sr_gui_grasp_controller}
-- {docs_url: ../../../api/sr_gui_joint_slider/html, location: 'http://ros.org/doc/fuerte/api/sr_gui_joint_slider/tags/sr_gui_joint_slider.tag',
-  package: sr_gui_joint_slider}
 - {docs_url: ../../../api/sr_gui_hand_calibration/html, location: 'http://ros.org/doc/fuerte/api/sr_gui_hand_calibration/tags/sr_gui_hand_calibration.tag',
   package: sr_gui_hand_calibration}
