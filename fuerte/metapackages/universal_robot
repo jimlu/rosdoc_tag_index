@@ -1,1 +1,1 @@
-[ur5_gazebo, ur5_description, ur5_bringup, ur5_driver]
+[ur5_driver, ur5_description, ur5_bringup, ur5_gazebo]
