@@ -1,0 +1,2 @@
+[message_filters, roscpp, costmap_2d, pluginlib, actionlib, roslib, sensor_msgs, move_base_msgs,
+  geometry_msgs, angles, tf, base_local_planner, filters, eigen]
