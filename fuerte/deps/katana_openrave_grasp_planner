@@ -1,0 +1,3 @@
+[trajectory_msgs, roscpp, orrosplanning, std_msgs, object_manipulation_msgs, actionlib,
+  motion_planning_msgs, sensor_msgs, move_base_msgs, geometry_msgs, posedetection_msgs,
+  tf, kinematics_msgs, mapping_msgs, openrave]
