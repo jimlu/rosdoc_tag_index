@@ -1,0 +1,3 @@
+[urdf, trajectory_msgs, std_srvs, roscpp, kni, armadillo, katana_msgs, actionlib,
+  roslib, sensor_msgs, geometry_msgs, tf, control_msgs, arm_navigation_msgs, object_manipulation_msgs,
+  kinematics_msgs, pr2_controllers_msgs]
