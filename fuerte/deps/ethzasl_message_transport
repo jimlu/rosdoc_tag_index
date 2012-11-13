@@ -1,1 +1,1 @@
-[common_msgs, pluginlib, ros, ros_comm, vision_opencv]
+[common_msgs, pluginlib, ros, ros_comm, vision_opencv, image_transport_plugins]
