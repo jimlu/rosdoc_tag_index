@@ -1,1 +1,1 @@
-[qt4, roscpp, geometry_msgs, rosmsg, tf, rospy]
+[roscpp, libqt4-dev, geometry_msgs, rosmsg, tf, rospy]

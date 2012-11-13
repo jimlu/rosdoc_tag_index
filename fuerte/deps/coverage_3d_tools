@@ -1,3 +1,4 @@
-[image_geometry, laser_assembler, opencv2.3, std_srvs, roscpp, kinematics_msgs, sensor_msgs,
-  std_msgs, image_transport, pr2_controllers_msgs, angles, geometry_msgs, pcl, visualization_msgs,
-  tf, rospy, arm_navigation_msgs, coverage_3d_msgs, planning_environment, pcl_ros]
+[image_geometry, laser_assembler, std_srvs, roscpp, kinematics_msgs, sensor_msgs,
+  std_msgs, image_transport, pr2_controllers_msgs, opencv2, angles, geometry_msgs,
+  pcl, visualization_msgs, tf, rospy, arm_navigation_msgs, coverage_3d_msgs, planning_environment,
+  pcl_ros]
