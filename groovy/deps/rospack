@@ -1,1 +1,1 @@
-[catkin, python, python-rosdep, gtest, python-coverage, boost]
+[catkin, python, python-rosdep, gtest, python-coverage, boost, pkg-config]
