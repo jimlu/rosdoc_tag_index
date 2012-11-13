@@ -4,7 +4,7 @@
   package: arbotix_python}
 - {docs_url: ../../../api/arbotix_sensors/html, location: 'http://ros.org/doc/groovy/api/arbotix_sensors/tags/arbotix_sensors.tag',
   package: arbotix_sensors}
-- {docs_url: ../../../api/arbotix_controllers/html, location: 'http://ros.org/doc/groovy/api/arbotix_controllers/tags/arbotix_controllers.tag',
-  package: arbotix_controllers}
 - {docs_url: ../../../api/arbotix_firmware/html, location: 'http://ros.org/doc/groovy/api/arbotix_firmware/tags/arbotix_firmware.tag',
   package: arbotix_firmware}
+- {docs_url: ../../../api/arbotix_controllers/html, location: 'http://ros.org/doc/groovy/api/arbotix_controllers/tags/arbotix_controllers.tag',
+  package: arbotix_controllers}
