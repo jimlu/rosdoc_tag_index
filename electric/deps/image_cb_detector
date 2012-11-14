@@ -1,0 +1,2 @@
+[roscpp, actionlib_msgs, sensor_msgs, image_transport, opencv2, geometry_msgs, calibration_msgs,
+  cv_bridge, actionlib]

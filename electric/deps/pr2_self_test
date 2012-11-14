@@ -1,0 +1,2 @@
+[common, common_msgs, image_pipeline, pr2_apps, pr2_controllers, pr2_mechanism, pr2_robot,
+  robot_model, ros]

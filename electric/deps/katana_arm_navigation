@@ -1,0 +1,4 @@
+[move_arm, trajectory_filter_server, planning_environment, katana_kinematics_constraint_aware,
+  katana, topic_tools, spline_smoother, robot_self_filter, point_cloud_converter,
+  constraint_aware_spline_smoother, katana_trajectory_filter, arm_kinematics, collision_map,
+  laser_filters, laser_assembler, ompl_ros_interface, katana_description]
