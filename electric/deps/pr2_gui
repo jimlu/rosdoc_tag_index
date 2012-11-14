@@ -1,0 +1,2 @@
+[diagnostics, diagnostics_monitors, pr2_common, pr2_power_drivers, ros, ros_comm,
+  rx]
