@@ -1,0 +1,2 @@
+[dynamic_reconfigure, pluginlib, image_transport, opencv2, libogg, rosbagmigration,
+  cv_bridge, libtheora]

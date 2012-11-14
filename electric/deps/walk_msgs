@@ -1,0 +1,2 @@
+[nav_msgs, roscpp, bullet, walk_interfaces, geometry_msgs, angles, visualization_msgs,
+  rospy, common_rosdeps, boost, eigen]

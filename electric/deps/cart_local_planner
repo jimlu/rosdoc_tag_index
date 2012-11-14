@@ -1,0 +1,2 @@
+[nav_msgs, roscpp, costmap_2d, pluginlib, costmap_trajectory_checker, cart_pushing_msgs,
+  nav_core, manipulation_transforms, tf, base_local_planner, articulate_cart]
