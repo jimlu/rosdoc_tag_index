@@ -1,0 +1,8 @@
+[pr2_controller_manager, ethercat_trigger_controllers, wifi_ddwrt, pr2_power_board,
+  ocean_battery_driver, robot_pose_ekf, single_joint_position_action, power_monitor,
+  pr2_camera_synchronizer, wge100_camera, pr2_machine, prosilica_camera, pr2_computer_monitor,
+  tf2_ros, sound_play, pr2_description, diagnostic_aggregator, pr2_controller_configuration,
+  joy, robot_state_publisher, pr2_dashboard_aggregator, pr2_run_stop_auto_restart,
+  joint_trajectory_action, pr2_gripper_action, pr2_head_action, hokuyo_node, std_srvs,
+  pr2_etherCAT, pr2_calibration_controllers, robot_mechanism_controllers, microstrain_3dmgx2_imu,
+  stereo_image_proc, rosbag]
