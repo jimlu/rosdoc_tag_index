@@ -1,0 +1,5 @@
+[rosconsole, pr2_mechanism_msgs, actionlib_msgs, trajectory_msgs, interpolated_ik_motion_planner,
+  kinematics_msgs, mongo_ros, ompl_ros_interface, roscpp, planning_environment, actionlib,
+  visualization_msgs, arm_navigation_msgs, geometric_shapes, interactive_markers,
+  std_msgs, move_arm_head_monitor, gazebo_msgs, tf_conversions, pr2_controllers_msgs,
+  planning_models, geometry_msgs]
