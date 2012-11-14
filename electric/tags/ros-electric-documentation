@@ -1,0 +1,2 @@
+- {docs_url: ../../../api/rosdoc/html, location: 'http://ros.org/doc/electric/api/rosdoc/tags/rosdoc.tag',
+  package: rosdoc}
