@@ -1,0 +1,4 @@
+[tabletop_collision_map_processing, image_proc, pcl, stereo_msgs, ogre_tools, std_msgs,
+  actionlib, sensor_msgs, image_transport, opencv2, simple_robot_control, grabcut_3d,
+  rgbd_assembler, visualization_msgs, tf, object_manipulation_msgs, tabletop_object_detector,
+  pcl_ros]

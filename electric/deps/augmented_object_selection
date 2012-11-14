@@ -1,0 +1,3 @@
+[tabletop_collision_map_processing, image_proc, cv_bridge, std_msgs, actionlib, sensor_msgs,
+  image_transport, opencv2, grabcut_3d, pcl, visualization_msgs, tf, object_manipulation_msgs,
+  tabletop_object_detector, pcl_ros]
