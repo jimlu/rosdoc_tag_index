@@ -1,0 +1,2 @@
+[dynamic_reconfigure, eigen, message_filters, rosbag, nodelet_topic_tools, geometry_msgs,
+  pcl, tf, nodelet, roscpp]

@@ -1,0 +1,1 @@
+[cminpack, cmake, eigen, std_msgs, libqhull, sensor_msgs, libvtk, flann]
