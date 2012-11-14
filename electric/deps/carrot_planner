@@ -1,0 +1,1 @@
+[roscpp, costmap_2d, pluginlib, nav_core, angles, tf, base_local_planner]

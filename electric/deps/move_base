@@ -1,0 +1,4 @@
+[rosconsole, rotate_recovery, nav_core, nav_msgs, navfn, clear_costmap_recovery, roscpp,
+  actionlib, roslib, rostopic, visualization_msgs, tf, base_local_planner, costmap_2d,
+  std_msgs, rospy, move_base_msgs, dynamic_reconfigure, std_srvs, pluginlib, geometry_msgs,
+  rosmsg]
