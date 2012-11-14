@@ -1,0 +1,2 @@
+[household_objects_database_msgs, tabletop_collision_map_processing, std_srvs, actionlib,
+  geometric_shapes_msgs, collision_environment_msgs, pr2_msgs, tf, mapping_msgs, tabletop_object_detector]
