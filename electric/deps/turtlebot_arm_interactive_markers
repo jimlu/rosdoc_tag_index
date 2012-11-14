@@ -1,0 +1,2 @@
+[roscpp, arbotix_msgs, actionlib, interactive_markers, visualization_msgs, simple_arm_server,
+  arbotix_controllers]
