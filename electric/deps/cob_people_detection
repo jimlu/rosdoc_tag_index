@@ -1,0 +1,3 @@
+[kdl, stereo_msgs, actionlib_msgs, openni, pcl_ros, roscpp, actionlib, roslib, cob_people_detection_msgs,
+  nite, tf, nodelet, image_geometry, pcl, std_msgs, sensor_msgs, cob_vision_utils,
+  image_transport, opencv2, tinyxml, cv_bridge, std_srvs, geometry_msgs]

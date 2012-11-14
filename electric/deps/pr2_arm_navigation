@@ -1,0 +1,3 @@
+[arm_navigation, arm_navigation_experimental, common_msgs, driver_common, image_pipeline,
+  laser_pipeline, point_cloud_perception, pr2_common, pr2_controllers, pr2_kinematics,
+  pr2_mechanism, robot_model, ros, ros_comm, xacro]

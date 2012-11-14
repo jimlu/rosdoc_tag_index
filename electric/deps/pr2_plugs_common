@@ -1,0 +1,1 @@
+[kdl, std_srvs, roscpp, actionlib, std_msgs, bfl, geometry_msgs, tf, pr2_controllers_msgs]

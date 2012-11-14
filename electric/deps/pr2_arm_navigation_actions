@@ -1,0 +1,3 @@
+[move_arm, pr2_controller_manager, trajectory_filter_server, pr2_arm_navigation_config,
+  planning_environment, move_arm_head_monitor, pr2_machine, move_arm_warehouse, joint_trajectory_action,
+  dynamic_reconfigure, arm_navigation_msgs, pr2_msgs]
