@@ -1,0 +1,3 @@
+[pr2_tabletop_manipulation_launch, pr2_pick_and_place_demos, roscpp, sensor_msgs,
+  actionlib, trajectory_msgs, std_msgs, object_manipulator, geometry_msgs, tf, rospy,
+  actionlib_msgs]
