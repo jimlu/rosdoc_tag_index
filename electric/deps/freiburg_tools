@@ -1,0 +1,4 @@
+[common_msgs, geometry, image_common, openni_kinect, perception_pcl, ros, ros_comm,
+  vision_opencv, common_rosdeps, bullet, orocos_kinematics_dynamics, pluginlib, dynamic_reconfigure,
+  bond_core, nodelet_core, openni_camera, image_pipeline, openni_launch, openni_tracker,
+  actionlib, rqt]
