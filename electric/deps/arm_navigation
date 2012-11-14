@@ -1,0 +1,2 @@
+[assimp, bullet, common, common_msgs, control, filters, geometry, orocos_kinematics_dynamics,
+  perception_pcl, physics_ode, pluginlib, robot_model, ros, ros_comm, visualization]

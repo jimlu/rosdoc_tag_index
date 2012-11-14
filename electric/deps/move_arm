@@ -1,0 +1,3 @@
+[rosconsole, trajectory_msgs, roscpp, kinematics_msgs, planning_environment, actionlib,
+  planning_models, std_msgs, geometry_msgs, visualization_msgs, interactive_markers,
+  control_msgs, geometric_shapes, actionlib_msgs, tf_conversions, arm_navigation_msgs]
