@@ -1,0 +1,2 @@
+[roslib, std_srvs, roscpp, pluginlib, actionlib_msgs, pr2_controller_interface, std_msgs,
+  realtime_tools, pr2_gripper_sensor_msgs, rosrt, pr2_controllers_msgs, pr2_mechanism_model]
