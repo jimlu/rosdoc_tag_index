@@ -1,0 +1,2 @@
+[kdl, python-tk, sensor_msgs, kdl_parser, python-scipy, rostest, rospy, calibration_msgs,
+  visualization_msgs, ipython]

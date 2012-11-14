@@ -1,0 +1,3 @@
+[arm_navigation, arm_navigation_experimental, common_msgs, diagnostics, image_pipeline,
+  pluginlib, pr2_arm_navigation, pr2_common, pr2_controllers, pr2_kinematics, pr2_mechanism,
+  pr2_simulator, robot_model, ros, ros_comm, simulator_gazebo]
