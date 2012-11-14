@@ -1,0 +1,2 @@
+[cob_environments, cob_robots, pr2_controllers, pr2_mechanism, ros, schunk_modular_robotics,
+  schunk_robots, simulator_gazebo]
