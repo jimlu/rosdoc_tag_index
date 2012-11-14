@@ -1,0 +1,3 @@
+[arm_navigation, arm_navigation_experimental, common, common_msgs, common_rosdeps,
+  eigen, geometry, perception_pcl, pr2_controllers, pr2_mechanism, ros, ros_comm,
+  sql_database, visualization, visualization_common]
