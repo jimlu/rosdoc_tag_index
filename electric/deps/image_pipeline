@@ -1,0 +1,2 @@
+[common_msgs, driver_common, geometry, image_common, nodelet_core, ros, ros_comm,
+  vision_opencv]

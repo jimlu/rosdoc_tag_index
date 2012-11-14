@@ -1,0 +1,2 @@
+[image_geometry, std_srvs, roscpp, message_filters, sensor_msgs, opencv2, geometry_msgs,
+  camera_calibration_parsers, rospy, cv_bridge]
