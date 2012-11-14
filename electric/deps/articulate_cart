@@ -1,0 +1,2 @@
+[pr2_mechanism_msgs, pr2_controller_manager, actionlib, roslib, std_msgs, cart_state_estimator,
+  rospy, move_base_msgs, geometry_msgs, robot_mechanism_controllers, pr2_controllers_msgs]

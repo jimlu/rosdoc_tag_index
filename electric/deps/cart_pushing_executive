@@ -1,0 +1,5 @@
+[global_planner_switcher, cart_local_planner, pr2_navigation_global, actionlib, pr2_machine,
+  topic_tools, laser_filters, pr2_navigation_teleop, map_server, articulate_cart,
+  cart_pushing_msgs, tf, pr2_pose_saver, pr2_gripper_action, move_base_msgs, cart_state_estimator,
+  sbpl_cart_planner, pr2_controllers_msgs, move_base, isolated_point_filter, amcl,
+  pr2_navigation_perception]
