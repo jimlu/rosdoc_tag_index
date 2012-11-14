@@ -1,0 +1,1 @@
+[roscpp, rviz_interaction_tools, sensor_msgs, stereo_msgs, geometry_msgs, tf, pcl_ros]
