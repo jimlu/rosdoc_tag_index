@@ -1,0 +1,1 @@
+[roscpp, cob_srvs, trajectory_msgs, sensor_msgs, pr2_teleop, brics_actuator, geometry_msgs]
