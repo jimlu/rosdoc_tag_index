@@ -1,0 +1,2 @@
+[dynamic_reconfigure, image_geometry, roscpp, message_filters, sensor_msgs, image_transport,
+  stereo_msgs, pcl, tf, nodelet, pcl_ros]
