@@ -1,0 +1,2 @@
+[pyclearsilver, std_srvs, launchman, rosweb, roslib, std_msgs, rosservice, rospy,
+  web_msgs, diagnostic_msgs, python-clearsilver]
