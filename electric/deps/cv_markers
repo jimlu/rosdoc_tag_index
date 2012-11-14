@@ -1,0 +1,1 @@
+[image_geometry, kdl, message_filters, opencv2, tf, opencv2.3, cv_bridge, tf_conversions]
