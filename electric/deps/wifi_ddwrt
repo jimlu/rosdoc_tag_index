@@ -1,0 +1,2 @@
+[nav_msgs, std_msgs, python-mechanize, rostest, geometry_msgs, pr2_msgs, visualization_msgs,
+  tf, rospy]
