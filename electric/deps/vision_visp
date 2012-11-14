@@ -1,0 +1,2 @@
+[bullet, common_msgs, driver_common, geometry, image_common, image_pipeline, robot_model,
+  ros, ros_comm, vision_opencv]
