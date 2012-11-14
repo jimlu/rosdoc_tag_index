@@ -1,0 +1,2 @@
+[kdl, opencv2, tf2_kdl, message_filters, monocam_settler, sensor_msgs, interval_intersection,
+  geometry_msgs, calibration_msgs, tf2_ros, image_cb_detector, tf_conversions, joint_states_settler]
