@@ -2,6 +2,8 @@
   package: schunk_libm5api}
 - {docs_url: ../../../api/schunk_powercube_chain/html, location: 'http://ros.org/doc/fuerte/api/schunk_powercube_chain/tags/schunk_powercube_chain.tag',
   package: schunk_powercube_chain}
+- {docs_url: ../../../api/CANOpen_driver/html, location: 'http://ros.org/doc/fuerte/api/CANOpen_driver/tags/CANOpen_driver.tag',
+  package: CANOpen_driver}
 - {docs_url: ../../../api/schunk_sdh/html, location: 'http://ros.org/doc/fuerte/api/schunk_sdh/tags/schunk_sdh.tag',
   package: schunk_sdh}
 - {docs_url: ../../../api/schunk_description/html, location: 'http://ros.org/doc/fuerte/api/schunk_description/tags/schunk_description.tag',
