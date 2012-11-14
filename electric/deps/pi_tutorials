@@ -1,0 +1,3 @@
+[arbotix, audio_common, common_msgs, dynamixel_motor, geometry, openni_kinect, rharmony,
+  robot_model, robot_model_visualization, ros, ros_comm, turtlebot, vision_opencv,
+  visualization]
