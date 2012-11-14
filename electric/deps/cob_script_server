@@ -1,0 +1,3 @@
+[arm_navigation_msgs, python-pygraphviz, actionlib, trajectory_msgs, std_msgs, geometry_msgs,
+  cob_sound, cob_srvs, rostest, rospy, control_msgs, tf, kinematics_msgs, move_base_msgs,
+  actionlib_msgs, pr2_controllers_msgs]
