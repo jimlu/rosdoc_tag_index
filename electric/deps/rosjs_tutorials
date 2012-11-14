@@ -1,0 +1,2 @@
+[interactive_marker_client, rosjs_remotelabwidgets, wviz_scene_manager, rosjs_common,
+  wviz_tf_manager, rosjs_visualization]
