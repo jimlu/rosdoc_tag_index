@@ -1,0 +1,2 @@
+[dynamic_reconfigure, std_msgs, roslib, sensor_msgs, driver_base, rostest, rospy,
+  python-numpy]
