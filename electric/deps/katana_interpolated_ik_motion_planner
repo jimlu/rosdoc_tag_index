@@ -1,0 +1,2 @@
+[trajectory_msgs, interpolated_ik_motion_planner, motion_planning_msgs, sensor_msgs,
+  geometry_msgs, planning_environment_msgs, kinematics_msgs, visualization_msgs, rospy]

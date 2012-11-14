@@ -1,0 +1,2 @@
+[common, common_msgs, geometry, image_common, image_pipeline, pr2_apps, pr2_common,
+  pr2_controllers, robot_model, ros, ros_comm, vision_opencv]

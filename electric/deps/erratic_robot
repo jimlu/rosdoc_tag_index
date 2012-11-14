@@ -1,0 +1,2 @@
+[ros, ros_comm, robot_model, xacro, simulator_gazebo, navigation, laser_pipeline,
+  slam_gmapping, geometry, common_msgs, pr2_simulator, arm_navigation]

@@ -1,0 +1,2 @@
+[roscpp, actionlib, interactive_markers, sensor_msgs, object_manipulator, geometry_msgs,
+  visualization_msgs, tf]

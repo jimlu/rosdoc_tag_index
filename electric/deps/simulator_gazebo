@@ -1,0 +1,2 @@
+[bullet, common_msgs, common_rosdeps, driver_common, geometry, image_common, nodelet_core,
+  perception_pcl, physics_ode, robot_model, ros, ros_comm, visualization_common, xacro]
