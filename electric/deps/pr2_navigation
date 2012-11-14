@@ -1,0 +1,3 @@
+[bullet, common, common_msgs, driver_common, filters, geometry, laser_pipeline, navigation,
+  pluginlib, pr2_apps, pr2_common, pr2_common_actions, pr2_controllers, robot_model,
+  ros, ros_comm, slam_gmapping]
