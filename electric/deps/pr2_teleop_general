@@ -1,0 +1,3 @@
+[pr2_controller_manager, polled_camera, roscpp, pr2_mechanism_msgs, pr2_common_action_msgs,
+  actionlib, urdf, sensor_msgs, geometry_msgs, pr2_msgs, ps3joy, kinematics_msgs,
+  actionlib_msgs, urdf_interface, pr2_controllers_msgs]

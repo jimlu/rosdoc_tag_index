@@ -1,0 +1,2 @@
+[pr2_navigation_teleop, nav_msgs, laser_geometry, message_filters, roslib, sensor_msgs,
+  pr2_machine, pr2_navigation_global, tf, rospy, webui, pr2_navigation_perception]

@@ -1,0 +1,3 @@
+[kdl, trajectory_msgs, roscpp, planning_environment, filters, planning_models, eigen,
+  kdl_parser, distance_field, sensor_msgs, spline_smoother, angles, visualization_msgs,
+  tf, collision_proximity, arm_navigation_msgs]

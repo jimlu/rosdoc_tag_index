@@ -1,0 +1,4 @@
+[arm_navigation, bullet, common, common_msgs, control, eigen, filters, geometry, image_common,
+  octomap_mapping, orocos_kinematics_dynamics, perception_pcl, pluginlib, pr2_controllers,
+  pr2_mechanism, robot_model, ros, ros_comm, simulator_gazebo, vision_opencv, visualization,
+  warehousewg]

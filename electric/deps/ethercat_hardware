@@ -1,0 +1,2 @@
+[roscpp, diagnostic_updater, eml, pluginlib, realtime_tools, pr2_hardware_interface,
+  pr2_msgs, tinyxml, diagnostic_msgs]

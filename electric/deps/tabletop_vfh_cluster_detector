@@ -1,0 +1,2 @@
+[household_objects_database_msgs, roscpp, tabletop_object_detector, vfh_recognizer_db,
+  sensor_msgs, geometry_msgs, pcl, visualization_msgs, tf]

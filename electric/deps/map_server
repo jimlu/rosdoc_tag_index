@@ -1,0 +1,2 @@
+[nav_msgs, rosconsole, roscpp, bullet, python-yaml, python-imaging, sdl-image, yaml_cpp,
+  rospy]

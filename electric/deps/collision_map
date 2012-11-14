@@ -1,0 +1,2 @@
+[std_srvs, roscpp, actionlib, std_msgs, robot_self_filter, visualization_msgs, tf,
+  arm_navigation_msgs]
