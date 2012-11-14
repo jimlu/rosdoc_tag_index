@@ -1,0 +1,5 @@
+[kdl, pr2_controller_manager, eigen, rosatomic, roscpp, pr2_controller_interface,
+  eigen_conversions, tf, common_rosdeps, std_msgs, realtime_tools, lockfree, rospy,
+  angles, control_toolbox, diagnostic_msgs, tf_conversions, rosrt, std_srvs, pluginlib,
+  allocators, kdl_parser, robot_mechanism_controllers, geometry_msgs, object_manipulation_msgs,
+  pr2_mechanism_model]
