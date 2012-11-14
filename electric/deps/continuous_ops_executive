@@ -1,0 +1,2 @@
+[smach_ros, actionlib_msgs, roslib, std_msgs, smach, rospy, pr2_msgs, continuous_ops_msgs,
+  pr2_plugs_msgs]
