@@ -1,0 +1,2 @@
+[roscpp, std_msgs, actionlib, trajectory_msgs, sensor_msgs, geometry_msgs, tf_conversions,
+  pr2_common_action_msgs, tf, rospy, arm_navigation_msgs, kinematics_msgs, pr2_controllers_msgs]

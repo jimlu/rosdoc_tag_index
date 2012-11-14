@@ -1,0 +1,2 @@
+[nav_msgs, roscpp, filters, sensor_msgs, art_msgs, pcl, visualization_msgs, tf, art_map,
+  pcl_ros]
