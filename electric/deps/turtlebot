@@ -1,0 +1,3 @@
+[common_msgs, driver_common, geometry, image_transport_plugins, joystick_drivers,
+  multimaster_experimental, nodelet_core, openni_kinect, orocos_kinematics_dynamics,
+  perception_pcl, robot_model, ros, ros_comm, xacro]
