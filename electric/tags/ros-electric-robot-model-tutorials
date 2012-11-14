@@ -1,0 +1,2 @@
+- {docs_url: ../../../api/urdf_tutorial/html, location: 'http://ros.org/doc/electric/api/urdf_tutorial/tags/urdf_tutorial.tag',
+  package: urdf_tutorial}
