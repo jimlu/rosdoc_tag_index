@@ -1,0 +1,2 @@
+[roscpp, actionlib, interactive_markers, visualization_msgs, simple_arm_server, simple_arm_actions,
+  pcl_ros]
