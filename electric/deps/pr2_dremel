@@ -1,0 +1,3 @@
+[arm_navigation, bosch_manipulation_utils, common, common_msgs, geometry, perception_pcl,
+  pluginlib, pr2_arm_navigation, pr2_controllers, pr2_kinematics, pr2_mechanism, ros,
+  ros_comm, vision_opencv]
