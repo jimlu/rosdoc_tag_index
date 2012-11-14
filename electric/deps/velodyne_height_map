@@ -1,0 +1,2 @@
+[angles, roscpp, velodyne_driver, sensor_msgs, velodyne_msgs, rostest, pcl, velodyne_pointcloud,
+  nodelet, pcl_ros]
