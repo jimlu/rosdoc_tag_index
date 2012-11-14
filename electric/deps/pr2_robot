@@ -1,0 +1,4 @@
+[camera_drivers, common_msgs, diagnostics, driver_common, geometry_experimental, image_pipeline,
+  imu_drivers, joystick_drivers, laser_drivers, navigation, orocos_kinematics_dynamics,
+  pr2_common, pr2_controllers, pr2_ethercat_drivers, pr2_mechanism, pr2_power_drivers,
+  robot_model, ros, ros_comm, sound_drivers, wifi_drivers]
