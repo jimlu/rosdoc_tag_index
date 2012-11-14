@@ -1,2 +1,2 @@
-[applanix_bridge, applanix_launch, applanix_msgs, applanix_test, applanix_diagnostics,
+[applanix_test, applanix_bridge, applanix_launch, applanix_msgs, applanix_diagnostics,
   applanix_publisher, applanix_generated_msgs, applanix_params]
