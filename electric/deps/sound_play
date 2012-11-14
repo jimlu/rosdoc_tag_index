@@ -1,0 +1,2 @@
+[roscpp, libgstreamer-plugins-base0.10-dev, festival, roslib, libgstreamer0.10-dev,
+  gstreamer0.10-plugins-good, python-gst, rospy, gstreamer0.10-plugins-ugly, diagnostic_msgs]
