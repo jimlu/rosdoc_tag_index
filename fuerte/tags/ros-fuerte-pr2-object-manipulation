@@ -38,6 +38,8 @@
   package: object_recognition_gui}
 - {docs_url: ../../../api/rgbd_assembler/html, location: 'http://ros.org/doc/fuerte/api/rgbd_assembler/tags/rgbd_assembler.tag',
   package: rgbd_assembler}
+- {docs_url: ../../../api/active_realtime_segmentation/html, location: 'http://ros.org/doc/fuerte/api/active_realtime_segmentation/tags/active_realtime_segmentation.tag',
+  package: active_realtime_segmentation}
 - {docs_url: ../../../api/object_segmentation_gui/html, location: 'http://ros.org/doc/fuerte/api/object_segmentation_gui/tags/object_segmentation_gui.tag',
   package: object_segmentation_gui}
 - {docs_url: ../../../api/pr2_interactive_object_detection/html, location: 'http://ros.org/doc/fuerte/api/pr2_interactive_object_detection/tags/pr2_interactive_object_detection.tag',
