@@ -1,0 +1,2 @@
+[bosch_3rdparty, common_msgs, geometry, image_common, robot_model, ros, ros_comm,
+  vision_opencv]
