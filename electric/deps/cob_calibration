@@ -1,0 +1,2 @@
+[arm_navigation, cob_calibration_data, cob_command_tools, cob_robots, common_msgs,
+  geometry, nodelet_core, ros, ros_comm, vision_opencv]
