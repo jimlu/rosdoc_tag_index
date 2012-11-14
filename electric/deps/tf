@@ -1,0 +1,2 @@
+[rosconsole, roscpp, bullet, python-numpy, sensor_msgs, graphviz, rostest, geometry_msgs,
+  angles, message_filters, rospy, roswtf]
