@@ -1,0 +1,2 @@
+[common, common_msgs, control, diagnostics, eigen, filters, geometry, orocos_kinematics_dynamics,
+  pluginlib, pr2_common, pr2_mechanism, robot_model, ros, ros_comm]
