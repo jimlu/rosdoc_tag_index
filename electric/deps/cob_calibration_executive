@@ -1,0 +1,2 @@
+[cob_default_robot_config, cob_script_server, sensor_msgs, cob_calibration_srvs, rospy,
+  tf, geometry_msgs, kinematics_msgs]
