@@ -1,0 +1,3 @@
+[nav_msgs, rosconsole, laser_geometry, roscpp, std_msgs, sensor_msgs, map_server,
+  geometry_msgs, dynamic_reconfigure, pcl, visualization_msgs, tf, rosbag, voxel_grid,
+  pcl_ros]
