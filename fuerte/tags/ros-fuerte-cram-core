@@ -1,7 +1,7 @@
-- {docs_url: ../../../api/synchronization_tools/html, location: 'http://ros.org/doc/fuerte/api/synchronization_tools/tags/synchronization_tools.tag',
-  package: synchronization_tools}
 - {docs_url: ../../../api/alexandria/html, location: 'http://ros.org/doc/fuerte/api/alexandria/tags/alexandria.tag',
   package: alexandria}
+- {docs_url: ../../../api/synchronization_tools/html, location: 'http://ros.org/doc/fuerte/api/synchronization_tools/tags/synchronization_tools.tag',
+  package: synchronization_tools}
 - {docs_url: ../../../api/lisp_unit/html, location: 'http://ros.org/doc/fuerte/api/lisp_unit/tags/lisp_unit.tag',
   package: lisp_unit}
 - {docs_url: ../../../api/cram_utilities/html, location: 'http://ros.org/doc/fuerte/api/cram_utilities/tags/cram_utilities.tag',
