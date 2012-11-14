@@ -1,0 +1,3 @@
+[arbotix, arm_navigation, common, common_msgs, eigen, geometry, image_common, perception_pcl,
+  robot_model, ros, ros_comm, simple_arms, turtlebot, vision_opencv, visualization,
+  xacro]
