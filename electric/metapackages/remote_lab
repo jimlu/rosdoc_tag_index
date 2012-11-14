@@ -1,0 +1,5 @@
+[interactive_marker_client, rosjs_pr2interaction, rosjs_common, wviz_kinematic_manager,
+  rosjs_remotelabwidgets, ping, turtlebot_wviz, rosjs_tests, robot_booking, wviz,
+  mjpeg_server, pr2_pick_and_place_service, tf_lister, rosjs_assisted_teleoperation,
+  rosjs_resources, wviz_scene_manager, wviz_tf_manager, rosjs_visualization, topic_logger,
+  rosjs_tutorials, pointcloud_snapshot_service]
