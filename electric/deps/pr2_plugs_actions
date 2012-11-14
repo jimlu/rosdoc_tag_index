@@ -1,0 +1,6 @@
+[kdl, pr2_controller_manager, actionlib_msgs, roscpp, actionlib, pr2_arm_move_ik,
+  pr2_msgs, tf2_ros, tf, base_local_planner, pr2_image_snapshot_recorder, smach_ros,
+  costmap_2d, sensor_msgs, pr2_common_action_msgs, image_transport, joint_trajectory_action_tools,
+  rospy, move_base_msgs, pr2_plugs_common, pr2_plugs_msgs, tf_conversions, pr2_controllers_msgs,
+  dynamic_reconfigure, tf2_geometry_msgs, stereo_wall_detection, std_srvs, smach,
+  checkerboard_pose_estimation, geometry_msgs, outlet_pose_estimation]
