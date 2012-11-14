@@ -1,0 +1,1 @@
+[cob_calibration_msgs, sensor_msgs, python-scipy, rostest, rospy, visualization_msgs]

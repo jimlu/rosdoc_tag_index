@@ -1,0 +1,3 @@
+[cob_calibration_data, cob_script_server, cob_calibration_msgs, nodelet, cv_bridge,
+  sensor_msgs, cob_robot_calibration_est, cob_calibration_srvs, rostest, rospy, tf,
+  cob_camera_calibration, rosbag]
