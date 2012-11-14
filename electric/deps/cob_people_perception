@@ -1,0 +1,2 @@
+[cob_common, common, common_msgs, geometry, image_common, nodelet_core, openni_kinect,
+  orocos_kinematics_dynamics, perception_pcl, ros, ros_comm, vision_opencv]
