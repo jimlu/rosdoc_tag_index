@@ -1,0 +1,3 @@
+[rosbridge, rosjs_remotelabwidgets, pointcloud_snapshot_service, pr2_interactive_manipulation,
+  pr2_pick_and_place_service, robot_mechanism_controllers, visualization_msgs, rosjs_resources,
+  rosjs_common, rosjs_visualization]
