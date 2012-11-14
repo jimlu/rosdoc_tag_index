@@ -1,0 +1,2 @@
+[python-vtk, vfh_recognition, pcl, bullet, std_msgs, sensor_msgs, household_objects_database,
+  rospy, flann, tf, geometry_msgs, database_interface, bond]
