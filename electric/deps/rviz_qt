@@ -1,0 +1,4 @@
+[rosconsole, ogre, pyside, interactive_markers, resource_retriever, nav_msgs, laser_geometry,
+  roscpp, libqt4-dev, qt4-qmake, yaml-cpp, visualization_msgs, tf, common_rosdeps,
+  urdf_interface, urdf, message_filters, std_msgs, sensor_msgs, libqt4-opengl-dev,
+  image_transport, assimp, rospy, std_srvs, pluginlib, ogre_tools_qt, geometry_msgs]
