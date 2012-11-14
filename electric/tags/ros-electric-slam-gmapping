@@ -1,0 +1,2 @@
+- {docs_url: ../../../api/gmapping/html, location: 'http://ros.org/doc/electric/api/gmapping/tags/gmapping.tag',
+  package: gmapping}
