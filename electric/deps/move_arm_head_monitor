@@ -1,0 +1,2 @@
+[roscpp, planning_environment, actionlib, head_monitor_msgs, control_msgs, visualization_msgs,
+  tf, actionlib_msgs, pr2_controllers_msgs]
