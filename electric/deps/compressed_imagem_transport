@@ -1,0 +1,2 @@
+[dynamic_reconfigure, compressed_image_transport, sensor_msgs, imagem_transport, opencv2,
+  message_transport_common, cv_bridge]

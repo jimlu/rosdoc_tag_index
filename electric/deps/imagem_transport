@@ -1,0 +1,2 @@
+[message_filters, pluginlib, sensor_msgs, opencv2, message_transport_common, templated_transports,
+  cv_bridge]
