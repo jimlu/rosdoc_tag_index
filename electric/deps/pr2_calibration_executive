@@ -1,0 +1,4 @@
+[laser_joint_processor, laser_cb_detector, message_filters, image_view, monocam_settler,
+  trajectory_msgs, sensor_msgs, robot_mechanism_controllers, interval_intersection,
+  pr2_dense_laser_snapshotter, geometry_msgs, calibration_msgs, image_cb_detector,
+  laser_joint_projector]
