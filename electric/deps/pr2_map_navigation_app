@@ -1,0 +1,2 @@
+[pr2_navigation_teleop, map_store, pr2_navigation_config, mongodb, pr2_machine, pr2_navigation_global,
+  tf, topic_tools, pr2_position_scripts, pr2_navigation_perception, amcl]
