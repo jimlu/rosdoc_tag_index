@@ -1,0 +1,2 @@
+[cob_calibration_msgs, cob_calibration_executive, cob_robot_calibration, cob_calibration_srvs,
+  cob_image_capture, cob_robot_calibration_est, cob_camera_calibration]
