@@ -1,0 +1,2 @@
+[common_msgs, image_common, perception_pcl, pr2_controllers, ros, ros_comm, simulator_gazebo,
+  vision_opencv]
