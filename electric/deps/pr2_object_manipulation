@@ -1,0 +1,5 @@
+[arm_navigation, arm_navigation_experimental, assimp, bond_core, bullet, common, common_msgs,
+  common_rosdeps, driver_common, eigen, filters, geometry, image_common, navigation,
+  object_manipulation, orocos_kinematics_dynamics, perception_pcl, pluginlib, pr2_arm_navigation,
+  pr2_common, pr2_common_actions, pr2_controllers, pr2_mechanism, robot_model, ros,
+  ros_comm, ros_realtime, sql_database, vision_opencv, visualization, visualization_common]
