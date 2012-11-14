@@ -1,0 +1,3 @@
+[rosmake, rosboost_cfg, test_rosdep, rospack, rosbash, rosemacs, test_roslib, roslib,
+  roscreate, mk, test_roscreate, rosbuild, rosclean, rosunit, test_rospack, test_rosmake,
+  roslang, rosdep]
