@@ -1,0 +1,2 @@
+[trajectory_msgs, sensor_msgs, geometry_msgs, kinematics_msgs, visualization_msgs,
+  rospy, arm_navigation_msgs]
