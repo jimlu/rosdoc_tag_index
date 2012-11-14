@@ -1,0 +1,2 @@
+[move_base, map_server, cob_linear_nav, cob_navigation_config, cob_default_env_config,
+  topic_tools, amcl, cob_vel_integrator]
