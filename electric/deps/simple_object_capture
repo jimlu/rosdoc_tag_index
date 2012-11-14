@@ -1,0 +1,2 @@
+[dynamic_reconfigure, image_geometry, roscpp, message_filters, rosbag, sensor_msgs,
+  opencv2, pcl, cv_bridge]
