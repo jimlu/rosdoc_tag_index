@@ -1,0 +1,2 @@
+[kdl, dynamic_reconfigure, roscpp, sensor_msgs, robot_state_publisher, std_msgs, kdl_parser,
+  rospy, camera_pose_calibration, tf, geometry_msgs]
