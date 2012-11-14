@@ -1,0 +1,5 @@
+[pr2_mechanism_msgs, tabletop_collision_map_processing, pr2_gripper_sensor_action,
+  std_srvs, pr2_gripper_sensor_msgs, sensor_msgs, actionlib, trajectory_msgs, interpolated_ik_motion_planner,
+  joint_trajectory_action, pr2_mechanism_controllers, object_manipulator, rospy, pr2_manipulation_controllers,
+  pr2_gripper_action, tf, geometry_msgs, arm_navigation_msgs, object_manipulation_msgs,
+  pr2_controllers_msgs]
