@@ -1,0 +1,2 @@
+[dynamic_reconfigure, libnl-dev, roscpp, actionlib, libreadline-dev, libncurses-dev,
+  libpcsclite-dev, actionlib_msgs, libdbus-dev]
