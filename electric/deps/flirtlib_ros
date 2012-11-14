@@ -1,0 +1,2 @@
+[std_srvs, roscpp, occupancy_grid_utils, actionlib, interactive_markers, sensor_msgs,
+  move_base_msgs, tf, flirtlib, mongo_ros]
