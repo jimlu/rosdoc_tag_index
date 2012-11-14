@@ -1,2 +1,2 @@
-[nav_msgs, roscpp, libjpeg, std_msgs, sensor_msgs, gtk2, automake, pkg-config, geometry_msgs,
-  tf, libtool, autoconf, fltk]
+[nav_msgs, roscpp, opengl, libjpeg, std_msgs, sensor_msgs, gtk2, automake, pkg-config,
+  geometry_msgs, tf, libtool, autoconf, fltk]

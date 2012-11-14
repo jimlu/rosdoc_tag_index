@@ -1,0 +1,2 @@
+- {docs_url: ../../../api/sbcl/html, location: 'http://ros.org/doc/groovy/api/sbcl/tags/sbcl.tag',
+  package: sbcl}
