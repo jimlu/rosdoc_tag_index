@@ -1,0 +1,2 @@
+[arm_navigation, brown_remotelab, common, common_msgs, geometry, image_common, object_manipulation,
+  pr2_kinematics, pr2_object_manipulation, ros, ros_comm, vision_opencv, visualization]
