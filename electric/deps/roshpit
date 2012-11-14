@@ -1,0 +1,2 @@
+[common, common_msgs, executive_smach, geometry, ros, ros_comm, visualization, rosh_robot_plugins,
+  rosh_desktop_plugins]
