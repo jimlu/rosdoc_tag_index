@@ -1,0 +1,2 @@
+[common_msgs, common_rosdeps, ros, ros_comm, pluginlib, bond_core, nodelet_core, filters,
+  xacro]

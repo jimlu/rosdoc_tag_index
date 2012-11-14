@@ -1,0 +1,2 @@
+[arm_navigation, common, common_msgs, geometry, pr2_common_actions, pr2_controllers,
+  ros, ros_comm, vision_opencv, bosch_image_proc, perception_pcl]
