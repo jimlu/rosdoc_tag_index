@@ -1,0 +1,2 @@
+[dynamic_reconfigure, ps-engine, roscpp, stereo_msgs, camera_info_manager, sensor_msgs,
+  image_transport, libusb1.0, pcl, tf, nodelet, openni, pcl_ros]
