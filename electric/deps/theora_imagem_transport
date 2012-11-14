@@ -1,0 +1,2 @@
+[dynamic_reconfigure, pluginlib, sensor_msgs, imagem_transport, theora_image_transport,
+  sharedmem_transport, libogg, message_transport_common, cv_bridge, libtheora]
