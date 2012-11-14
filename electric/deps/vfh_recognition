@@ -1,0 +1,2 @@
+[python-vtk, pcl, bullet, std_msgs, sensor_msgs, opencv2, eigen, rospy, flann, tf,
+  geometry_msgs, pcl_ros, bond]
