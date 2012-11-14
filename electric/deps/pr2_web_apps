@@ -1,0 +1,3 @@
+[audio_common, common, common_msgs, geometry, laser_pipeline, navigation, pr2_apps,
+  pr2_common, pr2_common_actions, pr2_navigation, pr2_plugs, ros, ros_comm, web_interface,
+  wg_common, wg_pr2_apps]
