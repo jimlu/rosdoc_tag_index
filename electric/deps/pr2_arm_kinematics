@@ -1,0 +1,2 @@
+[kdl, roscpp, pluginlib, kinematics_base, urdf, kdl_parser, geometry_msgs, angles,
+  kinematics_msgs, tf_conversions, eigen]

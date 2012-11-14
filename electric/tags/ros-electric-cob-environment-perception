@@ -1,0 +1,4 @@
+- {docs_url: ../../../api/cob_3d_mapping_msgs/html, location: 'http://ros.org/doc/electric/api/cob_3d_mapping_msgs/tags/cob_3d_mapping_msgs.tag',
+  package: cob_3d_mapping_msgs}
+- {docs_url: ../../../api/cob_3d_mapping_pipeline_fake/html, location: 'http://ros.org/doc/electric/api/cob_3d_mapping_pipeline_fake/tags/cob_3d_mapping_pipeline_fake.tag',
+  package: cob_3d_mapping_pipeline_fake}
