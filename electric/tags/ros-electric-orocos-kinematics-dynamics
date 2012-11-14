@@ -1,0 +1,4 @@
+- {docs_url: ../../../api/orocos_kdl/html, location: 'http://ros.org/doc/electric/api/orocos_kdl/tags/orocos_kdl.tag',
+  package: orocos_kdl}
+- {docs_url: ../../../api/kdl/html, location: 'http://ros.org/doc/electric/api/kdl/tags/kdl.tag',
+  package: kdl}
