@@ -1,0 +1,2 @@
+[common_msgs, driver_common, geometry, geometry_experimental, orocos_kinematics_dynamics,
+  pr2_calibration, robot_model, ros, ros_comm, vision_opencv]

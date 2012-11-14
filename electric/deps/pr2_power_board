@@ -1,0 +1,1 @@
+[roscpp, diagnostic_updater, wxpython, rospy, pr2_msgs, diagnostic_msgs]
