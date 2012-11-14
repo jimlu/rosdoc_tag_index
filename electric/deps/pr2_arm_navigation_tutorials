@@ -1,0 +1,2 @@
+[pr2_arm_navigation_perception, planning_environment, actionlib_msgs, mapping_rviz_plugin,
+  kinematics_msgs, arm_navigation_msgs, pr2_controllers_msgs]
