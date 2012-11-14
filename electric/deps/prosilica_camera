@@ -1,0 +1,3 @@
+[self_test, dynamic_reconfigure, polled_camera, roscpp, driver_base, std_msgs, sensor_msgs,
+  image_transport, prosilica_gige_sdk, diagnostic_updater, camera_calibration_parsers,
+  diagnostic_msgs]
