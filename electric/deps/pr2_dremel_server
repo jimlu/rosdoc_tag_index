@@ -1,0 +1,3 @@
+[pr2_controller_manager, trajectory_filter_server, roscpp, pr2_controller_interface,
+  actionlib, simple_robot_control, geometry_msgs, tf, rospy, pr2_controllers_msgs,
+  actionlib_msgs, kinematics_msgs, arm_navigation_msgs]

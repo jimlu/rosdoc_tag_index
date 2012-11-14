@@ -1,0 +1,3 @@
+[rosgraph_msgs, urdf_interface, fltk, std_srvs, ogre, bullet, opende, libxml2, urdf,
+  gazebo_msgs, assimp, geometry_msgs, dynamic_reconfigure, tinyxml, tf, roscpp, common_rosdeps,
+  pkg-config, libtool, yaml, parallel_quickstep]

@@ -1,0 +1,2 @@
+[image_geometry, actionlib, visualization_msgs, libqt4-opengl-dev, opencv2, pr2_dremel_server,
+  vlr, remote_power_manager]

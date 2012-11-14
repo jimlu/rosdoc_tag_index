@@ -1,0 +1,2 @@
+[image_geometry, roscpp, eigen, eigen_conversions, camera_self_filter, geometry_msgs,
+  pcl, pcl_ros, cv_bridge, simple_robot_control]

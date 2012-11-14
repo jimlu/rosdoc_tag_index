@@ -1,0 +1,2 @@
+[joint_trajectory_generator, roscpp, actionlib, sensor_msgs, pr2_controllers_msgs,
+  katana_msgs, arm_navigation_msgs]
