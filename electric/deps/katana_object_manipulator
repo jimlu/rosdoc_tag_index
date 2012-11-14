@@ -1,0 +1,4 @@
+[pr2_mechanism_msgs, planning_environment_msgs, roscpp, object_manipulator, move_arm_msgs,
+  actionlib, motion_planning_msgs, sensor_msgs, geometry_msgs, eigen_conversions,
+  eigen, interpolated_ik_motion_planner, rospy, visualization_msgs, tf, kinematics_msgs,
+  mapping_msgs, object_manipulation_msgs, pr2_controllers_msgs]

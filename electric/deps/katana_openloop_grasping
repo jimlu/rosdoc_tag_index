@@ -1,0 +1,2 @@
+[roscpp, katana_arm_navigation, object_manipulation_msgs, actionlib, motion_planning_msgs,
+  collision_environment_msgs, move_arm_msgs]
