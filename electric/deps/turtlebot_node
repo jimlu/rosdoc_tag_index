@@ -1,0 +1,2 @@
+[nav_msgs, kdl, rospy, dynamic_reconfigure, turtlebot_driver, tf, geometry_msgs, diagnostic_msgs,
+  daemontools]
