@@ -6,10 +6,10 @@
   package: pr2_arm_navigation_tutorials}
 - {docs_url: ../../../api/pr2_arm_navigation_actions/html, location: 'http://ros.org/doc/electric/api/pr2_arm_navigation_actions/tags/pr2_arm_navigation_actions.tag',
   package: pr2_arm_navigation_actions}
-- {docs_url: ../../../api/pr2_arm_navigation_filtering/html, location: 'http://ros.org/doc/electric/api/pr2_arm_navigation_filtering/tags/pr2_arm_navigation_filtering.tag',
-  package: pr2_arm_navigation_filtering}
 - {docs_url: ../../../api/pr2_arm_navigation_planning/html, location: 'http://ros.org/doc/electric/api/pr2_arm_navigation_planning/tags/pr2_arm_navigation_planning.tag',
   package: pr2_arm_navigation_planning}
+- {docs_url: ../../../api/pr2_arm_navigation_filtering/html, location: 'http://ros.org/doc/electric/api/pr2_arm_navigation_filtering/tags/pr2_arm_navigation_filtering.tag',
+  package: pr2_arm_navigation_filtering}
 - {docs_url: ../../../api/pr2_arm_navigation_kinematics/html, location: 'http://ros.org/doc/electric/api/pr2_arm_navigation_kinematics/tags/pr2_arm_navigation_kinematics.tag',
   package: pr2_arm_navigation_kinematics}
 - {docs_url: ../../../api/pr2_3dnav/html, location: 'http://ros.org/doc/electric/api/pr2_3dnav/tags/pr2_3dnav.tag',
