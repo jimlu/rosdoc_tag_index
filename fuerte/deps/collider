@@ -1,3 +1,3 @@
-[image_geometry, std_srvs, roscpp, planning_environment, actionlib, std_msgs, octomap_msgs,
-  robot_self_filter, opencv2, eigen, octomap, octomap_ros, image_transport, pcl, visualization_msgs,
-  tf, common_rosdeps, pcl_ros, actionlib_msgs, arm_navigation_msgs]
+[image_geometry, std_srvs, roscpp, planning_environment, actionlib, std_msgs, image_transport,
+  robot_self_filter, opencv2, eigen, pcl, visualization_msgs, tf, common_rosdeps,
+  pcl_ros, actionlib_msgs, arm_navigation_msgs]
