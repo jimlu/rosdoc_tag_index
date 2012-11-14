@@ -1,0 +1,2 @@
+[trajectory_filter_server, roscpp, actionlib, trajectory_msgs, sensor_msgs, katana_trajectory_filter,
+  control_msgs, arm_navigation_msgs, pr2_controllers_msgs]

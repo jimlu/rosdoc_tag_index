@@ -1,0 +1,4 @@
+[move_arm, image_geometry, trajectory_filter_server, control_toolbox, roscpp, message_filters,
+  pluginlib, actionlib, pr2_controller_interface, geometry_msgs, pr2_controller_manager,
+  realtime_tools, kinematics_msgs, robot_mechanism_controllers, pcl, pr2_arm_navigation_kinematics,
+  rospy, pr2_arm_kinematics_constraint_aware, pr2_controllers_msgs, arm_navigation_msgs]
