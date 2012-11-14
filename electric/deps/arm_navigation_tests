@@ -1,0 +1,6 @@
+[pr2_controller_manager, pr2_arm_navigation_filtering, pr2_arm_kinematics, move_arm,
+  single_joint_position_action, image_proc, planning_environment, pr2_arm_navigation_planning,
+  rostopic, collision_map, pr2_arm_navigation_kinematics, gazebo, pr2_description,
+  diagnostic_aggregator, robot_state_publisher, move_arm_warehouse, gazebo_tools,
+  joint_trajectory_action, pr2_gripper_action, pr2_head_action, pr2_gazebo, pr2_arm_navigation_perception,
+  pr2_arm_navigation_actions, pr2_arm_kinematics_constraint_aware]

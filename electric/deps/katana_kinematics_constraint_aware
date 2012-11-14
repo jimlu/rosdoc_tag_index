@@ -1,0 +1,2 @@
+[pluginlib, urdf, rospy, roscpp, orrosplanning, kinematics_base, motion_planning_msgs,
+  arm_kinematics_constraint_aware, kinematics_msgs, ompl, geometry_msgs]
