@@ -1,0 +1,4 @@
+[rosconsole, ogre, wxswig, urdf, resource_retriever, wxpython, wxpropgrid, nav_msgs,
+  laser_geometry, roscpp, wxPython_swig_interface, visualization_msgs, tf, common_rosdeps,
+  interactive_markers, message_filters, ogre_tools, std_msgs, sensor_msgs, image_transport,
+  assimp, wxwidgets, rxtools, std_srvs, yaml_cpp, geometry_msgs]
