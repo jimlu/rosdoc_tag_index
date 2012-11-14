@@ -1,0 +1,1 @@
+[roscpp, roslib, std_msgs, lockfree, rosatomic, rosunit, allocators]
