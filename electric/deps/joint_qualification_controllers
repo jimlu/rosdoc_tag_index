@@ -1,0 +1,2 @@
+[urdf, control_toolbox, roscpp, pr2_controller_interface, sensor_msgs, pluginlib,
+  std_msgs, realtime_tools, robot_mechanism_controllers, pr2_hardware_interface, pr2_mechanism_model]
