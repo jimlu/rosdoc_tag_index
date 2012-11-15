@@ -6,15 +6,15 @@
   package: adc_sub20}
 - {docs_url: ../../../api/gumstix_memwrite_bma180/html, location: 'http://ros.org/doc/electric/api/gumstix_memwrite_bma180/tags/gumstix_memwrite_bma180.tag',
   package: gumstix_memwrite_bma180}
-- {docs_url: ../../../api/amtec/html, location: 'http://ros.org/doc/electric/api/amtec/tags/amtec.tag',
-  package: amtec}
 - {docs_url: ../../../api/smi540/html, location: 'http://ros.org/doc/electric/api/smi540/tags/smi540.tag',
   package: smi540}
 - {docs_url: ../../../api/photo/html, location: 'http://ros.org/doc/electric/api/photo/tags/photo.tag',
   package: photo}
 - {docs_url: ../../../api/usb_cam/html, location: 'http://ros.org/doc/electric/api/usb_cam/tags/usb_cam.tag',
   package: usb_cam}
-- {docs_url: ../../../api/bma180/html, location: 'http://ros.org/doc/electric/api/bma180/tags/bma180.tag',
-  package: bma180}
 - {docs_url: ../../../api/gumstix_memread_bma180/html, location: 'http://ros.org/doc/electric/api/gumstix_memread_bma180/tags/gumstix_memread_bma180.tag',
   package: gumstix_memread_bma180}
+- {docs_url: ../../../api/bma180/html, location: 'http://ros.org/doc/electric/api/bma180/tags/bma180.tag',
+  package: bma180}
+- {docs_url: ../../../api/amtec/html, location: 'http://ros.org/doc/electric/api/amtec/tags/amtec.tag',
+  package: amtec}
