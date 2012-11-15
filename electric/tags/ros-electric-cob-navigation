@@ -2,10 +2,10 @@
   package: cob_navigation_config}
 - {docs_url: ../../../api/cob_mapping_slam/html, location: 'http://ros.org/doc/electric/api/cob_mapping_slam/tags/cob_mapping_slam.tag',
   package: cob_mapping_slam}
-- {docs_url: ../../../api/cob_vel_integrator/html, location: 'http://ros.org/doc/electric/api/cob_vel_integrator/tags/cob_vel_integrator.tag',
-  package: cob_vel_integrator}
 - {docs_url: ../../../api/cob_linear_nav/html, location: 'http://ros.org/doc/electric/api/cob_linear_nav/tags/cob_linear_nav.tag',
   package: cob_linear_nav}
+- {docs_url: ../../../api/cob_vel_integrator/html, location: 'http://ros.org/doc/electric/api/cob_vel_integrator/tags/cob_vel_integrator.tag',
+  package: cob_vel_integrator}
 - {docs_url: ../../../api/cob_navigation_global/html, location: 'http://ros.org/doc/electric/api/cob_navigation_global/tags/cob_navigation_global.tag',
   package: cob_navigation_global}
 - {docs_url: ../../../api/cob_navigation_slam/html, location: 'http://ros.org/doc/electric/api/cob_navigation_slam/tags/cob_navigation_slam.tag',

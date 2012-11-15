@@ -1,8 +1,8 @@
+- {docs_url: ../../../api/camera1394/html, location: 'http://ros.org/doc/electric/api/camera1394/tags/camera1394.tag',
+  package: camera1394}
 - {docs_url: ../../../api/prosilica_gige_sdk/html, location: 'http://ros.org/doc/electric/api/prosilica_gige_sdk/tags/prosilica_gige_sdk.tag',
   package: prosilica_gige_sdk}
 - {docs_url: ../../../api/prosilica_camera/html, location: 'http://ros.org/doc/electric/api/prosilica_camera/tags/prosilica_camera.tag',
   package: prosilica_camera}
-- {docs_url: ../../../api/camera1394/html, location: 'http://ros.org/doc/electric/api/camera1394/tags/camera1394.tag',
-  package: camera1394}
 - {docs_url: ../../../api/wge100_camera/html, location: 'http://ros.org/doc/electric/api/wge100_camera/tags/wge100_camera.tag',
   package: wge100_camera}

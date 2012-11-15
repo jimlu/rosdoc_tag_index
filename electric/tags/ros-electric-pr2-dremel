@@ -1,7 +1,7 @@
-- {docs_url: ../../../api/pr2_dremel_arm_controller/html, location: 'http://ros.org/doc/electric/api/pr2_dremel_arm_controller/tags/pr2_dremel_arm_controller.tag',
-  package: pr2_dremel_arm_controller}
 - {docs_url: ../../../api/vlr/html, location: 'http://ros.org/doc/electric/api/vlr/tags/vlr.tag',
   package: vlr}
+- {docs_url: ../../../api/pr2_dremel_arm_controller/html, location: 'http://ros.org/doc/electric/api/pr2_dremel_arm_controller/tags/pr2_dremel_arm_controller.tag',
+  package: pr2_dremel_arm_controller}
 - {docs_url: ../../../api/remote_power_manager/html, location: 'http://ros.org/doc/electric/api/remote_power_manager/tags/remote_power_manager.tag',
   package: remote_power_manager}
 - {docs_url: ../../../api/pr2_dremel_server/html, location: 'http://ros.org/doc/electric/api/pr2_dremel_server/tags/pr2_dremel_server.tag',

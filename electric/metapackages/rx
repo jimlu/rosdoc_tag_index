@@ -1,2 +1,2 @@
-[rxtools, rxdeps, xdot, wxswig, wxPython_swig_interface, rxgraph, rxbag, test_rxdeps,
+[rxtools, rxdeps, xdot, rxbag, wxPython_swig_interface, rxgraph, wxswig, test_rxdeps,
   test_rxplot]
