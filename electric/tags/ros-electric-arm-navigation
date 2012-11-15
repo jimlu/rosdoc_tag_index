@@ -24,8 +24,6 @@
   package: sbpl}
 - {docs_url: ../../../api/mapping_rviz_plugin/html, location: 'http://ros.org/doc/electric/api/mapping_rviz_plugin/tags/mapping_rviz_plugin.tag',
   package: mapping_rviz_plugin}
-- {docs_url: ../../../api/ompl/html, location: 'http://ros.org/doc/electric/api/ompl/tags/ompl.tag',
-  package: ompl}
 - {docs_url: ../../../api/constraint_aware_spline_smoother/html, location: 'http://ros.org/doc/electric/api/constraint_aware_spline_smoother/tags/constraint_aware_spline_smoother.tag',
   package: constraint_aware_spline_smoother}
 - {docs_url: ../../../api/kinematics_base/html, location: 'http://ros.org/doc/electric/api/kinematics_base/tags/kinematics_base.tag',
@@ -34,6 +32,8 @@
   package: arm_kinematics_constraint_aware}
 - {docs_url: ../../../api/collision_map/html, location: 'http://ros.org/doc/electric/api/collision_map/tags/collision_map.tag',
   package: collision_map}
+- {docs_url: ../../../api/ompl/html, location: 'http://ros.org/doc/electric/api/ompl/tags/ompl.tag',
+  package: ompl}
 - {docs_url: ../../../api/ompl_ros_interface/html, location: 'http://ros.org/doc/electric/api/ompl_ros_interface/tags/ompl_ros_interface.tag',
   package: ompl_ros_interface}
 - {docs_url: ../../../api/motion_planning_rviz_plugin/html, location: 'http://ros.org/doc/electric/api/motion_planning_rviz_plugin/tags/motion_planning_rviz_plugin.tag',
