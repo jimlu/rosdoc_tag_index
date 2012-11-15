@@ -6,10 +6,6 @@
   package: navigation_task}
 - {docs_url: ../../../api/pr2_base_recovery/html, location: 'http://ros.org/doc/groovy/api/pr2_base_recovery/tags/pr2_base_recovery.tag',
   package: pr2_base_recovery}
-- {docs_url: ../../../api/continuous_ops_test_task/html, location: 'http://ros.org/doc/groovy/api/continuous_ops_test_task/tags/continuous_ops_test_task.tag',
-  package: continuous_ops_test_task}
-- {docs_url: ../../../api/motor_resetter/html, location: 'http://ros.org/doc/groovy/api/motor_resetter/tags/motor_resetter.tag',
-  package: motor_resetter}
 - {docs_url: ../../../api/continuous_ops_web/html, location: 'http://ros.org/doc/groovy/api/continuous_ops_web/tags/continuous_ops_web.tag',
   package: continuous_ops_web}
 - {docs_url: ../../../api/continuous_ops_alerts/html, location: 'http://ros.org/doc/groovy/api/continuous_ops_alerts/tags/continuous_ops_alerts.tag',
