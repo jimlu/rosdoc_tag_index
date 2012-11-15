@@ -1,1 +1,1 @@
-[hector_xacro_tools, hector_sensors_description, hector_sensors_gazebo]
+[hector_sensors_gazebo, hector_sensors_description, hector_xacro_tools]
