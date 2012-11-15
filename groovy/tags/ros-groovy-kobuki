@@ -4,15 +4,15 @@
   package: kobuki_udev}
 - {docs_url: ../../../api/kobuki_comms/html, location: 'http://ros.org/doc/groovy/api/kobuki_comms/tags/kobuki_comms.tag',
   package: kobuki_comms}
-- {docs_url: ../../../api/kobuki_utilities/html, location: 'http://ros.org/doc/groovy/api/kobuki_utilities/tags/kobuki_utilities.tag',
-  package: kobuki_utilities}
 - {docs_url: ../../../api/kobuki_keyop/html, location: 'http://ros.org/doc/groovy/api/kobuki_keyop/tags/kobuki_keyop.tag',
   package: kobuki_keyop}
 - {docs_url: ../../../api/kobuki_driver/html, location: 'http://ros.org/doc/groovy/api/kobuki_driver/tags/kobuki_driver.tag',
   package: kobuki_driver}
 - {docs_url: ../../../api/kobuki_node/html, location: 'http://ros.org/doc/groovy/api/kobuki_node/tags/kobuki_node.tag',
   package: kobuki_node}
-- {docs_url: ../../../api/kobuki_testsuite/html, location: 'http://ros.org/doc/groovy/api/kobuki_testsuite/tags/kobuki_testsuite.tag',
-  package: kobuki_testsuite}
 - {docs_url: ../../../api/kobuki_arm/html, location: 'http://ros.org/doc/groovy/api/kobuki_arm/tags/kobuki_arm.tag',
   package: kobuki_arm}
+- {docs_url: ../../../api/kobuki_testsuite/html, location: 'http://ros.org/doc/groovy/api/kobuki_testsuite/tags/kobuki_testsuite.tag',
+  package: kobuki_testsuite}
+- {docs_url: ../../../api/kobuki_utilities/html, location: 'http://ros.org/doc/groovy/api/kobuki_utilities/tags/kobuki_utilities.tag',
+  package: kobuki_utilities}
