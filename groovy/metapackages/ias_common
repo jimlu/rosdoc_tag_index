@@ -1,2 +1,2 @@
-[triangle_mesh_msgs, vision_srvs, annotation_srvs, ias_table_msgs, navp_action, cogman_msgs,
-  vision_msgs]
+[triangle_mesh_msgs, vision_msgs, annotation_srvs, ias_table_msgs, navp_action, cogman_msgs,
+  vision_srvs]
