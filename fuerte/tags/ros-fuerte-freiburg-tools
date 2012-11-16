@@ -16,5 +16,3 @@
   package: shell_execution_action_server}
 - {docs_url: ../../../api/fr_tools/html, location: 'http://ros.org/doc/fuerte/api/fr_tools/tags/fr_tools.tag',
   package: fr_tools}
-- {docs_url: ../../../api/rosgui_paramedit/html, location: 'http://ros.org/doc/fuerte/api/rosgui_paramedit/tags/rosgui_paramedit.tag',
-  package: rosgui_paramedit}
