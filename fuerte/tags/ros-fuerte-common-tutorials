@@ -1,8 +1,8 @@
 - {docs_url: ../../../api/actionlib_tutorials/html, location: 'http://ros.org/doc/fuerte/api/actionlib_tutorials/tags/actionlib_tutorials.tag',
   package: actionlib_tutorials}
+- {docs_url: ../../../api/pluginlib_tutorials/html, location: 'http://ros.org/doc/fuerte/api/pluginlib_tutorials/tags/pluginlib_tutorials.tag',
+  package: pluginlib_tutorials}
 - {docs_url: ../../../api/turtle_actionlib/html, location: 'http://ros.org/doc/fuerte/api/turtle_actionlib/tags/turtle_actionlib.tag',
   package: turtle_actionlib}
 - {docs_url: ../../../api/nodelet_tutorial_math/html, location: 'http://ros.org/doc/fuerte/api/nodelet_tutorial_math/tags/nodelet_tutorial_math.tag',
   package: nodelet_tutorial_math}
-- {docs_url: ../../../api/pluginlib_tutorials/html, location: 'http://ros.org/doc/fuerte/api/pluginlib_tutorials/tags/pluginlib_tutorials.tag',
-  package: pluginlib_tutorials}
