@@ -10,10 +10,6 @@
   package: cram_utilities}
 - {docs_url: ../../../api/cram_reasoning/html, location: 'http://ros.org/doc/electric/api/cram_reasoning/tags/cram_reasoning.tag',
   package: cram_reasoning}
-- {docs_url: ../../../api/split_sequence/html, location: 'http://ros.org/doc/electric/api/split_sequence/tags/split_sequence.tag',
-  package: split_sequence}
-- {docs_url: ../../../api/gsd/html, location: 'http://ros.org/doc/electric/api/gsd/tags/gsd.tag',
-  package: gsd}
 - {docs_url: ../../../api/cram_designators/html, location: 'http://ros.org/doc/electric/api/cram_designators/tags/cram_designators.tag',
   package: cram_designators}
 - {docs_url: ../../../api/cram_test_utilities/html, location: 'http://ros.org/doc/electric/api/cram_test_utilities/tags/cram_test_utilities.tag',
@@ -28,6 +24,10 @@
   package: trivial_features}
 - {docs_url: ../../../api/babel/html, location: 'http://ros.org/doc/electric/api/babel/tags/babel.tag',
   package: babel}
+- {docs_url: ../../../api/split_sequence/html, location: 'http://ros.org/doc/electric/api/split_sequence/tags/split_sequence.tag',
+  package: split_sequence}
+- {docs_url: ../../../api/gsd/html, location: 'http://ros.org/doc/electric/api/gsd/tags/gsd.tag',
+  package: gsd}
 - {docs_url: ../../../api/cffi/html, location: 'http://ros.org/doc/electric/api/cffi/tags/cffi.tag',
   package: cffi}
 - {docs_url: ../../../api/cl_utilities/html, location: 'http://ros.org/doc/electric/api/cl_utilities/tags/cl_utilities.tag',
