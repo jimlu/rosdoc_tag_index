@@ -1,0 +1,2 @@
+[roscpp, dynamixel_controllers, robot_state_publisher, std_msgs, joint_state_publisher,
+  wxpython, geometry_msgs, dynamixel_driver, tf, rospy, dynamixel_msgs, rviz]
