@@ -1,1 +1,1 @@
-[epydoc, python-sphinx, genmsg, python-yaml, rospkg, doxygen, python-kitchen]
+[epydoc, python-sphinx, genmsg, python-yaml, rospkg, python-catkin-pkg, doxygen, python-kitchen]
