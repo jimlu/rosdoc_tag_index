@@ -1,0 +1,3 @@
+[nav_msgs, nao_msgs, std_srvs, roscpp, message_filters, sensor_msgs, robot_state_publisher,
+  std_msgs, nao_driver, nao_description, move_base_msgs, geometry_msgs, angles, tf,
+  actionlib]
