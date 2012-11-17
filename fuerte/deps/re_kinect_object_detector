@@ -1,0 +1,1 @@
+[tinyxml, roscpp, sensor_msgs, image_transport, re_msgs, pcl, tf, cv_bridge]
