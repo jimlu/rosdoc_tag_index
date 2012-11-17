@@ -1,1 +1,1 @@
-[walk_msgs, walk_tools, halfsteps_pattern_generator, walk_interfaces]
+[walk_interfaces, walk_msgs, halfsteps_pattern_generator, walk_tools]
