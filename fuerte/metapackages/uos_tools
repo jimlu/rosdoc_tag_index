@@ -1,1 +1,1 @@
-[uos_gazebo_worlds, tf_publisher_gui, joint_state_muxer]
+[joint_state_muxer, tf_publisher_gui, uos_gazebo_worlds]
