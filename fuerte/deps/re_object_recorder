@@ -1,0 +1,1 @@
+[roscpp, sensor_msgs, libqt4-dev, re_vision, opencv2, pcl, tf, re_srvs]

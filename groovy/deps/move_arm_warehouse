@@ -1,5 +1,5 @@
-[rosconsole, mongo_ros, move_arm_head_monitor, ompl_ros_interface, roscpp, pr2_mechanism_msgs,
+[rosconsole, move_arm_head_monitor, ompl_ros_interface, roscpp, pr2_mechanism_msgs,
   planning_environment, actionlib, planning_models, std_msgs, constraint_aware_spline_smoother,
-  interpolated_ik_motion_planner, geometry_msgs, visualization_msgs, interactive_markers,
-  kinematics_msgs, pr2_controllers_msgs, geometric_shapes, actionlib_msgs, tf_conversions,
-  arm_navigation_msgs]
+  interpolated_ik_motion_planner, warehouse_ros, geometry_msgs, visualization_msgs,
+  interactive_markers, kinematics_msgs, pr2_controllers_msgs, geometric_shapes, actionlib_msgs,
+  tf_conversions, arm_navigation_msgs]
