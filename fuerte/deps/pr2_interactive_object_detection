@@ -1,3 +1,4 @@
-[roscpp, stereo_msgs, object_recognition_gui, tabletop_object_detector, sensor_msgs,
-  household_objects_database, object_manipulator, rgbd_assembler, tf, object_segmentation_gui,
-  actionlib_msgs, rviz]
+[household_objects_database_msgs, tabletop_collision_map_processing, roscpp, stereo_msgs,
+  object_recognition_gui, tabletop_object_detector, sensor_msgs, household_objects_database,
+  object_manipulator, rgbd_assembler, tf, object_segmentation_gui, actionlib_msgs,
+  rviz]

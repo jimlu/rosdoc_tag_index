@@ -1,4 +1,4 @@
 [actionlib, arm_navigation, bullet, common_msgs, common_rosdeps, control, filters,
   geometry, image_common, octomap_mapping, octomap_msgs, octomap_ros, orocos_kinematics_dynamics,
   perception_pcl, pluginlib, pr2_controllers, pr2_mechanism, robot_model, ros, ros_comm,
-  vision_opencv, visualization, warehousewg]
+  vision_opencv, visualization, warehouse_ros]
