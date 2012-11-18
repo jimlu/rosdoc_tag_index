@@ -1,0 +1,2 @@
+[nao_msgs, std_srvs, roscpp, std_msgs, actionlib, trajectory_msgs, sensor_msgs, diagnostic_updater,
+  geometry_msgs, humanoid_nav_msgs, rospy]
