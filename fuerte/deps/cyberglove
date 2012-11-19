@@ -1,1 +1,2 @@
-[roscpp, std_msgs, roslib, sensor_msgs, cereal_port, rospy, tinyxml, diagnostic_msgs]
+[roscpp, std_msgs, roslib, sensor_msgs, cereal_port, rospy, sr_cyberglove_config,
+  tinyxml, diagnostic_msgs]
