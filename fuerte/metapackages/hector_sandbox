@@ -1,1 +1,1 @@
-[hector_laserscan_to_pointcloud, hector_rgbd_test_gazebo, hector_interactive_marker_pose_server]
+[hector_interactive_marker_pose_server, hector_rgbd_test_gazebo, hector_laserscan_to_pointcloud]
