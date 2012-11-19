@@ -1,7 +1,7 @@
-- {docs_url: ../../../api/motoman_config/html, location: 'http://ros.org/doc/fuerte/api/motoman_config/tags/motoman_config.tag',
-  package: motoman_config}
 - {docs_url: ../../../api/dx100/html, location: 'http://ros.org/doc/fuerte/api/dx100/tags/dx100.tag',
   package: dx100}
+- {docs_url: ../../../api/motoman_config/html, location: 'http://ros.org/doc/fuerte/api/motoman_config/tags/motoman_config.tag',
+  package: motoman_config}
 - {docs_url: ../../../api/SIA20D_Mesh_arm_navigation/html, location: 'http://ros.org/doc/fuerte/api/SIA20D_Mesh_arm_navigation/tags/SIA20D_Mesh_arm_navigation.tag',
   package: SIA20D_Mesh_arm_navigation}
 - {docs_url: ../../../api/sia10d_mesh_arm_navigation/html, location: 'http://ros.org/doc/fuerte/api/sia10d_mesh_arm_navigation/tags/sia10d_mesh_arm_navigation.tag',
