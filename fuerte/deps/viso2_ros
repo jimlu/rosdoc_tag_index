@@ -1,2 +1,2 @@
-[nav_msgs, image_geometry, roscpp, message_filters, libviso2, sensor_msgs, image_transport,
-  tf, cv_bridge, pcl_ros]
+[nav_msgs, image_geometry, std_srvs, roscpp, message_filters, libviso2, sensor_msgs,
+  image_transport, tf, cv_bridge, pcl_ros]

@@ -1,1 +1,1 @@
-[std_srvs, roscpp, ecl_threads, std_msgs, geometry_msgs, kobuki_comms, ecl_time]
+[kobuki_msgs, std_srvs, roscpp, ecl_threads, std_msgs, geometry_msgs, ecl_time]
