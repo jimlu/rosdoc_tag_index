@@ -6,10 +6,10 @@
   package: wviz_kinematic_manager}
 - {docs_url: ../../../api/rosjs_remotelabwidgets/html, location: 'http://ros.org/doc/electric/api/rosjs_remotelabwidgets/tags/rosjs_remotelabwidgets.tag',
   package: rosjs_remotelabwidgets}
-- {docs_url: ../../../api/ping/html, location: 'http://ros.org/doc/electric/api/ping/tags/ping.tag',
-  package: ping}
 - {docs_url: ../../../api/rosjs_tests/html, location: 'http://ros.org/doc/electric/api/rosjs_tests/tags/rosjs_tests.tag',
   package: rosjs_tests}
+- {docs_url: ../../../api/ping/html, location: 'http://ros.org/doc/electric/api/ping/tags/ping.tag',
+  package: ping}
 - {docs_url: ../../../api/robot_booking/html, location: 'http://ros.org/doc/electric/api/robot_booking/tags/robot_booking.tag',
   package: robot_booking}
 - {docs_url: ../../../api/pointcloud_snapshot_service/html, location: 'http://ros.org/doc/electric/api/pointcloud_snapshot_service/tags/pointcloud_snapshot_service.tag',
