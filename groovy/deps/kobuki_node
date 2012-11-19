@@ -1,3 +1,3 @@
-[nav_msgs, ecl_exceptions, rospy, roscpp, std_msgs, sensor_msgs, ecl_streams, diagnostic_updater,
-  ecl_sigslots, geometry_msgs, kobuki_comms, tf, kobuki_keyop, kobuki_driver, diagnostic_msgs,
-  pcl_ros]
+[nav_msgs, kobuki_msgs, ecl_exceptions, rospy, roscpp, std_msgs, sensor_msgs, ecl_streams,
+  diagnostic_updater, ecl_sigslots, geometry_msgs, kobuki_udev, tf, kobuki_keyop,
+  kobuki_driver, diagnostic_msgs, pcl_ros]
