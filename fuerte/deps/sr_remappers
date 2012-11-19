@@ -1,1 +1,1 @@
-[roscpp, std_msgs, sr_robot_msgs, sensor_msgs, rospy, cyberglove]
+[roscpp, std_msgs, sr_robot_msgs, sensor_msgs, rospy, sr_cyberglove_config, cyberglove]
