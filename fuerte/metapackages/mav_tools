@@ -1,2 +1,2 @@
 [mav_ctrl_interface, mav_odom_interface, mav_msgs, city_flyer_launch, mav_common,
-  ab_filter, mav_srvs, laser_height_estimation, flyer_interface, quad_joy_teleop]
+  ab_filter, flyer_interface, laser_height_estimation, mav_srvs, quad_joy_teleop]
