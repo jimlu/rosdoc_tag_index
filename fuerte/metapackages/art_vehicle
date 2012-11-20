@@ -1,2 +1,2 @@
 [simulator_art, art_nav, art_image, applanix, art_msgs, art_teleop, art_servo, art_run,
-  art_map, art_pilot, art_observers, art_common]
+  art_common, art_pilot, art_observers, art_map]
