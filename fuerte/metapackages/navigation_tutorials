@@ -1,2 +1,2 @@
-[roomba_stage, navigation_stage, odometry_publisher_tutorial, point_cloud_publisher_tutorial,
+[navigation_stage, roomba_stage, odometry_publisher_tutorial, point_cloud_publisher_tutorial,
   robot_setup_tf_tutorial, laser_scan_publisher_tutorial, simple_navigation_goals_tutorial]
