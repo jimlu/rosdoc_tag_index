@@ -1,1 +1,1 @@
-[vcstools, rosdeb, hudson, rosdistro, job_generation, release, isogenerator]
+[vcstools, rosdeb, hudson, job_generation, rosdistro, release, isogenerator]
