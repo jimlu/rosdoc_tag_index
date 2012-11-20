@@ -1,1 +1,1 @@
-[pcl16_ros, pcl16, cminpack, python_msg_conversions, flann]
+[pcl16_ros, python_msg_conversions, cminpack, flann, pcl16]
