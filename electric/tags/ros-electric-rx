@@ -10,9 +10,9 @@
   package: xdot}
 - {docs_url: ../../../api/rxgraph/html, location: 'http://ros.org/doc/electric/api/rxgraph/tags/rxgraph.tag',
   package: rxgraph}
+- {docs_url: ../../../api/test_rxplot/html, location: 'http://ros.org/doc/electric/api/test_rxplot/tags/test_rxplot.tag',
+  package: test_rxplot}
 - {docs_url: ../../../api/rxbag/html, location: 'http://ros.org/doc/electric/api/rxbag/tags/rxbag.tag',
   package: rxbag}
 - {docs_url: ../../../api/test_rxdeps/html, location: 'http://ros.org/doc/electric/api/test_rxdeps/tags/test_rxdeps.tag',
   package: test_rxdeps}
-- {docs_url: ../../../api/test_rxplot/html, location: 'http://ros.org/doc/electric/api/test_rxplot/tags/test_rxplot.tag',
-  package: test_rxplot}
