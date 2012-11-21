@@ -1,1 +1,1 @@
-[rocon_gateway, gateway_comms, rostest, actionlib_tutorials, roscpp_tutorials, rospy]
+[rocon_gateway, gateway_msgs, rostest, actionlib_tutorials, roscpp_tutorials, rospy]
