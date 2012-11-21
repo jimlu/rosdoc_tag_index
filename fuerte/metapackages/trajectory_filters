@@ -1,2 +1,1 @@
-[constraint_aware_spline_smoother, trajectory_filter_server, joint_normalization_filters,
-  spline_smoother]
+[constraint_aware_spline_smoother, joint_normalization_filters, spline_smoother, trajectory_filter_server]
