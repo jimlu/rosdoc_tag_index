@@ -1,2 +1,2 @@
-[kobuki_description, kobuki_arm, kobuki_testsuite, kobuki_udev, kobuki_keyop, kobuki_node,
-  kobuki_utilities, kobuki_driver]
+[kobuki_description, kobuki_udev, kobuki_utilities, kobuki_testsuite, kobuki_keyop,
+  kobuki_node, kobuki_arm, kobuki_driver]

@@ -4,9 +4,9 @@
   package: test_rosgraph}
 - {docs_url: ../../../api/test_roslib_comm/html, location: 'http://ros.org/doc/groovy/api/test_roslib_comm/tags/test_roslib_comm.tag',
   package: test_roslib_comm}
-- {docs_url: ../../../api/test_rosmaster/html, location: 'http://ros.org/doc/groovy/api/test_rosmaster/tags/test_rosmaster.tag',
-  package: test_rosmaster}
 - {docs_url: ../../../api/test_rospy/html, location: 'http://ros.org/doc/groovy/api/test_rospy/tags/test_rospy.tag',
   package: test_rospy}
 - {docs_url: ../../../api/test_rosservice/html, location: 'http://ros.org/doc/groovy/api/test_rosservice/tags/test_rosservice.tag',
   package: test_rosservice}
+- {docs_url: ../../../api/test_rosmaster/html, location: 'http://ros.org/doc/groovy/api/test_rosmaster/tags/test_rosmaster.tag',
+  package: test_rosmaster}
