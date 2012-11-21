@@ -1,1 +1,2 @@
-[rospy, actionlib_msgs, trajectory_msgs, geometry_msgs]
+[genmsg, catkin, actionlib_msgs, trajectory_msgs, std_msgs, langs-dev, geometry_msgs,
+  langs]
