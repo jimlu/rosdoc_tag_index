@@ -1,8 +1,8 @@
-- {docs_url: ../../../api/ur5_description/html, location: 'http://ros.org/doc/groovy/api/ur5_description/tags/ur5_description.tag',
-  package: ur5_description}
-- {docs_url: ../../../api/ur5_gazebo/html, location: 'http://ros.org/doc/groovy/api/ur5_gazebo/tags/ur5_gazebo.tag',
-  package: ur5_gazebo}
 - {docs_url: ../../../api/ur5_driver/html, location: 'http://ros.org/doc/groovy/api/ur5_driver/tags/ur5_driver.tag',
   package: ur5_driver}
+- {docs_url: ../../../api/ur5_description/html, location: 'http://ros.org/doc/groovy/api/ur5_description/tags/ur5_description.tag',
+  package: ur5_description}
 - {docs_url: ../../../api/ur5_bringup/html, location: 'http://ros.org/doc/groovy/api/ur5_bringup/tags/ur5_bringup.tag',
   package: ur5_bringup}
+- {docs_url: ../../../api/ur5_gazebo/html, location: 'http://ros.org/doc/groovy/api/ur5_gazebo/tags/ur5_gazebo.tag',
+  package: ur5_gazebo}
