@@ -1,1 +1,1 @@
-[std_msgs, sensor_msgs, geometry_msgs, kobuki_node, python_orocos_kdl, kobuki_driver]
+[sensor_msgs, kobuki_driver, std_msgs, geometry_msgs, kobuki_node]
