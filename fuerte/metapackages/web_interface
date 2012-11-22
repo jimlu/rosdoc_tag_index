@@ -1,2 +1,2 @@
-[pyclearsilver, launchman, ckill, rosweb, image_stream, webui, web_msgs, rosjson,
-  ros_apache2]
+[pyclearsilver, launchman, ros_apache2, rosweb, image_stream, webui, web_msgs, rosjson,
+  ckill]

@@ -1,7 +1,7 @@
-- {docs_url: ../../../api/navigation_stage/html, location: 'http://ros.org/doc/fuerte/api/navigation_stage/tags/navigation_stage.tag',
-  package: navigation_stage}
 - {docs_url: ../../../api/roomba_stage/html, location: 'http://ros.org/doc/fuerte/api/roomba_stage/tags/roomba_stage.tag',
   package: roomba_stage}
+- {docs_url: ../../../api/navigation_stage/html, location: 'http://ros.org/doc/fuerte/api/navigation_stage/tags/navigation_stage.tag',
+  package: navigation_stage}
 - {docs_url: ../../../api/odometry_publisher_tutorial/html, location: 'http://ros.org/doc/fuerte/api/odometry_publisher_tutorial/tags/odometry_publisher_tutorial.tag',
   package: odometry_publisher_tutorial}
 - {docs_url: ../../../api/point_cloud_publisher_tutorial/html, location: 'http://ros.org/doc/fuerte/api/point_cloud_publisher_tutorial/tags/point_cloud_publisher_tutorial.tag',
