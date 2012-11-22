@@ -1,1 +1,1 @@
-[rosatomic, rosrt, allocators, lockfree]
+[rosatomic, lockfree, allocators, rosrt]
