@@ -40,6 +40,8 @@
   package: pr2_interactive_gripper_pose_action}
 - {docs_url: ../../../api/pr2_wrappers/html, location: 'http://ros.org/doc/electric/api/pr2_wrappers/tags/pr2_wrappers.tag',
   package: pr2_wrappers}
+- {docs_url: ../../../api/pr2_navigation_controllers/html, location: 'http://ros.org/doc/electric/api/pr2_navigation_controllers/tags/pr2_navigation_controllers.tag',
+  package: pr2_navigation_controllers}
 - {docs_url: ../../../api/pr2_marker_control/html, location: 'http://ros.org/doc/electric/api/pr2_marker_control/tags/pr2_marker_control.tag',
   package: pr2_marker_control}
 - {docs_url: ../../../api/segmented_clutter_grasp_planner/html, location: 'http://ros.org/doc/electric/api/segmented_clutter_grasp_planner/tags/segmented_clutter_grasp_planner.tag',
