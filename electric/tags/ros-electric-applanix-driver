@@ -2,15 +2,15 @@
   package: applanix_msgs}
 - {docs_url: ../../../api/applanix_generated_msgs/html, location: 'http://ros.org/doc/electric/api/applanix_generated_msgs/tags/applanix_generated_msgs.tag',
   package: applanix_generated_msgs}
-- {docs_url: ../../../api/applanix_params/html, location: 'http://ros.org/doc/electric/api/applanix_params/tags/applanix_params.tag',
-  package: applanix_params}
 - {docs_url: ../../../api/applanix_bridge/html, location: 'http://ros.org/doc/electric/api/applanix_bridge/tags/applanix_bridge.tag',
   package: applanix_bridge}
+- {docs_url: ../../../api/applanix_params/html, location: 'http://ros.org/doc/electric/api/applanix_params/tags/applanix_params.tag',
+  package: applanix_params}
+- {docs_url: ../../../api/applanix_launch/html, location: 'http://ros.org/doc/electric/api/applanix_launch/tags/applanix_launch.tag',
+  package: applanix_launch}
 - {docs_url: ../../../api/applanix_test/html, location: 'http://ros.org/doc/electric/api/applanix_test/tags/applanix_test.tag',
   package: applanix_test}
 - {docs_url: ../../../api/applanix_diagnostics/html, location: 'http://ros.org/doc/electric/api/applanix_diagnostics/tags/applanix_diagnostics.tag',
   package: applanix_diagnostics}
-- {docs_url: ../../../api/applanix_launch/html, location: 'http://ros.org/doc/electric/api/applanix_launch/tags/applanix_launch.tag',
-  package: applanix_launch}
 - {docs_url: ../../../api/applanix_publisher/html, location: 'http://ros.org/doc/electric/api/applanix_publisher/tags/applanix_publisher.tag',
   package: applanix_publisher}
