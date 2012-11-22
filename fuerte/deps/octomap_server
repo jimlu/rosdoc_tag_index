@@ -1,2 +1,2 @@
 [nav_msgs, dynamic_reconfigure, std_srvs, std_msgs, sensor_msgs, octomap, octomap_ros,
-  visualization_msgs, arm_navigation_msgs, pcl_ros]
+  visualization_msgs, arm_navigation_msgs, nodelet, pcl_ros]
