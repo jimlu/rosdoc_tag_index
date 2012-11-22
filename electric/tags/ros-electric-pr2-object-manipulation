@@ -40,8 +40,6 @@
   package: pr2_interactive_gripper_pose_action}
 - {docs_url: ../../../api/pr2_wrappers/html, location: 'http://ros.org/doc/electric/api/pr2_wrappers/tags/pr2_wrappers.tag',
   package: pr2_wrappers}
-- {docs_url: ../../../api/pr2_navigation_controllers/html, location: 'http://ros.org/doc/electric/api/pr2_navigation_controllers/tags/pr2_navigation_controllers.tag',
-  package: pr2_navigation_controllers}
 - {docs_url: ../../../api/pr2_marker_control/html, location: 'http://ros.org/doc/electric/api/pr2_marker_control/tags/pr2_marker_control.tag',
   package: pr2_marker_control}
 - {docs_url: ../../../api/segmented_clutter_grasp_planner/html, location: 'http://ros.org/doc/electric/api/segmented_clutter_grasp_planner/tags/segmented_clutter_grasp_planner.tag',
@@ -52,10 +50,10 @@
   package: pr2_tabletop_manipulation_launch}
 - {docs_url: ../../../api/pr2_pick_and_place_demos/html, location: 'http://ros.org/doc/electric/api/pr2_pick_and_place_demos/tags/pr2_pick_and_place_demos.tag',
   package: pr2_pick_and_place_demos}
-- {docs_url: ../../../api/pick_and_place_demo_app/html, location: 'http://ros.org/doc/electric/api/pick_and_place_demo_app/tags/pick_and_place_demo_app.tag',
-  package: pick_and_place_demo_app}
 - {docs_url: ../../../api/vfh_recognition/html, location: 'http://ros.org/doc/electric/api/vfh_recognition/tags/vfh_recognition.tag',
   package: vfh_recognition}
+- {docs_url: ../../../api/pick_and_place_demo_app/html, location: 'http://ros.org/doc/electric/api/pick_and_place_demo_app/tags/pick_and_place_demo_app.tag',
+  package: pick_and_place_demo_app}
 - {docs_url: ../../../api/vfh_recognizer_db/html, location: 'http://ros.org/doc/electric/api/vfh_recognizer_db/tags/vfh_recognizer_db.tag',
   package: vfh_recognizer_db}
 - {docs_url: ../../../api/tabletop_vfh_cluster_detector/html, location: 'http://ros.org/doc/electric/api/tabletop_vfh_cluster_detector/tags/tabletop_vfh_cluster_detector.tag',
