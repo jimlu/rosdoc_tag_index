@@ -1,1 +1,1 @@
-[tinyxml, roscpp, bullet, python-numpy, std_msgs, rospy, angles, gazebo]
+[tinyxml, roscpp, bullet, python-numpy, urdf, std_msgs, rospy, angles, gazebo]
