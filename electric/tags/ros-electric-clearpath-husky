@@ -6,5 +6,7 @@
   package: husky_navigation}
 - {docs_url: ../../../api/husky_localization/html, location: 'http://ros.org/doc/electric/api/husky_localization/tags/husky_localization.tag',
   package: husky_localization}
+- {docs_url: ../../../api/husky_kinect/html, location: 'http://ros.org/doc/electric/api/husky_kinect/tags/husky_kinect.tag',
+  package: husky_kinect}
 - {docs_url: ../../../api/husky_description/html, location: 'http://ros.org/doc/electric/api/husky_description/tags/husky_description.tag',
   package: husky_description}
