@@ -1,8 +1,8 @@
 - {docs_url: ../../../api/riq_msgs/html, location: 'http://ros.org/doc/groovy/api/riq_msgs/tags/riq_msgs.tag',
   package: riq_msgs}
-- {docs_url: ../../../api/riq_hand_gui/html, location: 'http://ros.org/doc/groovy/api/riq_hand_gui/tags/riq_hand_gui.tag',
-  package: riq_hand_gui}
 - {docs_url: ../../../api/riq_hand_ethercat_hardware/html, location: 'http://ros.org/doc/groovy/api/riq_hand_ethercat_hardware/tags/riq_hand_ethercat_hardware.tag',
   package: riq_hand_ethercat_hardware}
+- {docs_url: ../../../api/riq_hand_gui/html, location: 'http://ros.org/doc/groovy/api/riq_hand_gui/tags/riq_hand_gui.tag',
+  package: riq_hand_gui}
 - {docs_url: ../../../api/riq_hand_cli/html, location: 'http://ros.org/doc/groovy/api/riq_hand_cli/tags/riq_hand_cli.tag',
   package: riq_hand_cli}
