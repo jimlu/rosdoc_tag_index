@@ -1,0 +1,2 @@
+[hector_exploration_controller, hector_exploration_node, hector_trajectory_server,
+  hector_mapping, hector_map_server]
