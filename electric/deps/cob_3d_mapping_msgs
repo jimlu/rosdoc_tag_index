@@ -1,1 +1,2 @@
-[std_msgs, sensor_msgs, actionlib_msgs, geometry_msgs]
+[household_objects_database_msgs, sensor_msgs, actionlib_msgs, std_msgs, geometry_msgs,
+  arm_navigation_msgs]
