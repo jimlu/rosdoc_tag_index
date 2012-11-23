@@ -1,0 +1,1 @@
+[roscpp, cob_3d_mapping_common, pcl, visualization_msgs, cob_3d_mapping_msgs, pcl_ros]
