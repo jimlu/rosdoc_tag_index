@@ -1,1 +1,2 @@
-[common, common_msgs, ros, ros_comm]
+[arm_navigation, cob_common, common, common_msgs, driver_common, geometry, nodelet_core,
+  object_manipulation, perception_pcl, ros, ros_comm, visualization]

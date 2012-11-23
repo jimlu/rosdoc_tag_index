@@ -1,1 +1,2 @@
-[cob_3d_mapping_msgs, cob_3d_mapping_pipeline_fake]
+[cob_3d_mapping_semantics, cob_3d_mapping_pipeline_fake, cob_3d_mapping_common, cob_3d_visualization,
+  cob_3d_mapping_rviz_plugins, cob_3d_mapping_msgs]
