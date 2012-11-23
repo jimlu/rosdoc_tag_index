@@ -1,1 +1,1 @@
-[actionlib, cob_3d_mapping_msgs]
+[actionlib, rosbag, cob_3d_mapping_msgs]

@@ -1,0 +1,2 @@
+[dynamic_reconfigure, roscpp, interactive_markers, cob_srvs, pcl, visualization_msgs,
+  tf, nodelet, cob_3d_mapping_msgs, tf_conversions, pcl_ros]
