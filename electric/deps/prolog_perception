@@ -1,0 +1,2 @@
+[ias_table_msgs, comp_temporal, vision_srvs, ias_table_srvs, sensor_msgs, mapping_srvs,
+  geometry_msgs, tabletop_msgs, vision_msgs, ias_knowledge_base]

@@ -1,0 +1,3 @@
+[pr2_controller_manager, pr2_gazebo_plugins, robot_state_chain_publisher, ogre_tools,
+  ias_mechanism_controllers, std_msgs, gmapping, gazebo_tools, rospy, rosie_description,
+  fake_localization, jlo, pr2_gazebo]

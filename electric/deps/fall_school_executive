@@ -1,0 +1,2 @@
+[drive_base_action, actionlib, pr2_common_action_msgs, move_base_msgs, approach_table_tools,
+  pr2_controllers_msgs]

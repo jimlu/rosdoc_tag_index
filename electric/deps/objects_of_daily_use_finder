@@ -1,0 +1,2 @@
+[roscpp, cv_bridge, vision_msgs, ann2, libsiftfast, opencv2, image_transport, vocabulary_tree,
+  eigen]

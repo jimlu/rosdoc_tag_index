@@ -1,0 +1,1 @@
+[kdl, roscpp, point_cloud_mapping, sensor_msgs, mapping_srvs, angles, tf, eigen]
