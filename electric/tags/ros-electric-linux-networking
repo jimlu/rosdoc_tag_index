@@ -1,7 +1,5 @@
 - {docs_url: ../../../api/access_point_control/html, location: 'http://ros.org/doc/electric/api/access_point_control/tags/access_point_control.tag',
   package: access_point_control}
-- {docs_url: ../../../api/hostapd_access_point/html, location: 'http://ros.org/doc/electric/api/hostapd_access_point/tags/hostapd_access_point.tag',
-  package: hostapd_access_point}
 - {docs_url: ../../../api/wpa_supplicant_node/html, location: 'http://ros.org/doc/electric/api/wpa_supplicant_node/tags/wpa_supplicant_node.tag',
   package: wpa_supplicant_node}
 - {docs_url: ../../../api/multi_interface_roam/html, location: 'http://ros.org/doc/electric/api/multi_interface_roam/tags/multi_interface_roam.tag',
@@ -10,10 +8,12 @@
   package: linksys_access_point}
 - {docs_url: ../../../api/wpa_supplicant/html, location: 'http://ros.org/doc/electric/api/wpa_supplicant/tags/wpa_supplicant.tag',
   package: wpa_supplicant}
-- {docs_url: ../../../api/ddwrt_access_point/html, location: 'http://ros.org/doc/electric/api/ddwrt_access_point/tags/ddwrt_access_point.tag',
-  package: ddwrt_access_point}
 - {docs_url: ../../../api/network_traffic_control/html, location: 'http://ros.org/doc/electric/api/network_traffic_control/tags/network_traffic_control.tag',
   package: network_traffic_control}
+- {docs_url: ../../../api/hostapd_access_point/html, location: 'http://ros.org/doc/electric/api/hostapd_access_point/tags/hostapd_access_point.tag',
+  package: hostapd_access_point}
+- {docs_url: ../../../api/ddwrt_access_point/html, location: 'http://ros.org/doc/electric/api/ddwrt_access_point/tags/ddwrt_access_point.tag',
+  package: ddwrt_access_point}
 - {docs_url: ../../../api/network_control_tests/html, location: 'http://ros.org/doc/electric/api/network_control_tests/tags/network_control_tests.tag',
   package: network_control_tests}
 - {docs_url: ../../../api/network_detector/html, location: 'http://ros.org/doc/electric/api/network_detector/tags/network_detector.tag',
