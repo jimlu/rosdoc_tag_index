@@ -1,2 +1,2 @@
 [image_geometry, worldmodel_msgs, roscpp, hector_nav_msgs, hector_marker_drawing,
-  tf, tf_conversions, eigen]
+  tf, eigen]
