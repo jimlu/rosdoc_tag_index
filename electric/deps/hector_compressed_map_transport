@@ -1,0 +1,2 @@
+[nav_msgs, hector_map_tools, eigen, sensor_msgs, image_transport, opencv2, geometry_msgs,
+  cv_bridge]
