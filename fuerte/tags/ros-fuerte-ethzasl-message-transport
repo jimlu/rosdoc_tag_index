@@ -10,10 +10,10 @@
   package: udpmulti_transport}
 - {docs_url: ../../../api/templated_transports/html, location: 'http://ros.org/doc/fuerte/api/templated_transports/tags/templated_transports.tag',
   package: templated_transports}
-- {docs_url: ../../../api/imagem_transport/html, location: 'http://ros.org/doc/fuerte/api/imagem_transport/tags/imagem_transport.tag',
-  package: imagem_transport}
 - {docs_url: ../../../api/pointcloud_transport/html, location: 'http://ros.org/doc/fuerte/api/pointcloud_transport/tags/pointcloud_transport.tag',
   package: pointcloud_transport}
+- {docs_url: ../../../api/imagem_transport/html, location: 'http://ros.org/doc/fuerte/api/imagem_transport/tags/imagem_transport.tag',
+  package: imagem_transport}
 - {docs_url: ../../../api/string_transport/html, location: 'http://ros.org/doc/fuerte/api/string_transport/tags/string_transport.tag',
   package: string_transport}
 - {docs_url: ../../../api/theora_imagem_transport/html, location: 'http://ros.org/doc/fuerte/api/theora_imagem_transport/tags/theora_imagem_transport.tag',
