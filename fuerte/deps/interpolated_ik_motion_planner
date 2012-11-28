@@ -1,2 +1,2 @@
-[trajectory_msgs, sensor_msgs, geometry_msgs, kinematics_msgs, visualization_msgs,
-  rospy, arm_navigation_msgs]
+[trajectory_msgs, motion_planning_msgs, sensor_msgs, geometry_msgs, planning_environment_msgs,
+  kinematics_msgs, visualization_msgs, rospy]
