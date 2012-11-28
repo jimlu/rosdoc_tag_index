@@ -1,0 +1,2 @@
+[trajectory_execution_monitor, planning_environment, tabletop_object_detector, object_manipulator,
+  pcl, object_manipulation_msgs, pcl_ros]
