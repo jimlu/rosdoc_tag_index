@@ -12,12 +12,12 @@
   package: test_rostime}
 - {docs_url: ../../../api/roscpp/html, location: 'http://ros.org/doc/fuerte/api/roscpp/tags/roscpp.tag',
   package: roscpp}
-- {docs_url: ../../../api/topic_tools/html, location: 'http://ros.org/doc/fuerte/api/topic_tools/tags/topic_tools.tag',
-  package: topic_tools}
-- {docs_url: ../../../api/test_crosspackage/html, location: 'http://ros.org/doc/fuerte/api/test_crosspackage/tags/test_crosspackage.tag',
-  package: test_crosspackage}
 - {docs_url: ../../../api/rosout/html, location: 'http://ros.org/doc/fuerte/api/rosout/tags/rosout.tag',
   package: rosout}
+- {docs_url: ../../../api/test_crosspackage/html, location: 'http://ros.org/doc/fuerte/api/test_crosspackage/tags/test_crosspackage.tag',
+  package: test_crosspackage}
+- {docs_url: ../../../api/topic_tools/html, location: 'http://ros.org/doc/fuerte/api/topic_tools/tags/topic_tools.tag',
+  package: topic_tools}
 - {docs_url: ../../../api/test_rospy/html, location: 'http://ros.org/doc/fuerte/api/test_rospy/tags/test_rospy.tag',
   package: test_rospy}
 - {docs_url: ../../../api/test_roscpp/html, location: 'http://ros.org/doc/fuerte/api/test_roscpp/tags/test_roscpp.tag',
