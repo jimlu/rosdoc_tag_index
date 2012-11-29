@@ -1,0 +1,1 @@
+[catkin, sensor_msgs, rostest, rospy, rosunit, ros, cv_bridge]
