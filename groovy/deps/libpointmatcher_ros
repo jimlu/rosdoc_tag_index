@@ -1,0 +1,2 @@
+[nav_msgs, libnabo, roscpp, sensor_msgs, eigen_conversions, libpointmatcher, tf, tf_conversions,
+  eigen]
