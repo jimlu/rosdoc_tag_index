@@ -1,2 +1,2 @@
 [tabletop_collision_map_processing, actionlib_msgs, actionlib, sensor_msgs, object_manipulator,
-  geometry_msgs, tf, tabletop_object_detector]
+  geometry_msgs, tf, common_rosdeps, tabletop_object_detector]
