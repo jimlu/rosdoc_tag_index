@@ -1,3 +1,5 @@
+- {docs_url: ../../../api/sr_robot_msgs/html, location: 'http://ros.org/doc/fuerte/api/sr_robot_msgs/tags/sr_robot_msgs.tag',
+  package: sr_robot_msgs}
 - {docs_url: ../../../api/sr_utilities/html, location: 'http://ros.org/doc/fuerte/api/sr_utilities/tags/sr_utilities.tag',
   package: sr_utilities}
 - {docs_url: ../../../api/sr_hand/html, location: 'http://ros.org/doc/fuerte/api/sr_hand/tags/sr_hand.tag',
