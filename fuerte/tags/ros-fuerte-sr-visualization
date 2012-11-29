@@ -1,3 +1,5 @@
+- {docs_url: ../../../api/sr_gui_motor_resetter/html, location: 'http://ros.org/doc/fuerte/api/sr_gui_motor_resetter/tags/sr_gui_motor_resetter.tag',
+  package: sr_gui_motor_resetter}
 - {docs_url: ../../../api/sr_gui_bootloader/html, location: 'http://ros.org/doc/fuerte/api/sr_gui_bootloader/tags/sr_gui_bootloader.tag',
   package: sr_gui_bootloader}
 - {docs_url: ../../../api/sr_gui_controller_tuner/html, location: 'http://ros.org/doc/fuerte/api/sr_gui_controller_tuner/tags/sr_gui_controller_tuner.tag',
