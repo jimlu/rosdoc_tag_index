@@ -1,5 +1,7 @@
 - {docs_url: ../../../api/voxel_grid/html, location: 'http://ros.org/doc/groovy/api/voxel_grid/tags/voxel_grid.tag',
   package: voxel_grid}
+- {docs_url: ../../../api/map_server/html, location: 'http://ros.org/doc/groovy/api/map_server/tags/map_server.tag',
+  package: map_server}
 - {docs_url: ../../../api/costmap_2d/html, location: 'http://ros.org/doc/groovy/api/costmap_2d/tags/costmap_2d.tag',
   package: costmap_2d}
 - {docs_url: ../../../api/nav_core/html, location: 'http://ros.org/doc/groovy/api/nav_core/tags/nav_core.tag',
