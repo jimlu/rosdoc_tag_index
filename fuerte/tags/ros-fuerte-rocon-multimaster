@@ -1,0 +1,12 @@
+- {docs_url: ../../../api/redis/html, location: 'http://ros.org/doc/fuerte/api/redis/tags/redis.tag',
+  package: redis}
+- {docs_url: ../../../api/rocon_gateway/html, location: 'http://ros.org/doc/fuerte/api/rocon_gateway/tags/rocon_gateway.tag',
+  package: rocon_gateway}
+- {docs_url: ../../../api/rocon_gateway_hub/html, location: 'http://ros.org/doc/fuerte/api/rocon_gateway_hub/tags/rocon_gateway_hub.tag',
+  package: rocon_gateway_hub}
+- {docs_url: ../../../api/rocon_gateway_demos/html, location: 'http://ros.org/doc/fuerte/api/rocon_gateway_demos/tags/rocon_gateway_demos.tag',
+  package: rocon_gateway_demos}
+- {docs_url: ../../../api/rocon_gateway_tests/html, location: 'http://ros.org/doc/fuerte/api/rocon_gateway_tests/tags/rocon_gateway_tests.tag',
+  package: rocon_gateway_tests}
+- {docs_url: ../../../api/rocon_unreliable_experiments/html, location: 'http://ros.org/doc/fuerte/api/rocon_unreliable_experiments/tags/rocon_unreliable_experiments.tag',
+  package: rocon_unreliable_experiments}
