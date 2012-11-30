@@ -1,6 +1,6 @@
 - {docs_url: ../../../api/cob_gazebo_worlds/html, location: 'http://ros.org/doc/fuerte/api/cob_gazebo_worlds/tags/cob_gazebo_worlds.tag',
   package: cob_gazebo_worlds}
-- {docs_url: ../../../api/cob_gazebo_objects/html, location: 'http://ros.org/doc/fuerte/api/cob_gazebo_objects/tags/cob_gazebo_objects.tag',
-  package: cob_gazebo_objects}
 - {docs_url: ../../../api/cob_default_env_config/html, location: 'http://ros.org/doc/fuerte/api/cob_default_env_config/tags/cob_default_env_config.tag',
   package: cob_default_env_config}
+- {docs_url: ../../../api/cob_gazebo_objects/html, location: 'http://ros.org/doc/fuerte/api/cob_gazebo_objects/tags/cob_gazebo_objects.tag',
+  package: cob_gazebo_objects}
