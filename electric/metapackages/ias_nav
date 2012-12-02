@@ -1,1 +1,1 @@
-[ias_pr2_2dnav, nav_pcontroller, pr2_nav_pcontroller, ias_maps, rosie_move_base]
+[ias_maps, nav_pcontroller, pr2_nav_pcontroller, ias_pr2_2dnav, rosie_move_base]
