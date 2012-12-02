@@ -1,7 +1,11 @@
 - {docs_url: ../../../api/head_monitor_msgs/html, location: 'http://ros.org/doc/fuerte/api/head_monitor_msgs/tags/head_monitor_msgs.tag',
   package: head_monitor_msgs}
-- {docs_url: ../../../api/collider/html, location: 'http://ros.org/doc/fuerte/api/collider/tags/collider.tag',
-  package: collider}
+- {docs_url: ../../../api/distance_field/html, location: 'http://ros.org/doc/fuerte/api/distance_field/tags/distance_field.tag',
+  package: distance_field}
+- {docs_url: ../../../api/collision_proximity/html, location: 'http://ros.org/doc/fuerte/api/collision_proximity/tags/collision_proximity.tag',
+  package: collision_proximity}
+- {docs_url: ../../../api/collision_proximity_planner/html, location: 'http://ros.org/doc/fuerte/api/collision_proximity_planner/tags/collision_proximity_planner.tag',
+  package: collision_proximity_planner}
 - {docs_url: ../../../api/arm_navigation_experimental_tools/html, location: 'http://ros.org/doc/fuerte/api/arm_navigation_experimental_tools/tags/arm_navigation_experimental_tools.tag',
   package: arm_navigation_experimental_tools}
 - {docs_url: ../../../api/trajectory_execution_monitor/html, location: 'http://ros.org/doc/fuerte/api/trajectory_execution_monitor/tags/trajectory_execution_monitor.tag',
@@ -10,15 +14,11 @@
   package: move_arm_head_monitor}
 - {docs_url: ../../../api/interpolated_ik_motion_planner/html, location: 'http://ros.org/doc/fuerte/api/interpolated_ik_motion_planner/tags/interpolated_ik_motion_planner.tag',
   package: interpolated_ik_motion_planner}
-- {docs_url: ../../../api/distance_field/html, location: 'http://ros.org/doc/fuerte/api/distance_field/tags/distance_field.tag',
-  package: distance_field}
-- {docs_url: ../../../api/collision_proximity/html, location: 'http://ros.org/doc/fuerte/api/collision_proximity/tags/collision_proximity.tag',
-  package: collision_proximity}
 - {docs_url: ../../../api/chomp_motion_planner/html, location: 'http://ros.org/doc/fuerte/api/chomp_motion_planner/tags/chomp_motion_planner.tag',
   package: chomp_motion_planner}
 - {docs_url: ../../../api/move_arm_warehouse/html, location: 'http://ros.org/doc/fuerte/api/move_arm_warehouse/tags/move_arm_warehouse.tag',
   package: move_arm_warehouse}
 - {docs_url: ../../../api/collision_free_arm_trajectory_controller/html, location: 'http://ros.org/doc/fuerte/api/collision_free_arm_trajectory_controller/tags/collision_free_arm_trajectory_controller.tag',
   package: collision_free_arm_trajectory_controller}
-- {docs_url: ../../../api/collision_proximity_planner/html, location: 'http://ros.org/doc/fuerte/api/collision_proximity_planner/tags/collision_proximity_planner.tag',
-  package: collision_proximity_planner}
+- {docs_url: ../../../api/collider/html, location: 'http://ros.org/doc/fuerte/api/collider/tags/collider.tag',
+  package: collider}
