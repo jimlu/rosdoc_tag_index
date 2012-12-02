@@ -1,0 +1,2 @@
+[actionlib, pr2_controllers_msgs, object_manipulation_msgs, tabletop_object_detector,
+  tabletop_collision_map_processing]
