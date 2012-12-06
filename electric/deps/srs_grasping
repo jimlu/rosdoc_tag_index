@@ -1,0 +1,2 @@
+[cob_script_server, cob_srvs, srs_msgs, actionlib, trajectory_msgs, schunk_sdh, srs_object_database_msgs,
+  geometry_msgs, cob_object_detection_msgs, tf, rospy, openrave, kinematics_msgs]

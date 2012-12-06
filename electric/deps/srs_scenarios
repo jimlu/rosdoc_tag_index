@@ -1,0 +1,3 @@
+[cob_bringup_sim, cob_script_server, cob_object_detection_fake, cob_3d_mapping_pipeline_fake,
+  srs_object_database_msgs, srs_knowledge, srs_decision_making, sound_play, cob_3d_mapping_msgs,
+  cob_object_detection_msgs]
