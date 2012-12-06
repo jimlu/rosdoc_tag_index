@@ -1,2 +1,2 @@
 [common_msgs, control, diagnostics, ecl_core, ecl_navigation, geometry, nodelet_core,
-  ros, ros_comm, perception_pcl, robot_model, xacro, kobuki_msgs]
+  ros, ros_comm, robot_model, xacro, kobuki_msgs, perception_pcl, yujin_ocs]
