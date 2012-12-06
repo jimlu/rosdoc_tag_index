@@ -1,0 +1,3 @@
+[urdf, roscpp, brics_actuator, actionlib, trajectory_msgs, std_msgs, schunk_sdh, opencv2,
+  cob_srvs, srs_assisted_grasping_msgs, pr2_controllers_msgs, srs_interaction_primitives,
+  cob_script_server]
