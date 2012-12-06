@@ -1,1 +1,1 @@
-[zeroconf_msgs]
+[std_msgs, appmanager_msgs, zeroconf_msgs]
