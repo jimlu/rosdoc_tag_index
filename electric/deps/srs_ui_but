@@ -1,0 +1,3 @@
+[ogre, message_filters, ogre_tools, sensor_msgs, actionlib, interactive_markers, std_msgs,
+  srs_env_model, srs_object_database_msgs, geometry_msgs, visualization_msgs, tf,
+  roscpp, cv_bridge, actionlib_msgs, srs_interaction_primitives, rviz]
