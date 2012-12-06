@@ -1,0 +1,4 @@
+[ogre, eigen, actionlib_msgs, interactive_markers, cob_object_detection_msgs, pcl_ros,
+  nav_msgs, srs_env_model_utils, roscpp, actionlib, srs_env_model_msgs, pcl, camera_calibration_parsers,
+  image_geometry, visualization_msgs, std_msgs, image_transport, opencv2, octomap_ros,
+  cv_bridge, srs_interaction_primitives, arm_navigation_msgs, std_srvs]
