@@ -1,0 +1,1 @@
+[rqt_gui, python-rospkg, rqt_graph, rospy, qt_dotgraph, geometry_msgs, tf2]

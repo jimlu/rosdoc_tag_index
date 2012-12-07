@@ -1,0 +1,2 @@
+[roscpp, srs_msgs, srs_symbolic_grounding, roslib, std_msgs, srs_object_database_msgs,
+  rospy, tfjava, geometry_msgs, rosjava_jni, srs_pellet]

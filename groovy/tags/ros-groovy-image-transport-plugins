@@ -1,6 +1,2 @@
-- {docs_url: ../../../api/compressed_depth_image_transport/html, location: 'http://ros.org/doc/groovy/api/compressed_depth_image_transport/tags/compressed_depth_image_transport.tag',
-  package: compressed_depth_image_transport}
-- {docs_url: ../../../api/theora_image_transport/html, location: 'http://ros.org/doc/groovy/api/theora_image_transport/tags/theora_image_transport.tag',
-  package: theora_image_transport}
-- {docs_url: ../../../api/compressed_image_transport/html, location: 'http://ros.org/doc/groovy/api/compressed_image_transport/tags/compressed_image_transport.tag',
-  package: compressed_image_transport}
+- {docs_url: ../../../api/image_transport_plugins/html, location: 'http://ros.org/doc/groovy/api/image_transport_plugins/tags/image_transport_plugins.tag',
+  package: image_transport_plugins}

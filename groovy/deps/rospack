@@ -1,1 +1,2 @@
-[catkin, python-coverage, python, python-rosdep, gtest, tinyxml, boost, pkg-config]
+[catkin, python-coverage, python, python-rosdep, python-catkin-pkg, gtest, tinyxml,
+  boost, pkg-config]
