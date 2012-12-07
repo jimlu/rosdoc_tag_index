@@ -1,0 +1,2 @@
+[srs_assisted_grasping, ogre, ogre_tools, actionlib, rviz, srs_assisted_grasping_msgs,
+  roscpp]

@@ -1,0 +1,2 @@
+[roscpp, assimp, nodelet, urdf, sensor_msgs, resource_retriever, pcl, filters, visualization_msgs,
+  tf, geometric_shapes, pcl_ros]

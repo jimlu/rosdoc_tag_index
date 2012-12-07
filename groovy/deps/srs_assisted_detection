@@ -1,0 +1,2 @@
+[smach_ros, roscpp, std_msgs, sensor_msgs, smach, rospy, cob_object_detection_msgs,
+  srs_symbolic_grounding]
