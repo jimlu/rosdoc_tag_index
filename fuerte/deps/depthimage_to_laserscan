@@ -1,0 +1,1 @@
+[image_geometry, dynamic_reconfigure, sensor_msgs, image_transport, driver_base, nodelet]
