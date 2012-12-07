@@ -1,1 +1,1 @@
-[diagnostics, ros, dynamic_reconfigure]
+[self_test, diagnostic_updater, roscpp, dynamic_reconfigure]

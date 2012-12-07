@@ -1,0 +1,2 @@
+[srs_leg_detector, smach_ros, srs_body_detector, smach, cob_people_detection_msgs,
+  geometry_msgs, tf, cob_people_detection]

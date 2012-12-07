@@ -1,0 +1,2 @@
+[roscpp, cob_srvs, sensor_msgs, std_msgs, ipa_canopen_core, brics_actuator, rospy,
+  libpcan, pr2_controllers_msgs]

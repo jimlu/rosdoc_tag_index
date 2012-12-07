@@ -1,0 +1,2 @@
+[nav_msgs, laser_geometry, std_srvs, roscpp, bullet, srs_msgs, std_msgs, srs_people_tracking_filter,
+  sensor_msgs, bfl, opencv2, geometry_msgs, visualization_msgs, tf, rosbag]
