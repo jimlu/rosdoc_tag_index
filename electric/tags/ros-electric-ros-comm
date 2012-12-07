@@ -32,8 +32,8 @@
   package: test_roslaunch}
 - {docs_url: ../../../api/test_rostest/html, location: 'http://ros.org/doc/electric/api/test_rostest/tags/test_rostest.tag',
   package: test_rostest}
-- {docs_url: ../../../api/rosbagmigration/html, location: 'http://ros.org/doc/electric/api/rosbagmigration/tags/rosbagmigration.tag',
-  package: rosbagmigration}
+- {docs_url: ../../../api/test_crosspackage/html, location: 'http://ros.org/doc/electric/api/test_crosspackage/tags/test_crosspackage.tag',
+  package: test_crosspackage}
 - {docs_url: ../../../api/test_rosgraph/html, location: 'http://ros.org/doc/electric/api/test_rosgraph/tags/test_rosgraph.tag',
   package: test_rosgraph}
 - {docs_url: ../../../api/test_roscpp_serialization_perf/html, location: 'http://ros.org/doc/electric/api/test_roscpp_serialization_perf/tags/test_roscpp_serialization_perf.tag',
@@ -44,10 +44,8 @@
   package: test_roscpp}
 - {docs_url: ../../../api/test_rostime/html, location: 'http://ros.org/doc/electric/api/test_rostime/tags/test_rostime.tag',
   package: test_rostime}
-- {docs_url: ../../../api/test_crosspackage/html, location: 'http://ros.org/doc/electric/api/test_crosspackage/tags/test_crosspackage.tag',
-  package: test_crosspackage}
-- {docs_url: ../../../api/test_rosservice/html, location: 'http://ros.org/doc/electric/api/test_rosservice/tags/test_rosservice.tag',
-  package: test_rosservice}
+- {docs_url: ../../../api/test_rosparam/html, location: 'http://ros.org/doc/electric/api/test_rosparam/tags/test_rosparam.tag',
+  package: test_rosparam}
 - {docs_url: ../../../api/test_topic_tools/html, location: 'http://ros.org/doc/electric/api/test_topic_tools/tags/test_topic_tools.tag',
   package: test_topic_tools}
 - {docs_url: ../../../api/test_rospy/html, location: 'http://ros.org/doc/electric/api/test_rospy/tags/test_rospy.tag',
@@ -64,8 +62,8 @@
   package: test_rosmsg}
 - {docs_url: ../../../api/test_rosbag/html, location: 'http://ros.org/doc/electric/api/test_rosbag/tags/test_rosbag.tag',
   package: test_rosbag}
-- {docs_url: ../../../api/test_rosparam/html, location: 'http://ros.org/doc/electric/api/test_rosparam/tags/test_rosparam.tag',
-  package: test_rosparam}
+- {docs_url: ../../../api/test_rosservice/html, location: 'http://ros.org/doc/electric/api/test_rosservice/tags/test_rosservice.tag',
+  package: test_rosservice}
 - {docs_url: ../../../api/test_rosmaster/html, location: 'http://ros.org/doc/electric/api/test_rosmaster/tags/test_rosmaster.tag',
   package: test_rosmaster}
 - {docs_url: ../../../api/perf_roscpp/html, location: 'http://ros.org/doc/electric/api/perf_roscpp/tags/perf_roscpp.tag',
@@ -74,3 +72,5 @@
   package: test_roslib_comm}
 - {docs_url: ../../../api/test_rostopic/html, location: 'http://ros.org/doc/electric/api/test_rostopic/tags/test_rostopic.tag',
   package: test_rostopic}
+- {docs_url: ../../../api/rosbagmigration/html, location: 'http://ros.org/doc/electric/api/rosbagmigration/tags/rosbagmigration.tag',
+  package: rosbagmigration}
