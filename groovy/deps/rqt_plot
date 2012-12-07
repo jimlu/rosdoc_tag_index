@@ -1,0 +1,2 @@
+[python-matplotlib, rqt_gui, rosgraph, qt_gui_py_common, rostopic, rqt_gui_py, python-qt-bindings-qwt5,
+  rqt_py_common]
