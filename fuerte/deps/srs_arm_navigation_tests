@@ -1,0 +1,5 @@
+[srs_assisted_grasping, srs_assisted_arm_navigation_ui, cob_object_detection_msgs,
+  srs_object_database_msgs, smach_ros, srs_assisted_arm_navigation_msgs, std_msgs,
+  srs_env_model, srs_assisted_grasping_ui, srs_states, smach, geometry_msgs, srs_env_model_percp,
+  srs_assisted_arm_navigation, tf, srs_assisted_grasping_msgs, srs_interaction_primitives,
+  actionlib_msgs, srs_grasping, arm_navigation_msgs]

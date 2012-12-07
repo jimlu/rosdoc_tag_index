@@ -1,0 +1,2 @@
+[std_srvs, rqt_robot_dashboard, roslib, std_msgs, pr2_power_board, rospy, pr2_msgs,
+  rqt_robot_monitor]
