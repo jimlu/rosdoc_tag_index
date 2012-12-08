@@ -1,0 +1,2 @@
+[image_geometry, dynamic_reconfigure, roscpp, sensor_msgs, image_transport, gtest,
+  nodelet]
