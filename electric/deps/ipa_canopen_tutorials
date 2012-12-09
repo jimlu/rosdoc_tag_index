@@ -1,2 +1,2 @@
-[lpthread, roscpp, cob_srvs, std_msgs, brics_actuator, rospy, lboost_system, control_msgs,
-  ipa_canopen_ros, lcanopen, lpcan, lboost_filesystem, pr2_controllers_msgs]
+[lpthread, rospy, roscpp, cob_srvs, std_msgs, brics_actuator, kinematics_msgs, lboost_system,
+  control_msgs, ipa_canopen_ros, lcanopen, lpcan, lboost_filesystem, pr2_controllers_msgs]
