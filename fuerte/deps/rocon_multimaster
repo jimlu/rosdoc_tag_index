@@ -1,1 +1,1 @@
-[ros, ros_comm, rocon_msgs, zeroconf_msgs, common_tutorials, ros_tutorials]
+[ros, ros_comm, rocon_msgs, zeroconf_msgs, common_tutorials, ros_tutorials, rqt]
