@@ -1,0 +1,2 @@
+[spacenav_node, std_srvs, roscpp, srs_env_model_ui, sensor_msgs, geometry_msgs, tf,
+  eigen]
