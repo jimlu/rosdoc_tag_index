@@ -1,1 +1,1 @@
-[dynamic_reconfigure, image_common, ros_comm, vision_opencv, pluginlib]
+[compressed_depth_image_transport, theora_image_transport, catkin, compressed_image_transport]
