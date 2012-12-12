@@ -1,2 +1,3 @@
-[dynamic_reconfigure, self_test, urdf, std_srvs, roscpp, gazebo_msgs, std_msgs, sr_robot_msgs,
-  roslib, sensor_msgs, rospy, diagnostic_msgs, sr_utilities]
+[dynamic_reconfigure, pr2_mechanism_msgs, urdf, std_srvs, roscpp, gazebo_msgs, std_msgs,
+  sr_robot_msgs, roslib, sensor_msgs, rospy, self_test, diagnostic_msgs, sr_utilities,
+  pr2_controllers_msgs]
