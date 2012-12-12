@@ -1,2 +1,3 @@
-[std_srvs, roscpp, actionlib, trajectory_msgs, std_msgs, object_manipulator, rospy,
-  sr_robot_msgs, pr2_controllers_msgs, object_manipulation_msgs, actionlib_msgs, arm_navigation_msgs]
+[sr_hand, std_srvs, roscpp, actionlib, trajectory_msgs, std_msgs, object_manipulator,
+  rostest, rospy, sr_robot_msgs, pr2_controllers_msgs, object_manipulation_msgs, actionlib_msgs,
+  arm_navigation_msgs]
