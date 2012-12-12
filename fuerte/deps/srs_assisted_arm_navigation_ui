@@ -1,3 +1,4 @@
-[roscpp, ogre_tools, actionlib, sensor_msgs, image_transport, cob_script_server, rviz,
+[spacenav_node, trajectory_filter_server, roscpp, ogre_tools, actionlib, cob_interactive_teleop,
+  sensor_msgs, image_transport, cob_script_server, rviz, cob_image_flip, cob_spacenav_teleop,
   srs_assisted_arm_navigation, visualization_msgs, srs_assisted_arm_navigation_msgs,
   ogre]

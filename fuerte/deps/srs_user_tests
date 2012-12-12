@@ -1,3 +1,4 @@
-[srs_assisted_grasping, spacenav_node, rviz, cob_interactive_teleop, cob_navigation_slam,
-  srs_arm_navigation_tests, srs_env_model, cob_3d_mapping_pipeline_fake, cob_navigation_global,
-  srs_assisted_arm_navigation, cob_3d_mapping_msgs, srs_env_model_percp]
+[srs_assisted_grasping, srs_ui_but, srs_env_model_utils, rviz, cob_interactive_teleop,
+  cob_navigation_slam, robot_state_publisher, srs_arm_navigation_tests, srs_env_model,
+  cob_3d_mapping_pipeline_fake, cob_navigation_global, joint_state_publisher, srs_assisted_arm_navigation,
+  spacenav_node, cob_3d_mapping_msgs, srs_env_model_percp, srs_assisted_arm_navigation_ui]
