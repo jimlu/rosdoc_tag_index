@@ -1,0 +1,2 @@
+[roscpp, std_msgs, actionlib, roslib, sensor_msgs, pr2_3dnav, openni_launch, pcl,
+  tf, arm_navigation_msgs, cv_bridge, pcl_ros]
