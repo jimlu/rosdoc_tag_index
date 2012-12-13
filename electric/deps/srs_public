@@ -1,6 +1,8 @@
-[arm_navigation, audio_common, bullet, client_rosjava_jni, cob_command_tools, cob_common,
-  cob_environment_perception, cob_environments, cob_manipulation, cob_navigation,
-  cob_object_perception, cob_people_perception, cob_robots, cob_simulation, common,
-  common_msgs, eigen, executive_smach, geometry, image_common, laser_pipeline, navigation,
-  octomap_mapping, perception_pcl, ros, ros_comm, schunk_modular_robotics, simulator_gazebo,
-  srs_common, vision_opencv, visualization, visualization_common]
+[arm_navigation, assimp, audio_common, bullet, client_rosjava_jni, cob_command_tools,
+  cob_common, cob_environment_perception, cob_environments, cob_manipulation, cob_manipulation_sandbox,
+  cob_navigation, cob_object_perception, cob_people_perception, cob_perception_common,
+  cob_robots, cob_simulation, common, common_msgs, control, eigen, executive_smach,
+  filters, geometry, image_common, joystick_drivers, laser_pipeline, navigation, nodelet_core,
+  octomap_mapping, perception_pcl, pr2_controllers, robot_model, robot_model_visualization,
+  ros, ros_comm, schunk_modular_robotics, simulator_gazebo, srs_common, vision_opencv,
+  visualization, visualization_common, warehousewg]
