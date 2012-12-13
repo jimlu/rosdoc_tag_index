@@ -1,1 +1,1 @@
-[qt4-qmake, python-qt-bindings, python_qt_binding, catkin, tango-icon-theme]
+[qt4-qmake, python-qt-bindings, tango-icon-theme, catkin, python_qt_binding]
