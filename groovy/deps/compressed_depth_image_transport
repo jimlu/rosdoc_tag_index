@@ -1,1 +1,1 @@
-[dynamic_reconfigure, cv_bridge, catkin, image_transport]
+[dynamic_reconfigure, cv_bridge, catkin, image_transport, tf]
