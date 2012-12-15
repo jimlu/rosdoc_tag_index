@@ -1,1 +1,1 @@
-[opencv2, catkin, boost, sensor_msgs, rosconsole]
+[opencv2, rosconsole, catkin, boost, sensor_msgs]
