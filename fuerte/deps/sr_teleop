@@ -1,1 +1,2 @@
-[common, common_msgs, geometry, ros, ros_comm, shadow_robot, serial_communication]
+[common, common_msgs, geometry, ros, ros_comm, shadow_robot, serial_communication,
+  sr_config]
