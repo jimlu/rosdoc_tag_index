@@ -1,1 +1,1 @@
-[catkin, sensor_msgs, octomap_msgs, octomap, tf, cmake, pcl_ros]
+[catkin, sensor_msgs, octomap_msgs, octomap, tf, pcl_ros]
