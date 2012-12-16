@@ -1,2 +1,2 @@
-[katana_gazebo_plugins, katana_tutorials, kni, katana, katana_joint_movement_adapter,
-  katana_trajectory_filter, katana_teleop, katana_description, katana_msgs, katana_arm_gazebo]
+[katana_tutorials, kni, katana, katana_joint_movement_adapter, katana_arm_gazebo,
+  katana_trajectory_filter, katana_teleop, katana_gazebo_plugins, katana_msgs, katana_description]
