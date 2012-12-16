@@ -10,12 +10,12 @@
   package: rqt_image_view}
 - {docs_url: ../../../api/rqt_graph/html, location: 'http://ros.org/doc/groovy/api/rqt_graph/tags/rqt_graph.tag',
   package: rqt_graph}
+- {docs_url: ../../../api/rqt_py_common/html, location: 'http://ros.org/doc/groovy/api/rqt_py_common/tags/rqt_py_common.tag',
+  package: rqt_py_common}
 - {docs_url: ../../../api/rqt_console/html, location: 'http://ros.org/doc/groovy/api/rqt_console/tags/rqt_console.tag',
   package: rqt_console}
 - {docs_url: ../../../api/rqt_runtime_monitor/html, location: 'http://ros.org/doc/groovy/api/rqt_runtime_monitor/tags/rqt_runtime_monitor.tag',
   package: rqt_runtime_monitor}
-- {docs_url: ../../../api/rqt_py_common/html, location: 'http://ros.org/doc/groovy/api/rqt_py_common/tags/rqt_py_common.tag',
-  package: rqt_py_common}
 - {docs_url: ../../../api/rqt_msg/html, location: 'http://ros.org/doc/groovy/api/rqt_msg/tags/rqt_msg.tag',
   package: rqt_msg}
 - {docs_url: ../../../api/rqt_srv/html, location: 'http://ros.org/doc/groovy/api/rqt_srv/tags/rqt_srv.tag',
@@ -48,10 +48,10 @@
   package: rqt_logger_level}
 - {docs_url: ../../../api/rqt_service_caller/html, location: 'http://ros.org/doc/groovy/api/rqt_service_caller/tags/rqt_service_caller.tag',
   package: rqt_service_caller}
-- {docs_url: ../../../api/rqt_dep/html, location: 'http://ros.org/doc/groovy/api/rqt_dep/tags/rqt_dep.tag',
-  package: rqt_dep}
 - {docs_url: ../../../api/rqt_bag_plugins/html, location: 'http://ros.org/doc/groovy/api/rqt_bag_plugins/tags/rqt_bag_plugins.tag',
   package: rqt_bag_plugins}
+- {docs_url: ../../../api/rqt_dep/html, location: 'http://ros.org/doc/groovy/api/rqt_dep/tags/rqt_dep.tag',
+  package: rqt_dep}
 - {docs_url: ../../../api/rqt_param/html, location: 'http://ros.org/doc/groovy/api/rqt_param/tags/rqt_param.tag',
   package: rqt_param}
 - {docs_url: ../../../api/rqt_pr2_dashboard/html, location: 'http://ros.org/doc/groovy/api/rqt_pr2_dashboard/tags/rqt_pr2_dashboard.tag',

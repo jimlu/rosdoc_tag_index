@@ -1,1 +1,1 @@
-[common_msgs, diagnostics_monitors, ros, ros_comm, rx, turtlebot, visualization]
+[common_msgs, visualization, ros, ros_comm, diagnostics_monitors]
