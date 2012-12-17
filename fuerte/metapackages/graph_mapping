@@ -1,1 +1,1 @@
-[occupancy_grid_utils, pose_graph, graph_slam]
+[pose_graph, occupancy_grid_utils, graph_slam]
