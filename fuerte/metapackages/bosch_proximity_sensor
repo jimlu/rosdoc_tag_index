@@ -1,2 +1,2 @@
-[proximity_sensor_tf, proximity_sensor_dashboard, proximity_sensor_fake_data, proximity_sensor_driver,
-  proximity_sensor_visualize]
+[proximity_sensor_tf, proximity_sensor_dashboard, proximity_sensor_visualize, proximity_sensor_driver,
+  proximity_sensor_fake_data]
