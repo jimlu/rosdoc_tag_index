@@ -1,2 +1,2 @@
-[pr2_gazebo_plugins, pr2_examples_gazebo, pr2_ogre, pr2_controller_configuration_gazebo,
+[pr2_ogre, pr2_examples_gazebo, pr2_gazebo_plugins, pr2_controller_configuration_gazebo,
   pr2_gazebo]
