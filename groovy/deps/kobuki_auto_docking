@@ -1,1 +1,3 @@
-[ecl_threads, nodelet, roscpp]
+[nav_msgs, kobuki_msgs, roscpp, message_filters, ecl_threads, actionlib, std_msgs,
+  kdl_conversions, ecl_mobile_robot, rospy, ecl_geometry, geometry_msgs, nodelet,
+  actionlib_msgs]
