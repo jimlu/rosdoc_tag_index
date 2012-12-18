@@ -1,3 +1,3 @@
 [navigation_application, map_tiler, tuckarms_application, mannequin_application, pr2_addons_application,
-  camera_application, pr2_base_application, soccer_application, teleop_ps3_application,
-  pr2_recharge_application]
+  camera_application, pr2_base_application, soccer_application, pr2_recharge_application,
+  teleop_ps3_application]
