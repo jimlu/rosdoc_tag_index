@@ -10,14 +10,18 @@
   package: gumstix_memwrite_bma180}
 - {docs_url: ../../../api/usb_cam/html, location: 'http://ros.org/doc/fuerte/api/usb_cam/tags/usb_cam.tag',
   package: usb_cam}
-- {docs_url: ../../../api/amtec/html, location: 'http://ros.org/doc/fuerte/api/amtec/tags/amtec.tag',
-  package: amtec}
 - {docs_url: ../../../api/bmc050_driver/html, location: 'http://ros.org/doc/fuerte/api/bmc050_driver/tags/bmc050_driver.tag',
   package: bmc050_driver}
 - {docs_url: ../../../api/smi540/html, location: 'http://ros.org/doc/fuerte/api/smi540/tags/smi540.tag',
   package: smi540}
 - {docs_url: ../../../api/photo/html, location: 'http://ros.org/doc/fuerte/api/photo/tags/photo.tag',
   package: photo}
+- {docs_url: ../../../api/bma180/html, location: 'http://ros.org/doc/fuerte/api/bma180/tags/bma180.tag',
+  package: bma180}
+- {docs_url: ../../../api/adc_sub20/html, location: 'http://ros.org/doc/fuerte/api/adc_sub20/tags/adc_sub20.tag',
+  package: adc_sub20}
+- {docs_url: ../../../api/gumstix_memread_bma180/html, location: 'http://ros.org/doc/fuerte/api/gumstix_memread_bma180/tags/gumstix_memread_bma180.tag',
+  package: gumstix_memread_bma180}
 - {docs_url: ../../../api/uniserial/html, location: 'http://ros.org/doc/fuerte/api/uniserial/tags/uniserial.tag',
   package: uniserial}
 - {docs_url: ../../../api/arduino_interface/html, location: 'http://ros.org/doc/fuerte/api/arduino_interface/tags/arduino_interface.tag',
@@ -28,11 +32,7 @@
   package: bma180_driver}
 - {docs_url: ../../../api/bosch_drivers_example_nodes/html, location: 'http://ros.org/doc/fuerte/api/bosch_drivers_example_nodes/tags/bosch_drivers_example_nodes.tag',
   package: bosch_drivers_example_nodes}
-- {docs_url: ../../../api/adc_sub20/html, location: 'http://ros.org/doc/fuerte/api/adc_sub20/tags/adc_sub20.tag',
-  package: adc_sub20}
-- {docs_url: ../../../api/bma180/html, location: 'http://ros.org/doc/fuerte/api/bma180/tags/bma180.tag',
-  package: bma180}
-- {docs_url: ../../../api/gumstix_memread_bma180/html, location: 'http://ros.org/doc/fuerte/api/gumstix_memread_bma180/tags/gumstix_memread_bma180.tag',
-  package: gumstix_memread_bma180}
+- {docs_url: ../../../api/amtec/html, location: 'http://ros.org/doc/fuerte/api/amtec/tags/amtec.tag',
+  package: amtec}
 - {docs_url: ../../../api/bosch_drivers_basic_nodes/html, location: 'http://ros.org/doc/fuerte/api/bosch_drivers_basic_nodes/tags/bosch_drivers_basic_nodes.tag',
   package: bosch_drivers_basic_nodes}
