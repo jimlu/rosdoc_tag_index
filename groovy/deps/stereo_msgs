@@ -1,1 +1,1 @@
-[genmsg, catkin, std_msgs, sensor_msgs, langs-dev, langs]
+[message_generation, std_msgs, message_runtime, sensor_msgs, catkin]
