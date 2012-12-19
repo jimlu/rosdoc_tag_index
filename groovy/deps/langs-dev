@@ -1,1 +1,1 @@
-[genlisp, genpy, catkin, gencpp]
+[message_generation, catkin]
