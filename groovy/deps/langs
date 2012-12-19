@@ -1,1 +1,1 @@
-[catkin, rostime, roscpp_serialization, roscpp_traits, langs-dev, cpp_common]
+[message_generation, message_runtime, catkin]
