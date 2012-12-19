@@ -1,5 +1,7 @@
 - {docs_url: ../../../api/application_msgs/html, location: 'http://ros.org/doc/electric/api/application_msgs/tags/application_msgs.tag',
   package: application_msgs}
+- {docs_url: ../../../api/application_client/html, location: 'http://ros.org/doc/electric/api/application_client/tags/application_client.tag',
+  package: application_client}
 - {docs_url: ../../../api/application_manager/html, location: 'http://ros.org/doc/electric/api/application_manager/tags/application_manager.tag',
   package: application_manager}
 - {docs_url: ../../../api/dummy_applications/html, location: 'http://ros.org/doc/electric/api/dummy_applications/tags/dummy_applications.tag',
