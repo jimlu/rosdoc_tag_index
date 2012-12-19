@@ -1,0 +1,2 @@
+[visp, rospy, roscpp, message_filters, std_msgs, sensor_msgs, resource_retriever,
+  image_transport, geometry_msgs, visp_tracker, visp_bridge]
