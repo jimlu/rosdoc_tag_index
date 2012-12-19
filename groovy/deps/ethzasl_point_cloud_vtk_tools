@@ -1,0 +1,2 @@
+[nav_msgs, libnabo, roscpp, sensor_msgs, std_msgs, eigen, libpointmatcher, libpointmatcher_ros,
+  geometry_msgs, yaml-cpp, tf, rospy, libargtable2-dev, rosbag, tf_conversions, tf2]
