@@ -1,10 +1,10 @@
+- {docs_url: ../../../api/p2os_launch/html, location: 'http://ros.org/doc/electric/api/p2os_launch/tags/p2os_launch.tag',
+  package: p2os_launch}
 - {docs_url: ../../../api/p2os_urdf/html, location: 'http://ros.org/doc/electric/api/p2os_urdf/tags/p2os_urdf.tag',
   package: p2os_urdf}
+- {docs_url: ../../../api/p2os_teleop/html, location: 'http://ros.org/doc/electric/api/p2os_teleop/tags/p2os_teleop.tag',
+  package: p2os_teleop}
 - {docs_url: ../../../api/p2os_driver/html, location: 'http://ros.org/doc/electric/api/p2os_driver/tags/p2os_driver.tag',
   package: p2os_driver}
 - {docs_url: ../../../api/p2os_dashboard/html, location: 'http://ros.org/doc/electric/api/p2os_dashboard/tags/p2os_dashboard.tag',
   package: p2os_dashboard}
-- {docs_url: ../../../api/p2os_teleop/html, location: 'http://ros.org/doc/electric/api/p2os_teleop/tags/p2os_teleop.tag',
-  package: p2os_teleop}
-- {docs_url: ../../../api/p2os_launch/html, location: 'http://ros.org/doc/electric/api/p2os_launch/tags/p2os_launch.tag',
-  package: p2os_launch}
