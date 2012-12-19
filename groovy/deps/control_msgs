@@ -1,2 +1,2 @@
-[genmsg, catkin, actionlib_msgs, trajectory_msgs, std_msgs, langs-dev, geometry_msgs,
-  langs]
+[message_runtime, catkin, actionlib_msgs, trajectory_msgs, std_msgs, geometry_msgs,
+  message_generation]
