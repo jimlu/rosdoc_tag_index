@@ -1,2 +1,2 @@
-[ethzasl_gridmap_2d, libnabo, point_cloud_vtk_tools, extrinsic_calibration, libpointmatcher,
-  libpointmatcher_ros, modular_cloud_matcher, modular_cloud_matcher_experiments]
+[libnabo, ethzasl_gridmap_2d, ethzasl_icp_mapper, libpointmatcher, libpointmatcher_ros,
+  ethzasl_icp_mapper_experiments, ethzasl_point_cloud_vtk_tools, ethzasl_extrinsic_calibration]
