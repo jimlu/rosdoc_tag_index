@@ -1,17 +1,13 @@
-- {docs_url: ../../../api/alexandria/html, location: 'http://ros.org/doc/fuerte/api/alexandria/tags/alexandria.tag',
-  package: alexandria}
 - {docs_url: ../../../api/synchronization_tools/html, location: 'http://ros.org/doc/fuerte/api/synchronization_tools/tags/synchronization_tools.tag',
   package: synchronization_tools}
+- {docs_url: ../../../api/alexandria/html, location: 'http://ros.org/doc/fuerte/api/alexandria/tags/alexandria.tag',
+  package: alexandria}
 - {docs_url: ../../../api/lisp_unit/html, location: 'http://ros.org/doc/fuerte/api/lisp_unit/tags/lisp_unit.tag',
   package: lisp_unit}
 - {docs_url: ../../../api/cram_utilities/html, location: 'http://ros.org/doc/fuerte/api/cram_utilities/tags/cram_utilities.tag',
   package: cram_utilities}
 - {docs_url: ../../../api/cram_reasoning/html, location: 'http://ros.org/doc/fuerte/api/cram_reasoning/tags/cram_reasoning.tag',
   package: cram_reasoning}
-- {docs_url: ../../../api/split_sequence/html, location: 'http://ros.org/doc/fuerte/api/split_sequence/tags/split_sequence.tag',
-  package: split_sequence}
-- {docs_url: ../../../api/gsd/html, location: 'http://ros.org/doc/fuerte/api/gsd/tags/gsd.tag',
-  package: gsd}
 - {docs_url: ../../../api/trivial_garbage/html, location: 'http://ros.org/doc/fuerte/api/trivial_garbage/tags/trivial_garbage.tag',
   package: trivial_garbage}
 - {docs_url: ../../../api/cram_designators/html, location: 'http://ros.org/doc/fuerte/api/cram_designators/tags/cram_designators.tag',
@@ -22,12 +18,20 @@
   package: cram_language}
 - {docs_url: ../../../api/cram_process_modules/html, location: 'http://ros.org/doc/fuerte/api/cram_process_modules/tags/cram_process_modules.tag',
   package: cram_process_modules}
+- {docs_url: ../../../api/cl_store/html, location: 'http://ros.org/doc/fuerte/api/cl_store/tags/cl_store.tag',
+  package: cl_store}
+- {docs_url: ../../../api/cram_execution_trace/html, location: 'http://ros.org/doc/fuerte/api/cram_execution_trace/tags/cram_execution_trace.tag',
+  package: cram_execution_trace}
 - {docs_url: ../../../api/cram_projection/html, location: 'http://ros.org/doc/fuerte/api/cram_projection/tags/cram_projection.tag',
   package: cram_projection}
 - {docs_url: ../../../api/trivial_features/html, location: 'http://ros.org/doc/fuerte/api/trivial_features/tags/trivial_features.tag',
   package: trivial_features}
 - {docs_url: ../../../api/babel/html, location: 'http://ros.org/doc/fuerte/api/babel/tags/babel.tag',
   package: babel}
+- {docs_url: ../../../api/split_sequence/html, location: 'http://ros.org/doc/fuerte/api/split_sequence/tags/split_sequence.tag',
+  package: split_sequence}
+- {docs_url: ../../../api/gsd/html, location: 'http://ros.org/doc/fuerte/api/gsd/tags/gsd.tag',
+  package: gsd}
 - {docs_url: ../../../api/cffi/html, location: 'http://ros.org/doc/fuerte/api/cffi/tags/cffi.tag',
   package: cffi}
 - {docs_url: ../../../api/cl_utilities/html, location: 'http://ros.org/doc/fuerte/api/cl_utilities/tags/cl_utilities.tag',
@@ -36,7 +40,3 @@
   package: gsll}
 - {docs_url: ../../../api/cram_math/html, location: 'http://ros.org/doc/fuerte/api/cram_math/tags/cram_math.tag',
   package: cram_math}
-- {docs_url: ../../../api/cl_store/html, location: 'http://ros.org/doc/fuerte/api/cl_store/tags/cl_store.tag',
-  package: cl_store}
-- {docs_url: ../../../api/cram_execution_trace/html, location: 'http://ros.org/doc/fuerte/api/cram_execution_trace/tags/cram_execution_trace.tag',
-  package: cram_execution_trace}
