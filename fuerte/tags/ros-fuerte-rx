@@ -1,10 +1,2 @@
 - {docs_url: ../../../api/wxPython_swig_interface/html, location: 'http://ros.org/doc/fuerte/api/wxPython_swig_interface/tags/wxPython_swig_interface.tag',
   package: wxPython_swig_interface}
-- {docs_url: ../../../api/rxtools/html, location: 'http://ros.org/doc/fuerte/api/rxtools/tags/rxtools.tag',
-  package: rxtools}
-- {docs_url: ../../../api/xdot/html, location: 'http://ros.org/doc/fuerte/api/xdot/tags/xdot.tag',
-  package: xdot}
-- {docs_url: ../../../api/rxgraph/html, location: 'http://ros.org/doc/fuerte/api/rxgraph/tags/rxgraph.tag',
-  package: rxgraph}
-- {docs_url: ../../../api/rxbag/html, location: 'http://ros.org/doc/fuerte/api/rxbag/tags/rxbag.tag',
-  package: rxbag}
