@@ -1,1 +1,1 @@
-[catkin, pkg-config]
+[message_generation, message_runtime, catkin, pkg-config]
