@@ -1,10 +1,10 @@
-- {docs_url: ../../../api/opennl/html, location: 'http://ros.org/doc/electric/api/opennl/tags/opennl.tag',
-  package: opennl}
 - {docs_url: ../../../api/trimesh/html, location: 'http://ros.org/doc/electric/api/trimesh/tags/trimesh.tag',
   package: trimesh}
 - {docs_url: ../../../api/bmtk/html, location: 'http://ros.org/doc/electric/api/bmtk/tags/bmtk.tag',
   package: bmtk}
-- {docs_url: ../../../api/vcglib/html, location: 'http://ros.org/doc/electric/api/vcglib/tags/vcglib.tag',
-  package: vcglib}
+- {docs_url: ../../../api/opennl/html, location: 'http://ros.org/doc/electric/api/opennl/tags/opennl.tag',
+  package: opennl}
 - {docs_url: ../../../api/openmesh/html, location: 'http://ros.org/doc/electric/api/openmesh/tags/openmesh.tag',
   package: openmesh}
+- {docs_url: ../../../api/vcglib/html, location: 'http://ros.org/doc/electric/api/vcglib/tags/vcglib.tag',
+  package: vcglib}
