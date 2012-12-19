@@ -26,8 +26,6 @@
   package: pr2_tabletop_manipulation_launch}
 - {docs_url: ../../../api/pr2_pick_and_place_demos/html, location: 'http://ros.org/doc/fuerte/api/pr2_pick_and_place_demos/tags/pr2_pick_and_place_demos.tag',
   package: pr2_pick_and_place_demos}
-- {docs_url: ../../../api/pick_and_place_demo_app/html, location: 'http://ros.org/doc/fuerte/api/pick_and_place_demo_app/tags/pick_and_place_demo_app.tag',
-  package: pick_and_place_demo_app}
 - {docs_url: ../../../api/robot_self_filter_color/html, location: 'http://ros.org/doc/fuerte/api/robot_self_filter_color/tags/robot_self_filter_color.tag',
   package: robot_self_filter_color}
 - {docs_url: ../../../api/pr2_object_manipulation_msgs/html, location: 'http://ros.org/doc/fuerte/api/pr2_object_manipulation_msgs/tags/pr2_object_manipulation_msgs.tag',
@@ -56,6 +54,8 @@
   package: segmented_clutter_grasp_planner}
 - {docs_url: ../../../api/pr2_interactive_manipulation/html, location: 'http://ros.org/doc/fuerte/api/pr2_interactive_manipulation/tags/pr2_interactive_manipulation.tag',
   package: pr2_interactive_manipulation}
+- {docs_url: ../../../api/pick_and_place_demo_app/html, location: 'http://ros.org/doc/fuerte/api/pick_and_place_demo_app/tags/pick_and_place_demo_app.tag',
+  package: pick_and_place_demo_app}
 - {docs_url: ../../../api/manipulation_worlds/html, location: 'http://ros.org/doc/fuerte/api/manipulation_worlds/tags/manipulation_worlds.tag',
   package: manipulation_worlds}
 - {docs_url: ../../../api/pr2_pick_and_place_tutorial/html, location: 'http://ros.org/doc/fuerte/api/pr2_pick_and_place_tutorial/tags/pr2_pick_and_place_tutorial.tag',
