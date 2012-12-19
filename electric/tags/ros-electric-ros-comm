@@ -30,16 +30,18 @@
   package: test_roswtf}
 - {docs_url: ../../../api/test_roslaunch/html, location: 'http://ros.org/doc/electric/api/test_roslaunch/tags/test_roslaunch.tag',
   package: test_roslaunch}
+- {docs_url: ../../../api/test_roscpp_serialization_perf/html, location: 'http://ros.org/doc/electric/api/test_roscpp_serialization_perf/tags/test_roscpp_serialization_perf.tag',
+  package: test_roscpp_serialization_perf}
 - {docs_url: ../../../api/test_rostest/html, location: 'http://ros.org/doc/electric/api/test_rostest/tags/test_rostest.tag',
   package: test_rostest}
 - {docs_url: ../../../api/rosbagmigration/html, location: 'http://ros.org/doc/electric/api/rosbagmigration/tags/rosbagmigration.tag',
   package: rosbagmigration}
 - {docs_url: ../../../api/test_rosgraph/html, location: 'http://ros.org/doc/electric/api/test_rosgraph/tags/test_rosgraph.tag',
   package: test_rosgraph}
-- {docs_url: ../../../api/test_roscpp_serialization_perf/html, location: 'http://ros.org/doc/electric/api/test_roscpp_serialization_perf/tags/test_roscpp_serialization_perf.tag',
-  package: test_roscpp_serialization_perf}
 - {docs_url: ../../../api/std_srvs/html, location: 'http://ros.org/doc/electric/api/std_srvs/tags/std_srvs.tag',
   package: std_srvs}
+- {docs_url: ../../../api/test_roslib_comm/html, location: 'http://ros.org/doc/electric/api/test_roslib_comm/tags/test_roslib_comm.tag',
+  package: test_roslib_comm}
 - {docs_url: ../../../api/test_roscpp/html, location: 'http://ros.org/doc/electric/api/test_roscpp/tags/test_roscpp.tag',
   package: test_roscpp}
 - {docs_url: ../../../api/test_rostime/html, location: 'http://ros.org/doc/electric/api/test_rostime/tags/test_rostime.tag',
@@ -70,7 +72,5 @@
   package: test_rosmaster}
 - {docs_url: ../../../api/perf_roscpp/html, location: 'http://ros.org/doc/electric/api/perf_roscpp/tags/perf_roscpp.tag',
   package: perf_roscpp}
-- {docs_url: ../../../api/test_roslib_comm/html, location: 'http://ros.org/doc/electric/api/test_roslib_comm/tags/test_roslib_comm.tag',
-  package: test_roslib_comm}
 - {docs_url: ../../../api/test_rostopic/html, location: 'http://ros.org/doc/electric/api/test_rostopic/tags/test_rostopic.tag',
   package: test_rostopic}
