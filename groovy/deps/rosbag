@@ -1,3 +1,3 @@
-[rosgraph_msgs, rosconsole, bzip2, genmsg, catkin, roscpp, rospy, xmlrpcpp, roslib,
-  rostime, genpy, roscpp_serialization, python-rospkg, python-imaging, topic_tools,
-  rostest, langs-dev, rosunit, roscpp_traits, cpp_common, boost]
+[rosgraph_msgs, rosconsole, bzip2, genmsg, catkin, roscpp, xmlrpcpp, message_runtime,
+  genpy, roscpp_serialization, python-rospkg, python-imaging, topic_tools, rostest,
+  rospy, rosunit, message_generation, roslib, cpp_common, boost]

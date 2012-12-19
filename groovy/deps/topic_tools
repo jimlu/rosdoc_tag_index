@@ -1,2 +1,2 @@
-[rosconsole, genmsg, catkin, roscpp, xmlrpcpp, rostime, rostest, langs-dev, rosunit,
-  langs, cpp_common]
+[rosconsole, catkin, roscpp, xmlrpcpp, std_msgs, message_runtime, rostime, rostest,
+  rosunit, message_generation, cpp_common]

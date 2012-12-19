@@ -1,1 +1,1 @@
-[rosgraph, rostest, genmsg, catkin]
+[rostest, genmsg, rosgraph, catkin]

@@ -1,1 +1,1 @@
-[genmsg, catkin, test_rosmaster, python-numpy, std_msgs, rostest, rospy]
+[genmsg, catkin, test_rosmaster, std_msgs, python-numpy, rostest, rospy]

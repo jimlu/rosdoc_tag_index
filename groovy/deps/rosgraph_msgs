@@ -1,1 +1,1 @@
-[langs-dev, std_msgs, langs, genmsg, catkin]
+[message_generation, catkin, message_runtime, std_msgs]
