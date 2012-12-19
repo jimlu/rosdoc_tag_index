@@ -1,8 +1,10 @@
 - {docs_url: ../../../api/visp_bridge/html, location: 'http://ros.org/doc/groovy/api/visp_bridge/tags/visp_bridge.tag',
   package: visp_bridge}
-- {docs_url: ../../../api/visp_hand2eye_calibration/html, location: 'http://ros.org/doc/groovy/api/visp_hand2eye_calibration/tags/visp_hand2eye_calibration.tag',
-  package: visp_hand2eye_calibration}
 - {docs_url: ../../../api/visp_camera_calibration/html, location: 'http://ros.org/doc/groovy/api/visp_camera_calibration/tags/visp_camera_calibration.tag',
   package: visp_camera_calibration}
+- {docs_url: ../../../api/visp_hand2eye_calibration/html, location: 'http://ros.org/doc/groovy/api/visp_hand2eye_calibration/tags/visp_hand2eye_calibration.tag',
+  package: visp_hand2eye_calibration}
 - {docs_url: ../../../api/visp_tracker/html, location: 'http://ros.org/doc/groovy/api/visp_tracker/tags/visp_tracker.tag',
   package: visp_tracker}
+- {docs_url: ../../../api/visp_auto_tracker/html, location: 'http://ros.org/doc/groovy/api/visp_auto_tracker/tags/visp_auto_tracker.tag',
+  package: visp_auto_tracker}
