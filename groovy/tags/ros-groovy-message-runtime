@@ -1,0 +1,2 @@
+- {docs_url: ../../../api/message_runtime/html, location: 'http://ros.org/doc/groovy/api/message_runtime/tags/message_runtime.tag',
+  package: message_runtime}
