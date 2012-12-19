@@ -6,6 +6,10 @@
   package: roslib}
 - {docs_url: ../../../api/roscreate/html, location: 'http://ros.org/doc/fuerte/api/roscreate/tags/roscreate.tag',
   package: roscreate}
+- {docs_url: ../../../api/mk/html, location: 'http://ros.org/doc/fuerte/api/mk/tags/mk.tag',
+  package: mk}
+- {docs_url: ../../../api/rosbuild/html, location: 'http://ros.org/doc/fuerte/api/rosbuild/tags/rosbuild.tag',
+  package: rosbuild}
 - {docs_url: ../../../api/rosclean/html, location: 'http://ros.org/doc/fuerte/api/rosclean/tags/rosclean.tag',
   package: rosclean}
 - {docs_url: ../../../api/roslang/html, location: 'http://ros.org/doc/fuerte/api/roslang/tags/roslang.tag',
