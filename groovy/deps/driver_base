@@ -1,1 +1,2 @@
-[self_test, diagnostic_updater, roscpp, dynamic_reconfigure]
+[self_test, dynamic_reconfigure, catkin, roscpp, message_runtime, std_msgs, diagnostic_updater,
+  message_generation]
