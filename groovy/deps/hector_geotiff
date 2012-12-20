@@ -1,0 +1,2 @@
+[nav_msgs, hector_map_tools, roscpp, pluginlib, std_msgs, hector_nav_msgs, libqt4-dev,
+  eigen]
