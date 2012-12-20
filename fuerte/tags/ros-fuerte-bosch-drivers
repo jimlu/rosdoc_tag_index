@@ -18,18 +18,18 @@
   package: smi540}
 - {docs_url: ../../../api/photo/html, location: 'http://ros.org/doc/fuerte/api/photo/tags/photo.tag',
   package: photo}
-- {docs_url: ../../../api/sub20_interface/html, location: 'http://ros.org/doc/fuerte/api/sub20_interface/tags/sub20_interface.tag',
-  package: sub20_interface}
-- {docs_url: ../../../api/adc_sub20/html, location: 'http://ros.org/doc/fuerte/api/adc_sub20/tags/adc_sub20.tag',
-  package: adc_sub20}
 - {docs_url: ../../../api/uniserial/html, location: 'http://ros.org/doc/fuerte/api/uniserial/tags/uniserial.tag',
   package: uniserial}
 - {docs_url: ../../../api/arduino_interface/html, location: 'http://ros.org/doc/fuerte/api/arduino_interface/tags/arduino_interface.tag',
   package: arduino_interface}
+- {docs_url: ../../../api/sub20_interface/html, location: 'http://ros.org/doc/fuerte/api/sub20_interface/tags/sub20_interface.tag',
+  package: sub20_interface}
 - {docs_url: ../../../api/bma180_driver/html, location: 'http://ros.org/doc/fuerte/api/bma180_driver/tags/bma180_driver.tag',
   package: bma180_driver}
 - {docs_url: ../../../api/bosch_drivers_example_nodes/html, location: 'http://ros.org/doc/fuerte/api/bosch_drivers_example_nodes/tags/bosch_drivers_example_nodes.tag',
   package: bosch_drivers_example_nodes}
+- {docs_url: ../../../api/adc_sub20/html, location: 'http://ros.org/doc/fuerte/api/adc_sub20/tags/adc_sub20.tag',
+  package: adc_sub20}
 - {docs_url: ../../../api/bma180/html, location: 'http://ros.org/doc/fuerte/api/bma180/tags/bma180.tag',
   package: bma180}
 - {docs_url: ../../../api/gumstix_memread_bma180/html, location: 'http://ros.org/doc/fuerte/api/gumstix_memread_bma180/tags/gumstix_memread_bma180.tag',
