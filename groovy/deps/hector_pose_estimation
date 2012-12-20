@@ -1,0 +1,2 @@
+[nav_msgs, message_filters, sensor_msgs, geometry_msgs, hector_pose_estimation_core,
+  tf, nodelet]

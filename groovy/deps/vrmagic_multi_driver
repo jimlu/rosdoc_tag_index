@@ -1,0 +1,1 @@
+[roscpp, stereo_msgs, sensor_msgs, vrmagic_devkit_wrapper, image_transport, driver_base]
