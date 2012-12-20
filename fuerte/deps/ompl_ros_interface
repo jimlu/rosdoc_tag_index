@@ -1,2 +1,2 @@
-[motion_planning_msgs, pluginlib, planning_environment, planning_models, sensor_msgs,
-  kinematics_base, ompl]
+[pluginlib, kinematics_base, planning_models, sensor_msgs, planning_environment, ompl,
+  arm_navigation_msgs]
