@@ -18,10 +18,6 @@
   package: topic_tools}
 - {docs_url: ../../../api/test_rospy/html, location: 'http://ros.org/doc/fuerte/api/test_rospy/tags/test_rospy.tag',
   package: test_rospy}
-- {docs_url: ../../../api/test_roscpp/html, location: 'http://ros.org/doc/fuerte/api/test_roscpp/tags/test_roscpp.tag',
-  package: test_roscpp}
-- {docs_url: ../../../api/rosgraph_msgs/html, location: 'http://ros.org/doc/fuerte/api/rosgraph_msgs/tags/rosgraph_msgs.tag',
-  package: rosgraph_msgs}
 - {docs_url: ../../../api/roslisp/html, location: 'http://ros.org/doc/fuerte/api/roslisp/tags/roslisp.tag',
   package: roslisp}
 - {docs_url: ../../../api/message_filters/html, location: 'http://ros.org/doc/fuerte/api/message_filters/tags/message_filters.tag',
@@ -32,6 +28,10 @@
   package: test_rosbag}
 - {docs_url: ../../../api/test_rosservice/html, location: 'http://ros.org/doc/fuerte/api/test_rosservice/tags/test_rosservice.tag',
   package: test_rosservice}
+- {docs_url: ../../../api/rosgraph_msgs/html, location: 'http://ros.org/doc/fuerte/api/rosgraph_msgs/tags/rosgraph_msgs.tag',
+  package: rosgraph_msgs}
+- {docs_url: ../../../api/test_roscpp/html, location: 'http://ros.org/doc/fuerte/api/test_roscpp/tags/test_roscpp.tag',
+  package: test_roscpp}
 - {docs_url: ../../../api/std_srvs/html, location: 'http://ros.org/doc/fuerte/api/std_srvs/tags/std_srvs.tag',
   package: std_srvs}
 - {docs_url: ../../../api/xmlrpcpp/html, location: 'http://ros.org/doc/fuerte/api/xmlrpcpp/tags/xmlrpcpp.tag',
