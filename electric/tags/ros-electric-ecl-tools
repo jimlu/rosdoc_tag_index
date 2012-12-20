@@ -1,9 +1,9 @@
 - {docs_url: ../../../api/ecl_license/html, location: 'http://ros.org/doc/electric/api/ecl_license/tags/ecl_license.tag',
   package: ecl_license}
-- {docs_url: ../../../api/ecl_build/html, location: 'http://ros.org/doc/electric/api/ecl_build/tags/ecl_build.tag',
-  package: ecl_build}
 - {docs_url: ../../../api/ecl_doc/html, location: 'http://ros.org/doc/electric/api/ecl_doc/tags/ecl_doc.tag',
   package: ecl_doc}
+- {docs_url: ../../../api/ecl_build/html, location: 'http://ros.org/doc/electric/api/ecl_build/tags/ecl_build.tag',
+  package: ecl_build}
 - {docs_url: ../../../api/ecl_scripts/html, location: 'http://ros.org/doc/electric/api/ecl_scripts/tags/ecl_scripts.tag',
   package: ecl_scripts}
 - {docs_url: ../../../api/ecl_create/html, location: 'http://ros.org/doc/electric/api/ecl_create/tags/ecl_create.tag',
