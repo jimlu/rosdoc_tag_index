@@ -1,1 +1,1 @@
-[urdf, angles, roscpp, trajectory_msgs, filters, arm_navigation_msgs]
+[urdf, angles, roscpp, trajectory_msgs, filters, motion_planning_msgs]
