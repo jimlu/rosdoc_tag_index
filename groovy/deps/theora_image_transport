@@ -1,2 +1,2 @@
-[dynamic_reconfigure, message_runtime, catkin, pluginlib, cv_bridge, roslib, image_transport,
-  message_generation, libogg, tf, rosbag, libtheora]
+[dynamic_reconfigure, catkin, pluginlib, rosbag, message_runtime, image_transport,
+  tf, libogg, message_generation, cv_bridge, libtheora]
