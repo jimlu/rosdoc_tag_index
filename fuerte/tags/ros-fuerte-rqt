@@ -44,14 +44,14 @@
   package: rqt_robot_monitor}
 - {docs_url: ../../../api/rqt_robot_dashboard/html, location: 'http://ros.org/doc/fuerte/api/rqt_robot_dashboard/tags/rqt_robot_dashboard.tag',
   package: rqt_robot_dashboard}
-- {docs_url: ../../../api/rqt_service_caller/html, location: 'http://ros.org/doc/fuerte/api/rqt_service_caller/tags/rqt_service_caller.tag',
-  package: rqt_service_caller}
 - {docs_url: ../../../api/rqt_logger_level/html, location: 'http://ros.org/doc/fuerte/api/rqt_logger_level/tags/rqt_logger_level.tag',
   package: rqt_logger_level}
-- {docs_url: ../../../api/rqt_bag_plugins/html, location: 'http://ros.org/doc/fuerte/api/rqt_bag_plugins/tags/rqt_bag_plugins.tag',
-  package: rqt_bag_plugins}
+- {docs_url: ../../../api/rqt_service_caller/html, location: 'http://ros.org/doc/fuerte/api/rqt_service_caller/tags/rqt_service_caller.tag',
+  package: rqt_service_caller}
 - {docs_url: ../../../api/rqt_dep/html, location: 'http://ros.org/doc/fuerte/api/rqt_dep/tags/rqt_dep.tag',
   package: rqt_dep}
+- {docs_url: ../../../api/rqt_bag_plugins/html, location: 'http://ros.org/doc/fuerte/api/rqt_bag_plugins/tags/rqt_bag_plugins.tag',
+  package: rqt_bag_plugins}
 - {docs_url: ../../../api/rqt_param/html, location: 'http://ros.org/doc/fuerte/api/rqt_param/tags/rqt_param.tag',
   package: rqt_param}
 - {docs_url: ../../../api/rqt_pr2_dashboard/html, location: 'http://ros.org/doc/fuerte/api/rqt_pr2_dashboard/tags/rqt_pr2_dashboard.tag',
