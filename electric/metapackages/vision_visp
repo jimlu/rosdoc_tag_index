@@ -1,1 +1,2 @@
-[visp_bridge, visp, visp_hand2eye_calibration, visp_camera_calibration, visp_tracker]
+[visp, visp_camera_calibration, visp_hand2eye_calibration, visp_auto_tracker, visp_tracker,
+  visp_bridge]
