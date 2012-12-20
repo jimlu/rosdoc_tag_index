@@ -2,13 +2,13 @@
   package: triangle_mesh_msgs}
 - {docs_url: ../../../api/vision_msgs/html, location: 'http://ros.org/doc/electric/api/vision_msgs/tags/vision_msgs.tag',
   package: vision_msgs}
-- {docs_url: ../../../api/vision_srvs/html, location: 'http://ros.org/doc/electric/api/vision_srvs/tags/vision_srvs.tag',
-  package: vision_srvs}
-- {docs_url: ../../../api/cogman_msgs/html, location: 'http://ros.org/doc/electric/api/cogman_msgs/tags/cogman_msgs.tag',
-  package: cogman_msgs}
+- {docs_url: ../../../api/annotation_srvs/html, location: 'http://ros.org/doc/electric/api/annotation_srvs/tags/annotation_srvs.tag',
+  package: annotation_srvs}
 - {docs_url: ../../../api/ias_table_msgs/html, location: 'http://ros.org/doc/electric/api/ias_table_msgs/tags/ias_table_msgs.tag',
   package: ias_table_msgs}
 - {docs_url: ../../../api/navp_action/html, location: 'http://ros.org/doc/electric/api/navp_action/tags/navp_action.tag',
   package: navp_action}
-- {docs_url: ../../../api/annotation_srvs/html, location: 'http://ros.org/doc/electric/api/annotation_srvs/tags/annotation_srvs.tag',
-  package: annotation_srvs}
+- {docs_url: ../../../api/cogman_msgs/html, location: 'http://ros.org/doc/electric/api/cogman_msgs/tags/cogman_msgs.tag',
+  package: cogman_msgs}
+- {docs_url: ../../../api/vision_srvs/html, location: 'http://ros.org/doc/electric/api/vision_srvs/tags/vision_srvs.tag',
+  package: vision_srvs}
