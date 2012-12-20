@@ -1,0 +1,16 @@
+- {docs_url: ../../../api/libnabo/html, location: 'http://ros.org/doc/groovy/api/libnabo/tags/libnabo.tag',
+  package: libnabo}
+- {docs_url: ../../../api/ethzasl_gridmap_2d/html, location: 'http://ros.org/doc/groovy/api/ethzasl_gridmap_2d/tags/ethzasl_gridmap_2d.tag',
+  package: ethzasl_gridmap_2d}
+- {docs_url: ../../../api/libpointmatcher/html, location: 'http://ros.org/doc/groovy/api/libpointmatcher/tags/libpointmatcher.tag',
+  package: libpointmatcher}
+- {docs_url: ../../../api/libpointmatcher_ros/html, location: 'http://ros.org/doc/groovy/api/libpointmatcher_ros/tags/libpointmatcher_ros.tag',
+  package: libpointmatcher_ros}
+- {docs_url: ../../../api/ethzasl_icp_mapper/html, location: 'http://ros.org/doc/groovy/api/ethzasl_icp_mapper/tags/ethzasl_icp_mapper.tag',
+  package: ethzasl_icp_mapper}
+- {docs_url: ../../../api/ethzasl_icp_mapper_experiments/html, location: 'http://ros.org/doc/groovy/api/ethzasl_icp_mapper_experiments/tags/ethzasl_icp_mapper_experiments.tag',
+  package: ethzasl_icp_mapper_experiments}
+- {docs_url: ../../../api/ethzasl_point_cloud_vtk_tools/html, location: 'http://ros.org/doc/groovy/api/ethzasl_point_cloud_vtk_tools/tags/ethzasl_point_cloud_vtk_tools.tag',
+  package: ethzasl_point_cloud_vtk_tools}
+- {docs_url: ../../../api/ethzasl_extrinsic_calibration/html, location: 'http://ros.org/doc/groovy/api/ethzasl_extrinsic_calibration/tags/ethzasl_extrinsic_calibration.tag',
+  package: ethzasl_extrinsic_calibration}
