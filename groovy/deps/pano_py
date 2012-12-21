@@ -1,0 +1,1 @@
+[pano_core, roscpp, python-numpy, std_msgs, image_transport, rospy, cv_bridge]

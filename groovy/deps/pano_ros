@@ -1,0 +1,2 @@
+[pano_py, roscpp, std_msgs, actionlib, sensor_msgs, image_transport, rospy, cv_bridge,
+  actionlib_msgs]
