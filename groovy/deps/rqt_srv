@@ -1,1 +1,1 @@
-[rqt_msg, rqt_gui, rqt_gui_py, rospy, rosmsg]
+[catkin, rqt_msg, rqt_gui, rospy, rosmsg, rqt_gui_py]
