@@ -1,1 +1,1 @@
-[rqt_gui_cpp, cv_bridge, rqt_gui, sensor_msgs, image_transport]
+[catkin, rqt_gui_cpp, rqt_gui, sensor_msgs, image_transport, cv_bridge]
