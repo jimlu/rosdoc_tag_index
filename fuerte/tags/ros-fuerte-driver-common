@@ -1,4 +1,0 @@
-- {docs_url: ../../../api/driver_base/html, location: 'http://ros.org/doc/fuerte/api/driver_base/tags/driver_base.tag',
-  package: driver_base}
-- {docs_url: ../../../api/timestamp_tools/html, location: 'http://ros.org/doc/fuerte/api/timestamp_tools/tags/timestamp_tools.tag',
-  package: timestamp_tools}

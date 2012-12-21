@@ -1,4 +1,0 @@
-- {docs_url: ../../../api/rcpdf_interface/html, location: 'http://ros.org/doc/fuerte/api/rcpdf_interface/tags/rcpdf_interface.tag',
-  package: rcpdf_interface}
-- {docs_url: ../../../api/rcpdf/html, location: 'http://ros.org/doc/fuerte/api/rcpdf/tags/rcpdf.tag',
-  package: rcpdf}

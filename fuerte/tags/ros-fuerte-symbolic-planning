@@ -1,8 +1,0 @@
-- {docs_url: ../../../api/planner_benchmarks/html, location: 'http://ros.org/doc/fuerte/api/planner_benchmarks/tags/planner_benchmarks.tag',
-  package: planner_benchmarks}
-- {docs_url: ../../../api/continual_planning_executive/html, location: 'http://ros.org/doc/fuerte/api/continual_planning_executive/tags/continual_planning_executive.tag',
-  package: continual_planning_executive}
-- {docs_url: ../../../api/continual_planning_monitor/html, location: 'http://ros.org/doc/fuerte/api/continual_planning_monitor/tags/continual_planning_monitor.tag',
-  package: continual_planning_monitor}
-- {docs_url: ../../../api/tfd_modules/html, location: 'http://ros.org/doc/fuerte/api/tfd_modules/tags/tfd_modules.tag',
-  package: tfd_modules}

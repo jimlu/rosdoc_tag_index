@@ -1,8 +1,0 @@
-- {docs_url: ../../../api/pcl16/html, location: 'http://ros.org/doc/fuerte/api/pcl16/tags/pcl16.tag',
-  package: pcl16}
-- {docs_url: ../../../api/pcl16_ros/html, location: 'http://ros.org/doc/fuerte/api/pcl16_ros/tags/pcl16_ros.tag',
-  package: pcl16_ros}
-- {docs_url: ../../../api/cminpack/html, location: 'http://ros.org/doc/fuerte/api/cminpack/tags/cminpack.tag',
-  package: cminpack}
-- {docs_url: ../../../api/python_msg_conversions/html, location: 'http://ros.org/doc/fuerte/api/python_msg_conversions/tags/python_msg_conversions.tag',
-  package: python_msg_conversions}

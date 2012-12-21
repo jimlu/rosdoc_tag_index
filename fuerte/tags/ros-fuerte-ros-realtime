@@ -1,8 +1,0 @@
-- {docs_url: ../../../api/rosatomic/html, location: 'http://ros.org/doc/fuerte/api/rosatomic/tags/rosatomic.tag',
-  package: rosatomic}
-- {docs_url: ../../../api/allocators/html, location: 'http://ros.org/doc/fuerte/api/allocators/tags/allocators.tag',
-  package: allocators}
-- {docs_url: ../../../api/lockfree/html, location: 'http://ros.org/doc/fuerte/api/lockfree/tags/lockfree.tag',
-  package: lockfree}
-- {docs_url: ../../../api/rosrt/html, location: 'http://ros.org/doc/fuerte/api/rosrt/tags/rosrt.tag',
-  package: rosrt}

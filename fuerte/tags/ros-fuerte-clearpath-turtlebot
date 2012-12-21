@@ -1,6 +1,0 @@
-- {docs_url: ../../../api/turtlebot_kinect/html, location: 'http://ros.org/doc/fuerte/api/turtlebot_kinect/tags/turtlebot_kinect.tag',
-  package: turtlebot_kinect}
-- {docs_url: ../../../api/turtlebot_rndmwalk/html, location: 'http://ros.org/doc/fuerte/api/turtlebot_rndmwalk/tags/turtlebot_rndmwalk.tag',
-  package: turtlebot_rndmwalk}
-- {docs_url: ../../../api/turtlebot_train/html, location: 'http://ros.org/doc/fuerte/api/turtlebot_train/tags/turtlebot_train.tag',
-  package: turtlebot_train}

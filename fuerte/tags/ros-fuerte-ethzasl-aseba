@@ -1,8 +1,0 @@
-- {docs_url: ../../../api/dashel/html, location: 'http://ros.org/doc/fuerte/api/dashel/tags/dashel.tag',
-  package: dashel}
-- {docs_url: ../../../api/aseba/html, location: 'http://ros.org/doc/fuerte/api/aseba/tags/aseba.tag',
-  package: aseba}
-- {docs_url: ../../../api/asebaros/html, location: 'http://ros.org/doc/fuerte/api/asebaros/tags/asebaros.tag',
-  package: asebaros}
-- {docs_url: ../../../api/thymio_navigation_driver/html, location: 'http://ros.org/doc/fuerte/api/thymio_navigation_driver/tags/thymio_navigation_driver.tag',
-  package: thymio_navigation_driver}

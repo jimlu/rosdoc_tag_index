@@ -1,6 +1,0 @@
-- {docs_url: ../../../api/uvc_camera/html, location: 'http://ros.org/doc/fuerte/api/uvc_camera/tags/uvc_camera.tag',
-  package: uvc_camera}
-- {docs_url: ../../../api/uvc_stereo/html, location: 'http://ros.org/doc/fuerte/api/uvc_stereo/tags/uvc_stereo.tag',
-  package: uvc_stereo}
-- {docs_url: ../../../api/jpeg_streamer/html, location: 'http://ros.org/doc/fuerte/api/jpeg_streamer/tags/jpeg_streamer.tag',
-  package: jpeg_streamer}

@@ -1,8 +1,0 @@
-- {docs_url: ../../../api/libpcan/html, location: 'http://ros.org/doc/fuerte/api/libpcan/tags/libpcan.tag',
-  package: libpcan}
-- {docs_url: ../../../api/libmesasr/html, location: 'http://ros.org/doc/fuerte/api/libmesasr/tags/libmesasr.tag',
-  package: libmesasr}
-- {docs_url: ../../../api/libphidgets/html, location: 'http://ros.org/doc/fuerte/api/libphidgets/tags/libphidgets.tag',
-  package: libphidgets}
-- {docs_url: ../../../api/libntcan/html, location: 'http://ros.org/doc/fuerte/api/libntcan/tags/libntcan.tag',
-  package: libntcan}

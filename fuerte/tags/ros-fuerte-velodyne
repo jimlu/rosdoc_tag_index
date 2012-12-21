@@ -1,6 +1,0 @@
-- {docs_url: ../../../api/velodyne_msgs/html, location: 'http://ros.org/doc/fuerte/api/velodyne_msgs/tags/velodyne_msgs.tag',
-  package: velodyne_msgs}
-- {docs_url: ../../../api/velodyne_driver/html, location: 'http://ros.org/doc/fuerte/api/velodyne_driver/tags/velodyne_driver.tag',
-  package: velodyne_driver}
-- {docs_url: ../../../api/velodyne_pointcloud/html, location: 'http://ros.org/doc/fuerte/api/velodyne_pointcloud/tags/velodyne_pointcloud.tag',
-  package: velodyne_pointcloud}

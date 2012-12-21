@@ -1,8 +1,0 @@
-- {docs_url: ../../../api/pr2_description/html, location: 'http://ros.org/doc/fuerte/api/pr2_description/tags/pr2_description.tag',
-  package: pr2_description}
-- {docs_url: ../../../api/pr2_msgs/html, location: 'http://ros.org/doc/fuerte/api/pr2_msgs/tags/pr2_msgs.tag',
-  package: pr2_msgs}
-- {docs_url: ../../../api/pr2_dashboard_aggregator/html, location: 'http://ros.org/doc/fuerte/api/pr2_dashboard_aggregator/tags/pr2_dashboard_aggregator.tag',
-  package: pr2_dashboard_aggregator}
-- {docs_url: ../../../api/pr2_machine/html, location: 'http://ros.org/doc/fuerte/api/pr2_machine/tags/pr2_machine.tag',
-  package: pr2_machine}

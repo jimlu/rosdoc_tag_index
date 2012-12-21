@@ -1,8 +1,0 @@
-- {docs_url: ../../../api/camera_calibration_parsers/html, location: 'http://ros.org/doc/fuerte/api/camera_calibration_parsers/tags/camera_calibration_parsers.tag',
-  package: camera_calibration_parsers}
-- {docs_url: ../../../api/camera_info_manager/html, location: 'http://ros.org/doc/fuerte/api/camera_info_manager/tags/camera_info_manager.tag',
-  package: camera_info_manager}
-- {docs_url: ../../../api/image_transport/html, location: 'http://ros.org/doc/fuerte/api/image_transport/tags/image_transport.tag',
-  package: image_transport}
-- {docs_url: ../../../api/polled_camera/html, location: 'http://ros.org/doc/fuerte/api/polled_camera/tags/polled_camera.tag',
-  package: polled_camera}

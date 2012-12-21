@@ -1,6 +1,0 @@
-- {docs_url: ../../../api/rxbag_plugins/html, location: 'http://ros.org/doc/fuerte/api/rxbag_plugins/tags/rxbag_plugins.tag',
-  package: rxbag_plugins}
-- {docs_url: ../../../api/interactive_markers/html, location: 'http://ros.org/doc/fuerte/api/interactive_markers/tags/interactive_markers.tag',
-  package: interactive_markers}
-- {docs_url: ../../../api/rviz/html, location: 'http://ros.org/doc/fuerte/api/rviz/tags/rviz.tag',
-  package: rviz}

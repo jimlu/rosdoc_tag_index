@@ -1,6 +1,0 @@
-- {docs_url: ../../../api/kingfisher_msgs/html, location: 'http://ros.org/doc/fuerte/api/kingfisher_msgs/tags/kingfisher_msgs.tag',
-  package: kingfisher_msgs}
-- {docs_url: ../../../api/kingfisher_bringup/html, location: 'http://ros.org/doc/fuerte/api/kingfisher_bringup/tags/kingfisher_bringup.tag',
-  package: kingfisher_bringup}
-- {docs_url: ../../../api/kingfisher_node/html, location: 'http://ros.org/doc/fuerte/api/kingfisher_node/tags/kingfisher_node.tag',
-  package: kingfisher_node}

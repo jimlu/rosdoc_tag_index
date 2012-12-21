@@ -1,6 +1,0 @@
-- {docs_url: ../../../api/rovio_shared/html, location: 'http://ros.org/doc/fuerte/api/rovio_shared/tags/rovio_shared.tag',
-  package: rovio_shared}
-- {docs_url: ../../../api/rovio_av/html, location: 'http://ros.org/doc/fuerte/api/rovio_av/tags/rovio_av.tag',
-  package: rovio_av}
-- {docs_url: ../../../api/rovio_ctrl/html, location: 'http://ros.org/doc/fuerte/api/rovio_ctrl/tags/rovio_ctrl.tag',
-  package: rovio_ctrl}

@@ -1,6 +1,0 @@
-- {docs_url: ../../../api/hector_gazebo_plugins/html, location: 'http://ros.org/doc/fuerte/api/hector_gazebo_plugins/tags/hector_gazebo_plugins.tag',
-  package: hector_gazebo_plugins}
-- {docs_url: ../../../api/hector_gazebo_worlds/html, location: 'http://ros.org/doc/fuerte/api/hector_gazebo_worlds/tags/hector_gazebo_worlds.tag',
-  package: hector_gazebo_worlds}
-- {docs_url: ../../../api/hector_gazebo_thermal_camera/html, location: 'http://ros.org/doc/fuerte/api/hector_gazebo_thermal_camera/tags/hector_gazebo_thermal_camera.tag',
-  package: hector_gazebo_thermal_camera}

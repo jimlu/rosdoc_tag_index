@@ -1,4 +1,0 @@
-- {docs_url: ../../../api/sr_ethercat_hand_config/html, location: 'http://ros.org/doc/fuerte/api/sr_ethercat_hand_config/tags/sr_ethercat_hand_config.tag',
-  package: sr_ethercat_hand_config}
-- {docs_url: ../../../api/sr_cyberglove_config/html, location: 'http://ros.org/doc/fuerte/api/sr_cyberglove_config/tags/sr_cyberglove_config.tag',
-  package: sr_cyberglove_config}

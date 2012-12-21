@@ -1,6 +1,0 @@
-- {docs_url: ../../../api/eml/html, location: 'http://ros.org/doc/fuerte/api/eml/tags/eml.tag',
-  package: eml}
-- {docs_url: ../../../api/fingertip_pressure/html, location: 'http://ros.org/doc/fuerte/api/fingertip_pressure/tags/fingertip_pressure.tag',
-  package: fingertip_pressure}
-- {docs_url: ../../../api/ethercat_hardware/html, location: 'http://ros.org/doc/fuerte/api/ethercat_hardware/tags/ethercat_hardware.tag',
-  package: ethercat_hardware}

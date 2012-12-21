@@ -1,4 +1,0 @@
-- {docs_url: ../../../api/pr2_arm_kinematics/html, location: 'http://ros.org/doc/fuerte/api/pr2_arm_kinematics/tags/pr2_arm_kinematics.tag',
-  package: pr2_arm_kinematics}
-- {docs_url: ../../../api/pr2_arm_kinematics_constraint_aware/html, location: 'http://ros.org/doc/fuerte/api/pr2_arm_kinematics_constraint_aware/tags/pr2_arm_kinematics_constraint_aware.tag',
-  package: pr2_arm_kinematics_constraint_aware}

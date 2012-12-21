@@ -1,6 +1,0 @@
-- {docs_url: ../../../api/sicktoolbox/html, location: 'http://ros.org/doc/fuerte/api/sicktoolbox/tags/sicktoolbox.tag',
-  package: sicktoolbox}
-- {docs_url: ../../../api/hokuyo_node/html, location: 'http://ros.org/doc/fuerte/api/hokuyo_node/tags/hokuyo_node.tag',
-  package: hokuyo_node}
-- {docs_url: ../../../api/sicktoolbox_wrapper/html, location: 'http://ros.org/doc/fuerte/api/sicktoolbox_wrapper/tags/sicktoolbox_wrapper.tag',
-  package: sicktoolbox_wrapper}
