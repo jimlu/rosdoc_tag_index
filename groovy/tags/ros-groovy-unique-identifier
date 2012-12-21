@@ -1,4 +1,4 @@
-- {docs_url: ../../../api/uuid_msgs/html, location: 'http://ros.org/doc/groovy/api/uuid_msgs/tags/uuid_msgs.tag',
+- {docs_url: ../../../api/uuid_msgs/html, location: 'uuid_msgs.tag',
   package: uuid_msgs}
-- {docs_url: ../../../api/unique_id/html, location: 'http://ros.org/doc/groovy/api/unique_id/tags/unique_id.tag',
+- {docs_url: ../../../api/unique_id/html, location: 'unique_id.tag',
   package: unique_id}

@@ -1,6 +1,6 @@
-- {docs_url: ../../../api/mongodb/html, location: 'http://ros.org/doc/groovy/api/mongodb/tags/mongodb.tag',
+- {docs_url: ../../../api/mongodb/html, location: 'mongodb.tag',
   package: mongodb}
-- {docs_url: ../../../api/pymongo/html, location: 'http://ros.org/doc/groovy/api/pymongo/tags/pymongo.tag',
+- {docs_url: ../../../api/pymongo/html, location: 'pymongo.tag',
   package: pymongo}
-- {docs_url: ../../../api/mongo_ros/html, location: 'http://ros.org/doc/groovy/api/mongo_ros/tags/mongo_ros.tag',
+- {docs_url: ../../../api/mongo_ros/html, location: 'mongo_ros.tag',
   package: mongo_ros}

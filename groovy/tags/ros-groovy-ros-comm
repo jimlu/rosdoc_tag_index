@@ -1,12 +1,12 @@
-- {docs_url: ../../../api/test_roslaunch/html, location: 'http://ros.org/doc/groovy/api/test_roslaunch/tags/test_roslaunch.tag',
+- {docs_url: ../../../api/test_roslaunch/html, location: 'test_roslaunch.tag',
   package: test_roslaunch}
-- {docs_url: ../../../api/test_rosgraph/html, location: 'http://ros.org/doc/groovy/api/test_rosgraph/tags/test_rosgraph.tag',
+- {docs_url: ../../../api/test_rosgraph/html, location: 'test_rosgraph.tag',
   package: test_rosgraph}
-- {docs_url: ../../../api/test_roslib_comm/html, location: 'http://ros.org/doc/groovy/api/test_roslib_comm/tags/test_roslib_comm.tag',
+- {docs_url: ../../../api/test_roslib_comm/html, location: 'test_roslib_comm.tag',
   package: test_roslib_comm}
-- {docs_url: ../../../api/test_rosmaster/html, location: 'http://ros.org/doc/groovy/api/test_rosmaster/tags/test_rosmaster.tag',
+- {docs_url: ../../../api/test_rosmaster/html, location: 'test_rosmaster.tag',
   package: test_rosmaster}
-- {docs_url: ../../../api/test_rospy/html, location: 'http://ros.org/doc/groovy/api/test_rospy/tags/test_rospy.tag',
+- {docs_url: ../../../api/test_rospy/html, location: 'test_rospy.tag',
   package: test_rospy}
-- {docs_url: ../../../api/test_rosservice/html, location: 'http://ros.org/doc/groovy/api/test_rosservice/tags/test_rosservice.tag',
+- {docs_url: ../../../api/test_rosservice/html, location: 'test_rosservice.tag',
   package: test_rosservice}

@@ -1,10 +1,10 @@
-- {docs_url: ../../../api/joint_trajectory_generator/html, location: 'http://ros.org/doc/groovy/api/joint_trajectory_generator/tags/joint_trajectory_generator.tag',
+- {docs_url: ../../../api/joint_trajectory_generator/html, location: 'joint_trajectory_generator.tag',
   package: joint_trajectory_generator}
-- {docs_url: ../../../api/pr2_arm_move_ik/html, location: 'http://ros.org/doc/groovy/api/pr2_arm_move_ik/tags/pr2_arm_move_ik.tag',
+- {docs_url: ../../../api/pr2_arm_move_ik/html, location: 'pr2_arm_move_ik.tag',
   package: pr2_arm_move_ik}
-- {docs_url: ../../../api/joint_trajectory_action_tools/html, location: 'http://ros.org/doc/groovy/api/joint_trajectory_action_tools/tags/joint_trajectory_action_tools.tag',
+- {docs_url: ../../../api/joint_trajectory_action_tools/html, location: 'joint_trajectory_action_tools.tag',
   package: joint_trajectory_action_tools}
-- {docs_url: ../../../api/pr2_tilt_laser_interface/html, location: 'http://ros.org/doc/groovy/api/pr2_tilt_laser_interface/tags/pr2_tilt_laser_interface.tag',
+- {docs_url: ../../../api/pr2_tilt_laser_interface/html, location: 'pr2_tilt_laser_interface.tag',
   package: pr2_tilt_laser_interface}
-- {docs_url: ../../../api/pr2_tuck_arms_action/html, location: 'http://ros.org/doc/groovy/api/pr2_tuck_arms_action/tags/pr2_tuck_arms_action.tag',
+- {docs_url: ../../../api/pr2_tuck_arms_action/html, location: 'pr2_tuck_arms_action.tag',
   package: pr2_tuck_arms_action}

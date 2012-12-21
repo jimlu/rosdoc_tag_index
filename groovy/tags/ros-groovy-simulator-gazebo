@@ -1,12 +1,12 @@
-- {docs_url: ../../../api/gazebo_msgs/html, location: 'http://ros.org/doc/groovy/api/gazebo_msgs/tags/gazebo_msgs.tag',
+- {docs_url: ../../../api/gazebo_msgs/html, location: 'gazebo_msgs.tag',
   package: gazebo_msgs}
-- {docs_url: ../../../api/gazebo/html, location: 'http://ros.org/doc/groovy/api/gazebo/tags/gazebo.tag',
+- {docs_url: ../../../api/gazebo/html, location: 'gazebo.tag',
   package: gazebo}
-- {docs_url: ../../../api/gazebo_plugins/html, location: 'http://ros.org/doc/groovy/api/gazebo_plugins/tags/gazebo_plugins.tag',
+- {docs_url: ../../../api/gazebo_plugins/html, location: 'gazebo_plugins.tag',
   package: gazebo_plugins}
-- {docs_url: ../../../api/gazebo_tools/html, location: 'http://ros.org/doc/groovy/api/gazebo_tools/tags/gazebo_tools.tag',
+- {docs_url: ../../../api/gazebo_tools/html, location: 'gazebo_tools.tag',
   package: gazebo_tools}
-- {docs_url: ../../../api/gazebo_worlds/html, location: 'http://ros.org/doc/groovy/api/gazebo_worlds/tags/gazebo_worlds.tag',
+- {docs_url: ../../../api/gazebo_worlds/html, location: 'gazebo_worlds.tag',
   package: gazebo_worlds}
-- {docs_url: ../../../api/gazebo_tests/html, location: 'http://ros.org/doc/groovy/api/gazebo_tests/tags/gazebo_tests.tag',
+- {docs_url: ../../../api/gazebo_tests/html, location: 'gazebo_tests.tag',
   package: gazebo_tests}

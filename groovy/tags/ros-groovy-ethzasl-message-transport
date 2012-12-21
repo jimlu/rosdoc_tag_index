@@ -1,24 +1,24 @@
-- {docs_url: ../../../api/message_transport_common/html, location: 'http://ros.org/doc/groovy/api/message_transport_common/tags/message_transport_common.tag',
+- {docs_url: ../../../api/message_transport_common/html, location: 'message_transport_common.tag',
   package: message_transport_common}
-- {docs_url: ../../../api/bz2_transport/html, location: 'http://ros.org/doc/groovy/api/bz2_transport/tags/bz2_transport.tag',
+- {docs_url: ../../../api/bz2_transport/html, location: 'bz2_transport.tag',
   package: bz2_transport}
-- {docs_url: ../../../api/throttled_transport/html, location: 'http://ros.org/doc/groovy/api/throttled_transport/tags/throttled_transport.tag',
+- {docs_url: ../../../api/throttled_transport/html, location: 'throttled_transport.tag',
   package: throttled_transport}
-- {docs_url: ../../../api/sharedmem_transport/html, location: 'http://ros.org/doc/groovy/api/sharedmem_transport/tags/sharedmem_transport.tag',
+- {docs_url: ../../../api/sharedmem_transport/html, location: 'sharedmem_transport.tag',
   package: sharedmem_transport}
-- {docs_url: ../../../api/udpmulti_transport/html, location: 'http://ros.org/doc/groovy/api/udpmulti_transport/tags/udpmulti_transport.tag',
+- {docs_url: ../../../api/udpmulti_transport/html, location: 'udpmulti_transport.tag',
   package: udpmulti_transport}
-- {docs_url: ../../../api/templated_transports/html, location: 'http://ros.org/doc/groovy/api/templated_transports/tags/templated_transports.tag',
+- {docs_url: ../../../api/templated_transports/html, location: 'templated_transports.tag',
   package: templated_transports}
-- {docs_url: ../../../api/pointcloud_transport/html, location: 'http://ros.org/doc/groovy/api/pointcloud_transport/tags/pointcloud_transport.tag',
+- {docs_url: ../../../api/pointcloud_transport/html, location: 'pointcloud_transport.tag',
   package: pointcloud_transport}
-- {docs_url: ../../../api/imagem_transport/html, location: 'http://ros.org/doc/groovy/api/imagem_transport/tags/imagem_transport.tag',
+- {docs_url: ../../../api/imagem_transport/html, location: 'imagem_transport.tag',
   package: imagem_transport}
-- {docs_url: ../../../api/string_transport/html, location: 'http://ros.org/doc/groovy/api/string_transport/tags/string_transport.tag',
+- {docs_url: ../../../api/string_transport/html, location: 'string_transport.tag',
   package: string_transport}
-- {docs_url: ../../../api/theora_imagem_transport/html, location: 'http://ros.org/doc/groovy/api/theora_imagem_transport/tags/theora_imagem_transport.tag',
+- {docs_url: ../../../api/theora_imagem_transport/html, location: 'theora_imagem_transport.tag',
   package: theora_imagem_transport}
-- {docs_url: ../../../api/compressed_imagem_transport/html, location: 'http://ros.org/doc/groovy/api/compressed_imagem_transport/tags/compressed_imagem_transport.tag',
+- {docs_url: ../../../api/compressed_imagem_transport/html, location: 'compressed_imagem_transport.tag',
   package: compressed_imagem_transport}
-- {docs_url: ../../../api/build_all_transport_pkg/html, location: 'http://ros.org/doc/groovy/api/build_all_transport_pkg/tags/build_all_transport_pkg.tag',
+- {docs_url: ../../../api/build_all_transport_pkg/html, location: 'build_all_transport_pkg.tag',
   package: build_all_transport_pkg}

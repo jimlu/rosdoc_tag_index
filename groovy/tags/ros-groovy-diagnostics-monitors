@@ -1,4 +1,4 @@
-- {docs_url: ../../../api/runtime_monitor/html, location: 'http://ros.org/doc/groovy/api/runtime_monitor/tags/runtime_monitor.tag',
+- {docs_url: ../../../api/runtime_monitor/html, location: 'runtime_monitor.tag',
   package: runtime_monitor}
-- {docs_url: ../../../api/robot_monitor/html, location: 'http://ros.org/doc/groovy/api/robot_monitor/tags/robot_monitor.tag',
+- {docs_url: ../../../api/robot_monitor/html, location: 'robot_monitor.tag',
   package: robot_monitor}

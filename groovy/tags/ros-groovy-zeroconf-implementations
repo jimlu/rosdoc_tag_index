@@ -1,10 +1,10 @@
-- {docs_url: ../../../api/zeroconf_comms/html, location: 'http://ros.org/doc/groovy/api/zeroconf_comms/tags/zeroconf_comms.tag',
+- {docs_url: ../../../api/zeroconf_comms/html, location: 'zeroconf_comms.tag',
   package: zeroconf_comms}
-- {docs_url: ../../../api/zeroconf_jmdns/html, location: 'http://ros.org/doc/groovy/api/zeroconf_jmdns/tags/zeroconf_jmdns.tag',
+- {docs_url: ../../../api/zeroconf_jmdns/html, location: 'zeroconf_jmdns.tag',
   package: zeroconf_jmdns}
-- {docs_url: ../../../api/zeroconf_jmdns_demos/html, location: 'http://ros.org/doc/groovy/api/zeroconf_jmdns_demos/tags/zeroconf_jmdns_demos.tag',
+- {docs_url: ../../../api/zeroconf_jmdns_demos/html, location: 'zeroconf_jmdns_demos.tag',
   package: zeroconf_jmdns_demos}
-- {docs_url: ../../../api/zeroconf_avahi/html, location: 'http://ros.org/doc/groovy/api/zeroconf_avahi/tags/zeroconf_avahi.tag',
+- {docs_url: ../../../api/zeroconf_avahi/html, location: 'zeroconf_avahi.tag',
   package: zeroconf_avahi}
-- {docs_url: ../../../api/zeroconf_avahi_demos/html, location: 'http://ros.org/doc/groovy/api/zeroconf_avahi_demos/tags/zeroconf_avahi_demos.tag',
+- {docs_url: ../../../api/zeroconf_avahi_demos/html, location: 'zeroconf_avahi_demos.tag',
   package: zeroconf_avahi_demos}

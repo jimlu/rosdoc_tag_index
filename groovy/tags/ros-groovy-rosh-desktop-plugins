@@ -1,4 +1,4 @@
-- {docs_url: ../../../api/rosh_visualization/html, location: 'http://ros.org/doc/groovy/api/rosh_visualization/tags/rosh_visualization.tag',
+- {docs_url: ../../../api/rosh_visualization/html, location: 'rosh_visualization.tag',
   package: rosh_visualization}
-- {docs_url: ../../../api/rosh_desktop/html, location: 'http://ros.org/doc/groovy/api/rosh_desktop/tags/rosh_desktop.tag',
+- {docs_url: ../../../api/rosh_desktop/html, location: 'rosh_desktop.tag',
   package: rosh_desktop}

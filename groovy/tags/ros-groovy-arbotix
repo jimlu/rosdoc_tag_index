@@ -1,10 +1,10 @@
-- {docs_url: ../../../api/arbotix_msgs/html, location: 'http://ros.org/doc/groovy/api/arbotix_msgs/tags/arbotix_msgs.tag',
+- {docs_url: ../../../api/arbotix_msgs/html, location: 'arbotix_msgs.tag',
   package: arbotix_msgs}
-- {docs_url: ../../../api/arbotix_python/html, location: 'http://ros.org/doc/groovy/api/arbotix_python/tags/arbotix_python.tag',
+- {docs_url: ../../../api/arbotix_python/html, location: 'arbotix_python.tag',
   package: arbotix_python}
-- {docs_url: ../../../api/arbotix_sensors/html, location: 'http://ros.org/doc/groovy/api/arbotix_sensors/tags/arbotix_sensors.tag',
+- {docs_url: ../../../api/arbotix_sensors/html, location: 'arbotix_sensors.tag',
   package: arbotix_sensors}
-- {docs_url: ../../../api/arbotix_firmware/html, location: 'http://ros.org/doc/groovy/api/arbotix_firmware/tags/arbotix_firmware.tag',
+- {docs_url: ../../../api/arbotix_firmware/html, location: 'arbotix_firmware.tag',
   package: arbotix_firmware}
-- {docs_url: ../../../api/arbotix_controllers/html, location: 'http://ros.org/doc/groovy/api/arbotix_controllers/tags/arbotix_controllers.tag',
+- {docs_url: ../../../api/arbotix_controllers/html, location: 'arbotix_controllers.tag',
   package: arbotix_controllers}

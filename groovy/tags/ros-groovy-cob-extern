@@ -1,8 +1,8 @@
-- {docs_url: ../../../api/libpcan/html, location: 'http://ros.org/doc/groovy/api/libpcan/tags/libpcan.tag',
+- {docs_url: ../../../api/libpcan/html, location: 'libpcan.tag',
   package: libpcan}
-- {docs_url: ../../../api/libmesasr/html, location: 'http://ros.org/doc/groovy/api/libmesasr/tags/libmesasr.tag',
+- {docs_url: ../../../api/libmesasr/html, location: 'libmesasr.tag',
   package: libmesasr}
-- {docs_url: ../../../api/libphidgets/html, location: 'http://ros.org/doc/groovy/api/libphidgets/tags/libphidgets.tag',
+- {docs_url: ../../../api/libphidgets/html, location: 'libphidgets.tag',
   package: libphidgets}
-- {docs_url: ../../../api/libntcan/html, location: 'http://ros.org/doc/groovy/api/libntcan/tags/libntcan.tag',
+- {docs_url: ../../../api/libntcan/html, location: 'libntcan.tag',
   package: libntcan}

@@ -1,20 +1,20 @@
-- {docs_url: ../../../api/continuous_ops_msgs/html, location: 'http://ros.org/doc/groovy/api/continuous_ops_msgs/tags/continuous_ops_msgs.tag',
+- {docs_url: ../../../api/continuous_ops_msgs/html, location: 'continuous_ops_msgs.tag',
   package: continuous_ops_msgs}
-- {docs_url: ../../../api/continuous_ops_task_manager/html, location: 'http://ros.org/doc/groovy/api/continuous_ops_task_manager/tags/continuous_ops_task_manager.tag',
+- {docs_url: ../../../api/continuous_ops_task_manager/html, location: 'continuous_ops_task_manager.tag',
   package: continuous_ops_task_manager}
-- {docs_url: ../../../api/navigation_task/html, location: 'http://ros.org/doc/groovy/api/navigation_task/tags/navigation_task.tag',
+- {docs_url: ../../../api/navigation_task/html, location: 'navigation_task.tag',
   package: navigation_task}
-- {docs_url: ../../../api/pr2_base_recovery/html, location: 'http://ros.org/doc/groovy/api/pr2_base_recovery/tags/pr2_base_recovery.tag',
+- {docs_url: ../../../api/pr2_base_recovery/html, location: 'pr2_base_recovery.tag',
   package: pr2_base_recovery}
-- {docs_url: ../../../api/continuous_ops_test_task/html, location: 'http://ros.org/doc/groovy/api/continuous_ops_test_task/tags/continuous_ops_test_task.tag',
+- {docs_url: ../../../api/continuous_ops_test_task/html, location: 'continuous_ops_test_task.tag',
   package: continuous_ops_test_task}
-- {docs_url: ../../../api/motor_resetter/html, location: 'http://ros.org/doc/groovy/api/motor_resetter/tags/motor_resetter.tag',
+- {docs_url: ../../../api/motor_resetter/html, location: 'motor_resetter.tag',
   package: motor_resetter}
-- {docs_url: ../../../api/continuous_ops_web/html, location: 'http://ros.org/doc/groovy/api/continuous_ops_web/tags/continuous_ops_web.tag',
+- {docs_url: ../../../api/continuous_ops_web/html, location: 'continuous_ops_web.tag',
   package: continuous_ops_web}
-- {docs_url: ../../../api/continuous_ops_alerts/html, location: 'http://ros.org/doc/groovy/api/continuous_ops_alerts/tags/continuous_ops_alerts.tag',
+- {docs_url: ../../../api/continuous_ops_alerts/html, location: 'continuous_ops_alerts.tag',
   package: continuous_ops_alerts}
-- {docs_url: ../../../api/continuous_ops_executive/html, location: 'http://ros.org/doc/groovy/api/continuous_ops_executive/tags/continuous_ops_executive.tag',
+- {docs_url: ../../../api/continuous_ops_executive/html, location: 'continuous_ops_executive.tag',
   package: continuous_ops_executive}
-- {docs_url: ../../../api/task_image_server/html, location: 'http://ros.org/doc/groovy/api/task_image_server/tags/task_image_server.tag',
+- {docs_url: ../../../api/task_image_server/html, location: 'task_image_server.tag',
   package: task_image_server}

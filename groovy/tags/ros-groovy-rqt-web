@@ -1,2 +1,2 @@
-- {docs_url: ../../../api/rqt_web/html, location: 'http://ros.org/doc/groovy/api/rqt_web/tags/rqt_web.tag',
+- {docs_url: ../../../api/rqt_web/html, location: 'rqt_web.tag',
   package: rqt_web}

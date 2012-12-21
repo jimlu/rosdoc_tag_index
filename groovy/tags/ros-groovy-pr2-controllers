@@ -1,20 +1,20 @@
-- {docs_url: ../../../api/pr2_controllers_msgs/html, location: 'http://ros.org/doc/groovy/api/pr2_controllers_msgs/tags/pr2_controllers_msgs.tag',
+- {docs_url: ../../../api/pr2_controllers_msgs/html, location: 'pr2_controllers_msgs.tag',
   package: pr2_controllers_msgs}
-- {docs_url: ../../../api/single_joint_position_action/html, location: 'http://ros.org/doc/groovy/api/single_joint_position_action/tags/single_joint_position_action.tag',
+- {docs_url: ../../../api/single_joint_position_action/html, location: 'single_joint_position_action.tag',
   package: single_joint_position_action}
-- {docs_url: ../../../api/control_toolbox/html, location: 'http://ros.org/doc/groovy/api/control_toolbox/tags/control_toolbox.tag',
+- {docs_url: ../../../api/control_toolbox/html, location: 'control_toolbox.tag',
   package: control_toolbox}
-- {docs_url: ../../../api/ethercat_trigger_controllers/html, location: 'http://ros.org/doc/groovy/api/ethercat_trigger_controllers/tags/ethercat_trigger_controllers.tag',
+- {docs_url: ../../../api/ethercat_trigger_controllers/html, location: 'ethercat_trigger_controllers.tag',
   package: ethercat_trigger_controllers}
-- {docs_url: ../../../api/robot_mechanism_controllers/html, location: 'http://ros.org/doc/groovy/api/robot_mechanism_controllers/tags/robot_mechanism_controllers.tag',
+- {docs_url: ../../../api/robot_mechanism_controllers/html, location: 'robot_mechanism_controllers.tag',
   package: robot_mechanism_controllers}
-- {docs_url: ../../../api/pr2_mechanism_controllers/html, location: 'http://ros.org/doc/groovy/api/pr2_mechanism_controllers/tags/pr2_mechanism_controllers.tag',
+- {docs_url: ../../../api/pr2_mechanism_controllers/html, location: 'pr2_mechanism_controllers.tag',
   package: pr2_mechanism_controllers}
-- {docs_url: ../../../api/pr2_calibration_controllers/html, location: 'http://ros.org/doc/groovy/api/pr2_calibration_controllers/tags/pr2_calibration_controllers.tag',
+- {docs_url: ../../../api/pr2_calibration_controllers/html, location: 'pr2_calibration_controllers.tag',
   package: pr2_calibration_controllers}
-- {docs_url: ../../../api/joint_trajectory_action/html, location: 'http://ros.org/doc/groovy/api/joint_trajectory_action/tags/joint_trajectory_action.tag',
+- {docs_url: ../../../api/joint_trajectory_action/html, location: 'joint_trajectory_action.tag',
   package: joint_trajectory_action}
-- {docs_url: ../../../api/pr2_gripper_action/html, location: 'http://ros.org/doc/groovy/api/pr2_gripper_action/tags/pr2_gripper_action.tag',
+- {docs_url: ../../../api/pr2_gripper_action/html, location: 'pr2_gripper_action.tag',
   package: pr2_gripper_action}
-- {docs_url: ../../../api/pr2_head_action/html, location: 'http://ros.org/doc/groovy/api/pr2_head_action/tags/pr2_head_action.tag',
+- {docs_url: ../../../api/pr2_head_action/html, location: 'pr2_head_action.tag',
   package: pr2_head_action}

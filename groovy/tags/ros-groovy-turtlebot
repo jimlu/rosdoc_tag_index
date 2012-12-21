@@ -1,8 +1,8 @@
-- {docs_url: ../../../api/turtlebot_app_manager/html, location: 'http://ros.org/doc/groovy/api/turtlebot_app_manager/tags/turtlebot_app_manager.tag',
+- {docs_url: ../../../api/turtlebot_app_manager/html, location: 'turtlebot_app_manager.tag',
   package: turtlebot_app_manager}
-- {docs_url: ../../../api/linux_hardware/html, location: 'http://ros.org/doc/groovy/api/linux_hardware/tags/linux_hardware.tag',
+- {docs_url: ../../../api/linux_hardware/html, location: 'linux_hardware.tag',
   package: linux_hardware}
-- {docs_url: ../../../api/turtlebot_bringup/html, location: 'http://ros.org/doc/groovy/api/turtlebot_bringup/tags/turtlebot_bringup.tag',
+- {docs_url: ../../../api/turtlebot_bringup/html, location: 'turtlebot_bringup.tag',
   package: turtlebot_bringup}
-- {docs_url: ../../../api/turtlebot_description/html, location: 'http://ros.org/doc/groovy/api/turtlebot_description/tags/turtlebot_description.tag',
+- {docs_url: ../../../api/turtlebot_description/html, location: 'turtlebot_description.tag',
   package: turtlebot_description}

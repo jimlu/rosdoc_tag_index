@@ -1,2 +1,2 @@
-- {docs_url: ../../../api/reconfigure_gui/html, location: 'http://ros.org/doc/groovy/api/reconfigure_gui/tags/reconfigure_gui.tag',
+- {docs_url: ../../../api/reconfigure_gui/html, location: 'reconfigure_gui.tag',
   package: reconfigure_gui}

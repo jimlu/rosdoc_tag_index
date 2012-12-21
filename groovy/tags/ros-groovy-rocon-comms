@@ -1,6 +1,6 @@
-- {docs_url: ../../../api/appmanager_comms/html, location: 'http://ros.org/doc/groovy/api/appmanager_comms/tags/appmanager_comms.tag',
+- {docs_url: ../../../api/appmanager_comms/html, location: 'appmanager_comms.tag',
   package: appmanager_comms}
-- {docs_url: ../../../api/concert_comms/html, location: 'http://ros.org/doc/groovy/api/concert_comms/tags/concert_comms.tag',
+- {docs_url: ../../../api/concert_comms/html, location: 'concert_comms.tag',
   package: concert_comms}
-- {docs_url: ../../../api/gateway_comms/html, location: 'http://ros.org/doc/groovy/api/gateway_comms/tags/gateway_comms.tag',
+- {docs_url: ../../../api/gateway_comms/html, location: 'gateway_comms.tag',
   package: gateway_comms}

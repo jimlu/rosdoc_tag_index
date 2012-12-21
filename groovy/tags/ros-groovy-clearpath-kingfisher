@@ -1,4 +1,4 @@
-- {docs_url: ../../../api/kingfisher_bringup/html, location: 'http://ros.org/doc/groovy/api/kingfisher_bringup/tags/kingfisher_bringup.tag',
+- {docs_url: ../../../api/kingfisher_bringup/html, location: 'kingfisher_bringup.tag',
   package: kingfisher_bringup}
-- {docs_url: ../../../api/kingfisher_teleop/html, location: 'http://ros.org/doc/groovy/api/kingfisher_teleop/tags/kingfisher_teleop.tag',
+- {docs_url: ../../../api/kingfisher_teleop/html, location: 'kingfisher_teleop.tag',
   package: kingfisher_teleop}

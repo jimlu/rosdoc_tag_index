@@ -1,12 +1,12 @@
-- {docs_url: ../../../api/laser_joint_processor/html, location: 'http://ros.org/doc/groovy/api/laser_joint_processor/tags/laser_joint_processor.tag',
+- {docs_url: ../../../api/laser_joint_processor/html, location: 'laser_joint_processor.tag',
   package: laser_joint_processor}
-- {docs_url: ../../../api/laser_joint_projector/html, location: 'http://ros.org/doc/groovy/api/laser_joint_projector/tags/laser_joint_projector.tag',
+- {docs_url: ../../../api/laser_joint_projector/html, location: 'laser_joint_projector.tag',
   package: laser_joint_projector}
-- {docs_url: ../../../api/dense_laser_assembler/html, location: 'http://ros.org/doc/groovy/api/dense_laser_assembler/tags/dense_laser_assembler.tag',
+- {docs_url: ../../../api/dense_laser_assembler/html, location: 'dense_laser_assembler.tag',
   package: dense_laser_assembler}
-- {docs_url: ../../../api/pr2_dense_laser_snapshotter/html, location: 'http://ros.org/doc/groovy/api/pr2_dense_laser_snapshotter/tags/pr2_dense_laser_snapshotter.tag',
+- {docs_url: ../../../api/pr2_dense_laser_snapshotter/html, location: 'pr2_dense_laser_snapshotter.tag',
   package: pr2_dense_laser_snapshotter}
-- {docs_url: ../../../api/pr2_calibration_launch/html, location: 'http://ros.org/doc/groovy/api/pr2_calibration_launch/tags/pr2_calibration_launch.tag',
+- {docs_url: ../../../api/pr2_calibration_launch/html, location: 'pr2_calibration_launch.tag',
   package: pr2_calibration_launch}
-- {docs_url: ../../../api/pr2_se_calibration_launch/html, location: 'http://ros.org/doc/groovy/api/pr2_se_calibration_launch/tags/pr2_se_calibration_launch.tag',
+- {docs_url: ../../../api/pr2_se_calibration_launch/html, location: 'pr2_se_calibration_launch.tag',
   package: pr2_se_calibration_launch}

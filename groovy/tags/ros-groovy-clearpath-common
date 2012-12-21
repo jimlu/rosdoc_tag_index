@@ -1,8 +1,8 @@
-- {docs_url: ../../../api/clearpath_bringup/html, location: 'http://ros.org/doc/groovy/api/clearpath_bringup/tags/clearpath_bringup.tag',
+- {docs_url: ../../../api/clearpath_bringup/html, location: 'clearpath_bringup.tag',
   package: clearpath_bringup}
-- {docs_url: ../../../api/clearpath_teleop/html, location: 'http://ros.org/doc/groovy/api/clearpath_teleop/tags/clearpath_teleop.tag',
+- {docs_url: ../../../api/clearpath_teleop/html, location: 'clearpath_teleop.tag',
   package: clearpath_teleop}
-- {docs_url: ../../../api/clearpath_base/html, location: 'http://ros.org/doc/groovy/api/clearpath_base/tags/clearpath_base.tag',
+- {docs_url: ../../../api/clearpath_base/html, location: 'clearpath_base.tag',
   package: clearpath_base}
-- {docs_url: ../../../api/clearpath_sensors/html, location: 'http://ros.org/doc/groovy/api/clearpath_sensors/tags/clearpath_sensors.tag',
+- {docs_url: ../../../api/clearpath_sensors/html, location: 'clearpath_sensors.tag',
   package: clearpath_sensors}

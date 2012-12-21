@@ -1,4 +1,4 @@
-- {docs_url: ../../../api/opennl/html, location: 'http://ros.org/doc/groovy/api/opennl/tags/opennl.tag',
+- {docs_url: ../../../api/opennl/html, location: 'opennl.tag',
   package: opennl}
-- {docs_url: ../../../api/openmesh/html, location: 'http://ros.org/doc/groovy/api/openmesh/tags/openmesh.tag',
+- {docs_url: ../../../api/openmesh/html, location: 'openmesh.tag',
   package: openmesh}

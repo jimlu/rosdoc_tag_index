@@ -1,6 +1,6 @@
-- {docs_url: ../../../api/pr2_2dnav/html, location: 'http://ros.org/doc/groovy/api/pr2_2dnav/tags/pr2_2dnav.tag',
+- {docs_url: ../../../api/pr2_2dnav/html, location: 'pr2_2dnav.tag',
   package: pr2_2dnav}
-- {docs_url: ../../../api/pr2_2dnav_slam/html, location: 'http://ros.org/doc/groovy/api/pr2_2dnav_slam/tags/pr2_2dnav_slam.tag',
+- {docs_url: ../../../api/pr2_2dnav_slam/html, location: 'pr2_2dnav_slam.tag',
   package: pr2_2dnav_slam}
-- {docs_url: ../../../api/pr2_2dnav_local/html, location: 'http://ros.org/doc/groovy/api/pr2_2dnav_local/tags/pr2_2dnav_local.tag',
+- {docs_url: ../../../api/pr2_2dnav_local/html, location: 'pr2_2dnav_local.tag',
   package: pr2_2dnav_local}

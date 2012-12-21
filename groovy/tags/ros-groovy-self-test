@@ -1,2 +1,2 @@
-- {docs_url: ../../../api/self_test/html, location: 'http://ros.org/doc/groovy/api/self_test/tags/self_test.tag',
+- {docs_url: ../../../api/self_test/html, location: 'self_test.tag',
   package: self_test}

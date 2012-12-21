@@ -1,6 +1,6 @@
-- {docs_url: ../../../api/pr2_power_board/html, location: 'http://ros.org/doc/groovy/api/pr2_power_board/tags/pr2_power_board.tag',
+- {docs_url: ../../../api/pr2_power_board/html, location: 'pr2_power_board.tag',
   package: pr2_power_board}
-- {docs_url: ../../../api/ocean_battery_driver/html, location: 'http://ros.org/doc/groovy/api/ocean_battery_driver/tags/ocean_battery_driver.tag',
+- {docs_url: ../../../api/ocean_battery_driver/html, location: 'ocean_battery_driver.tag',
   package: ocean_battery_driver}
-- {docs_url: ../../../api/power_monitor/html, location: 'http://ros.org/doc/groovy/api/power_monitor/tags/power_monitor.tag',
+- {docs_url: ../../../api/power_monitor/html, location: 'power_monitor.tag',
   package: power_monitor}

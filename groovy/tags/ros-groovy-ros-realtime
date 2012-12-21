@@ -1,8 +1,8 @@
-- {docs_url: ../../../api/rosatomic/html, location: 'http://ros.org/doc/groovy/api/rosatomic/tags/rosatomic.tag',
+- {docs_url: ../../../api/rosatomic/html, location: 'rosatomic.tag',
   package: rosatomic}
-- {docs_url: ../../../api/allocators/html, location: 'http://ros.org/doc/groovy/api/allocators/tags/allocators.tag',
+- {docs_url: ../../../api/allocators/html, location: 'allocators.tag',
   package: allocators}
-- {docs_url: ../../../api/lockfree/html, location: 'http://ros.org/doc/groovy/api/lockfree/tags/lockfree.tag',
+- {docs_url: ../../../api/lockfree/html, location: 'lockfree.tag',
   package: lockfree}
-- {docs_url: ../../../api/rosrt/html, location: 'http://ros.org/doc/groovy/api/rosrt/tags/rosrt.tag',
+- {docs_url: ../../../api/rosrt/html, location: 'rosrt.tag',
   package: rosrt}
