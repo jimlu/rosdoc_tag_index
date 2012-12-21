@@ -1,1 +1,1 @@
-[move_base, gmapping]
+[move_base, turtlebot_bringup, gmapping]

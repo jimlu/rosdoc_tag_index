@@ -1,4 +1,0 @@
-- {docs_url: ../../../api/lfd_common/html, location: 'http://ros.org/doc/fuerte/api/lfd_common/tags/lfd_common.tag',
-  package: lfd_common}
-- {docs_url: ../../../api/cba/html, location: 'http://ros.org/doc/fuerte/api/cba/tags/cba.tag',
-  package: cba}

@@ -1,6 +1,0 @@
-- {docs_url: ../../../api/laser_geometry/html, location: 'http://ros.org/doc/fuerte/api/laser_geometry/tags/laser_geometry.tag',
-  package: laser_geometry}
-- {docs_url: ../../../api/laser_filters/html, location: 'http://ros.org/doc/fuerte/api/laser_filters/tags/laser_filters.tag',
-  package: laser_filters}
-- {docs_url: ../../../api/laser_assembler/html, location: 'http://ros.org/doc/fuerte/api/laser_assembler/tags/laser_assembler.tag',
-  package: laser_assembler}

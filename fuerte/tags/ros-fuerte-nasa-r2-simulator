@@ -1,8 +1,0 @@
-- {docs_url: ../../../api/gazebo_gripper/html, location: 'http://ros.org/doc/fuerte/api/gazebo_gripper/tags/gazebo_gripper.tag',
-  package: gazebo_gripper}
-- {docs_url: ../../../api/r2_controllers_gazebo/html, location: 'http://ros.org/doc/fuerte/api/r2_controllers_gazebo/tags/r2_controllers_gazebo.tag',
-  package: r2_controllers_gazebo}
-- {docs_url: ../../../api/r2_gazebo/html, location: 'http://ros.org/doc/fuerte/api/r2_gazebo/tags/r2_gazebo.tag',
-  package: r2_gazebo}
-- {docs_url: ../../../api/gazebo_interface/html, location: 'http://ros.org/doc/fuerte/api/gazebo_interface/tags/gazebo_interface.tag',
-  package: gazebo_interface}

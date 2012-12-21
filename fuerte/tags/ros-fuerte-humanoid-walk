@@ -1,8 +1,0 @@
-- {docs_url: ../../../api/walk_tools/html, location: 'http://ros.org/doc/fuerte/api/walk_tools/tags/walk_tools.tag',
-  package: walk_tools}
-- {docs_url: ../../../api/walk_interfaces/html, location: 'http://ros.org/doc/fuerte/api/walk_interfaces/tags/walk_interfaces.tag',
-  package: walk_interfaces}
-- {docs_url: ../../../api/walk_msgs/html, location: 'http://ros.org/doc/fuerte/api/walk_msgs/tags/walk_msgs.tag',
-  package: walk_msgs}
-- {docs_url: ../../../api/halfsteps_pattern_generator/html, location: 'http://ros.org/doc/fuerte/api/halfsteps_pattern_generator/tags/halfsteps_pattern_generator.tag',
-  package: halfsteps_pattern_generator}

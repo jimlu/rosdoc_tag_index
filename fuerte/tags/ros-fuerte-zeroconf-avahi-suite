@@ -1,4 +1,0 @@
-- {docs_url: ../../../api/zeroconf_avahi/html, location: 'http://ros.org/doc/fuerte/api/zeroconf_avahi/tags/zeroconf_avahi.tag',
-  package: zeroconf_avahi}
-- {docs_url: ../../../api/zeroconf_avahi_demos/html, location: 'http://ros.org/doc/fuerte/api/zeroconf_avahi_demos/tags/zeroconf_avahi_demos.tag',
-  package: zeroconf_avahi_demos}

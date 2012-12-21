@@ -1,4 +1,0 @@
-- {docs_url: ../../../api/ogre/html, location: 'http://ros.org/doc/fuerte/api/ogre/tags/ogre.tag',
-  package: ogre}
-- {docs_url: ../../../api/ogre_tools/html, location: 'http://ros.org/doc/fuerte/api/ogre_tools/tags/ogre_tools.tag',
-  package: ogre_tools}

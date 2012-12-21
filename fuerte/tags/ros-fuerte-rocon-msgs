@@ -1,6 +1,0 @@
-- {docs_url: ../../../api/appmanager_msgs/html, location: 'http://ros.org/doc/fuerte/api/appmanager_msgs/tags/appmanager_msgs.tag',
-  package: appmanager_msgs}
-- {docs_url: ../../../api/concert_msgs/html, location: 'http://ros.org/doc/fuerte/api/concert_msgs/tags/concert_msgs.tag',
-  package: concert_msgs}
-- {docs_url: ../../../api/gateway_msgs/html, location: 'http://ros.org/doc/fuerte/api/gateway_msgs/tags/gateway_msgs.tag',
-  package: gateway_msgs}
