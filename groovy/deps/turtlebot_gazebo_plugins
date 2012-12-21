@@ -1,1 +1,1 @@
-[nav_msgs, geometry_msgs, gazebo, turtlebot_node, sensor_msgs]
+[nav_msgs, geometry_msgs, create_node, gazebo, sensor_msgs]

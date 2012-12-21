@@ -1,0 +1,2 @@
+[roscpp, std_msgs, actionlib, sensor_msgs, image_transport, eigen, geometry_msgs,
+  turtlebot_bringup, pano_ros]

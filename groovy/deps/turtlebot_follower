@@ -1,1 +1,1 @@
-[tf, nodelet, roscpp, pcl_ros]
+[visualization_msgs, nodelet, roscpp, turtlebot_bringup, pcl_ros]

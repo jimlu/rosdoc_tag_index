@@ -1,2 +1,2 @@
-[image_geometry, roscpp, actionlib, image_transport, opencv2, tf, common_rosdeps,
-  cv_bridge, eigen]
+[image_geometry, roscpp, actionlib, image_transport, geometry_msgs, tf, cv_bridge,
+  actionlib_msgs, turtlebot_bringup, eigen]
