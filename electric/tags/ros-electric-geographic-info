@@ -1,4 +1,4 @@
-- {docs_url: ../../../api/geographic_msgs/html, location: 'http://ros.org/doc/electric/api/geographic_msgs/tags/geographic_msgs.tag',
+- {docs_url: ../../../api/geographic_msgs/html, location: 'geographic_msgs.tag',
   package: geographic_msgs}
-- {docs_url: ../../../api/geodesy/html, location: 'http://ros.org/doc/electric/api/geodesy/tags/geodesy.tag',
+- {docs_url: ../../../api/geodesy/html, location: 'geodesy.tag',
   package: geodesy}

@@ -1,14 +1,14 @@
-- {docs_url: ../../../api/cob_calibration_msgs/html, location: 'http://ros.org/doc/electric/api/cob_calibration_msgs/tags/cob_calibration_msgs.tag',
+- {docs_url: ../../../api/cob_calibration_msgs/html, location: 'cob_calibration_msgs.tag',
   package: cob_calibration_msgs}
-- {docs_url: ../../../api/cob_calibration_srvs/html, location: 'http://ros.org/doc/electric/api/cob_calibration_srvs/tags/cob_calibration_srvs.tag',
+- {docs_url: ../../../api/cob_calibration_srvs/html, location: 'cob_calibration_srvs.tag',
   package: cob_calibration_srvs}
-- {docs_url: ../../../api/cob_calibration_executive/html, location: 'http://ros.org/doc/electric/api/cob_calibration_executive/tags/cob_calibration_executive.tag',
+- {docs_url: ../../../api/cob_calibration_executive/html, location: 'cob_calibration_executive.tag',
   package: cob_calibration_executive}
-- {docs_url: ../../../api/cob_camera_calibration/html, location: 'http://ros.org/doc/electric/api/cob_camera_calibration/tags/cob_camera_calibration.tag',
+- {docs_url: ../../../api/cob_camera_calibration/html, location: 'cob_camera_calibration.tag',
   package: cob_camera_calibration}
-- {docs_url: ../../../api/cob_robot_calibration_est/html, location: 'http://ros.org/doc/electric/api/cob_robot_calibration_est/tags/cob_robot_calibration_est.tag',
+- {docs_url: ../../../api/cob_robot_calibration_est/html, location: 'cob_robot_calibration_est.tag',
   package: cob_robot_calibration_est}
-- {docs_url: ../../../api/cob_robot_calibration/html, location: 'http://ros.org/doc/electric/api/cob_robot_calibration/tags/cob_robot_calibration.tag',
+- {docs_url: ../../../api/cob_robot_calibration/html, location: 'cob_robot_calibration.tag',
   package: cob_robot_calibration}
-- {docs_url: ../../../api/cob_image_capture/html, location: 'http://ros.org/doc/electric/api/cob_image_capture/tags/cob_image_capture.tag',
+- {docs_url: ../../../api/cob_image_capture/html, location: 'cob_image_capture.tag',
   package: cob_image_capture}

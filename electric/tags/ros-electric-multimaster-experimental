@@ -1,12 +1,12 @@
-- {docs_url: ../../../api/rosproxy/html, location: 'http://ros.org/doc/electric/api/rosproxy/tags/rosproxy.tag',
+- {docs_url: ../../../api/rosproxy/html, location: 'rosproxy.tag',
   package: rosproxy}
-- {docs_url: ../../../api/pyqrnative/html, location: 'http://ros.org/doc/electric/api/pyqrnative/tags/pyqrnative.tag',
+- {docs_url: ../../../api/pyqrnative/html, location: 'pyqrnative.tag',
   package: pyqrnative}
-- {docs_url: ../../../api/app_manager_android/html, location: 'http://ros.org/doc/electric/api/app_manager_android/tags/app_manager_android.tag',
+- {docs_url: ../../../api/app_manager_android/html, location: 'app_manager_android.tag',
   package: app_manager_android}
-- {docs_url: ../../../api/foreign_relay/html, location: 'http://ros.org/doc/electric/api/foreign_relay/tags/foreign_relay.tag',
+- {docs_url: ../../../api/foreign_relay/html, location: 'foreign_relay.tag',
   package: foreign_relay}
-- {docs_url: ../../../api/app_manager/html, location: 'http://ros.org/doc/electric/api/app_manager/tags/app_manager.tag',
+- {docs_url: ../../../api/app_manager/html, location: 'app_manager.tag',
   package: app_manager}
-- {docs_url: ../../../api/app_manager_tutorial/html, location: 'http://ros.org/doc/electric/api/app_manager_tutorial/tags/app_manager_tutorial.tag',
+- {docs_url: ../../../api/app_manager_tutorial/html, location: 'app_manager_tutorial.tag',
   package: app_manager_tutorial}

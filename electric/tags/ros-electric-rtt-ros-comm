@@ -1,4 +1,4 @@
-- {docs_url: ../../../api/rtt_rosgraph_msgs/html, location: 'http://ros.org/doc/electric/api/rtt_rosgraph_msgs/tags/rtt_rosgraph_msgs.tag',
+- {docs_url: ../../../api/rtt_rosgraph_msgs/html, location: 'rtt_rosgraph_msgs.tag',
   package: rtt_rosgraph_msgs}
-- {docs_url: ../../../api/rtt_std_msgs/html, location: 'http://ros.org/doc/electric/api/rtt_std_msgs/tags/rtt_std_msgs.tag',
+- {docs_url: ../../../api/rtt_std_msgs/html, location: 'rtt_std_msgs.tag',
   package: rtt_std_msgs}

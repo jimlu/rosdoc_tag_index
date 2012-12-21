@@ -1,4 +1,4 @@
-- {docs_url: ../../../api/clearpath_tools/html, location: 'http://ros.org/doc/electric/api/clearpath_tools/tags/clearpath_tools.tag',
+- {docs_url: ../../../api/clearpath_tools/html, location: 'clearpath_tools.tag',
   package: clearpath_tools}
-- {docs_url: ../../../api/clearpath_kinect_demo/html, location: 'http://ros.org/doc/electric/api/clearpath_kinect_demo/tags/clearpath_kinect_demo.tag',
+- {docs_url: ../../../api/clearpath_kinect_demo/html, location: 'clearpath_kinect_demo.tag',
   package: clearpath_kinect_demo}

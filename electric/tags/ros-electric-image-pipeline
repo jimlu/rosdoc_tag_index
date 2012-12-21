@@ -1,8 +1,8 @@
-- {docs_url: ../../../api/image_proc/html, location: 'http://ros.org/doc/electric/api/image_proc/tags/image_proc.tag',
+- {docs_url: ../../../api/image_proc/html, location: 'image_proc.tag',
   package: image_proc}
-- {docs_url: ../../../api/stereo_image_proc/html, location: 'http://ros.org/doc/electric/api/stereo_image_proc/tags/stereo_image_proc.tag',
+- {docs_url: ../../../api/stereo_image_proc/html, location: 'stereo_image_proc.tag',
   package: stereo_image_proc}
-- {docs_url: ../../../api/image_rotate/html, location: 'http://ros.org/doc/electric/api/image_rotate/tags/image_rotate.tag',
+- {docs_url: ../../../api/image_rotate/html, location: 'image_rotate.tag',
   package: image_rotate}
-- {docs_url: ../../../api/image_view/html, location: 'http://ros.org/doc/electric/api/image_view/tags/image_view.tag',
+- {docs_url: ../../../api/image_view/html, location: 'image_view.tag',
   package: image_view}

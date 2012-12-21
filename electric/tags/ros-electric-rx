@@ -1,18 +1,18 @@
-- {docs_url: ../../../api/wxPython_swig_interface/html, location: 'http://ros.org/doc/electric/api/wxPython_swig_interface/tags/wxPython_swig_interface.tag',
+- {docs_url: ../../../api/wxPython_swig_interface/html, location: 'wxPython_swig_interface.tag',
   package: wxPython_swig_interface}
-- {docs_url: ../../../api/wxswig/html, location: 'http://ros.org/doc/electric/api/wxswig/tags/wxswig.tag',
+- {docs_url: ../../../api/wxswig/html, location: 'wxswig.tag',
   package: wxswig}
-- {docs_url: ../../../api/rxtools/html, location: 'http://ros.org/doc/electric/api/rxtools/tags/rxtools.tag',
+- {docs_url: ../../../api/rxtools/html, location: 'rxtools.tag',
   package: rxtools}
-- {docs_url: ../../../api/rxdeps/html, location: 'http://ros.org/doc/electric/api/rxdeps/tags/rxdeps.tag',
+- {docs_url: ../../../api/rxdeps/html, location: 'rxdeps.tag',
   package: rxdeps}
-- {docs_url: ../../../api/xdot/html, location: 'http://ros.org/doc/electric/api/xdot/tags/xdot.tag',
+- {docs_url: ../../../api/xdot/html, location: 'xdot.tag',
   package: xdot}
-- {docs_url: ../../../api/rxgraph/html, location: 'http://ros.org/doc/electric/api/rxgraph/tags/rxgraph.tag',
+- {docs_url: ../../../api/rxgraph/html, location: 'rxgraph.tag',
   package: rxgraph}
-- {docs_url: ../../../api/rxbag/html, location: 'http://ros.org/doc/electric/api/rxbag/tags/rxbag.tag',
+- {docs_url: ../../../api/rxbag/html, location: 'rxbag.tag',
   package: rxbag}
-- {docs_url: ../../../api/test_rxdeps/html, location: 'http://ros.org/doc/electric/api/test_rxdeps/tags/test_rxdeps.tag',
+- {docs_url: ../../../api/test_rxdeps/html, location: 'test_rxdeps.tag',
   package: test_rxdeps}
-- {docs_url: ../../../api/test_rxplot/html, location: 'http://ros.org/doc/electric/api/test_rxplot/tags/test_rxplot.tag',
+- {docs_url: ../../../api/test_rxplot/html, location: 'test_rxplot.tag',
   package: test_rxplot}

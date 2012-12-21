@@ -1,36 +1,36 @@
-- {docs_url: ../../../api/cob_utilities/html, location: 'http://ros.org/doc/electric/api/cob_utilities/tags/cob_utilities.tag',
+- {docs_url: ../../../api/cob_utilities/html, location: 'cob_utilities.tag',
   package: cob_utilities}
-- {docs_url: ../../../api/cob_relayboard/html, location: 'http://ros.org/doc/electric/api/cob_relayboard/tags/cob_relayboard.tag',
+- {docs_url: ../../../api/cob_relayboard/html, location: 'cob_relayboard.tag',
   package: cob_relayboard}
-- {docs_url: ../../../api/cob_generic_can/html, location: 'http://ros.org/doc/electric/api/cob_generic_can/tags/cob_generic_can.tag',
+- {docs_url: ../../../api/cob_generic_can/html, location: 'cob_generic_can.tag',
   package: cob_generic_can}
-- {docs_url: ../../../api/cob_canopen_motor/html, location: 'http://ros.org/doc/electric/api/cob_canopen_motor/tags/cob_canopen_motor.tag',
+- {docs_url: ../../../api/cob_canopen_motor/html, location: 'cob_canopen_motor.tag',
   package: cob_canopen_motor}
-- {docs_url: ../../../api/cob_footprint_observer/html, location: 'http://ros.org/doc/electric/api/cob_footprint_observer/tags/cob_footprint_observer.tag',
+- {docs_url: ../../../api/cob_footprint_observer/html, location: 'cob_footprint_observer.tag',
   package: cob_footprint_observer}
-- {docs_url: ../../../api/cob_collision_velocity_filter/html, location: 'http://ros.org/doc/electric/api/cob_collision_velocity_filter/tags/cob_collision_velocity_filter.tag',
+- {docs_url: ../../../api/cob_collision_velocity_filter/html, location: 'cob_collision_velocity_filter.tag',
   package: cob_collision_velocity_filter}
-- {docs_url: ../../../api/cob_hokuyo/html, location: 'http://ros.org/doc/electric/api/cob_hokuyo/tags/cob_hokuyo.tag',
+- {docs_url: ../../../api/cob_hokuyo/html, location: 'cob_hokuyo.tag',
   package: cob_hokuyo}
-- {docs_url: ../../../api/cob_sick_s300/html, location: 'http://ros.org/doc/electric/api/cob_sick_s300/tags/cob_sick_s300.tag',
+- {docs_url: ../../../api/cob_sick_s300/html, location: 'cob_sick_s300.tag',
   package: cob_sick_s300}
-- {docs_url: ../../../api/cob_touch/html, location: 'http://ros.org/doc/electric/api/cob_touch/tags/cob_touch.tag',
+- {docs_url: ../../../api/cob_touch/html, location: 'cob_touch.tag',
   package: cob_touch}
-- {docs_url: ../../../api/cob_base_velocity_smoother/html, location: 'http://ros.org/doc/electric/api/cob_base_velocity_smoother/tags/cob_base_velocity_smoother.tag',
+- {docs_url: ../../../api/cob_base_velocity_smoother/html, location: 'cob_base_velocity_smoother.tag',
   package: cob_base_velocity_smoother}
-- {docs_url: ../../../api/cob_base_drive_chain/html, location: 'http://ros.org/doc/electric/api/cob_base_drive_chain/tags/cob_base_drive_chain.tag',
+- {docs_url: ../../../api/cob_base_drive_chain/html, location: 'cob_base_drive_chain.tag',
   package: cob_base_drive_chain}
-- {docs_url: ../../../api/cob_undercarriage_ctrl/html, location: 'http://ros.org/doc/electric/api/cob_undercarriage_ctrl/tags/cob_undercarriage_ctrl.tag',
+- {docs_url: ../../../api/cob_undercarriage_ctrl/html, location: 'cob_undercarriage_ctrl.tag',
   package: cob_undercarriage_ctrl}
-- {docs_url: ../../../api/cob_head_axis/html, location: 'http://ros.org/doc/electric/api/cob_head_axis/tags/cob_head_axis.tag',
+- {docs_url: ../../../api/cob_head_axis/html, location: 'cob_head_axis.tag',
   package: cob_head_axis}
-- {docs_url: ../../../api/cob_camera_sensors/html, location: 'http://ros.org/doc/electric/api/cob_camera_sensors/tags/cob_camera_sensors.tag',
+- {docs_url: ../../../api/cob_camera_sensors/html, location: 'cob_camera_sensors.tag',
   package: cob_camera_sensors}
-- {docs_url: ../../../api/cob_light/html, location: 'http://ros.org/doc/electric/api/cob_light/tags/cob_light.tag',
+- {docs_url: ../../../api/cob_light/html, location: 'cob_light.tag',
   package: cob_light}
-- {docs_url: ../../../api/cob_trajectory_controller/html, location: 'http://ros.org/doc/electric/api/cob_trajectory_controller/tags/cob_trajectory_controller.tag',
+- {docs_url: ../../../api/cob_trajectory_controller/html, location: 'cob_trajectory_controller.tag',
   package: cob_trajectory_controller}
-- {docs_url: ../../../api/cob_phidgets/html, location: 'http://ros.org/doc/electric/api/cob_phidgets/tags/cob_phidgets.tag',
+- {docs_url: ../../../api/cob_phidgets/html, location: 'cob_phidgets.tag',
   package: cob_phidgets}
-- {docs_url: ../../../api/cob_sound/html, location: 'http://ros.org/doc/electric/api/cob_sound/tags/cob_sound.tag',
+- {docs_url: ../../../api/cob_sound/html, location: 'cob_sound.tag',
   package: cob_sound}

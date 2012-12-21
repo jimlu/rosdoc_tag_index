@@ -1,4 +1,4 @@
-- {docs_url: ../../../api/explore/html, location: 'http://ros.org/doc/electric/api/explore/tags/explore.tag',
+- {docs_url: ../../../api/explore/html, location: 'explore.tag',
   package: explore}
-- {docs_url: ../../../api/explore_stage/html, location: 'http://ros.org/doc/electric/api/explore_stage/tags/explore_stage.tag',
+- {docs_url: ../../../api/explore_stage/html, location: 'explore_stage.tag',
   package: explore_stage}

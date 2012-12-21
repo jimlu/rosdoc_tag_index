@@ -1,6 +1,6 @@
-- {docs_url: ../../../api/rosh_common/html, location: 'http://ros.org/doc/electric/api/rosh_common/tags/rosh_common.tag',
+- {docs_url: ../../../api/rosh_common/html, location: 'rosh_common.tag',
   package: rosh_common}
-- {docs_url: ../../../api/rosh_geometry/html, location: 'http://ros.org/doc/electric/api/rosh_geometry/tags/rosh_geometry.tag',
+- {docs_url: ../../../api/rosh_geometry/html, location: 'rosh_geometry.tag',
   package: rosh_geometry}
-- {docs_url: ../../../api/rosh_robot/html, location: 'http://ros.org/doc/electric/api/rosh_robot/tags/rosh_robot.tag',
+- {docs_url: ../../../api/rosh_robot/html, location: 'rosh_robot.tag',
   package: rosh_robot}

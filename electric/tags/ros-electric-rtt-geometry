@@ -1,8 +1,8 @@
-- {docs_url: ../../../api/kdl_typekit/html, location: 'http://ros.org/doc/electric/api/kdl_typekit/tags/kdl_typekit.tag',
+- {docs_url: ../../../api/kdl_typekit/html, location: 'kdl_typekit.tag',
   package: kdl_typekit}
-- {docs_url: ../../../api/kdl_conversions/html, location: 'http://ros.org/doc/electric/api/kdl_conversions/tags/kdl_conversions.tag',
+- {docs_url: ../../../api/kdl_conversions/html, location: 'kdl_conversions.tag',
   package: kdl_conversions}
-- {docs_url: ../../../api/kdl_lua/html, location: 'http://ros.org/doc/electric/api/kdl_lua/tags/kdl_lua.tag',
+- {docs_url: ../../../api/kdl_lua/html, location: 'kdl_lua.tag',
   package: kdl_lua}
-- {docs_url: ../../../api/rtt_tf/html, location: 'http://ros.org/doc/electric/api/rtt_tf/tags/rtt_tf.tag',
+- {docs_url: ../../../api/rtt_tf/html, location: 'rtt_tf.tag',
   package: rtt_tf}

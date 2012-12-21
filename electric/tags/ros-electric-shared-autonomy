@@ -1,14 +1,14 @@
-- {docs_url: ../../../api/grabcut_3d/html, location: 'http://ros.org/doc/electric/api/grabcut_3d/tags/grabcut_3d.tag',
+- {docs_url: ../../../api/grabcut_3d/html, location: 'grabcut_3d.tag',
   package: grabcut_3d}
-- {docs_url: ../../../api/image_segmentation_demo/html, location: 'http://ros.org/doc/electric/api/image_segmentation_demo/tags/image_segmentation_demo.tag',
+- {docs_url: ../../../api/image_segmentation_demo/html, location: 'image_segmentation_demo.tag',
   package: image_segmentation_demo}
-- {docs_url: ../../../api/safe_teleop_base/html, location: 'http://ros.org/doc/electric/api/safe_teleop_base/tags/safe_teleop_base.tag',
+- {docs_url: ../../../api/safe_teleop_base/html, location: 'safe_teleop_base.tag',
   package: safe_teleop_base}
-- {docs_url: ../../../api/safe_teleop_stage/html, location: 'http://ros.org/doc/electric/api/safe_teleop_stage/tags/safe_teleop_stage.tag',
+- {docs_url: ../../../api/safe_teleop_stage/html, location: 'safe_teleop_stage.tag',
   package: safe_teleop_stage}
-- {docs_url: ../../../api/safe_teleop_pr2/html, location: 'http://ros.org/doc/electric/api/safe_teleop_pr2/tags/safe_teleop_pr2.tag',
+- {docs_url: ../../../api/safe_teleop_pr2/html, location: 'safe_teleop_pr2.tag',
   package: safe_teleop_pr2}
-- {docs_url: ../../../api/augmented_object_selection/html, location: 'http://ros.org/doc/electric/api/augmented_object_selection/tags/augmented_object_selection.tag',
+- {docs_url: ../../../api/augmented_object_selection/html, location: 'augmented_object_selection.tag',
   package: augmented_object_selection}
-- {docs_url: ../../../api/bosch_object_segmentation_gui/html, location: 'http://ros.org/doc/electric/api/bosch_object_segmentation_gui/tags/bosch_object_segmentation_gui.tag',
+- {docs_url: ../../../api/bosch_object_segmentation_gui/html, location: 'bosch_object_segmentation_gui.tag',
   package: bosch_object_segmentation_gui}

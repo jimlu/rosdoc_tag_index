@@ -1,18 +1,18 @@
-- {docs_url: ../../../api/hector_nav_msgs/html, location: 'http://ros.org/doc/electric/api/hector_nav_msgs/tags/hector_nav_msgs.tag',
+- {docs_url: ../../../api/hector_nav_msgs/html, location: 'hector_nav_msgs.tag',
   package: hector_nav_msgs}
-- {docs_url: ../../../api/hector_map_tools/html, location: 'http://ros.org/doc/electric/api/hector_map_tools/tags/hector_map_tools.tag',
+- {docs_url: ../../../api/hector_map_tools/html, location: 'hector_map_tools.tag',
   package: hector_map_tools}
-- {docs_url: ../../../api/hector_geotiff/html, location: 'http://ros.org/doc/electric/api/hector_geotiff/tags/hector_geotiff.tag',
+- {docs_url: ../../../api/hector_geotiff/html, location: 'hector_geotiff.tag',
   package: hector_geotiff}
-- {docs_url: ../../../api/hector_imu_attitude_to_tf/html, location: 'http://ros.org/doc/electric/api/hector_imu_attitude_to_tf/tags/hector_imu_attitude_to_tf.tag',
+- {docs_url: ../../../api/hector_imu_attitude_to_tf/html, location: 'hector_imu_attitude_to_tf.tag',
   package: hector_imu_attitude_to_tf}
-- {docs_url: ../../../api/hector_map_server/html, location: 'http://ros.org/doc/electric/api/hector_map_server/tags/hector_map_server.tag',
+- {docs_url: ../../../api/hector_map_server/html, location: 'hector_map_server.tag',
   package: hector_map_server}
-- {docs_url: ../../../api/hector_mapping/html, location: 'http://ros.org/doc/electric/api/hector_mapping/tags/hector_mapping.tag',
+- {docs_url: ../../../api/hector_mapping/html, location: 'hector_mapping.tag',
   package: hector_mapping}
-- {docs_url: ../../../api/hector_trajectory_server/html, location: 'http://ros.org/doc/electric/api/hector_trajectory_server/tags/hector_trajectory_server.tag',
+- {docs_url: ../../../api/hector_trajectory_server/html, location: 'hector_trajectory_server.tag',
   package: hector_trajectory_server}
-- {docs_url: ../../../api/hector_slam_launch/html, location: 'http://ros.org/doc/electric/api/hector_slam_launch/tags/hector_slam_launch.tag',
+- {docs_url: ../../../api/hector_slam_launch/html, location: 'hector_slam_launch.tag',
   package: hector_slam_launch}
-- {docs_url: ../../../api/hector_compressed_map_transport/html, location: 'http://ros.org/doc/electric/api/hector_compressed_map_transport/tags/hector_compressed_map_transport.tag',
+- {docs_url: ../../../api/hector_compressed_map_transport/html, location: 'hector_compressed_map_transport.tag',
   package: hector_compressed_map_transport}

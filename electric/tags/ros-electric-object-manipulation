@@ -1,24 +1,24 @@
-- {docs_url: ../../../api/household_objects_database_msgs/html, location: 'http://ros.org/doc/electric/api/household_objects_database_msgs/tags/household_objects_database_msgs.tag',
+- {docs_url: ../../../api/household_objects_database_msgs/html, location: 'household_objects_database_msgs.tag',
   package: household_objects_database_msgs}
-- {docs_url: ../../../api/current_state_validator/html, location: 'http://ros.org/doc/electric/api/current_state_validator/tags/current_state_validator.tag',
+- {docs_url: ../../../api/current_state_validator/html, location: 'current_state_validator.tag',
   package: current_state_validator}
-- {docs_url: ../../../api/compressed_pointcloud_transport/html, location: 'http://ros.org/doc/electric/api/compressed_pointcloud_transport/tags/compressed_pointcloud_transport.tag',
+- {docs_url: ../../../api/compressed_pointcloud_transport/html, location: 'compressed_pointcloud_transport.tag',
   package: compressed_pointcloud_transport}
-- {docs_url: ../../../api/rviz_interaction_tools/html, location: 'http://ros.org/doc/electric/api/rviz_interaction_tools/tags/rviz_interaction_tools.tag',
+- {docs_url: ../../../api/rviz_interaction_tools/html, location: 'rviz_interaction_tools.tag',
   package: rviz_interaction_tools}
-- {docs_url: ../../../api/object_manipulation_msgs/html, location: 'http://ros.org/doc/electric/api/object_manipulation_msgs/tags/object_manipulation_msgs.tag',
+- {docs_url: ../../../api/object_manipulation_msgs/html, location: 'object_manipulation_msgs.tag',
   package: object_manipulation_msgs}
-- {docs_url: ../../../api/object_manipulator/html, location: 'http://ros.org/doc/electric/api/object_manipulator/tags/object_manipulator.tag',
+- {docs_url: ../../../api/object_manipulator/html, location: 'object_manipulator.tag',
   package: object_manipulator}
-- {docs_url: ../../../api/point_cloud_server/html, location: 'http://ros.org/doc/electric/api/point_cloud_server/tags/point_cloud_server.tag',
+- {docs_url: ../../../api/point_cloud_server/html, location: 'point_cloud_server.tag',
   package: point_cloud_server}
-- {docs_url: ../../../api/interactive_marker_helpers/html, location: 'http://ros.org/doc/electric/api/interactive_marker_helpers/tags/interactive_marker_helpers.tag',
+- {docs_url: ../../../api/interactive_marker_helpers/html, location: 'interactive_marker_helpers.tag',
   package: interactive_marker_helpers}
-- {docs_url: ../../../api/household_objects_database/html, location: 'http://ros.org/doc/electric/api/household_objects_database/tags/household_objects_database.tag',
+- {docs_url: ../../../api/household_objects_database/html, location: 'household_objects_database.tag',
   package: household_objects_database}
-- {docs_url: ../../../api/bayesian_grasp_planner/html, location: 'http://ros.org/doc/electric/api/bayesian_grasp_planner/tags/bayesian_grasp_planner.tag',
+- {docs_url: ../../../api/bayesian_grasp_planner/html, location: 'bayesian_grasp_planner.tag',
   package: bayesian_grasp_planner}
-- {docs_url: ../../../api/static_transform_broadcaster/html, location: 'http://ros.org/doc/electric/api/static_transform_broadcaster/tags/static_transform_broadcaster.tag',
+- {docs_url: ../../../api/static_transform_broadcaster/html, location: 'static_transform_broadcaster.tag',
   package: static_transform_broadcaster}
-- {docs_url: ../../../api/probabilistic_grasp_planner/html, location: 'http://ros.org/doc/electric/api/probabilistic_grasp_planner/tags/probabilistic_grasp_planner.tag',
+- {docs_url: ../../../api/probabilistic_grasp_planner/html, location: 'probabilistic_grasp_planner.tag',
   package: probabilistic_grasp_planner}

@@ -1,12 +1,12 @@
-- {docs_url: ../../../api/spacenav/html, location: 'http://ros.org/doc/electric/api/spacenav/tags/spacenav.tag',
+- {docs_url: ../../../api/spacenav/html, location: 'spacenav.tag',
   package: spacenav}
-- {docs_url: ../../../api/spacenav_node/html, location: 'http://ros.org/doc/electric/api/spacenav_node/tags/spacenav_node.tag',
+- {docs_url: ../../../api/spacenav_node/html, location: 'spacenav_node.tag',
   package: spacenav_node}
-- {docs_url: ../../../api/joy/html, location: 'http://ros.org/doc/electric/api/joy/tags/joy.tag',
+- {docs_url: ../../../api/joy/html, location: 'joy.tag',
   package: joy}
-- {docs_url: ../../../api/cwiid/html, location: 'http://ros.org/doc/electric/api/cwiid/tags/cwiid.tag',
+- {docs_url: ../../../api/cwiid/html, location: 'cwiid.tag',
   package: cwiid}
-- {docs_url: ../../../api/ps3joy/html, location: 'http://ros.org/doc/electric/api/ps3joy/tags/ps3joy.tag',
+- {docs_url: ../../../api/ps3joy/html, location: 'ps3joy.tag',
   package: ps3joy}
-- {docs_url: ../../../api/wiimote/html, location: 'http://ros.org/doc/electric/api/wiimote/tags/wiimote.tag',
+- {docs_url: ../../../api/wiimote/html, location: 'wiimote.tag',
   package: wiimote}

@@ -1,4 +1,4 @@
-- {docs_url: ../../../api/ogre/html, location: 'http://ros.org/doc/electric/api/ogre/tags/ogre.tag',
+- {docs_url: ../../../api/ogre/html, location: 'ogre.tag',
   package: ogre}
-- {docs_url: ../../../api/ogre_tools/html, location: 'http://ros.org/doc/electric/api/ogre_tools/tags/ogre_tools.tag',
+- {docs_url: ../../../api/ogre_tools/html, location: 'ogre_tools.tag',
   package: ogre_tools}

@@ -1,6 +1,6 @@
-- {docs_url: ../../../api/velodyne_msgs/html, location: 'http://ros.org/doc/electric/api/velodyne_msgs/tags/velodyne_msgs.tag',
+- {docs_url: ../../../api/velodyne_msgs/html, location: 'velodyne_msgs.tag',
   package: velodyne_msgs}
-- {docs_url: ../../../api/velodyne_driver/html, location: 'http://ros.org/doc/electric/api/velodyne_driver/tags/velodyne_driver.tag',
+- {docs_url: ../../../api/velodyne_driver/html, location: 'velodyne_driver.tag',
   package: velodyne_driver}
-- {docs_url: ../../../api/velodyne_pointcloud/html, location: 'http://ros.org/doc/electric/api/velodyne_pointcloud/tags/velodyne_pointcloud.tag',
+- {docs_url: ../../../api/velodyne_pointcloud/html, location: 'velodyne_pointcloud.tag',
   package: velodyne_pointcloud}

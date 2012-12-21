@@ -1,4 +1,4 @@
-- {docs_url: ../../../api/small/html, location: 'http://ros.org/doc/electric/api/small/tags/small.tag',
+- {docs_url: ../../../api/small/html, location: 'small.tag',
   package: small}
-- {docs_url: ../../../api/mdl_slm/html, location: 'http://ros.org/doc/electric/api/mdl_slm/tags/mdl_slm.tag',
+- {docs_url: ../../../api/mdl_slm/html, location: 'mdl_slm.tag',
   package: mdl_slm}

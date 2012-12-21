@@ -1,6 +1,6 @@
-- {docs_url: ../../../api/rosjava_jni/html, location: 'http://ros.org/doc/electric/api/rosjava_jni/tags/rosjava_jni.tag',
+- {docs_url: ../../../api/rosjava_jni/html, location: 'rosjava_jni.tag',
   package: rosjava_jni}
-- {docs_url: ../../../api/tfjava/html, location: 'http://ros.org/doc/electric/api/tfjava/tags/tfjava.tag',
+- {docs_url: ../../../api/tfjava/html, location: 'tfjava.tag',
   package: tfjava}
-- {docs_url: ../../../api/test_rosjava_jni/html, location: 'http://ros.org/doc/electric/api/test_rosjava_jni/tags/test_rosjava_jni.tag',
+- {docs_url: ../../../api/test_rosjava_jni/html, location: 'test_rosjava_jni.tag',
   package: test_rosjava_jni}

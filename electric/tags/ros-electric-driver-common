@@ -1,4 +1,4 @@
-- {docs_url: ../../../api/driver_base/html, location: 'http://ros.org/doc/electric/api/driver_base/tags/driver_base.tag',
+- {docs_url: ../../../api/driver_base/html, location: 'driver_base.tag',
   package: driver_base}
-- {docs_url: ../../../api/timestamp_tools/html, location: 'http://ros.org/doc/electric/api/timestamp_tools/tags/timestamp_tools.tag',
+- {docs_url: ../../../api/timestamp_tools/html, location: 'timestamp_tools.tag',
   package: timestamp_tools}

@@ -1,12 +1,12 @@
-- {docs_url: ../../../api/application_msgs/html, location: 'http://ros.org/doc/electric/api/application_msgs/tags/application_msgs.tag',
+- {docs_url: ../../../api/application_msgs/html, location: 'application_msgs.tag',
   package: application_msgs}
-- {docs_url: ../../../api/application_client/html, location: 'http://ros.org/doc/electric/api/application_client/tags/application_client.tag',
+- {docs_url: ../../../api/application_client/html, location: 'application_client.tag',
   package: application_client}
-- {docs_url: ../../../api/application_manager/html, location: 'http://ros.org/doc/electric/api/application_manager/tags/application_manager.tag',
+- {docs_url: ../../../api/application_manager/html, location: 'application_manager.tag',
   package: application_manager}
-- {docs_url: ../../../api/dummy_applications/html, location: 'http://ros.org/doc/electric/api/dummy_applications/tags/dummy_applications.tag',
+- {docs_url: ../../../api/dummy_applications/html, location: 'dummy_applications.tag',
   package: dummy_applications}
-- {docs_url: ../../../api/ui_responder/html, location: 'http://ros.org/doc/electric/api/ui_responder/tags/ui_responder.tag',
+- {docs_url: ../../../api/ui_responder/html, location: 'ui_responder.tag',
   package: ui_responder}
-- {docs_url: ../../../api/ui_preempter/html, location: 'http://ros.org/doc/electric/api/ui_preempter/tags/ui_preempter.tag',
+- {docs_url: ../../../api/ui_preempter/html, location: 'ui_preempter.tag',
   package: ui_preempter}

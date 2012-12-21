@@ -1,8 +1,8 @@
-- {docs_url: ../../../api/cminpack/html, location: 'http://ros.org/doc/electric/api/cminpack/tags/cminpack.tag',
+- {docs_url: ../../../api/cminpack/html, location: 'cminpack.tag',
   package: cminpack}
-- {docs_url: ../../../api/flann/html, location: 'http://ros.org/doc/electric/api/flann/tags/flann.tag',
+- {docs_url: ../../../api/flann/html, location: 'flann.tag',
   package: flann}
-- {docs_url: ../../../api/pcl/html, location: 'http://ros.org/doc/electric/api/pcl/tags/pcl.tag',
+- {docs_url: ../../../api/pcl/html, location: 'pcl.tag',
   package: pcl}
-- {docs_url: ../../../api/pcl_ros/html, location: 'http://ros.org/doc/electric/api/pcl_ros/tags/pcl_ros.tag',
+- {docs_url: ../../../api/pcl_ros/html, location: 'pcl_ros.tag',
   package: pcl_ros}

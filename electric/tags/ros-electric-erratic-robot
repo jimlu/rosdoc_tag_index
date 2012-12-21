@@ -1,14 +1,14 @@
-- {docs_url: ../../../api/player/html, location: 'http://ros.org/doc/electric/api/player/tags/player.tag',
+- {docs_url: ../../../api/player/html, location: 'player.tag',
   package: player}
-- {docs_url: ../../../api/erratic_player/html, location: 'http://ros.org/doc/electric/api/erratic_player/tags/erratic_player.tag',
+- {docs_url: ../../../api/erratic_player/html, location: 'erratic_player.tag',
   package: erratic_player}
-- {docs_url: ../../../api/erratic_gazebo_plugins/html, location: 'http://ros.org/doc/electric/api/erratic_gazebo_plugins/tags/erratic_gazebo_plugins.tag',
+- {docs_url: ../../../api/erratic_gazebo_plugins/html, location: 'erratic_gazebo_plugins.tag',
   package: erratic_gazebo_plugins}
-- {docs_url: ../../../api/erratic_description/html, location: 'http://ros.org/doc/electric/api/erratic_description/tags/erratic_description.tag',
+- {docs_url: ../../../api/erratic_description/html, location: 'erratic_description.tag',
   package: erratic_description}
-- {docs_url: ../../../api/erratic_navigation/html, location: 'http://ros.org/doc/electric/api/erratic_navigation/tags/erratic_navigation.tag',
+- {docs_url: ../../../api/erratic_navigation/html, location: 'erratic_navigation.tag',
   package: erratic_navigation}
-- {docs_url: ../../../api/erratic_navigation_apps/html, location: 'http://ros.org/doc/electric/api/erratic_navigation_apps/tags/erratic_navigation_apps.tag',
+- {docs_url: ../../../api/erratic_navigation_apps/html, location: 'erratic_navigation_apps.tag',
   package: erratic_navigation_apps}
-- {docs_url: ../../../api/erratic_teleop/html, location: 'http://ros.org/doc/electric/api/erratic_teleop/tags/erratic_teleop.tag',
+- {docs_url: ../../../api/erratic_teleop/html, location: 'erratic_teleop.tag',
   package: erratic_teleop}

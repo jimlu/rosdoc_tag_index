@@ -1,32 +1,32 @@
-- {docs_url: ../../../api/calibration_msgs/html, location: 'http://ros.org/doc/electric/api/calibration_msgs/tags/calibration_msgs.tag',
+- {docs_url: ../../../api/calibration_msgs/html, location: 'calibration_msgs.tag',
   package: calibration_msgs}
-- {docs_url: ../../../api/settlerlib/html, location: 'http://ros.org/doc/electric/api/settlerlib/tags/settlerlib.tag',
+- {docs_url: ../../../api/settlerlib/html, location: 'settlerlib.tag',
   package: settlerlib}
-- {docs_url: ../../../api/joint_states_settler/html, location: 'http://ros.org/doc/electric/api/joint_states_settler/tags/joint_states_settler.tag',
+- {docs_url: ../../../api/joint_states_settler/html, location: 'joint_states_settler.tag',
   package: joint_states_settler}
-- {docs_url: ../../../api/laser_joint_processor/html, location: 'http://ros.org/doc/electric/api/laser_joint_processor/tags/laser_joint_processor.tag',
+- {docs_url: ../../../api/laser_joint_processor/html, location: 'laser_joint_processor.tag',
   package: laser_joint_processor}
-- {docs_url: ../../../api/laser_cb_detector/html, location: 'http://ros.org/doc/electric/api/laser_cb_detector/tags/laser_cb_detector.tag',
+- {docs_url: ../../../api/laser_cb_detector/html, location: 'laser_cb_detector.tag',
   package: laser_cb_detector}
-- {docs_url: ../../../api/laser_joint_projector/html, location: 'http://ros.org/doc/electric/api/laser_joint_projector/tags/laser_joint_projector.tag',
+- {docs_url: ../../../api/laser_joint_projector/html, location: 'laser_joint_projector.tag',
   package: laser_joint_projector}
-- {docs_url: ../../../api/image_cb_detector/html, location: 'http://ros.org/doc/electric/api/image_cb_detector/tags/image_cb_detector.tag',
+- {docs_url: ../../../api/image_cb_detector/html, location: 'image_cb_detector.tag',
   package: image_cb_detector}
-- {docs_url: ../../../api/dense_laser_assembler/html, location: 'http://ros.org/doc/electric/api/dense_laser_assembler/tags/dense_laser_assembler.tag',
+- {docs_url: ../../../api/dense_laser_assembler/html, location: 'dense_laser_assembler.tag',
   package: dense_laser_assembler}
-- {docs_url: ../../../api/pr2_dense_laser_snapshotter/html, location: 'http://ros.org/doc/electric/api/pr2_dense_laser_snapshotter/tags/pr2_dense_laser_snapshotter.tag',
+- {docs_url: ../../../api/pr2_dense_laser_snapshotter/html, location: 'pr2_dense_laser_snapshotter.tag',
   package: pr2_dense_laser_snapshotter}
-- {docs_url: ../../../api/interval_intersection/html, location: 'http://ros.org/doc/electric/api/interval_intersection/tags/interval_intersection.tag',
+- {docs_url: ../../../api/interval_intersection/html, location: 'interval_intersection.tag',
   package: interval_intersection}
-- {docs_url: ../../../api/monocam_settler/html, location: 'http://ros.org/doc/electric/api/monocam_settler/tags/monocam_settler.tag',
+- {docs_url: ../../../api/monocam_settler/html, location: 'monocam_settler.tag',
   package: monocam_settler}
-- {docs_url: ../../../api/pr2_calibration_executive/html, location: 'http://ros.org/doc/electric/api/pr2_calibration_executive/tags/pr2_calibration_executive.tag',
+- {docs_url: ../../../api/pr2_calibration_executive/html, location: 'pr2_calibration_executive.tag',
   package: pr2_calibration_executive}
-- {docs_url: ../../../api/pr2_calibration_estimation/html, location: 'http://ros.org/doc/electric/api/pr2_calibration_estimation/tags/pr2_calibration_estimation.tag',
+- {docs_url: ../../../api/pr2_calibration_estimation/html, location: 'pr2_calibration_estimation.tag',
   package: pr2_calibration_estimation}
-- {docs_url: ../../../api/pr2_calibration_launch/html, location: 'http://ros.org/doc/electric/api/pr2_calibration_launch/tags/pr2_calibration_launch.tag',
+- {docs_url: ../../../api/pr2_calibration_launch/html, location: 'pr2_calibration_launch.tag',
   package: pr2_calibration_launch}
-- {docs_url: ../../../api/pr2_se_calibration_launch/html, location: 'http://ros.org/doc/electric/api/pr2_se_calibration_launch/tags/pr2_se_calibration_launch.tag',
+- {docs_url: ../../../api/pr2_se_calibration_launch/html, location: 'pr2_se_calibration_launch.tag',
   package: pr2_se_calibration_launch}
-- {docs_url: ../../../api/pr2_calibration_propagation/html, location: 'http://ros.org/doc/electric/api/pr2_calibration_propagation/tags/pr2_calibration_propagation.tag',
+- {docs_url: ../../../api/pr2_calibration_propagation/html, location: 'pr2_calibration_propagation.tag',
   package: pr2_calibration_propagation}

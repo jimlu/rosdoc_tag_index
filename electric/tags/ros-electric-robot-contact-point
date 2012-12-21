@@ -1,4 +1,4 @@
-- {docs_url: ../../../api/rcpdf_interface/html, location: 'http://ros.org/doc/electric/api/rcpdf_interface/tags/rcpdf_interface.tag',
+- {docs_url: ../../../api/rcpdf_interface/html, location: 'rcpdf_interface.tag',
   package: rcpdf_interface}
-- {docs_url: ../../../api/rcpdf/html, location: 'http://ros.org/doc/electric/api/rcpdf/tags/rcpdf.tag',
+- {docs_url: ../../../api/rcpdf/html, location: 'rcpdf.tag',
   package: rcpdf}

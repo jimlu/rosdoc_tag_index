@@ -1,8 +1,8 @@
-- {docs_url: ../../../api/rxbag_plugins/html, location: 'http://ros.org/doc/electric/api/rxbag_plugins/tags/rxbag_plugins.tag',
+- {docs_url: ../../../api/rxbag_plugins/html, location: 'rxbag_plugins.tag',
   package: rxbag_plugins}
-- {docs_url: ../../../api/interactive_markers/html, location: 'http://ros.org/doc/electric/api/interactive_markers/tags/interactive_markers.tag',
+- {docs_url: ../../../api/interactive_markers/html, location: 'interactive_markers.tag',
   package: interactive_markers}
-- {docs_url: ../../../api/wxpropgrid/html, location: 'http://ros.org/doc/electric/api/wxpropgrid/tags/wxpropgrid.tag',
+- {docs_url: ../../../api/wxpropgrid/html, location: 'wxpropgrid.tag',
   package: wxpropgrid}
-- {docs_url: ../../../api/rviz/html, location: 'http://ros.org/doc/electric/api/rviz/tags/rviz.tag',
+- {docs_url: ../../../api/rviz/html, location: 'rviz.tag',
   package: rviz}

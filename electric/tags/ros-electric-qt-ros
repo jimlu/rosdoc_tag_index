@@ -1,6 +1,6 @@
-- {docs_url: ../../../api/qt_build/html, location: 'http://ros.org/doc/electric/api/qt_build/tags/qt_build.tag',
+- {docs_url: ../../../api/qt_build/html, location: 'qt_build.tag',
   package: qt_build}
-- {docs_url: ../../../api/qt_tutorials/html, location: 'http://ros.org/doc/electric/api/qt_tutorials/tags/qt_tutorials.tag',
+- {docs_url: ../../../api/qt_tutorials/html, location: 'qt_tutorials.tag',
   package: qt_tutorials}
-- {docs_url: ../../../api/qt_create/html, location: 'http://ros.org/doc/electric/api/qt_create/tags/qt_create.tag',
+- {docs_url: ../../../api/qt_create/html, location: 'qt_create.tag',
   package: qt_create}

@@ -1,4 +1,4 @@
-- {docs_url: ../../../api/ogre_tools_qt/html, location: 'http://ros.org/doc/electric/api/ogre_tools_qt/tags/ogre_tools_qt.tag',
+- {docs_url: ../../../api/ogre_tools_qt/html, location: 'ogre_tools_qt.tag',
   package: ogre_tools_qt}
-- {docs_url: ../../../api/rviz_qt/html, location: 'http://ros.org/doc/electric/api/rviz_qt/tags/rviz_qt.tag',
+- {docs_url: ../../../api/rviz_qt/html, location: 'rviz_qt.tag',
   package: rviz_qt}

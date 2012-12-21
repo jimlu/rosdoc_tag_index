@@ -1,16 +1,16 @@
-- {docs_url: ../../../api/rtt_diagnostic_msgs/html, location: 'http://ros.org/doc/electric/api/rtt_diagnostic_msgs/tags/rtt_diagnostic_msgs.tag',
+- {docs_url: ../../../api/rtt_diagnostic_msgs/html, location: 'rtt_diagnostic_msgs.tag',
   package: rtt_diagnostic_msgs}
-- {docs_url: ../../../api/rtt_geometry_msgs/html, location: 'http://ros.org/doc/electric/api/rtt_geometry_msgs/tags/rtt_geometry_msgs.tag',
+- {docs_url: ../../../api/rtt_geometry_msgs/html, location: 'rtt_geometry_msgs.tag',
   package: rtt_geometry_msgs}
-- {docs_url: ../../../api/rtt_sensor_msgs/html, location: 'http://ros.org/doc/electric/api/rtt_sensor_msgs/tags/rtt_sensor_msgs.tag',
+- {docs_url: ../../../api/rtt_sensor_msgs/html, location: 'rtt_sensor_msgs.tag',
   package: rtt_sensor_msgs}
-- {docs_url: ../../../api/rtt_stereo_msgs/html, location: 'http://ros.org/doc/electric/api/rtt_stereo_msgs/tags/rtt_stereo_msgs.tag',
+- {docs_url: ../../../api/rtt_stereo_msgs/html, location: 'rtt_stereo_msgs.tag',
   package: rtt_stereo_msgs}
-- {docs_url: ../../../api/rtt_visualization_msgs/html, location: 'http://ros.org/doc/electric/api/rtt_visualization_msgs/tags/rtt_visualization_msgs.tag',
+- {docs_url: ../../../api/rtt_visualization_msgs/html, location: 'rtt_visualization_msgs.tag',
   package: rtt_visualization_msgs}
-- {docs_url: ../../../api/rtt_nav_msgs/html, location: 'http://ros.org/doc/electric/api/rtt_nav_msgs/tags/rtt_nav_msgs.tag',
+- {docs_url: ../../../api/rtt_nav_msgs/html, location: 'rtt_nav_msgs.tag',
   package: rtt_nav_msgs}
-- {docs_url: ../../../api/rtt_actionlib_msgs/html, location: 'http://ros.org/doc/electric/api/rtt_actionlib_msgs/tags/rtt_actionlib_msgs.tag',
+- {docs_url: ../../../api/rtt_actionlib_msgs/html, location: 'rtt_actionlib_msgs.tag',
   package: rtt_actionlib_msgs}
-- {docs_url: ../../../api/rtt_trajectory_msgs/html, location: 'http://ros.org/doc/electric/api/rtt_trajectory_msgs/tags/rtt_trajectory_msgs.tag',
+- {docs_url: ../../../api/rtt_trajectory_msgs/html, location: 'rtt_trajectory_msgs.tag',
   package: rtt_trajectory_msgs}

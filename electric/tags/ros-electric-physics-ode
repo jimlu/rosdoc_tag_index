@@ -1,4 +1,4 @@
-- {docs_url: ../../../api/opende/html, location: 'http://ros.org/doc/electric/api/opende/tags/opende.tag',
+- {docs_url: ../../../api/opende/html, location: 'opende.tag',
   package: opende}
-- {docs_url: ../../../api/parallel_quickstep/html, location: 'http://ros.org/doc/electric/api/parallel_quickstep/tags/parallel_quickstep.tag',
+- {docs_url: ../../../api/parallel_quickstep/html, location: 'parallel_quickstep.tag',
   package: parallel_quickstep}

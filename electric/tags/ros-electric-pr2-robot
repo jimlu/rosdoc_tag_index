@@ -1,14 +1,14 @@
-- {docs_url: ../../../api/pr2_etherCAT/html, location: 'http://ros.org/doc/electric/api/pr2_etherCAT/tags/pr2_etherCAT.tag',
+- {docs_url: ../../../api/pr2_etherCAT/html, location: 'pr2_etherCAT.tag',
   package: pr2_etherCAT}
-- {docs_url: ../../../api/pr2_controller_configuration/html, location: 'http://ros.org/doc/electric/api/pr2_controller_configuration/tags/pr2_controller_configuration.tag',
+- {docs_url: ../../../api/pr2_controller_configuration/html, location: 'pr2_controller_configuration.tag',
   package: pr2_controller_configuration}
-- {docs_url: ../../../api/pr2_camera_synchronizer/html, location: 'http://ros.org/doc/electric/api/pr2_camera_synchronizer/tags/pr2_camera_synchronizer.tag',
+- {docs_url: ../../../api/pr2_camera_synchronizer/html, location: 'pr2_camera_synchronizer.tag',
   package: pr2_camera_synchronizer}
-- {docs_url: ../../../api/imu_monitor/html, location: 'http://ros.org/doc/electric/api/imu_monitor/tags/imu_monitor.tag',
+- {docs_url: ../../../api/imu_monitor/html, location: 'imu_monitor.tag',
   package: imu_monitor}
-- {docs_url: ../../../api/pr2_run_stop_auto_restart/html, location: 'http://ros.org/doc/electric/api/pr2_run_stop_auto_restart/tags/pr2_run_stop_auto_restart.tag',
+- {docs_url: ../../../api/pr2_run_stop_auto_restart/html, location: 'pr2_run_stop_auto_restart.tag',
   package: pr2_run_stop_auto_restart}
-- {docs_url: ../../../api/pr2_computer_monitor/html, location: 'http://ros.org/doc/electric/api/pr2_computer_monitor/tags/pr2_computer_monitor.tag',
+- {docs_url: ../../../api/pr2_computer_monitor/html, location: 'pr2_computer_monitor.tag',
   package: pr2_computer_monitor}
-- {docs_url: ../../../api/pr2_bringup/html, location: 'http://ros.org/doc/electric/api/pr2_bringup/tags/pr2_bringup.tag',
+- {docs_url: ../../../api/pr2_bringup/html, location: 'pr2_bringup.tag',
   package: pr2_bringup}

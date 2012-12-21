@@ -1,6 +1,6 @@
-- {docs_url: ../../../api/roswiki/html, location: 'http://ros.org/doc/electric/api/roswiki/tags/roswiki.tag',
+- {docs_url: ../../../api/roswiki/html, location: 'roswiki.tag',
   package: roswiki}
-- {docs_url: ../../../api/rosdoc_rosorg/html, location: 'http://ros.org/doc/electric/api/rosdoc_rosorg/tags/rosdoc_rosorg.tag',
+- {docs_url: ../../../api/rosdoc_rosorg/html, location: 'rosdoc_rosorg.tag',
   package: rosdoc_rosorg}
-- {docs_url: ../../../api/rosbrowse/html, location: 'http://ros.org/doc/electric/api/rosbrowse/tags/rosbrowse.tag',
+- {docs_url: ../../../api/rosbrowse/html, location: 'rosbrowse.tag',
   package: rosbrowse}

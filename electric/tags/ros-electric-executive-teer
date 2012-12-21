@@ -1,4 +1,4 @@
-- {docs_url: ../../../api/teer_ros/html, location: 'http://ros.org/doc/electric/api/teer_ros/tags/teer_ros.tag',
+- {docs_url: ../../../api/teer_ros/html, location: 'teer_ros.tag',
   package: teer_ros}
-- {docs_url: ../../../api/teer_example_turtle/html, location: 'http://ros.org/doc/electric/api/teer_example_turtle/tags/teer_example_turtle.tag',
+- {docs_url: ../../../api/teer_example_turtle/html, location: 'teer_example_turtle.tag',
   package: teer_example_turtle}

@@ -1,12 +1,12 @@
-- {docs_url: ../../../api/rosserial_msgs/html, location: 'http://ros.org/doc/electric/api/rosserial_msgs/tags/rosserial_msgs.tag',
+- {docs_url: ../../../api/rosserial_msgs/html, location: 'rosserial_msgs.tag',
   package: rosserial_msgs}
-- {docs_url: ../../../api/rosserial_python/html, location: 'http://ros.org/doc/electric/api/rosserial_python/tags/rosserial_python.tag',
+- {docs_url: ../../../api/rosserial_python/html, location: 'rosserial_python.tag',
   package: rosserial_python}
-- {docs_url: ../../../api/rosserial_xbee/html, location: 'http://ros.org/doc/electric/api/rosserial_xbee/tags/rosserial_xbee.tag',
+- {docs_url: ../../../api/rosserial_xbee/html, location: 'rosserial_xbee.tag',
   package: rosserial_xbee}
-- {docs_url: ../../../api/rosserial_client/html, location: 'http://ros.org/doc/electric/api/rosserial_client/tags/rosserial_client.tag',
+- {docs_url: ../../../api/rosserial_client/html, location: 'rosserial_client.tag',
   package: rosserial_client}
-- {docs_url: ../../../api/rosserial_arduino/html, location: 'http://ros.org/doc/electric/api/rosserial_arduino/tags/rosserial_arduino.tag',
+- {docs_url: ../../../api/rosserial_arduino/html, location: 'rosserial_arduino.tag',
   package: rosserial_arduino}
-- {docs_url: ../../../api/rosserial_embeddedlinux/html, location: 'http://ros.org/doc/electric/api/rosserial_embeddedlinux/tags/rosserial_embeddedlinux.tag',
+- {docs_url: ../../../api/rosserial_embeddedlinux/html, location: 'rosserial_embeddedlinux.tag',
   package: rosserial_embeddedlinux}

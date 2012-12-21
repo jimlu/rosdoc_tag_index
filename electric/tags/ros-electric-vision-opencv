@@ -1,10 +1,10 @@
-- {docs_url: ../../../api/opencv2/html, location: 'http://ros.org/doc/electric/api/opencv2/tags/opencv2.tag',
+- {docs_url: ../../../api/opencv2/html, location: 'opencv2.tag',
   package: opencv2}
-- {docs_url: ../../../api/cv_bridge/html, location: 'http://ros.org/doc/electric/api/cv_bridge/tags/cv_bridge.tag',
+- {docs_url: ../../../api/cv_bridge/html, location: 'cv_bridge.tag',
   package: cv_bridge}
-- {docs_url: ../../../api/opencv_tests/html, location: 'http://ros.org/doc/electric/api/opencv_tests/tags/opencv_tests.tag',
+- {docs_url: ../../../api/opencv_tests/html, location: 'opencv_tests.tag',
   package: opencv_tests}
-- {docs_url: ../../../api/image_geometry/html, location: 'http://ros.org/doc/electric/api/image_geometry/tags/image_geometry.tag',
+- {docs_url: ../../../api/image_geometry/html, location: 'image_geometry.tag',
   package: image_geometry}
-- {docs_url: ../../../api/cv_markers/html, location: 'http://ros.org/doc/electric/api/cv_markers/tags/cv_markers.tag',
+- {docs_url: ../../../api/cv_markers/html, location: 'cv_markers.tag',
   package: cv_markers}

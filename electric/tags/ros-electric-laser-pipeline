@@ -1,6 +1,6 @@
-- {docs_url: ../../../api/laser_geometry/html, location: 'http://ros.org/doc/electric/api/laser_geometry/tags/laser_geometry.tag',
+- {docs_url: ../../../api/laser_geometry/html, location: 'laser_geometry.tag',
   package: laser_geometry}
-- {docs_url: ../../../api/laser_filters/html, location: 'http://ros.org/doc/electric/api/laser_filters/tags/laser_filters.tag',
+- {docs_url: ../../../api/laser_filters/html, location: 'laser_filters.tag',
   package: laser_filters}
-- {docs_url: ../../../api/laser_assembler/html, location: 'http://ros.org/doc/electric/api/laser_assembler/tags/laser_assembler.tag',
+- {docs_url: ../../../api/laser_assembler/html, location: 'laser_assembler.tag',
   package: laser_assembler}

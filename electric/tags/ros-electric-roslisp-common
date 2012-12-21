@@ -1,8 +1,8 @@
-- {docs_url: ../../../api/cl_utils/html, location: 'http://ros.org/doc/electric/api/cl_utils/tags/cl_utils.tag',
+- {docs_url: ../../../api/cl_utils/html, location: 'cl_utils.tag',
   package: cl_utils}
-- {docs_url: ../../../api/actionlib_lisp/html, location: 'http://ros.org/doc/electric/api/actionlib_lisp/tags/actionlib_lisp.tag',
+- {docs_url: ../../../api/actionlib_lisp/html, location: 'actionlib_lisp.tag',
   package: actionlib_lisp}
-- {docs_url: ../../../api/cl_transforms/html, location: 'http://ros.org/doc/electric/api/cl_transforms/tags/cl_transforms.tag',
+- {docs_url: ../../../api/cl_transforms/html, location: 'cl_transforms.tag',
   package: cl_transforms}
-- {docs_url: ../../../api/cl_tf/html, location: 'http://ros.org/doc/electric/api/cl_tf/tags/cl_tf.tag',
+- {docs_url: ../../../api/cl_tf/html, location: 'cl_tf.tag',
   package: cl_tf}

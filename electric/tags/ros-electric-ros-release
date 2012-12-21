@@ -1,6 +1,6 @@
-- {docs_url: ../../../api/job_generation/html, location: 'http://ros.org/doc/electric/api/job_generation/tags/job_generation.tag',
+- {docs_url: ../../../api/job_generation/html, location: 'job_generation.tag',
   package: job_generation}
-- {docs_url: ../../../api/release/html, location: 'http://ros.org/doc/electric/api/release/tags/release.tag',
+- {docs_url: ../../../api/release/html, location: 'release.tag',
   package: release}
-- {docs_url: ../../../api/isogenerator/html, location: 'http://ros.org/doc/electric/api/isogenerator/tags/isogenerator.tag',
+- {docs_url: ../../../api/isogenerator/html, location: 'isogenerator.tag',
   package: isogenerator}

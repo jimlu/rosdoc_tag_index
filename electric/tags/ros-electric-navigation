@@ -1,32 +1,32 @@
-- {docs_url: ../../../api/voxel_grid/html, location: 'http://ros.org/doc/electric/api/voxel_grid/tags/voxel_grid.tag',
+- {docs_url: ../../../api/voxel_grid/html, location: 'voxel_grid.tag',
   package: voxel_grid}
-- {docs_url: ../../../api/map_server/html, location: 'http://ros.org/doc/electric/api/map_server/tags/map_server.tag',
+- {docs_url: ../../../api/map_server/html, location: 'map_server.tag',
   package: map_server}
-- {docs_url: ../../../api/costmap_2d/html, location: 'http://ros.org/doc/electric/api/costmap_2d/tags/costmap_2d.tag',
+- {docs_url: ../../../api/costmap_2d/html, location: 'costmap_2d.tag',
   package: costmap_2d}
-- {docs_url: ../../../api/nav_core/html, location: 'http://ros.org/doc/electric/api/nav_core/tags/nav_core.tag',
+- {docs_url: ../../../api/nav_core/html, location: 'nav_core.tag',
   package: nav_core}
-- {docs_url: ../../../api/base_local_planner/html, location: 'http://ros.org/doc/electric/api/base_local_planner/tags/base_local_planner.tag',
+- {docs_url: ../../../api/base_local_planner/html, location: 'base_local_planner.tag',
   package: base_local_planner}
-- {docs_url: ../../../api/move_base_msgs/html, location: 'http://ros.org/doc/electric/api/move_base_msgs/tags/move_base_msgs.tag',
+- {docs_url: ../../../api/move_base_msgs/html, location: 'move_base_msgs.tag',
   package: move_base_msgs}
-- {docs_url: ../../../api/rotate_recovery/html, location: 'http://ros.org/doc/electric/api/rotate_recovery/tags/rotate_recovery.tag',
+- {docs_url: ../../../api/rotate_recovery/html, location: 'rotate_recovery.tag',
   package: rotate_recovery}
-- {docs_url: ../../../api/clear_costmap_recovery/html, location: 'http://ros.org/doc/electric/api/clear_costmap_recovery/tags/clear_costmap_recovery.tag',
+- {docs_url: ../../../api/clear_costmap_recovery/html, location: 'clear_costmap_recovery.tag',
   package: clear_costmap_recovery}
-- {docs_url: ../../../api/navfn/html, location: 'http://ros.org/doc/electric/api/navfn/tags/navfn.tag',
+- {docs_url: ../../../api/navfn/html, location: 'navfn.tag',
   package: navfn}
-- {docs_url: ../../../api/move_base/html, location: 'http://ros.org/doc/electric/api/move_base/tags/move_base.tag',
+- {docs_url: ../../../api/move_base/html, location: 'move_base.tag',
   package: move_base}
-- {docs_url: ../../../api/dwa_local_planner/html, location: 'http://ros.org/doc/electric/api/dwa_local_planner/tags/dwa_local_planner.tag',
+- {docs_url: ../../../api/dwa_local_planner/html, location: 'dwa_local_planner.tag',
   package: dwa_local_planner}
-- {docs_url: ../../../api/carrot_planner/html, location: 'http://ros.org/doc/electric/api/carrot_planner/tags/carrot_planner.tag',
+- {docs_url: ../../../api/carrot_planner/html, location: 'carrot_planner.tag',
   package: carrot_planner}
-- {docs_url: ../../../api/robot_pose_ekf/html, location: 'http://ros.org/doc/electric/api/robot_pose_ekf/tags/robot_pose_ekf.tag',
+- {docs_url: ../../../api/robot_pose_ekf/html, location: 'robot_pose_ekf.tag',
   package: robot_pose_ekf}
-- {docs_url: ../../../api/fake_localization/html, location: 'http://ros.org/doc/electric/api/fake_localization/tags/fake_localization.tag',
+- {docs_url: ../../../api/fake_localization/html, location: 'fake_localization.tag',
   package: fake_localization}
-- {docs_url: ../../../api/move_slow_and_clear/html, location: 'http://ros.org/doc/electric/api/move_slow_and_clear/tags/move_slow_and_clear.tag',
+- {docs_url: ../../../api/move_slow_and_clear/html, location: 'move_slow_and_clear.tag',
   package: move_slow_and_clear}
-- {docs_url: ../../../api/amcl/html, location: 'http://ros.org/doc/electric/api/amcl/tags/amcl.tag',
+- {docs_url: ../../../api/amcl/html, location: 'amcl.tag',
   package: amcl}

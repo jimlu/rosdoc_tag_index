@@ -1,6 +1,6 @@
-- {docs_url: ../../../api/test_collision_space/html, location: 'http://ros.org/doc/electric/api/test_collision_space/tags/test_collision_space.tag',
+- {docs_url: ../../../api/test_collision_space/html, location: 'test_collision_space.tag',
   package: test_collision_space}
-- {docs_url: ../../../api/pr2_arm_ik_tests/html, location: 'http://ros.org/doc/electric/api/pr2_arm_ik_tests/tags/pr2_arm_ik_tests.tag',
+- {docs_url: ../../../api/pr2_arm_ik_tests/html, location: 'pr2_arm_ik_tests.tag',
   package: pr2_arm_ik_tests}
-- {docs_url: ../../../api/arm_navigation_tests/html, location: 'http://ros.org/doc/electric/api/arm_navigation_tests/tags/arm_navigation_tests.tag',
+- {docs_url: ../../../api/arm_navigation_tests/html, location: 'arm_navigation_tests.tag',
   package: arm_navigation_tests}

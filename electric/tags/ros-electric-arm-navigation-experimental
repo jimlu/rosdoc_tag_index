@@ -1,28 +1,28 @@
-- {docs_url: ../../../api/head_monitor_msgs/html, location: 'http://ros.org/doc/electric/api/head_monitor_msgs/tags/head_monitor_msgs.tag',
+- {docs_url: ../../../api/head_monitor_msgs/html, location: 'head_monitor_msgs.tag',
   package: head_monitor_msgs}
-- {docs_url: ../../../api/collider/html, location: 'http://ros.org/doc/electric/api/collider/tags/collider.tag',
+- {docs_url: ../../../api/collider/html, location: 'collider.tag',
   package: collider}
-- {docs_url: ../../../api/arm_navigation_experimental_tools/html, location: 'http://ros.org/doc/electric/api/arm_navigation_experimental_tools/tags/arm_navigation_experimental_tools.tag',
+- {docs_url: ../../../api/arm_navigation_experimental_tools/html, location: 'arm_navigation_experimental_tools.tag',
   package: arm_navigation_experimental_tools}
-- {docs_url: ../../../api/move_arm_head_monitor/html, location: 'http://ros.org/doc/electric/api/move_arm_head_monitor/tags/move_arm_head_monitor.tag',
+- {docs_url: ../../../api/move_arm_head_monitor/html, location: 'move_arm_head_monitor.tag',
   package: move_arm_head_monitor}
-- {docs_url: ../../../api/interpolated_ik_motion_planner/html, location: 'http://ros.org/doc/electric/api/interpolated_ik_motion_planner/tags/interpolated_ik_motion_planner.tag',
+- {docs_url: ../../../api/interpolated_ik_motion_planner/html, location: 'interpolated_ik_motion_planner.tag',
   package: interpolated_ik_motion_planner}
-- {docs_url: ../../../api/distance_field/html, location: 'http://ros.org/doc/electric/api/distance_field/tags/distance_field.tag',
+- {docs_url: ../../../api/distance_field/html, location: 'distance_field.tag',
   package: distance_field}
-- {docs_url: ../../../api/collision_proximity/html, location: 'http://ros.org/doc/electric/api/collision_proximity/tags/collision_proximity.tag',
+- {docs_url: ../../../api/collision_proximity/html, location: 'collision_proximity.tag',
   package: collision_proximity}
-- {docs_url: ../../../api/chomp_motion_planner/html, location: 'http://ros.org/doc/electric/api/chomp_motion_planner/tags/chomp_motion_planner.tag',
+- {docs_url: ../../../api/chomp_motion_planner/html, location: 'chomp_motion_planner.tag',
   package: chomp_motion_planner}
-- {docs_url: ../../../api/collision_checking/html, location: 'http://ros.org/doc/electric/api/collision_checking/tags/collision_checking.tag',
+- {docs_url: ../../../api/collision_checking/html, location: 'collision_checking.tag',
   package: collision_checking}
-- {docs_url: ../../../api/collision_space_ccd/html, location: 'http://ros.org/doc/electric/api/collision_space_ccd/tags/collision_space_ccd.tag',
+- {docs_url: ../../../api/collision_space_ccd/html, location: 'collision_space_ccd.tag',
   package: collision_space_ccd}
-- {docs_url: ../../../api/collision_space_ccd_test/html, location: 'http://ros.org/doc/electric/api/collision_space_ccd_test/tags/collision_space_ccd_test.tag',
+- {docs_url: ../../../api/collision_space_ccd_test/html, location: 'collision_space_ccd_test.tag',
   package: collision_space_ccd_test}
-- {docs_url: ../../../api/move_arm_warehouse/html, location: 'http://ros.org/doc/electric/api/move_arm_warehouse/tags/move_arm_warehouse.tag',
+- {docs_url: ../../../api/move_arm_warehouse/html, location: 'move_arm_warehouse.tag',
   package: move_arm_warehouse}
-- {docs_url: ../../../api/collision_free_arm_trajectory_controller/html, location: 'http://ros.org/doc/electric/api/collision_free_arm_trajectory_controller/tags/collision_free_arm_trajectory_controller.tag',
+- {docs_url: ../../../api/collision_free_arm_trajectory_controller/html, location: 'collision_free_arm_trajectory_controller.tag',
   package: collision_free_arm_trajectory_controller}
-- {docs_url: ../../../api/collision_proximity_planner/html, location: 'http://ros.org/doc/electric/api/collision_proximity_planner/tags/collision_proximity_planner.tag',
+- {docs_url: ../../../api/collision_proximity_planner/html, location: 'collision_proximity_planner.tag',
   package: collision_proximity_planner}

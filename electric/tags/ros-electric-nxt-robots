@@ -1,6 +1,6 @@
-- {docs_url: ../../../api/nxt_robot_gyro_car/html, location: 'http://ros.org/doc/electric/api/nxt_robot_gyro_car/tags/nxt_robot_gyro_car.tag',
+- {docs_url: ../../../api/nxt_robot_gyro_car/html, location: 'nxt_robot_gyro_car.tag',
   package: nxt_robot_gyro_car}
-- {docs_url: ../../../api/nxt_robot_sensor_car/html, location: 'http://ros.org/doc/electric/api/nxt_robot_sensor_car/tags/nxt_robot_sensor_car.tag',
+- {docs_url: ../../../api/nxt_robot_sensor_car/html, location: 'nxt_robot_sensor_car.tag',
   package: nxt_robot_sensor_car}
-- {docs_url: ../../../api/nxt_robot_kit_test/html, location: 'http://ros.org/doc/electric/api/nxt_robot_kit_test/tags/nxt_robot_kit_test.tag',
+- {docs_url: ../../../api/nxt_robot_kit_test/html, location: 'nxt_robot_kit_test.tag',
   package: nxt_robot_kit_test}

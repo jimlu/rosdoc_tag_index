@@ -1,2 +1,2 @@
-- {docs_url: ../../../api/rosdoc/html, location: 'http://ros.org/doc/electric/api/rosdoc/tags/rosdoc.tag',
+- {docs_url: ../../../api/rosdoc/html, location: 'rosdoc.tag',
   package: rosdoc}

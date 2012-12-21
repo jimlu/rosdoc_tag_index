@@ -1,76 +1,76 @@
-- {docs_url: ../../../api/cpp_common/html, location: 'http://ros.org/doc/electric/api/cpp_common/tags/cpp_common.tag',
+- {docs_url: ../../../api/cpp_common/html, location: 'cpp_common.tag',
   package: cpp_common}
-- {docs_url: ../../../api/rostime/html, location: 'http://ros.org/doc/electric/api/rostime/tags/rostime.tag',
+- {docs_url: ../../../api/rostime/html, location: 'rostime.tag',
   package: rostime}
-- {docs_url: ../../../api/rosconsole/html, location: 'http://ros.org/doc/electric/api/rosconsole/tags/rosconsole.tag',
+- {docs_url: ../../../api/rosconsole/html, location: 'rosconsole.tag',
   package: rosconsole}
-- {docs_url: ../../../api/roscpp_traits/html, location: 'http://ros.org/doc/electric/api/roscpp_traits/tags/roscpp_traits.tag',
+- {docs_url: ../../../api/roscpp_traits/html, location: 'roscpp_traits.tag',
   package: roscpp_traits}
-- {docs_url: ../../../api/roscpp_serialization/html, location: 'http://ros.org/doc/electric/api/roscpp_serialization/tags/roscpp_serialization.tag',
+- {docs_url: ../../../api/roscpp_serialization/html, location: 'roscpp_serialization.tag',
   package: roscpp_serialization}
-- {docs_url: ../../../api/std_msgs/html, location: 'http://ros.org/doc/electric/api/std_msgs/tags/std_msgs.tag',
+- {docs_url: ../../../api/std_msgs/html, location: 'std_msgs.tag',
   package: std_msgs}
-- {docs_url: ../../../api/xmlrpcpp/html, location: 'http://ros.org/doc/electric/api/xmlrpcpp/tags/xmlrpcpp.tag',
+- {docs_url: ../../../api/xmlrpcpp/html, location: 'xmlrpcpp.tag',
   package: xmlrpcpp}
-- {docs_url: ../../../api/rosgraph_msgs/html, location: 'http://ros.org/doc/electric/api/rosgraph_msgs/tags/rosgraph_msgs.tag',
+- {docs_url: ../../../api/rosgraph_msgs/html, location: 'rosgraph_msgs.tag',
   package: rosgraph_msgs}
-- {docs_url: ../../../api/roscpp/html, location: 'http://ros.org/doc/electric/api/roscpp/tags/roscpp.tag',
+- {docs_url: ../../../api/roscpp/html, location: 'roscpp.tag',
   package: roscpp}
-- {docs_url: ../../../api/test_roscpp_serialization/html, location: 'http://ros.org/doc/electric/api/test_roscpp_serialization/tags/test_roscpp_serialization.tag',
+- {docs_url: ../../../api/test_roscpp_serialization/html, location: 'test_roscpp_serialization.tag',
   package: test_roscpp_serialization}
-- {docs_url: ../../../api/rosout/html, location: 'http://ros.org/doc/electric/api/rosout/tags/rosout.tag',
+- {docs_url: ../../../api/rosout/html, location: 'rosout.tag',
   package: rosout}
-- {docs_url: ../../../api/topic_tools/html, location: 'http://ros.org/doc/electric/api/topic_tools/tags/topic_tools.tag',
+- {docs_url: ../../../api/topic_tools/html, location: 'topic_tools.tag',
   package: topic_tools}
-- {docs_url: ../../../api/rosbag/html, location: 'http://ros.org/doc/electric/api/rosbag/tags/rosbag.tag',
+- {docs_url: ../../../api/rosbag/html, location: 'rosbag.tag',
   package: rosbag}
-- {docs_url: ../../../api/test_ros/html, location: 'http://ros.org/doc/electric/api/test_ros/tags/test_ros.tag',
+- {docs_url: ../../../api/test_ros/html, location: 'test_ros.tag',
   package: test_ros}
-- {docs_url: ../../../api/test_roswtf/html, location: 'http://ros.org/doc/electric/api/test_roswtf/tags/test_roswtf.tag',
+- {docs_url: ../../../api/test_roswtf/html, location: 'test_roswtf.tag',
   package: test_roswtf}
-- {docs_url: ../../../api/test_roslaunch/html, location: 'http://ros.org/doc/electric/api/test_roslaunch/tags/test_roslaunch.tag',
+- {docs_url: ../../../api/test_roslaunch/html, location: 'test_roslaunch.tag',
   package: test_roslaunch}
-- {docs_url: ../../../api/test_rostest/html, location: 'http://ros.org/doc/electric/api/test_rostest/tags/test_rostest.tag',
+- {docs_url: ../../../api/test_rostest/html, location: 'test_rostest.tag',
   package: test_rostest}
-- {docs_url: ../../../api/test_crosspackage/html, location: 'http://ros.org/doc/electric/api/test_crosspackage/tags/test_crosspackage.tag',
+- {docs_url: ../../../api/test_crosspackage/html, location: 'test_crosspackage.tag',
   package: test_crosspackage}
-- {docs_url: ../../../api/test_rosgraph/html, location: 'http://ros.org/doc/electric/api/test_rosgraph/tags/test_rosgraph.tag',
+- {docs_url: ../../../api/test_rosgraph/html, location: 'test_rosgraph.tag',
   package: test_rosgraph}
-- {docs_url: ../../../api/test_roscpp_serialization_perf/html, location: 'http://ros.org/doc/electric/api/test_roscpp_serialization_perf/tags/test_roscpp_serialization_perf.tag',
+- {docs_url: ../../../api/test_roscpp_serialization_perf/html, location: 'test_roscpp_serialization_perf.tag',
   package: test_roscpp_serialization_perf}
-- {docs_url: ../../../api/std_srvs/html, location: 'http://ros.org/doc/electric/api/std_srvs/tags/std_srvs.tag',
+- {docs_url: ../../../api/std_srvs/html, location: 'std_srvs.tag',
   package: std_srvs}
-- {docs_url: ../../../api/test_roscpp/html, location: 'http://ros.org/doc/electric/api/test_roscpp/tags/test_roscpp.tag',
+- {docs_url: ../../../api/test_roscpp/html, location: 'test_roscpp.tag',
   package: test_roscpp}
-- {docs_url: ../../../api/test_rostime/html, location: 'http://ros.org/doc/electric/api/test_rostime/tags/test_rostime.tag',
+- {docs_url: ../../../api/test_rostime/html, location: 'test_rostime.tag',
   package: test_rostime}
-- {docs_url: ../../../api/test_rosservice/html, location: 'http://ros.org/doc/electric/api/test_rosservice/tags/test_rosservice.tag',
+- {docs_url: ../../../api/test_rosservice/html, location: 'test_rosservice.tag',
   package: test_rosservice}
-- {docs_url: ../../../api/test_topic_tools/html, location: 'http://ros.org/doc/electric/api/test_topic_tools/tags/test_topic_tools.tag',
+- {docs_url: ../../../api/test_topic_tools/html, location: 'test_topic_tools.tag',
   package: test_topic_tools}
-- {docs_url: ../../../api/test_rospy/html, location: 'http://ros.org/doc/electric/api/test_rospy/tags/test_rospy.tag',
+- {docs_url: ../../../api/test_rospy/html, location: 'test_rospy.tag',
   package: test_rospy}
-- {docs_url: ../../../api/roslisp/html, location: 'http://ros.org/doc/electric/api/roslisp/tags/roslisp.tag',
+- {docs_url: ../../../api/roslisp/html, location: 'roslisp.tag',
   package: roslisp}
-- {docs_url: ../../../api/message_filters/html, location: 'http://ros.org/doc/electric/api/message_filters/tags/message_filters.tag',
+- {docs_url: ../../../api/message_filters/html, location: 'message_filters.tag',
   package: message_filters}
-- {docs_url: ../../../api/roscore_migration_rules/html, location: 'http://ros.org/doc/electric/api/roscore_migration_rules/tags/roscore_migration_rules.tag',
+- {docs_url: ../../../api/roscore_migration_rules/html, location: 'roscore_migration_rules.tag',
   package: roscore_migration_rules}
-- {docs_url: ../../../api/test_rosnode/html, location: 'http://ros.org/doc/electric/api/test_rosnode/tags/test_rosnode.tag',
+- {docs_url: ../../../api/test_rosnode/html, location: 'test_rosnode.tag',
   package: test_rosnode}
-- {docs_url: ../../../api/test_rosmsg/html, location: 'http://ros.org/doc/electric/api/test_rosmsg/tags/test_rosmsg.tag',
+- {docs_url: ../../../api/test_rosmsg/html, location: 'test_rosmsg.tag',
   package: test_rosmsg}
-- {docs_url: ../../../api/test_rosbag/html, location: 'http://ros.org/doc/electric/api/test_rosbag/tags/test_rosbag.tag',
+- {docs_url: ../../../api/test_rosbag/html, location: 'test_rosbag.tag',
   package: test_rosbag}
-- {docs_url: ../../../api/test_rosparam/html, location: 'http://ros.org/doc/electric/api/test_rosparam/tags/test_rosparam.tag',
+- {docs_url: ../../../api/test_rosparam/html, location: 'test_rosparam.tag',
   package: test_rosparam}
-- {docs_url: ../../../api/test_rosmaster/html, location: 'http://ros.org/doc/electric/api/test_rosmaster/tags/test_rosmaster.tag',
+- {docs_url: ../../../api/test_rosmaster/html, location: 'test_rosmaster.tag',
   package: test_rosmaster}
-- {docs_url: ../../../api/perf_roscpp/html, location: 'http://ros.org/doc/electric/api/perf_roscpp/tags/perf_roscpp.tag',
+- {docs_url: ../../../api/perf_roscpp/html, location: 'perf_roscpp.tag',
   package: perf_roscpp}
-- {docs_url: ../../../api/test_roslib_comm/html, location: 'http://ros.org/doc/electric/api/test_roslib_comm/tags/test_roslib_comm.tag',
+- {docs_url: ../../../api/test_roslib_comm/html, location: 'test_roslib_comm.tag',
   package: test_roslib_comm}
-- {docs_url: ../../../api/test_rostopic/html, location: 'http://ros.org/doc/electric/api/test_rostopic/tags/test_rostopic.tag',
+- {docs_url: ../../../api/test_rostopic/html, location: 'test_rostopic.tag',
   package: test_rostopic}
-- {docs_url: ../../../api/rosbagmigration/html, location: 'http://ros.org/doc/electric/api/rosbagmigration/tags/rosbagmigration.tag',
+- {docs_url: ../../../api/rosbagmigration/html, location: 'rosbagmigration.tag',
   package: rosbagmigration}

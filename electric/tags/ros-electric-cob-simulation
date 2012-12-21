@@ -1,6 +1,6 @@
-- {docs_url: ../../../api/cob_ogre/html, location: 'http://ros.org/doc/electric/api/cob_ogre/tags/cob_ogre.tag',
+- {docs_url: ../../../api/cob_ogre/html, location: 'cob_ogre.tag',
   package: cob_ogre}
-- {docs_url: ../../../api/cob_gazebo/html, location: 'http://ros.org/doc/electric/api/cob_gazebo/tags/cob_gazebo.tag',
+- {docs_url: ../../../api/cob_gazebo/html, location: 'cob_gazebo.tag',
   package: cob_gazebo}
-- {docs_url: ../../../api/cob_bringup_sim/html, location: 'http://ros.org/doc/electric/api/cob_bringup_sim/tags/cob_bringup_sim.tag',
+- {docs_url: ../../../api/cob_bringup_sim/html, location: 'cob_bringup_sim.tag',
   package: cob_bringup_sim}

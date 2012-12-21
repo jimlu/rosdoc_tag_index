@@ -1,6 +1,6 @@
-- {docs_url: ../../../api/octomap/html, location: 'http://ros.org/doc/electric/api/octomap/tags/octomap.tag',
+- {docs_url: ../../../api/octomap/html, location: 'octomap.tag',
   package: octomap}
-- {docs_url: ../../../api/octomap_ros/html, location: 'http://ros.org/doc/electric/api/octomap_ros/tags/octomap_ros.tag',
+- {docs_url: ../../../api/octomap_ros/html, location: 'octomap_ros.tag',
   package: octomap_ros}
-- {docs_url: ../../../api/octomap_server/html, location: 'http://ros.org/doc/electric/api/octomap_server/tags/octomap_server.tag',
+- {docs_url: ../../../api/octomap_server/html, location: 'octomap_server.tag',
   package: octomap_server}

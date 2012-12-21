@@ -1,12 +1,12 @@
-- {docs_url: ../../../api/cob_3d_mapping_msgs/html, location: 'http://ros.org/doc/electric/api/cob_3d_mapping_msgs/tags/cob_3d_mapping_msgs.tag',
+- {docs_url: ../../../api/cob_3d_mapping_msgs/html, location: 'cob_3d_mapping_msgs.tag',
   package: cob_3d_mapping_msgs}
-- {docs_url: ../../../api/cob_3d_mapping_common/html, location: 'http://ros.org/doc/electric/api/cob_3d_mapping_common/tags/cob_3d_mapping_common.tag',
+- {docs_url: ../../../api/cob_3d_mapping_common/html, location: 'cob_3d_mapping_common.tag',
   package: cob_3d_mapping_common}
-- {docs_url: ../../../api/cob_3d_mapping_semantics/html, location: 'http://ros.org/doc/electric/api/cob_3d_mapping_semantics/tags/cob_3d_mapping_semantics.tag',
+- {docs_url: ../../../api/cob_3d_mapping_semantics/html, location: 'cob_3d_mapping_semantics.tag',
   package: cob_3d_mapping_semantics}
-- {docs_url: ../../../api/cob_3d_mapping_pipeline_fake/html, location: 'http://ros.org/doc/electric/api/cob_3d_mapping_pipeline_fake/tags/cob_3d_mapping_pipeline_fake.tag',
+- {docs_url: ../../../api/cob_3d_mapping_pipeline_fake/html, location: 'cob_3d_mapping_pipeline_fake.tag',
   package: cob_3d_mapping_pipeline_fake}
-- {docs_url: ../../../api/cob_3d_visualization/html, location: 'http://ros.org/doc/electric/api/cob_3d_visualization/tags/cob_3d_visualization.tag',
+- {docs_url: ../../../api/cob_3d_visualization/html, location: 'cob_3d_visualization.tag',
   package: cob_3d_visualization}
-- {docs_url: ../../../api/cob_3d_mapping_rviz_plugins/html, location: 'http://ros.org/doc/electric/api/cob_3d_mapping_rviz_plugins/tags/cob_3d_mapping_rviz_plugins.tag',
+- {docs_url: ../../../api/cob_3d_mapping_rviz_plugins/html, location: 'cob_3d_mapping_rviz_plugins.tag',
   package: cob_3d_mapping_rviz_plugins}

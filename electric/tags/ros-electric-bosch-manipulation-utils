@@ -1,4 +1,4 @@
-- {docs_url: ../../../api/simple_robot_control/html, location: 'http://ros.org/doc/electric/api/simple_robot_control/tags/simple_robot_control.tag',
+- {docs_url: ../../../api/simple_robot_control/html, location: 'simple_robot_control.tag',
   package: simple_robot_control}
-- {docs_url: ../../../api/pr2_interactive_segmentation/html, location: 'http://ros.org/doc/electric/api/pr2_interactive_segmentation/tags/pr2_interactive_segmentation.tag',
+- {docs_url: ../../../api/pr2_interactive_segmentation/html, location: 'pr2_interactive_segmentation.tag',
   package: pr2_interactive_segmentation}

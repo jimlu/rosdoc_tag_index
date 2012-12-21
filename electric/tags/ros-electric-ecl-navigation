@@ -1,8 +1,8 @@
-- {docs_url: ../../../api/ecl_mobile_robot/html, location: 'http://ros.org/doc/electric/api/ecl_mobile_robot/tags/ecl_mobile_robot.tag',
+- {docs_url: ../../../api/ecl_mobile_robot/html, location: 'ecl_mobile_robot.tag',
   package: ecl_mobile_robot}
-- {docs_url: ../../../api/ecl_maps/html, location: 'http://ros.org/doc/electric/api/ecl_maps/tags/ecl_maps.tag',
+- {docs_url: ../../../api/ecl_maps/html, location: 'ecl_maps.tag',
   package: ecl_maps}
-- {docs_url: ../../../api/ecl_slam/html, location: 'http://ros.org/doc/electric/api/ecl_slam/tags/ecl_slam.tag',
+- {docs_url: ../../../api/ecl_slam/html, location: 'ecl_slam.tag',
   package: ecl_slam}
-- {docs_url: ../../../api/ecl_navigation_apps/html, location: 'http://ros.org/doc/electric/api/ecl_navigation_apps/tags/ecl_navigation_apps.tag',
+- {docs_url: ../../../api/ecl_navigation_apps/html, location: 'ecl_navigation_apps.tag',
   package: ecl_navigation_apps}

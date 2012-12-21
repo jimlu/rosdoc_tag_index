@@ -1,6 +1,6 @@
-- {docs_url: ../../../api/worldmodel_msgs/html, location: 'http://ros.org/doc/electric/api/worldmodel_msgs/tags/worldmodel_msgs.tag',
+- {docs_url: ../../../api/worldmodel_msgs/html, location: 'worldmodel_msgs.tag',
   package: worldmodel_msgs}
-- {docs_url: ../../../api/worldmodel_geotiff_plugins/html, location: 'http://ros.org/doc/electric/api/worldmodel_geotiff_plugins/tags/worldmodel_geotiff_plugins.tag',
+- {docs_url: ../../../api/worldmodel_geotiff_plugins/html, location: 'worldmodel_geotiff_plugins.tag',
   package: worldmodel_geotiff_plugins}
-- {docs_url: ../../../api/object_tracker/html, location: 'http://ros.org/doc/electric/api/object_tracker/tags/object_tracker.tag',
+- {docs_url: ../../../api/object_tracker/html, location: 'object_tracker.tag',
   package: object_tracker}
