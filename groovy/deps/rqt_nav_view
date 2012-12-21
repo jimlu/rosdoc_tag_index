@@ -1,1 +1,1 @@
-[nav_msgs, rqt_gui, rospy, tf, geometry_msgs, rqt_gui_py]
+[nav_msgs, catkin, rqt_gui, geometry_msgs, tf, rospy, rqt_gui_py]
