@@ -10,13 +10,13 @@
   package: kobuki_testsuite}
 - {docs_url: ../../../api/kobuki_description/html, location: 'http://ros.org/doc/groovy/api/kobuki_description/tags/kobuki_description.tag',
   package: kobuki_description}
-- {docs_url: ../../../api/kobuki_arm/html, location: 'http://ros.org/doc/groovy/api/kobuki_arm/tags/kobuki_arm.tag',
-  package: kobuki_arm}
-- {docs_url: ../../../api/kobuki_controller_tutorial/html, location: 'http://ros.org/doc/groovy/api/kobuki_controller_tutorial/tags/kobuki_controller_tutorial.tag',
-  package: kobuki_controller_tutorial}
-- {docs_url: ../../../api/kobuki_auto_docking/html, location: 'http://ros.org/doc/groovy/api/kobuki_auto_docking/tags/kobuki_auto_docking.tag',
-  package: kobuki_auto_docking}
-- {docs_url: ../../../api/kobuki_ftdi/html, location: 'http://ros.org/doc/groovy/api/kobuki_ftdi/tags/kobuki_ftdi.tag',
-  package: kobuki_ftdi}
 - {docs_url: ../../../api/kobuki_utilities/html, location: 'http://ros.org/doc/groovy/api/kobuki_utilities/tags/kobuki_utilities.tag',
   package: kobuki_utilities}
+- {docs_url: ../../../api/kobuki_auto_docking/html, location: 'http://ros.org/doc/groovy/api/kobuki_auto_docking/tags/kobuki_auto_docking.tag',
+  package: kobuki_auto_docking}
+- {docs_url: ../../../api/kobuki_controller_tutorial/html, location: 'http://ros.org/doc/groovy/api/kobuki_controller_tutorial/tags/kobuki_controller_tutorial.tag',
+  package: kobuki_controller_tutorial}
+- {docs_url: ../../../api/kobuki_ftdi/html, location: 'http://ros.org/doc/groovy/api/kobuki_ftdi/tags/kobuki_ftdi.tag',
+  package: kobuki_ftdi}
+- {docs_url: ../../../api/kobuki_arm/html, location: 'http://ros.org/doc/groovy/api/kobuki_arm/tags/kobuki_arm.tag',
+  package: kobuki_arm}

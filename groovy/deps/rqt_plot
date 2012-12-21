@@ -1,2 +1,2 @@
-[python-matplotlib, rqt_gui, rosgraph, qt_gui_py_common, rostopic, rqt_gui_py, python-qt-bindings-qwt5,
-  rqt_py_common]
+[python-matplotlib, catkin, rqt_py_common, rqt_gui, rosgraph, qt_gui_py_common, python-rospkg,
+  rostopic, rqt_gui_py, python-qt-bindings-qwt5]
