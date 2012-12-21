@@ -1,1 +1,1 @@
-[rospy, catkin, qt_gui, rostopic]
+[rospy, roslib, catkin, qt_gui, rostopic]
