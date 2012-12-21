@@ -1,4 +1,0 @@
-- {docs_url: ../../../api/abb_common/html, location: 'http://ros.org/doc/fuerte/api/abb_common/tags/abb_common.tag',
-  package: abb_common}
-- {docs_url: ../../../api/irb_5400_arm_navigation/html, location: 'http://ros.org/doc/fuerte/api/irb_5400_arm_navigation/tags/irb_5400_arm_navigation.tag',
-  package: irb_5400_arm_navigation}

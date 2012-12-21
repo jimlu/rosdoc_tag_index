@@ -1,8 +1,0 @@
-- {docs_url: ../../../api/image_geometry/html, location: 'http://ros.org/doc/fuerte/api/image_geometry/tags/image_geometry.tag',
-  package: image_geometry}
-- {docs_url: ../../../api/cv_bridge/html, location: 'http://ros.org/doc/fuerte/api/cv_bridge/tags/cv_bridge.tag',
-  package: cv_bridge}
-- {docs_url: ../../../api/cv_markers/html, location: 'http://ros.org/doc/fuerte/api/cv_markers/tags/cv_markers.tag',
-  package: cv_markers}
-- {docs_url: ../../../api/opencv_tests/html, location: 'http://ros.org/doc/fuerte/api/opencv_tests/tags/opencv_tests.tag',
-  package: opencv_tests}

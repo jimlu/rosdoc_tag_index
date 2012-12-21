@@ -1,6 +1,0 @@
-- {docs_url: ../../../api/rosjava_jni/html, location: 'http://ros.org/doc/fuerte/api/rosjava_jni/tags/rosjava_jni.tag',
-  package: rosjava_jni}
-- {docs_url: ../../../api/tfjava/html, location: 'http://ros.org/doc/fuerte/api/tfjava/tags/tfjava.tag',
-  package: tfjava}
-- {docs_url: ../../../api/test_rosjava_jni/html, location: 'http://ros.org/doc/fuerte/api/test_rosjava_jni/tags/test_rosjava_jni.tag',
-  package: test_rosjava_jni}

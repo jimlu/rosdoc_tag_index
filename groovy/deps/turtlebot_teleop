@@ -1,1 +1,2 @@
-[joy, geometry_msgs, roscpp]
+[cmd_vel_mux, roscpp, joy, kobuki_safety_controller, geometry_msgs, yocs_velocity_smoother,
+  turtlebot_bringup]

@@ -1,6 +1,0 @@
-- {docs_url: ../../../api/nodelet/html, location: 'http://ros.org/doc/fuerte/api/nodelet/tags/nodelet.tag',
-  package: nodelet}
-- {docs_url: ../../../api/nodelet_topic_tools/html, location: 'http://ros.org/doc/fuerte/api/nodelet_topic_tools/tags/nodelet_topic_tools.tag',
-  package: nodelet_topic_tools}
-- {docs_url: ../../../api/test_nodelet/html, location: 'http://ros.org/doc/fuerte/api/test_nodelet/tags/test_nodelet.tag',
-  package: test_nodelet}

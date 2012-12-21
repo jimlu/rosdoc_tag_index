@@ -1,4 +1,0 @@
-- {docs_url: ../../../api/gps_common/html, location: 'http://ros.org/doc/fuerte/api/gps_common/tags/gps_common.tag',
-  package: gps_common}
-- {docs_url: ../../../api/gpsd_client/html, location: 'http://ros.org/doc/fuerte/api/gpsd_client/tags/gpsd_client.tag',
-  package: gpsd_client}

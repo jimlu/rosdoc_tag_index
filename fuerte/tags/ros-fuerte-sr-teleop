@@ -1,4 +1,0 @@
-- {docs_url: ../../../api/cyberglove/html, location: 'http://ros.org/doc/fuerte/api/cyberglove/tags/cyberglove.tag',
-  package: cyberglove}
-- {docs_url: ../../../api/sr_remappers/html, location: 'http://ros.org/doc/fuerte/api/sr_remappers/tags/sr_remappers.tag',
-  package: sr_remappers}

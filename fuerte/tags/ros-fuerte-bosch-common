@@ -1,6 +1,0 @@
-- {docs_url: ../../../api/bosch_maps/html, location: 'http://ros.org/doc/fuerte/api/bosch_maps/tags/bosch_maps.tag',
-  package: bosch_maps}
-- {docs_url: ../../../api/rtc/html, location: 'http://ros.org/doc/fuerte/api/rtc/tags/rtc.tag',
-  package: rtc}
-- {docs_url: ../../../api/bosch_worlds/html, location: 'http://ros.org/doc/fuerte/api/bosch_worlds/tags/bosch_worlds.tag',
-  package: bosch_worlds}

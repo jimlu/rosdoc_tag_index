@@ -1,4 +1,0 @@
-- {docs_url: ../../../api/simple_message/html, location: 'http://ros.org/doc/fuerte/api/simple_message/tags/simple_message.tag',
-  package: simple_message}
-- {docs_url: ../../../api/robotiq/html, location: 'http://ros.org/doc/fuerte/api/robotiq/tags/robotiq.tag',
-  package: robotiq}

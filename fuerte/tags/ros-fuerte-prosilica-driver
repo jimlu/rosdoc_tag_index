@@ -1,4 +1,0 @@
-- {docs_url: ../../../api/prosilica_gige_sdk/html, location: 'http://ros.org/doc/fuerte/api/prosilica_gige_sdk/tags/prosilica_gige_sdk.tag',
-  package: prosilica_gige_sdk}
-- {docs_url: ../../../api/prosilica_camera/html, location: 'http://ros.org/doc/fuerte/api/prosilica_camera/tags/prosilica_camera.tag',
-  package: prosilica_camera}

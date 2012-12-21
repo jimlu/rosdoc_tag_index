@@ -1,0 +1,2 @@
+- {docs_url: ../../../api/rqt_graph/html, location: 'http://ros.org/doc/groovy/api/rqt_graph/tags/rqt_graph.tag',
+  package: rqt_graph}

@@ -1,6 +1,0 @@
-- {docs_url: ../../../api/camera_pose_calibration/html, location: 'http://ros.org/doc/fuerte/api/camera_pose_calibration/tags/camera_pose_calibration.tag',
-  package: camera_pose_calibration}
-- {docs_url: ../../../api/camera_pose_toolkits/html, location: 'http://ros.org/doc/fuerte/api/camera_pose_toolkits/tags/camera_pose_toolkits.tag',
-  package: camera_pose_toolkits}
-- {docs_url: ../../../api/kinect_depth_calibration/html, location: 'http://ros.org/doc/fuerte/api/kinect_depth_calibration/tags/kinect_depth_calibration.tag',
-  package: kinect_depth_calibration}

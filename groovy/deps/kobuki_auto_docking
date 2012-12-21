@@ -1,3 +1,2 @@
-[nav_msgs, kobuki_msgs, roscpp, message_filters, ecl_threads, actionlib, std_msgs,
-  kdl_conversions, ecl_mobile_robot, rospy, ecl_geometry, geometry_msgs, nodelet,
-  actionlib_msgs]
+[nav_msgs, kobuki_msgs, roscpp, message_filters, ecl_threads, actionlib, ecl_linear_algebra,
+  std_msgs, kdl_conversions, rospy, ecl_geometry, geometry_msgs, nodelet, actionlib_msgs]

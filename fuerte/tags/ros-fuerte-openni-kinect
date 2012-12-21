@@ -1,6 +1,0 @@
-- {docs_url: ../../../api/openni_camera_deprecated/html, location: 'http://ros.org/doc/fuerte/api/openni_camera_deprecated/tags/openni_camera_deprecated.tag',
-  package: openni_camera_deprecated}
-- {docs_url: ../../../api/openni/html, location: 'http://ros.org/doc/fuerte/api/openni/tags/openni.tag',
-  package: openni}
-- {docs_url: ../../../api/nite/html, location: 'http://ros.org/doc/fuerte/api/nite/tags/nite.tag',
-  package: nite}

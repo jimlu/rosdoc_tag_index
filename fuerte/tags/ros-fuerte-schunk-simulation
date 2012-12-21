@@ -1,4 +1,0 @@
-- {docs_url: ../../../api/schunk_controller_configuration_gazebo/html, location: 'http://ros.org/doc/fuerte/api/schunk_controller_configuration_gazebo/tags/schunk_controller_configuration_gazebo.tag',
-  package: schunk_controller_configuration_gazebo}
-- {docs_url: ../../../api/schunk_bringup_sim/html, location: 'http://ros.org/doc/fuerte/api/schunk_bringup_sim/tags/schunk_bringup_sim.tag',
-  package: schunk_bringup_sim}

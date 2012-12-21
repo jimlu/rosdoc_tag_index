@@ -1,8 +1,0 @@
-- {docs_url: ../../../api/roscpp_traits/html, location: 'http://ros.org/doc/fuerte/api/roscpp_traits/tags/roscpp_traits.tag',
-  package: roscpp_traits}
-- {docs_url: ../../../api/cpp_common/html, location: 'http://ros.org/doc/fuerte/api/cpp_common/tags/cpp_common.tag',
-  package: cpp_common}
-- {docs_url: ../../../api/rostime/html, location: 'http://ros.org/doc/fuerte/api/rostime/tags/rostime.tag',
-  package: rostime}
-- {docs_url: ../../../api/roscpp_serialization/html, location: 'http://ros.org/doc/fuerte/api/roscpp_serialization/tags/roscpp_serialization.tag',
-  package: roscpp_serialization}

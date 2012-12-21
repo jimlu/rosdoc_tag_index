@@ -1,4 +1,0 @@
-- {docs_url: ../../../api/explore/html, location: 'http://ros.org/doc/fuerte/api/explore/tags/explore.tag',
-  package: explore}
-- {docs_url: ../../../api/explore_stage/html, location: 'http://ros.org/doc/fuerte/api/explore_stage/tags/explore_stage.tag',
-  package: explore_stage}

@@ -1,6 +1,0 @@
-- {docs_url: ../../../api/mongodb/html, location: 'http://ros.org/doc/fuerte/api/mongodb/tags/mongodb.tag',
-  package: mongodb}
-- {docs_url: ../../../api/pymongo/html, location: 'http://ros.org/doc/fuerte/api/pymongo/tags/pymongo.tag',
-  package: pymongo}
-- {docs_url: ../../../api/mongo_ros/html, location: 'http://ros.org/doc/fuerte/api/mongo_ros/tags/mongo_ros.tag',
-  package: mongo_ros}
