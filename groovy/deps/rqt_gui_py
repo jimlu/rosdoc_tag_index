@@ -1,1 +1,1 @@
-[rqt_gui, rospy]
+[catkin, rqt_gui, rospy]

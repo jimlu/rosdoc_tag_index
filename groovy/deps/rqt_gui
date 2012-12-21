@@ -1,1 +1,1 @@
-[qt_gui]
+[catkin, qt_gui]

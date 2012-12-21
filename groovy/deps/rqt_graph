@@ -1,1 +1,2 @@
-[rqt_gui, roslib, rosgraph, rosservice, rostopic, qt_dotgraph, rosnode]
+[catkin, rqt_gui, roslib, rosgraph, python-rospkg, rosservice, rostopic, qt_dotgraph,
+  rosnode]
