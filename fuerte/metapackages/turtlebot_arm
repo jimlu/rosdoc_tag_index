@@ -1,2 +1,2 @@
-[turtlebot_kinect_arm_calibration, turtlebot_arm_description, turtlebot_arm_bringup,
-  turtlebot_arm_interactive_markers, turtlebot_block_manipulation]
+[turtlebot_kinect_arm_calibration, turtlebot_arm_description, turtlebot_block_manipulation,
+  turtlebot_arm_interactive_markers, turtlebot_arm_bringup]
