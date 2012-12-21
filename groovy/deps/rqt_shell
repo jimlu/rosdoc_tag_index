@@ -1,1 +1,1 @@
-[rqt_gui, rqt_gui_py, qt_gui, qt_gui_py_common]
+[catkin, rqt_gui, qt_gui_py_common, python-rospkg, qt_gui, rqt_gui_py]

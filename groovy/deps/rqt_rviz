@@ -1,1 +1,1 @@
-[rqt_gui_cpp, rqt_gui, rviz]
+[rqt_gui_cpp, rqt_gui, catkin, rviz]
