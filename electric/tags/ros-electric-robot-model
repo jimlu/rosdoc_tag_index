@@ -1,11 +1,11 @@
-- {docs_url: ../../../api/colladadom/html, location: 'http://ros.org/doc/electric/api/colladadom/tags/colladadom.tag',
-  package: colladadom}
 - {docs_url: ../../../api/urdf_interface/html, location: 'http://ros.org/doc/electric/api/urdf_interface/tags/urdf_interface.tag',
   package: urdf_interface}
 - {docs_url: ../../../api/urdf_parser/html, location: 'http://ros.org/doc/electric/api/urdf_parser/tags/urdf_parser.tag',
   package: urdf_parser}
-- {docs_url: ../../../api/ivcon/html, location: 'http://ros.org/doc/electric/api/ivcon/tags/ivcon.tag',
-  package: ivcon}
+- {docs_url: ../../../api/simmechanics_to_urdf/html, location: 'http://ros.org/doc/electric/api/simmechanics_to_urdf/tags/simmechanics_to_urdf.tag',
+  package: simmechanics_to_urdf}
+- {docs_url: ../../../api/colladadom/html, location: 'http://ros.org/doc/electric/api/colladadom/tags/colladadom.tag',
+  package: colladadom}
 - {docs_url: ../../../api/collada_parser/html, location: 'http://ros.org/doc/electric/api/collada_parser/tags/collada_parser.tag',
   package: collada_parser}
 - {docs_url: ../../../api/urdf/html, location: 'http://ros.org/doc/electric/api/urdf/tags/urdf.tag',
@@ -18,7 +18,7 @@
   package: resource_retriever}
 - {docs_url: ../../../api/collada_urdf/html, location: 'http://ros.org/doc/electric/api/collada_urdf/tags/collada_urdf.tag',
   package: collada_urdf}
-- {docs_url: ../../../api/simmechanics_to_urdf/html, location: 'http://ros.org/doc/electric/api/simmechanics_to_urdf/tags/simmechanics_to_urdf.tag',
-  package: simmechanics_to_urdf}
+- {docs_url: ../../../api/ivcon/html, location: 'http://ros.org/doc/electric/api/ivcon/tags/ivcon.tag',
+  package: ivcon}
 - {docs_url: ../../../api/convex_decomposition/html, location: 'http://ros.org/doc/electric/api/convex_decomposition/tags/convex_decomposition.tag',
   package: convex_decomposition}
