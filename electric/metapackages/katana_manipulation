@@ -1,4 +1,4 @@
 [katana_openloop_grasping, katana_object_manipulator, katana_openrave_grasp_planner,
   katana_arm_navigation, katana_tabletop_manipulation_launch, katana_kinematics_constraint_aware,
-  katana_openrave_test, katana_tabletop_collision_map_processing, katana_interpolated_ik_motion_planner,
-  katana_object_manipulation_launch]
+  katana_tabletop_collision_map_processing, katana_interpolated_ik_motion_planner,
+  katana_openrave_test, katana_object_manipulation_launch]
