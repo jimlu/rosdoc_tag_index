@@ -1,0 +1,36 @@
+- {docs_url: ../../../api/rqt_gui/html, location: rqt_gui.tag, package: rqt_gui}
+- {docs_url: ../../../api/rqt_gui_py/html, location: rqt_gui_py.tag, package: rqt_gui_py}
+- {docs_url: ../../../api/rqt_py_console/html, location: rqt_py_console.tag, package: rqt_py_console}
+- {docs_url: ../../../api/rqt_gui_cpp/html, location: rqt_gui_cpp.tag, package: rqt_gui_cpp}
+- {docs_url: ../../../api/rqt_image_view/html, location: rqt_image_view.tag, package: rqt_image_view}
+- {docs_url: ../../../api/rqt_graph/html, location: rqt_graph.tag, package: rqt_graph}
+- {docs_url: ../../../api/rqt_console/html, location: rqt_console.tag, package: rqt_console}
+- {docs_url: ../../../api/rqt_runtime_monitor/html, location: rqt_runtime_monitor.tag,
+  package: rqt_runtime_monitor}
+- {docs_url: ../../../api/rqt_py_common/html, location: rqt_py_common.tag, package: rqt_py_common}
+- {docs_url: ../../../api/rqt_msg/html, location: rqt_msg.tag, package: rqt_msg}
+- {docs_url: ../../../api/rqt_srv/html, location: rqt_srv.tag, package: rqt_srv}
+- {docs_url: ../../../api/rqt_bag/html, location: rqt_bag.tag, package: rqt_bag}
+- {docs_url: ../../../api/rqt_plot/html, location: rqt_plot.tag, package: rqt_plot}
+- {docs_url: ../../../api/rqt_publisher/html, location: rqt_publisher.tag, package: rqt_publisher}
+- {docs_url: ../../../api/rqt_robot_steering/html, location: rqt_robot_steering.tag,
+  package: rqt_robot_steering}
+- {docs_url: ../../../api/rqt_web/html, location: rqt_web.tag, package: rqt_web}
+- {docs_url: ../../../api/rqt_shell/html, location: rqt_shell.tag, package: rqt_shell}
+- {docs_url: ../../../api/rqt_nav_view/html, location: rqt_nav_view.tag, package: rqt_nav_view}
+- {docs_url: ../../../api/rqt_topic/html, location: rqt_topic.tag, package: rqt_topic}
+- {docs_url: ../../../api/rqt_rviz/html, location: rqt_rviz.tag, package: rqt_rviz}
+- {docs_url: ../../../api/rqt_tf_tree/html, location: rqt_tf_tree.tag, package: rqt_tf_tree}
+- {docs_url: ../../../api/rqt_robot_monitor/html, location: rqt_robot_monitor.tag,
+  package: rqt_robot_monitor}
+- {docs_url: ../../../api/rqt_robot_dashboard/html, location: rqt_robot_dashboard.tag,
+  package: rqt_robot_dashboard}
+- {docs_url: ../../../api/rqt_logger_level/html, location: rqt_logger_level.tag, package: rqt_logger_level}
+- {docs_url: ../../../api/rqt_service_caller/html, location: rqt_service_caller.tag,
+  package: rqt_service_caller}
+- {docs_url: ../../../api/rqt_dep/html, location: rqt_dep.tag, package: rqt_dep}
+- {docs_url: ../../../api/rqt_bag_plugins/html, location: rqt_bag_plugins.tag, package: rqt_bag_plugins}
+- {docs_url: ../../../api/rqt_param/html, location: rqt_param.tag, package: rqt_param}
+- {docs_url: ../../../api/rqt_pr2_dashboard/html, location: rqt_pr2_dashboard.tag,
+  package: rqt_pr2_dashboard}
+- {docs_url: ../../../api/rqt_pose_view/html, location: rqt_pose_view.tag, package: rqt_pose_view}
