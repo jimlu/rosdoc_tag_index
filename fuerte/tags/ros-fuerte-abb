@@ -1,0 +1,3 @@
+- {docs_url: ../../../api/abb_common/html, location: abb_common.tag, package: abb_common}
+- {docs_url: ../../../api/irb_5400_arm_navigation/html, location: irb_5400_arm_navigation.tag,
+  package: irb_5400_arm_navigation}
