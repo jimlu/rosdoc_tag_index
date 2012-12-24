@@ -1,0 +1,5 @@
+- {docs_url: ../../../api/roscpp_traits/html, location: roscpp_traits.tag, package: roscpp_traits}
+- {docs_url: ../../../api/cpp_common/html, location: cpp_common.tag, package: cpp_common}
+- {docs_url: ../../../api/rostime/html, location: rostime.tag, package: rostime}
+- {docs_url: ../../../api/roscpp_serialization/html, location: roscpp_serialization.tag,
+  package: roscpp_serialization}
