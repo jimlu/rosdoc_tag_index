@@ -1,0 +1,3 @@
+- {docs_url: ../../../api/laser_geometry/html, location: laser_geometry.tag, package: laser_geometry}
+- {docs_url: ../../../api/laser_filters/html, location: laser_filters.tag, package: laser_filters}
+- {docs_url: ../../../api/laser_assembler/html, location: laser_assembler.tag, package: laser_assembler}
