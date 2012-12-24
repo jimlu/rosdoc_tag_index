@@ -1,0 +1,2 @@
+- {docs_url: ../../../api/cyberglove/html, location: cyberglove.tag, package: cyberglove}
+- {docs_url: ../../../api/sr_remappers/html, location: sr_remappers.tag, package: sr_remappers}
