@@ -1,0 +1,3 @@
+- {docs_url: ../../../api/teer_ros/html, location: teer_ros.tag, package: teer_ros}
+- {docs_url: ../../../api/teer_example_turtle/html, location: teer_example_turtle.tag,
+  package: teer_example_turtle}
