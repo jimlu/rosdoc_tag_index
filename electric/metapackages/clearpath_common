@@ -1,1 +1,1 @@
-[clearpath_bringup, clearpath_teleop, clearpath_base]
+[clearpath_base, clearpath_teleop, clearpath_bringup]
