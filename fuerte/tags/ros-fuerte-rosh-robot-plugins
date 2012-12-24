@@ -1,0 +1,3 @@
+- {docs_url: ../../../api/rosh_common/html, location: rosh_common.tag, package: rosh_common}
+- {docs_url: ../../../api/rosh_geometry/html, location: rosh_geometry.tag, package: rosh_geometry}
+- {docs_url: ../../../api/rosh_robot/html, location: rosh_robot.tag, package: rosh_robot}
