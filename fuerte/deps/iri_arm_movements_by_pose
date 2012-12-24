@@ -1,0 +1,2 @@
+[roscpp, iri_wam_common_msgs, actionlib_msgs, pcl, estirabot_msgs, actionlib, geometry_msgs,
+  iri_action_server, visualization_msgs, iri_base_algorithm]

@@ -1,0 +1,2 @@
+[roscpp, darwin_arm_simple_nav, iri_base_algorithm, control_msgs, move_base_msgs,
+  geometry_msgs, iri_darwin_kinematics, actionlib, arm_navigation_msgs]

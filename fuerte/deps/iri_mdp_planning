@@ -1,0 +1,1 @@
+[roscpp, iri_wam_common_msgs, std_msgs, iri_base_algorithm, estirabot_msgs, opencv2]

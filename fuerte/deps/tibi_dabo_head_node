@@ -1,0 +1,2 @@
+[roscpp, sensor_msgs, trajectory_msgs, std_msgs, control_msgs, iri_base_driver, iri_action_server,
+  tibi_dabo_msgs]

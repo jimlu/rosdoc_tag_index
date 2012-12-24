@@ -1,0 +1,2 @@
+[roscpp, actionlib, kinematics_msgs, iri_action_server, geometry_msgs, iri_base_algorithm,
+  arm_navigation_msgs]
