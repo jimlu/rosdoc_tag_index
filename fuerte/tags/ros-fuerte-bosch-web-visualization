@@ -1,0 +1,9 @@
+- {docs_url: ../../../api/map_compressor/html, location: map_compressor.tag, package: map_compressor}
+- {docs_url: ../../../api/pointcloud_snapshot_service/html, location: pointcloud_snapshot_service.tag,
+  package: pointcloud_snapshot_service}
+- {docs_url: ../../../api/rosjs_resources/html, location: rosjs_resources.tag, package: rosjs_resources}
+- {docs_url: ../../../api/wviz/html, location: wviz.tag, package: wviz}
+- {docs_url: ../../../api/tf_lister/html, location: tf_lister.tag, package: tf_lister}
+- {docs_url: ../../../api/wviz_scene_manager/html, location: wviz_scene_manager.tag,
+  package: wviz_scene_manager}
+- {docs_url: ../../../api/wviz_tf_manager/html, location: wviz_tf_manager.tag, package: wviz_tf_manager}
