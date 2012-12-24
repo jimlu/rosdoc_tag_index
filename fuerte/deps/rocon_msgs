@@ -1,1 +1,1 @@
-[ros, ros_comm, std_msgs, zeroconf_msgs]
+[ros, ros_comm, std_msgs, common_msgs, zeroconf_msgs]
