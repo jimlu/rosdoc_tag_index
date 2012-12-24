@@ -1,0 +1,3 @@
+- {docs_url: ../../../api/rosjava_jni/html, location: rosjava_jni.tag, package: rosjava_jni}
+- {docs_url: ../../../api/tfjava/html, location: tfjava.tag, package: tfjava}
+- {docs_url: ../../../api/test_rosjava_jni/html, location: test_rosjava_jni.tag, package: test_rosjava_jni}
