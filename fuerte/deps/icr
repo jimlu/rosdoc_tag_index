@@ -1,0 +1,2 @@
+[urdf_interface, urdf, std_srvs, roscpp, libicr, std_msgs, libobj, libqhull, gazebo_msgs,
+  icr_msgs, geometry_msgs, pcl, tf, pcl_ros, boost, tf_conversions, eigen]
