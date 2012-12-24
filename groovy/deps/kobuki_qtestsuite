@@ -1,0 +1,2 @@
+[nav_msgs, rqt_gui, qt_gui_py_common, kobuki_testsuite, rqt_plot, rospy, geometry_msgs,
+  rqt_gui_py, pyqt4-dev-tools, rqt_py_common]
