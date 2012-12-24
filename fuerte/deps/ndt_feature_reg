@@ -1,0 +1,2 @@
+[pointcloud_vrml, image_geometry, ndt_map, eigen, image_transport, opencv2, tf_conversions,
+  pcl, tf, common_rosdeps, cv_bridge, ndt_registration]
