@@ -1,0 +1,12 @@
+- {docs_url: ../../../api/screenrun/html, location: screenrun.tag, package: screenrun}
+- {docs_url: ../../../api/checkerboard_detector2/html, location: checkerboard_detector2.tag,
+  package: checkerboard_detector2}
+- {docs_url: ../../../api/rgbd2cloud/html, location: rgbd2cloud.tag, package: rgbd2cloud}
+- {docs_url: ../../../api/rxparamedit/html, location: rxparamedit.tag, package: rxparamedit}
+- {docs_url: ../../../api/gaussian_process/html, location: gaussian_process.tag, package: gaussian_process}
+- {docs_url: ../../../api/uvc_cam2/html, location: uvc_cam2.tag, package: uvc_cam2}
+- {docs_url: ../../../api/hogman_minimal/html, location: hogman_minimal.tag, package: hogman_minimal}
+- {docs_url: ../../../api/shell_execution_action_server/html, location: shell_execution_action_server.tag,
+  package: shell_execution_action_server}
+- {docs_url: ../../../api/fr_tools/html, location: fr_tools.tag, package: fr_tools}
+- {docs_url: ../../../api/rosgui_paramedit/html, location: rosgui_paramedit.tag, package: rosgui_paramedit}
