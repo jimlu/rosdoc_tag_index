@@ -1,0 +1,1 @@
+[roscpp, iri_base_algorithm, sensor_msgs, opencv2, cv_bridge, iri_publish_params]

@@ -1,0 +1,1 @@
+[roscpp, iri_base_algorithm, std_msgs, control_msgs, ar_pose, actionlib, arm_navigation_msgs]

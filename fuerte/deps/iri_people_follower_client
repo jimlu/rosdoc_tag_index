@@ -1,0 +1,1 @@
+[roscpp, iri_nav_msgs, actionlib, geometry_msgs, iri_base_algorithm, iri_people_tracking]

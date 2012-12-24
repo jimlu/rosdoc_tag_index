@@ -1,0 +1,2 @@
+[roscpp, sensor_msgs, iri_base_algorithm, iri_leaf_segmentation, std_msgs, opencv2,
+  cv_bridge]

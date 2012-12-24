@@ -1,0 +1,2 @@
+[smach_ros, roscpp, std_msgs, iri_base_algorithm, wiimote, sensor_msgs, image_transport,
+  opencv2, smach, iri_action_server, joy, face_detector_mono, cv_bridge]

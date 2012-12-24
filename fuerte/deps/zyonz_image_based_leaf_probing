@@ -1,0 +1,2 @@
+[std_srvs, roscpp, zyonz_apps_base, iri_base_algorithm, sensor_msgs, opencv2, geometry_msgs,
+  iri_common_smach, cv_bridge, zyonz_msgs, pcl_ros]
