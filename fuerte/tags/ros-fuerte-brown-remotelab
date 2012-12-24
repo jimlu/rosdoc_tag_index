@@ -1,0 +1,4 @@
+- {docs_url: ../../../api/teleop_twist_keyboard/html, location: teleop_twist_keyboard.tag,
+  package: teleop_twist_keyboard}
+- {docs_url: ../../../api/pcl_filter/html, location: pcl_filter.tag, package: pcl_filter}
+- {docs_url: ../../../api/rosbridge/html, location: rosbridge.tag, package: rosbridge}
