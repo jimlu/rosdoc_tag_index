@@ -1,0 +1,5 @@
+- {docs_url: ../../../api/dashel/html, location: dashel.tag, package: dashel}
+- {docs_url: ../../../api/aseba/html, location: aseba.tag, package: aseba}
+- {docs_url: ../../../api/asebaros/html, location: asebaros.tag, package: asebaros}
+- {docs_url: ../../../api/thymio_navigation_driver/html, location: thymio_navigation_driver.tag,
+  package: thymio_navigation_driver}
