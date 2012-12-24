@@ -1,0 +1,13 @@
+- {docs_url: ../../../api/stereo_wall_detection/html, location: stereo_wall_detection.tag,
+  package: stereo_wall_detection}
+- {docs_url: ../../../api/visual_pose_estimation/html, location: visual_pose_estimation.tag,
+  package: visual_pose_estimation}
+- {docs_url: ../../../api/outlet_pose_estimation/html, location: outlet_pose_estimation.tag,
+  package: outlet_pose_estimation}
+- {docs_url: ../../../api/checkerboard_pose_estimation/html, location: checkerboard_pose_estimation.tag,
+  package: checkerboard_pose_estimation}
+- {docs_url: ../../../api/pr2_image_snapshot_recorder/html, location: pr2_image_snapshot_recorder.tag,
+  package: pr2_image_snapshot_recorder}
+- {docs_url: ../../../api/pr2_plugs_common/html, location: pr2_plugs_common.tag, package: pr2_plugs_common}
+- {docs_url: ../../../api/pr2_plugs_actions/html, location: pr2_plugs_actions.tag,
+  package: pr2_plugs_actions}
