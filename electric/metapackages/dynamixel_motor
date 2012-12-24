@@ -1,1 +1,1 @@
-[dynamixel_driver, dynamixel_msgs, dynamixel_tutorials, dynamixel_controllers]
+[dynamixel_controllers, dynamixel_msgs, dynamixel_tutorials, dynamixel_driver]
