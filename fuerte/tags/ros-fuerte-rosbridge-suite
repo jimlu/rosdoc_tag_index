@@ -1,0 +1,9 @@
+- {docs_url: ../../../api/tf_smart_throttle/html, location: tf_smart_throttle.tag,
+  package: tf_smart_throttle}
+- {docs_url: ../../../api/roswww/html, location: roswww.tag, package: roswww}
+- {docs_url: ../../../api/rosbridge_library/html, location: rosbridge_library.tag,
+  package: rosbridge_library}
+- {docs_url: ../../../api/rosapi/html, location: rosapi.tag, package: rosapi}
+- {docs_url: ../../../api/rosbridge_server/html, location: rosbridge_server.tag, package: rosbridge_server}
+- {docs_url: ../../../api/rosbridge_launch/html, location: rosbridge_launch.tag, package: rosbridge_launch}
+- {docs_url: ../../../api/rosbridge_test/html, location: rosbridge_test.tag, package: rosbridge_test}
