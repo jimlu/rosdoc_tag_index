@@ -1,0 +1,3 @@
+- {docs_url: ../../../api/rovio_shared/html, location: rovio_shared.tag, package: rovio_shared}
+- {docs_url: ../../../api/rovio_av/html, location: rovio_av.tag, package: rovio_av}
+- {docs_url: ../../../api/rovio_ctrl/html, location: rovio_ctrl.tag, package: rovio_ctrl}
