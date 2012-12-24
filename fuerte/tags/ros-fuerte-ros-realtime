@@ -1,0 +1,4 @@
+- {docs_url: ../../../api/rosatomic/html, location: rosatomic.tag, package: rosatomic}
+- {docs_url: ../../../api/allocators/html, location: allocators.tag, package: allocators}
+- {docs_url: ../../../api/lockfree/html, location: lockfree.tag, package: lockfree}
+- {docs_url: ../../../api/rosrt/html, location: rosrt.tag, package: rosrt}
