@@ -1,0 +1,5 @@
+- {docs_url: ../../../api/netft_rdt_driver/html, location: netft_rdt_driver.tag, package: netft_rdt_driver}
+- {docs_url: ../../../api/netft_ethercat_hardware/html, location: netft_ethercat_hardware.tag,
+  package: netft_ethercat_hardware}
+- {docs_url: ../../../api/netft_example_controllers/html, location: netft_example_controllers.tag,
+  package: netft_example_controllers}
