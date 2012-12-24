@@ -1,0 +1,1 @@
+[std_srvs, roscpp, iri_base_algorithm, sensor_msgs, pcl, normal_descriptor_node]

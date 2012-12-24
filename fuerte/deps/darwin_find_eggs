@@ -1,0 +1,1 @@
+[roscpp, iri_base_algorithm, sensor_msgs, image_transport, opencv2, pcl, tf, cv_bridge]

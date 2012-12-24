@@ -1,0 +1,2 @@
+[iri_pcl_filters, pcl, iri_base_algorithm, sensor_msgs, geometry_msgs, iri_wrinkled_map,
+  normal_descriptor_node, iri_feature_map]

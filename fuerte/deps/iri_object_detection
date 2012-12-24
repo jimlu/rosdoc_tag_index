@@ -1,0 +1,2 @@
+[iri_common_drivers_msgs, roscpp, std_msgs, iri_nav_msgs, iri_base_algorithm, sensor_msgs,
+  image_transport, geometry_msgs, tibi_dabo_msgs, cv_bridge, actionlib]

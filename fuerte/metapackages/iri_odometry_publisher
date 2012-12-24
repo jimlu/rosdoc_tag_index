@@ -1,0 +1,2 @@
+[iri_msg_to_odom, iri_visual_odometry, iri_covariance_markers, iri_robot_pose_ekf,
+  iri_laser_icp, iri_laser_scan_matcher, iri_lasers_to_pointcloud]
