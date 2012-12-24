@@ -1,0 +1,7 @@
+- {docs_url: ../../../api/brics_actuator/html, location: brics_actuator.tag, package: brics_actuator}
+- {docs_url: ../../../api/cob_description/html, location: cob_description.tag, package: cob_description}
+- {docs_url: ../../../api/raw_description/html, location: raw_description.tag, package: raw_description}
+- {docs_url: ../../../api/cob_srvs/html, location: cob_srvs.tag, package: cob_srvs}
+- {docs_url: ../../../api/cob_goco/html, location: cob_goco.tag, package: cob_goco}
+- {docs_url: ../../../api/desire_description/html, location: desire_description.tag,
+  package: desire_description}
