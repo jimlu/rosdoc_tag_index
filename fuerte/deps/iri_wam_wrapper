@@ -1,0 +1,2 @@
+[roscpp, iri_wam_common_msgs, iri_base_driver, trajectory_msgs, sensor_msgs, geometry_msgs,
+  iri_action_server, control_msgs, pr2_controllers_msgs]

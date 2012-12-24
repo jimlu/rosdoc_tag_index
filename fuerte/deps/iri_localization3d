@@ -1,0 +1,2 @@
+[nav_msgs, dynamic_reconfigure, roscpp, iri_base_algorithm, sensor_msgs, iri-map_localization-dev,
+  geometry_msgs, tf, iri_segway_rmp_msgs]

@@ -1,2 +1,2 @@
-[hardcoded_facts, tidyup_utils, tidyup_tools, tidyup_arm_services, narf_recognition,
-  tidyup_msgs, tidyup_executive, simulation_object_tracker]
+[tidyup_msgs, tidyup_utils, tidyup_tools, tidyup_arm_services, narf_recognition, hardcoded_facts,
+  tidyup_executive, simulation_object_tracker]

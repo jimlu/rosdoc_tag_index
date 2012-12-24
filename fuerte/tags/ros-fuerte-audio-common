@@ -1,0 +1,5 @@
+- {docs_url: ../../../api/audio_common_msgs/html, location: audio_common_msgs.tag,
+  package: audio_common_msgs}
+- {docs_url: ../../../api/audio_capture/html, location: audio_capture.tag, package: audio_capture}
+- {docs_url: ../../../api/sound_play/html, location: sound_play.tag, package: sound_play}
+- {docs_url: ../../../api/audio_play/html, location: audio_play.tag, package: audio_play}

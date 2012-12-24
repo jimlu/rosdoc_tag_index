@@ -1,0 +1,4 @@
+- {docs_url: ../../../api/turtlebot_interactive_markers/html, location: turtlebot_interactive_markers.tag,
+  package: turtlebot_interactive_markers}
+- {docs_url: ../../../api/turtlebot_dashboard/html, location: turtlebot_dashboard.tag,
+  package: turtlebot_dashboard}

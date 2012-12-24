@@ -1,0 +1,2 @@
+[iri_sift, roscpp, iri_opencv_filters, iri_base_algorithm, pcl, sensor_msgs, iri_plane_segmentation_pcl_rgb,
+  iri_action_server, normal_descriptor_node, iri_perception_msgs, pcl_ros]

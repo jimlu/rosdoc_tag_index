@@ -1,0 +1,2 @@
+[roscpp, actionlib_msgs, iri_wam_common_msgs, iri_dynamixel_gripper, iri_base_algorithm,
+  sensor_msgs, iri_action_server, object_manipulation_msgs, actionlib]

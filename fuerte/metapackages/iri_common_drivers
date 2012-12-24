@@ -1,0 +1,3 @@
+[iri_firewire_camera, iri_common_drivers_msgs, iri_hokuyo_laser3d, iri_hokuyo_laser,
+  iri_tcm3_compass, iri_loquendo_tts, iri_dynamixel_gripper, iri_asterx1, iri_joystick,
+  iri_pmdcamera, iri_leuze_laser]

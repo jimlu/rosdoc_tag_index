@@ -1,0 +1,2 @@
+[nav_msgs, sensor_msgs, actionlib_msgs, std_msgs, actionlib, geometry_msgs, object_manipulation_msgs,
+  diagnostic_msgs, arm_navigation_msgs]

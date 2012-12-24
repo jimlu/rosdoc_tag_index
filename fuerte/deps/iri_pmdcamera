@@ -1,0 +1,2 @@
+[roscpp, iri_base_driver, camera_info_manager, sensor_msgs, image_transport, geometry_msgs,
+  tf]

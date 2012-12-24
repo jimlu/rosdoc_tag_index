@@ -1,0 +1,2 @@
+[roscpp, message_filters, iri_base_algorithm, sensor_msgs, iri_moped_actionserver,
+  pcl, pr_msgs, actionlib]

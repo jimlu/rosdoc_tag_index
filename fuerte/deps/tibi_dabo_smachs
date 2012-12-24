@@ -1,0 +1,3 @@
+[smach_ros, tibi_dabo_msgs, std_msgs, move_base_msgs, wiimote, sensor_msgs, smach,
+  geometry_msgs, visualization_msgs, tf, rospy, iri_human_assisted_object_detection,
+  iri_perception_msgs]

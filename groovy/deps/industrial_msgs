@@ -1,1 +1,1 @@
-[std_msgs]
+[geometry_msgs, actionlib, std_msgs]

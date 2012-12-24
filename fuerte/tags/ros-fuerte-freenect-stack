@@ -1,0 +1,3 @@
+- {docs_url: ../../../api/libfreenect/html, location: libfreenect.tag, package: libfreenect}
+- {docs_url: ../../../api/freenect_camera/html, location: freenect_camera.tag, package: freenect_camera}
+- {docs_url: ../../../api/freenect_launch/html, location: freenect_launch.tag, package: freenect_launch}

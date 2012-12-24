@@ -1,0 +1,5 @@
+- {docs_url: ../../../api/pr2_description/html, location: pr2_description.tag, package: pr2_description}
+- {docs_url: ../../../api/pr2_msgs/html, location: pr2_msgs.tag, package: pr2_msgs}
+- {docs_url: ../../../api/pr2_dashboard_aggregator/html, location: pr2_dashboard_aggregator.tag,
+  package: pr2_dashboard_aggregator}
+- {docs_url: ../../../api/pr2_machine/html, location: pr2_machine.tag, package: pr2_machine}

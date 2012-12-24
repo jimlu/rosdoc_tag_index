@@ -1,0 +1,2 @@
+[nav_msgs, roscpp, std_msgs, iri_base_algorithm, sensor_msgs, image_transport, opencv2,
+  tf, visualization_msgs, pal_vision_msgs, cv_bridge, iri_perception_msgs]

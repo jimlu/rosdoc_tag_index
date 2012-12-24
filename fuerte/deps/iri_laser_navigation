@@ -1,0 +1,2 @@
+[nav_msgs, roscpp, actionlib, sensor_msgs, tf, geometry_msgs, visualization_msgs,
+  move_base_msgs, iri_laser_localisation, iri_base_algorithm]
