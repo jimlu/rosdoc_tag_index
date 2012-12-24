@@ -1,0 +1,18 @@
+- {docs_url: ../../../api/sr_robot_msgs/html, location: sr_robot_msgs.tag, package: sr_robot_msgs}
+- {docs_url: ../../../api/sr_utilities/html, location: sr_utilities.tag, package: sr_utilities}
+- {docs_url: ../../../api/sr_hand/html, location: sr_hand.tag, package: sr_hand}
+- {docs_url: ../../../api/sr_hardware_interface/html, location: sr_hardware_interface.tag,
+  package: sr_hardware_interface}
+- {docs_url: ../../../api/sr_mechanism_model/html, location: sr_mechanism_model.tag,
+  package: sr_mechanism_model}
+- {docs_url: ../../../api/sr_example/html, location: sr_example.tag, package: sr_example}
+- {docs_url: ../../../api/sr_kinematics/html, location: sr_kinematics.tag, package: sr_kinematics}
+- {docs_url: ../../../api/sr_mechanism_controllers/html, location: sr_mechanism_controllers.tag,
+  package: sr_mechanism_controllers}
+- {docs_url: ../../../api/sr_move_arm/html, location: sr_move_arm.tag, package: sr_move_arm}
+- {docs_url: ../../../api/sr_gazebo_plugins/html, location: sr_gazebo_plugins.tag,
+  package: sr_gazebo_plugins}
+- {docs_url: ../../../api/sr_movements/html, location: sr_movements.tag, package: sr_movements}
+- {docs_url: ../../../api/sr_tactile_sensors/html, location: sr_tactile_sensors.tag,
+  package: sr_tactile_sensors}
+- {docs_url: ../../../api/sr_description/html, location: sr_description.tag, package: sr_description}
