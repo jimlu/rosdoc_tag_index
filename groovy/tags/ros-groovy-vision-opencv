@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/opencv_tests/html, location: 'opencv_tests.tag',
-  package: opencv_tests}
+- {docs_url: ../../../api/opencv_tests/html, location: opencv_tests.tag, package: opencv_tests}

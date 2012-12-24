@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/control/html, location: 'control.tag',
-  package: control}
+- {docs_url: ../../../api/control/html, location: control.tag, package: control}

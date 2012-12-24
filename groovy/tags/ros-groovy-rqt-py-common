@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/rqt_py_common/html, location: 'rqt_py_common.tag',
-  package: rqt_py_common}
+- {docs_url: ../../../api/rqt_py_common/html, location: rqt_py_common.tag, package: rqt_py_common}

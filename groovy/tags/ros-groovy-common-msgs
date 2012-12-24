@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/common_msgs/html, location: 'common_msgs.tag',
-  package: common_msgs}
+- {docs_url: ../../../api/common_msgs/html, location: common_msgs.tag, package: common_msgs}

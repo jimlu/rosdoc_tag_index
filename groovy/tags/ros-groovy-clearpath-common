@@ -1,8 +1,6 @@
-- {docs_url: ../../../api/clearpath_bringup/html, location: 'clearpath_bringup.tag',
+- {docs_url: ../../../api/clearpath_bringup/html, location: clearpath_bringup.tag,
   package: clearpath_bringup}
-- {docs_url: ../../../api/clearpath_teleop/html, location: 'clearpath_teleop.tag',
-  package: clearpath_teleop}
-- {docs_url: ../../../api/clearpath_base/html, location: 'clearpath_base.tag',
-  package: clearpath_base}
-- {docs_url: ../../../api/clearpath_sensors/html, location: 'clearpath_sensors.tag',
+- {docs_url: ../../../api/clearpath_teleop/html, location: clearpath_teleop.tag, package: clearpath_teleop}
+- {docs_url: ../../../api/clearpath_base/html, location: clearpath_base.tag, package: clearpath_base}
+- {docs_url: ../../../api/clearpath_sensors/html, location: clearpath_sensors.tag,
   package: clearpath_sensors}

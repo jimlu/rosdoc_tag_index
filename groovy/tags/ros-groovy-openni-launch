@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/openni_launch/html, location: 'openni_launch.tag',
-  package: openni_launch}
+- {docs_url: ../../../api/openni_launch/html, location: openni_launch.tag, package: openni_launch}

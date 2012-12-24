@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/zeroconf_comms/html, location: 'zeroconf_comms.tag',
-  package: zeroconf_comms}
+- {docs_url: ../../../api/zeroconf_comms/html, location: zeroconf_comms.tag, package: zeroconf_comms}

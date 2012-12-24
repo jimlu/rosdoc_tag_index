@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/kobuki_msgs/html, location: 'kobuki_msgs.tag',
-  package: kobuki_msgs}
+- {docs_url: ../../../api/kobuki_msgs/html, location: kobuki_msgs.tag, package: kobuki_msgs}

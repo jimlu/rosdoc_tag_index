@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/urdf_tutorial/html, location: 'urdf_tutorial.tag',
-  package: urdf_tutorial}
+- {docs_url: ../../../api/urdf_tutorial/html, location: urdf_tutorial.tag, package: urdf_tutorial}

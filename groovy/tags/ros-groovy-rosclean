@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/rosclean/html, location: 'rosclean.tag',
-  package: rosclean}
+- {docs_url: ../../../api/rosclean/html, location: rosclean.tag, package: rosclean}

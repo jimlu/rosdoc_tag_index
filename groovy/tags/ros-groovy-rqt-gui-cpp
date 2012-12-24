@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/rqt_gui_cpp/html, location: 'rqt_gui_cpp.tag',
-  package: rqt_gui_cpp}
+- {docs_url: ../../../api/rqt_gui_cpp/html, location: rqt_gui_cpp.tag, package: rqt_gui_cpp}

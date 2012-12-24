@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/megatree_pcl/html, location: 'megatree_pcl.tag',
-  package: megatree_pcl}
+- {docs_url: ../../../api/megatree_pcl/html, location: megatree_pcl.tag, package: megatree_pcl}

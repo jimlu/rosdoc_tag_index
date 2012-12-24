@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/diagnostic_msgs/html, location: 'diagnostic_msgs.tag',
-  package: diagnostic_msgs}
+- {docs_url: ../../../api/diagnostic_msgs/html, location: diagnostic_msgs.tag, package: diagnostic_msgs}

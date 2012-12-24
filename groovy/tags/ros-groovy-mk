@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/mk/html, location: 'mk.tag',
-  package: mk}
+- {docs_url: ../../../api/mk/html, location: mk.tag, package: mk}

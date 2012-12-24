@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/sbcl/html, location: 'sbcl.tag',
-  package: sbcl}
+- {docs_url: ../../../api/sbcl/html, location: sbcl.tag, package: sbcl}

@@ -1,8 +1,5 @@
-- {docs_url: ../../../api/r2_description/html, location: 'r2_description.tag',
-  package: r2_description}
-- {docs_url: ../../../api/r2_msgs/html, location: 'r2_msgs.tag',
-  package: r2_msgs}
-- {docs_url: ../../../api/r2_teleop/html, location: 'r2_teleop.tag',
-  package: r2_teleop}
-- {docs_url: ../../../api/r2_dynamic_reconfigure/html, location: 'r2_dynamic_reconfigure.tag',
+- {docs_url: ../../../api/r2_description/html, location: r2_description.tag, package: r2_description}
+- {docs_url: ../../../api/r2_msgs/html, location: r2_msgs.tag, package: r2_msgs}
+- {docs_url: ../../../api/r2_teleop/html, location: r2_teleop.tag, package: r2_teleop}
+- {docs_url: ../../../api/r2_dynamic_reconfigure/html, location: r2_dynamic_reconfigure.tag,
   package: r2_dynamic_reconfigure}

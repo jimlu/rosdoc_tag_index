@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/cpp_common/html, location: 'cpp_common.tag',
-  package: cpp_common}
+- {docs_url: ../../../api/cpp_common/html, location: cpp_common.tag, package: cpp_common}

@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/trajectory_msgs/html, location: 'trajectory_msgs.tag',
-  package: trajectory_msgs}
+- {docs_url: ../../../api/trajectory_msgs/html, location: trajectory_msgs.tag, package: trajectory_msgs}

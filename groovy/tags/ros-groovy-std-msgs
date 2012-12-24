@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/std_msgs/html, location: 'std_msgs.tag',
-  package: std_msgs}
+- {docs_url: ../../../api/std_msgs/html, location: std_msgs.tag, package: std_msgs}

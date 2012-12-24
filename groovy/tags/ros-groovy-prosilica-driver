@@ -1,4 +1,3 @@
-- {docs_url: ../../../api/prosilica_gige_sdk/html, location: 'prosilica_gige_sdk.tag',
+- {docs_url: ../../../api/prosilica_gige_sdk/html, location: prosilica_gige_sdk.tag,
   package: prosilica_gige_sdk}
-- {docs_url: ../../../api/prosilica_camera/html, location: 'prosilica_camera.tag',
-  package: prosilica_camera}
+- {docs_url: ../../../api/prosilica_camera/html, location: prosilica_camera.tag, package: prosilica_camera}

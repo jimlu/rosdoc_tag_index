@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/kdl/html, location: 'kdl.tag',
-  package: kdl}
+- {docs_url: ../../../api/kdl/html, location: kdl.tag, package: kdl}

@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/rostime/html, location: 'rostime.tag',
-  package: rostime}
+- {docs_url: ../../../api/rostime/html, location: rostime.tag, package: rostime}

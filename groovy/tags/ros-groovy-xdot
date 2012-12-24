@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/xdot/html, location: 'xdot.tag',
-  package: xdot}
+- {docs_url: ../../../api/xdot/html, location: xdot.tag, package: xdot}

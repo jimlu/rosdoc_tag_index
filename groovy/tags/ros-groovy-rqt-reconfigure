@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/rqt_reconfigure/html, location: 'rqt_reconfigure.tag',
-  package: rqt_reconfigure}
+- {docs_url: ../../../api/rqt_reconfigure/html, location: rqt_reconfigure.tag, package: rqt_reconfigure}

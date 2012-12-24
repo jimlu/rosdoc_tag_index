@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/ecl_build/html, location: 'ecl_build.tag',
-  package: ecl_build}
+- {docs_url: ../../../api/ecl_build/html, location: ecl_build.tag, package: ecl_build}

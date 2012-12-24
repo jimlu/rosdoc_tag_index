@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/rosbuild/html, location: 'rosbuild.tag',
-  package: rosbuild}
+- {docs_url: ../../../api/rosbuild/html, location: rosbuild.tag, package: rosbuild}

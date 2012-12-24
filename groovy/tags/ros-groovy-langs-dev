@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/langs-dev/html, location: 'langs-dev.tag',
-  package: langs-dev}
+- {docs_url: ../../../api/langs-dev/html, location: langs-dev.tag, package: langs-dev}

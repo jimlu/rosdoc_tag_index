@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/rqt_logger_level/html, location: 'rqt_logger_level.tag',
-  package: rqt_logger_level}
+- {docs_url: ../../../api/rqt_logger_level/html, location: rqt_logger_level.tag, package: rqt_logger_level}

@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/std_srvs/html, location: 'std_srvs.tag',
-  package: std_srvs}
+- {docs_url: ../../../api/std_srvs/html, location: std_srvs.tag, package: std_srvs}

@@ -1,4 +1,2 @@
-- {docs_url: ../../../api/geographic_msgs/html, location: 'geographic_msgs.tag',
-  package: geographic_msgs}
-- {docs_url: ../../../api/geodesy/html, location: 'geodesy.tag',
-  package: geodesy}
+- {docs_url: ../../../api/geographic_msgs/html, location: geographic_msgs.tag, package: geographic_msgs}
+- {docs_url: ../../../api/geodesy/html, location: geodesy.tag, package: geodesy}

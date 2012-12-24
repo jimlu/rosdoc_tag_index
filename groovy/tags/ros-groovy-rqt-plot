@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/rqt_plot/html, location: 'rqt_plot.tag',
-  package: rqt_plot}
+- {docs_url: ../../../api/rqt_plot/html, location: rqt_plot.tag, package: rqt_plot}

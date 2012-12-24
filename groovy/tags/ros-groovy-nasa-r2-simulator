@@ -1,8 +1,5 @@
-- {docs_url: ../../../api/gazebo_gripper/html, location: 'gazebo_gripper.tag',
-  package: gazebo_gripper}
-- {docs_url: ../../../api/r2_controllers_gazebo/html, location: 'r2_controllers_gazebo.tag',
+- {docs_url: ../../../api/gazebo_gripper/html, location: gazebo_gripper.tag, package: gazebo_gripper}
+- {docs_url: ../../../api/r2_controllers_gazebo/html, location: r2_controllers_gazebo.tag,
   package: r2_controllers_gazebo}
-- {docs_url: ../../../api/r2_gazebo/html, location: 'r2_gazebo.tag',
-  package: r2_gazebo}
-- {docs_url: ../../../api/gazebo_interface/html, location: 'gazebo_interface.tag',
-  package: gazebo_interface}
+- {docs_url: ../../../api/r2_gazebo/html, location: r2_gazebo.tag, package: r2_gazebo}
+- {docs_url: ../../../api/gazebo_interface/html, location: gazebo_interface.tag, package: gazebo_interface}

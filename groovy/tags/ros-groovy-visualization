@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/visualization/html, location: 'visualization.tag',
-  package: visualization}
+- {docs_url: ../../../api/visualization/html, location: visualization.tag, package: visualization}

@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/sensor_msgs/html, location: 'sensor_msgs.tag',
-  package: sensor_msgs}
+- {docs_url: ../../../api/sensor_msgs/html, location: sensor_msgs.tag, package: sensor_msgs}

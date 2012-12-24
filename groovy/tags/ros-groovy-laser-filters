@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/laser_filters/html, location: 'laser_filters.tag',
-  package: laser_filters}
+- {docs_url: ../../../api/laser_filters/html, location: laser_filters.tag, package: laser_filters}

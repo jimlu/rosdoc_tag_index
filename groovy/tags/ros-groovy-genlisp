@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/genlisp/html, location: 'genlisp.tag',
-  package: genlisp}
+- {docs_url: ../../../api/genlisp/html, location: genlisp.tag, package: genlisp}

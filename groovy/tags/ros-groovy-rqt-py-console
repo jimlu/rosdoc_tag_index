@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/rqt_py_console/html, location: 'rqt_py_console.tag',
-  package: rqt_py_console}
+- {docs_url: ../../../api/rqt_py_console/html, location: rqt_py_console.tag, package: rqt_py_console}

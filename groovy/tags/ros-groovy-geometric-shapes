@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/geometric_shapes/html, location: 'geometric_shapes.tag',
-  package: geometric_shapes}
+- {docs_url: ../../../api/geometric_shapes/html, location: geometric_shapes.tag, package: geometric_shapes}

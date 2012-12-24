@@ -1,14 +1,12 @@
-- {docs_url: ../../../api/navigation_stage/html, location: 'navigation_stage.tag',
-  package: navigation_stage}
-- {docs_url: ../../../api/roomba_stage/html, location: 'roomba_stage.tag',
-  package: roomba_stage}
-- {docs_url: ../../../api/odometry_publisher_tutorial/html, location: 'odometry_publisher_tutorial.tag',
+- {docs_url: ../../../api/navigation_stage/html, location: navigation_stage.tag, package: navigation_stage}
+- {docs_url: ../../../api/roomba_stage/html, location: roomba_stage.tag, package: roomba_stage}
+- {docs_url: ../../../api/odometry_publisher_tutorial/html, location: odometry_publisher_tutorial.tag,
   package: odometry_publisher_tutorial}
-- {docs_url: ../../../api/point_cloud_publisher_tutorial/html, location: 'point_cloud_publisher_tutorial.tag',
+- {docs_url: ../../../api/point_cloud_publisher_tutorial/html, location: point_cloud_publisher_tutorial.tag,
   package: point_cloud_publisher_tutorial}
-- {docs_url: ../../../api/robot_setup_tf_tutorial/html, location: 'robot_setup_tf_tutorial.tag',
+- {docs_url: ../../../api/robot_setup_tf_tutorial/html, location: robot_setup_tf_tutorial.tag,
   package: robot_setup_tf_tutorial}
-- {docs_url: ../../../api/laser_scan_publisher_tutorial/html, location: 'laser_scan_publisher_tutorial.tag',
+- {docs_url: ../../../api/laser_scan_publisher_tutorial/html, location: laser_scan_publisher_tutorial.tag,
   package: laser_scan_publisher_tutorial}
-- {docs_url: ../../../api/simple_navigation_goals_tutorial/html, location: 'simple_navigation_goals_tutorial.tag',
+- {docs_url: ../../../api/simple_navigation_goals_tutorial/html, location: simple_navigation_goals_tutorial.tag,
   package: simple_navigation_goals_tutorial}

@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/willow_maps/html, location: 'willow_maps.tag',
-  package: willow_maps}
+- {docs_url: ../../../api/willow_maps/html, location: willow_maps.tag, package: willow_maps}

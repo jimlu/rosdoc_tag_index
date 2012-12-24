@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/rqt_image_view/html, location: 'rqt_image_view.tag',
-  package: rqt_image_view}
+- {docs_url: ../../../api/rqt_image_view/html, location: rqt_image_view.tag, package: rqt_image_view}

@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/qt_gui/html, location: 'qt_gui.tag',
-  package: qt_gui}
+- {docs_url: ../../../api/qt_gui/html, location: qt_gui.tag, package: qt_gui}

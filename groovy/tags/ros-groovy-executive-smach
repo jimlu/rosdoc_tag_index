@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/smach_msgs/html, location: 'smach_msgs.tag',
-  package: smach_msgs}
+- {docs_url: ../../../api/smach_msgs/html, location: smach_msgs.tag, package: smach_msgs}

@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/rqt_rviz/html, location: 'rqt_rviz.tag',
-  package: rqt_rviz}
+- {docs_url: ../../../api/rqt_rviz/html, location: rqt_rviz.tag, package: rqt_rviz}

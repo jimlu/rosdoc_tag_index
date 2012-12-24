@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/warehouse_ros/html, location: 'warehouse_ros.tag',
-  package: warehouse_ros}
+- {docs_url: ../../../api/warehouse_ros/html, location: warehouse_ros.tag, package: warehouse_ros}

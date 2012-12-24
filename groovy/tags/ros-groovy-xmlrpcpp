@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/xmlrpcpp/html, location: 'xmlrpcpp.tag',
-  package: xmlrpcpp}
+- {docs_url: ../../../api/xmlrpcpp/html, location: xmlrpcpp.tag, package: xmlrpcpp}

@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/wg_pr2_2dnav/html, location: 'wg_pr2_2dnav.tag',
-  package: wg_pr2_2dnav}
+- {docs_url: ../../../api/wg_pr2_2dnav/html, location: wg_pr2_2dnav.tag, package: wg_pr2_2dnav}

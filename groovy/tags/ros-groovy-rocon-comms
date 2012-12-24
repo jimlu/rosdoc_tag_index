@@ -1,6 +1,3 @@
-- {docs_url: ../../../api/appmanager_comms/html, location: 'appmanager_comms.tag',
-  package: appmanager_comms}
-- {docs_url: ../../../api/concert_comms/html, location: 'concert_comms.tag',
-  package: concert_comms}
-- {docs_url: ../../../api/gateway_comms/html, location: 'gateway_comms.tag',
-  package: gateway_comms}
+- {docs_url: ../../../api/appmanager_comms/html, location: appmanager_comms.tag, package: appmanager_comms}
+- {docs_url: ../../../api/concert_comms/html, location: concert_comms.tag, package: concert_comms}
+- {docs_url: ../../../api/gateway_comms/html, location: gateway_comms.tag, package: gateway_comms}

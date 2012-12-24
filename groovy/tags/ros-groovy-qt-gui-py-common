@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/qt_gui_py_common/html, location: 'qt_gui_py_common.tag',
-  package: qt_gui_py_common}
+- {docs_url: ../../../api/qt_gui_py_common/html, location: qt_gui_py_common.tag, package: qt_gui_py_common}

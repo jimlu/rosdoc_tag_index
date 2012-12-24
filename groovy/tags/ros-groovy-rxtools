@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/rxtools/html, location: 'rxtools.tag',
-  package: rxtools}
+- {docs_url: ../../../api/rxtools/html, location: rxtools.tag, package: rxtools}

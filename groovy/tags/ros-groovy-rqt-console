@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/rqt_console/html, location: 'rqt_console.tag',
-  package: rqt_console}
+- {docs_url: ../../../api/rqt_console/html, location: rqt_console.tag, package: rqt_console}

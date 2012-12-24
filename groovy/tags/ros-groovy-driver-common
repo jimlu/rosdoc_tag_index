@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/driver_common/html, location: 'driver_common.tag',
-  package: driver_common}
+- {docs_url: ../../../api/driver_common/html, location: driver_common.tag, package: driver_common}

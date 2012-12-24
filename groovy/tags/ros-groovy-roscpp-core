@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/roscpp_core/html, location: 'roscpp_core.tag',
-  package: roscpp_core}
+- {docs_url: ../../../api/roscpp_core/html, location: roscpp_core.tag, package: roscpp_core}

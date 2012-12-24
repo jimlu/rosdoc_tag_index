@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/octomap_ros/html, location: 'octomap_ros.tag',
-  package: octomap_ros}
+- {docs_url: ../../../api/octomap_ros/html, location: octomap_ros.tag, package: octomap_ros}

@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/rxgraph/html, location: 'rxgraph.tag',
-  package: rxgraph}
+- {docs_url: ../../../api/rxgraph/html, location: rxgraph.tag, package: rxgraph}

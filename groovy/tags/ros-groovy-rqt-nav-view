@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/rqt_nav_view/html, location: 'rqt_nav_view.tag',
-  package: rqt_nav_view}
+- {docs_url: ../../../api/rqt_nav_view/html, location: rqt_nav_view.tag, package: rqt_nav_view}

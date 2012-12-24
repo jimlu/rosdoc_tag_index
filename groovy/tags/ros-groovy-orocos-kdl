@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/orocos_kdl/html, location: 'orocos_kdl.tag',
-  package: orocos_kdl}
+- {docs_url: ../../../api/orocos_kdl/html, location: orocos_kdl.tag, package: orocos_kdl}

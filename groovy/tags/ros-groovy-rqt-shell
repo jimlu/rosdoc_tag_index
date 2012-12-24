@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/rqt_shell/html, location: 'rqt_shell.tag',
-  package: rqt_shell}
+- {docs_url: ../../../api/rqt_shell/html, location: rqt_shell.tag, package: rqt_shell}

@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/stage/html, location: 'stage.tag',
-  package: stage}
+- {docs_url: ../../../api/stage/html, location: stage.tag, package: stage}

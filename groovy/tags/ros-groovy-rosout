@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/rosout/html, location: 'rosout.tag',
-  package: rosout}
+- {docs_url: ../../../api/rosout/html, location: rosout.tag, package: rosout}

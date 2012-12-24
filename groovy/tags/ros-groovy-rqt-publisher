@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/rqt_publisher/html, location: 'rqt_publisher.tag',
-  package: rqt_publisher}
+- {docs_url: ../../../api/rqt_publisher/html, location: rqt_publisher.tag, package: rqt_publisher}

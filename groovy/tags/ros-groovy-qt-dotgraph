@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/qt_dotgraph/html, location: 'qt_dotgraph.tag',
-  package: qt_dotgraph}
+- {docs_url: ../../../api/qt_dotgraph/html, location: qt_dotgraph.tag, package: qt_dotgraph}

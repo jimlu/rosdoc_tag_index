@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/message_filters/html, location: 'message_filters.tag',
-  package: message_filters}
+- {docs_url: ../../../api/message_filters/html, location: message_filters.tag, package: message_filters}

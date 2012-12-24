@@ -1,4 +1,2 @@
-- {docs_url: ../../../api/opennl/html, location: 'opennl.tag',
-  package: opennl}
-- {docs_url: ../../../api/openmesh/html, location: 'openmesh.tag',
-  package: openmesh}
+- {docs_url: ../../../api/opennl/html, location: opennl.tag, package: opennl}
+- {docs_url: ../../../api/openmesh/html, location: openmesh.tag, package: openmesh}

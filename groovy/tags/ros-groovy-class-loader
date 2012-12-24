@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/class_loader/html, location: 'class_loader.tag',
-  package: class_loader}
+- {docs_url: ../../../api/class_loader/html, location: class_loader.tag, package: class_loader}

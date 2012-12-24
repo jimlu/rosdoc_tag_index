@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/roscreate/html, location: 'roscreate.tag',
-  package: roscreate}
+- {docs_url: ../../../api/roscreate/html, location: roscreate.tag, package: roscreate}

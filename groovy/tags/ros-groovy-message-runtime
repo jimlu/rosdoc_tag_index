@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/message_runtime/html, location: 'message_runtime.tag',
-  package: message_runtime}
+- {docs_url: ../../../api/message_runtime/html, location: message_runtime.tag, package: message_runtime}

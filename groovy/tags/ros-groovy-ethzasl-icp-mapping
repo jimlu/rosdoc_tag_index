@@ -1,16 +1,14 @@
-- {docs_url: ../../../api/libnabo/html, location: 'libnabo.tag',
-  package: libnabo}
-- {docs_url: ../../../api/ethzasl_gridmap_2d/html, location: 'ethzasl_gridmap_2d.tag',
+- {docs_url: ../../../api/libnabo/html, location: libnabo.tag, package: libnabo}
+- {docs_url: ../../../api/ethzasl_gridmap_2d/html, location: ethzasl_gridmap_2d.tag,
   package: ethzasl_gridmap_2d}
-- {docs_url: ../../../api/libpointmatcher/html, location: 'libpointmatcher.tag',
-  package: libpointmatcher}
-- {docs_url: ../../../api/libpointmatcher_ros/html, location: 'libpointmatcher_ros.tag',
+- {docs_url: ../../../api/libpointmatcher/html, location: libpointmatcher.tag, package: libpointmatcher}
+- {docs_url: ../../../api/libpointmatcher_ros/html, location: libpointmatcher_ros.tag,
   package: libpointmatcher_ros}
-- {docs_url: ../../../api/ethzasl_icp_mapper/html, location: 'ethzasl_icp_mapper.tag',
+- {docs_url: ../../../api/ethzasl_icp_mapper/html, location: ethzasl_icp_mapper.tag,
   package: ethzasl_icp_mapper}
-- {docs_url: ../../../api/ethzasl_icp_mapper_experiments/html, location: 'ethzasl_icp_mapper_experiments.tag',
+- {docs_url: ../../../api/ethzasl_icp_mapper_experiments/html, location: ethzasl_icp_mapper_experiments.tag,
   package: ethzasl_icp_mapper_experiments}
-- {docs_url: ../../../api/ethzasl_point_cloud_vtk_tools/html, location: 'ethzasl_point_cloud_vtk_tools.tag',
+- {docs_url: ../../../api/ethzasl_point_cloud_vtk_tools/html, location: ethzasl_point_cloud_vtk_tools.tag,
   package: ethzasl_point_cloud_vtk_tools}
-- {docs_url: ../../../api/ethzasl_extrinsic_calibration/html, location: 'ethzasl_extrinsic_calibration.tag',
+- {docs_url: ../../../api/ethzasl_extrinsic_calibration/html, location: ethzasl_extrinsic_calibration.tag,
   package: ethzasl_extrinsic_calibration}

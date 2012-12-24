@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/rxbag/html, location: 'rxbag.tag',
-  package: rxbag}
+- {docs_url: ../../../api/rxbag/html, location: rxbag.tag, package: rxbag}

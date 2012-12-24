@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/laser_assembler/html, location: 'laser_assembler.tag',
-  package: laser_assembler}
+- {docs_url: ../../../api/laser_assembler/html, location: laser_assembler.tag, package: laser_assembler}

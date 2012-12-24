@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/image_geometry/html, location: 'image_geometry.tag',
-  package: image_geometry}
+- {docs_url: ../../../api/image_geometry/html, location: image_geometry.tag, package: image_geometry}

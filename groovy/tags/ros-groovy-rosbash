@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/rosbash/html, location: 'rosbash.tag',
-  package: rosbash}
+- {docs_url: ../../../api/rosbash/html, location: rosbash.tag, package: rosbash}

@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/self_test/html, location: 'self_test.tag',
-  package: self_test}
+- {docs_url: ../../../api/self_test/html, location: self_test.tag, package: self_test}

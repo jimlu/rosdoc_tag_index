@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/shape_msgs/html, location: 'shape_msgs.tag',
-  package: shape_msgs}
+- {docs_url: ../../../api/shape_msgs/html, location: shape_msgs.tag, package: shape_msgs}
