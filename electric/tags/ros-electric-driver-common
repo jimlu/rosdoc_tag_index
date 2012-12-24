@@ -1,4 +1,2 @@
-- {docs_url: ../../../api/driver_base/html, location: 'driver_base.tag',
-  package: driver_base}
-- {docs_url: ../../../api/timestamp_tools/html, location: 'timestamp_tools.tag',
-  package: timestamp_tools}
+- {docs_url: ../../../api/driver_base/html, location: driver_base.tag, package: driver_base}
+- {docs_url: ../../../api/timestamp_tools/html, location: timestamp_tools.tag, package: timestamp_tools}

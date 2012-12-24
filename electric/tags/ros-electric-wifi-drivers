@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/wifi_ddwrt/html, location: 'wifi_ddwrt.tag',
-  package: wifi_ddwrt}
+- {docs_url: ../../../api/wifi_ddwrt/html, location: wifi_ddwrt.tag, package: wifi_ddwrt}

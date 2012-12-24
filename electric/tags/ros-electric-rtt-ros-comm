@@ -1,4 +1,3 @@
-- {docs_url: ../../../api/rtt_rosgraph_msgs/html, location: 'rtt_rosgraph_msgs.tag',
+- {docs_url: ../../../api/rtt_rosgraph_msgs/html, location: rtt_rosgraph_msgs.tag,
   package: rtt_rosgraph_msgs}
-- {docs_url: ../../../api/rtt_std_msgs/html, location: 'rtt_std_msgs.tag',
-  package: rtt_std_msgs}
+- {docs_url: ../../../api/rtt_std_msgs/html, location: rtt_std_msgs.tag, package: rtt_std_msgs}

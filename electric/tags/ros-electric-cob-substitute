@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/cob_lbr/html, location: 'cob_lbr.tag',
-  package: cob_lbr}
+- {docs_url: ../../../api/cob_lbr/html, location: cob_lbr.tag, package: cob_lbr}

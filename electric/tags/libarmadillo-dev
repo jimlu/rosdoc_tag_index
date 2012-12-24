@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/armadillo/html, location: 'armadillo.tag',
-  package: armadillo}
+- {docs_url: ../../../api/armadillo/html, location: armadillo.tag, package: armadillo}

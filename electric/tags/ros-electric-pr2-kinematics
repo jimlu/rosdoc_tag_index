@@ -1,4 +1,4 @@
-- {docs_url: ../../../api/pr2_arm_kinematics/html, location: 'pr2_arm_kinematics.tag',
+- {docs_url: ../../../api/pr2_arm_kinematics/html, location: pr2_arm_kinematics.tag,
   package: pr2_arm_kinematics}
-- {docs_url: ../../../api/pr2_arm_kinematics_constraint_aware/html, location: 'pr2_arm_kinematics_constraint_aware.tag',
+- {docs_url: ../../../api/pr2_arm_kinematics_constraint_aware/html, location: pr2_arm_kinematics_constraint_aware.tag,
   package: pr2_arm_kinematics_constraint_aware}

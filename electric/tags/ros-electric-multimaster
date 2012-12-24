@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/multimaster/html, location: 'multimaster.tag',
-  package: multimaster}
+- {docs_url: ../../../api/multimaster/html, location: multimaster.tag, package: multimaster}

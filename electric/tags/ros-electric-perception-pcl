@@ -1,8 +1,4 @@
-- {docs_url: ../../../api/cminpack/html, location: 'cminpack.tag',
-  package: cminpack}
-- {docs_url: ../../../api/flann/html, location: 'flann.tag',
-  package: flann}
-- {docs_url: ../../../api/pcl/html, location: 'pcl.tag',
-  package: pcl}
-- {docs_url: ../../../api/pcl_ros/html, location: 'pcl_ros.tag',
-  package: pcl_ros}
+- {docs_url: ../../../api/cminpack/html, location: cminpack.tag, package: cminpack}
+- {docs_url: ../../../api/flann/html, location: flann.tag, package: flann}
+- {docs_url: ../../../api/pcl/html, location: pcl.tag, package: pcl}
+- {docs_url: ../../../api/pcl_ros/html, location: pcl_ros.tag, package: pcl_ros}

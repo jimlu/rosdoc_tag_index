@@ -1,4 +1,2 @@
-- {docs_url: ../../../api/flirtlib_ros/html, location: 'flirtlib_ros.tag',
-  package: flirtlib_ros}
-- {docs_url: ../../../api/wg_flirtlib/html, location: 'wg_flirtlib.tag',
-  package: wg_flirtlib}
+- {docs_url: ../../../api/flirtlib_ros/html, location: flirtlib_ros.tag, package: flirtlib_ros}
+- {docs_url: ../../../api/wg_flirtlib/html, location: wg_flirtlib.tag, package: wg_flirtlib}

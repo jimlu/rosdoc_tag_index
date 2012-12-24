@@ -1,10 +1,6 @@
-- {docs_url: ../../../api/roslisp_runtime/html, location: 'roslisp_runtime.tag',
-  package: roslisp_runtime}
-- {docs_url: ../../../api/roslisp_testing/html, location: 'roslisp_testing.tag',
-  package: roslisp_testing}
-- {docs_url: ../../../api/test_roslisp/html, location: 'test_roslisp.tag',
-  package: test_roslisp}
-- {docs_url: ../../../api/roslisp_repl/html, location: 'roslisp_repl.tag',
-  package: roslisp_repl}
-- {docs_url: ../../../api/roslisp_tutorials/html, location: 'roslisp_tutorials.tag',
+- {docs_url: ../../../api/roslisp_runtime/html, location: roslisp_runtime.tag, package: roslisp_runtime}
+- {docs_url: ../../../api/roslisp_testing/html, location: roslisp_testing.tag, package: roslisp_testing}
+- {docs_url: ../../../api/test_roslisp/html, location: test_roslisp.tag, package: test_roslisp}
+- {docs_url: ../../../api/roslisp_repl/html, location: roslisp_repl.tag, package: roslisp_repl}
+- {docs_url: ../../../api/roslisp_tutorials/html, location: roslisp_tutorials.tag,
   package: roslisp_tutorials}

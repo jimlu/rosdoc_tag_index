@@ -1,6 +1,4 @@
-- {docs_url: ../../../api/nodelet/html, location: 'nodelet.tag',
-  package: nodelet}
-- {docs_url: ../../../api/nodelet_topic_tools/html, location: 'nodelet_topic_tools.tag',
+- {docs_url: ../../../api/nodelet/html, location: nodelet.tag, package: nodelet}
+- {docs_url: ../../../api/nodelet_topic_tools/html, location: nodelet_topic_tools.tag,
   package: nodelet_topic_tools}
-- {docs_url: ../../../api/test_nodelet/html, location: 'test_nodelet.tag',
-  package: test_nodelet}
+- {docs_url: ../../../api/test_nodelet/html, location: test_nodelet.tag, package: test_nodelet}

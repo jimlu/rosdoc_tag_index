@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/xacro/html, location: 'xacro.tag',
-  package: xacro}
+- {docs_url: ../../../api/xacro/html, location: xacro.tag, package: xacro}

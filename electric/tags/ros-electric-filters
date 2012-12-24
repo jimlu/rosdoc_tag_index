@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/filters/html, location: 'filters.tag',
-  package: filters}
+- {docs_url: ../../../api/filters/html, location: filters.tag, package: filters}

@@ -1,4 +1,2 @@
-- {docs_url: ../../../api/ogre_tools_qt/html, location: 'ogre_tools_qt.tag',
-  package: ogre_tools_qt}
-- {docs_url: ../../../api/rviz_qt/html, location: 'rviz_qt.tag',
-  package: rviz_qt}
+- {docs_url: ../../../api/ogre_tools_qt/html, location: ogre_tools_qt.tag, package: ogre_tools_qt}
+- {docs_url: ../../../api/rviz_qt/html, location: rviz_qt.tag, package: rviz_qt}

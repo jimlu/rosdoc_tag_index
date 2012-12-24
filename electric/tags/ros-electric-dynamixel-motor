@@ -1,8 +1,6 @@
-- {docs_url: ../../../api/dynamixel_driver/html, location: 'dynamixel_driver.tag',
-  package: dynamixel_driver}
-- {docs_url: ../../../api/dynamixel_msgs/html, location: 'dynamixel_msgs.tag',
-  package: dynamixel_msgs}
-- {docs_url: ../../../api/dynamixel_controllers/html, location: 'dynamixel_controllers.tag',
+- {docs_url: ../../../api/dynamixel_driver/html, location: dynamixel_driver.tag, package: dynamixel_driver}
+- {docs_url: ../../../api/dynamixel_msgs/html, location: dynamixel_msgs.tag, package: dynamixel_msgs}
+- {docs_url: ../../../api/dynamixel_controllers/html, location: dynamixel_controllers.tag,
   package: dynamixel_controllers}
-- {docs_url: ../../../api/dynamixel_tutorials/html, location: 'dynamixel_tutorials.tag',
+- {docs_url: ../../../api/dynamixel_tutorials/html, location: dynamixel_tutorials.tag,
   package: dynamixel_tutorials}

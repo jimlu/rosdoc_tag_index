@@ -1,4 +1,3 @@
-- {docs_url: ../../../api/karto/html, location: 'karto.tag',
-  package: karto}
-- {docs_url: ../../../api/karto_scan_matcher/html, location: 'karto_scan_matcher.tag',
+- {docs_url: ../../../api/karto/html, location: karto.tag, package: karto}
+- {docs_url: ../../../api/karto_scan_matcher/html, location: karto_scan_matcher.tag,
   package: karto_scan_matcher}

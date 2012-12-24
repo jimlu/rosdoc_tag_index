@@ -1,6 +1,5 @@
-- {docs_url: ../../../api/schunk_hardware_config/html, location: 'schunk_hardware_config.tag',
+- {docs_url: ../../../api/schunk_hardware_config/html, location: schunk_hardware_config.tag,
   package: schunk_hardware_config}
-- {docs_url: ../../../api/schunk_default_config/html, location: 'schunk_default_config.tag',
+- {docs_url: ../../../api/schunk_default_config/html, location: schunk_default_config.tag,
   package: schunk_default_config}
-- {docs_url: ../../../api/schunk_bringup/html, location: 'schunk_bringup.tag',
-  package: schunk_bringup}
+- {docs_url: ../../../api/schunk_bringup/html, location: schunk_bringup.tag, package: schunk_bringup}

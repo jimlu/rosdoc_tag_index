@@ -1,4 +1,3 @@
-- {docs_url: ../../../api/database_interface/html, location: 'database_interface.tag',
+- {docs_url: ../../../api/database_interface/html, location: database_interface.tag,
   package: database_interface}
-- {docs_url: ../../../api/student_database/html, location: 'student_database.tag',
-  package: student_database}
+- {docs_url: ../../../api/student_database/html, location: student_database.tag, package: student_database}

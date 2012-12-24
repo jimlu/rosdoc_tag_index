@@ -1,4 +1,4 @@
-- {docs_url: ../../../api/simple_arm_server/html, location: 'simple_arm_server.tag',
+- {docs_url: ../../../api/simple_arm_server/html, location: simple_arm_server.tag,
   package: simple_arm_server}
-- {docs_url: ../../../api/simple_arm_actions/html, location: 'simple_arm_actions.tag',
+- {docs_url: ../../../api/simple_arm_actions/html, location: simple_arm_actions.tag,
   package: simple_arm_actions}

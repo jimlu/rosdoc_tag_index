@@ -1,24 +1,22 @@
-- {docs_url: ../../../api/pr2_gazebo_cartworld/html, location: 'pr2_gazebo_cartworld.tag',
+- {docs_url: ../../../api/pr2_gazebo_cartworld/html, location: pr2_gazebo_cartworld.tag,
   package: pr2_gazebo_cartworld}
-- {docs_url: ../../../api/manipulation_transforms/html, location: 'manipulation_transforms.tag',
+- {docs_url: ../../../api/manipulation_transforms/html, location: manipulation_transforms.tag,
   package: manipulation_transforms}
-- {docs_url: ../../../api/cart_state_estimator/html, location: 'cart_state_estimator.tag',
+- {docs_url: ../../../api/cart_state_estimator/html, location: cart_state_estimator.tag,
   package: cart_state_estimator}
-- {docs_url: ../../../api/articulate_cart/html, location: 'articulate_cart.tag',
-  package: articulate_cart}
-- {docs_url: ../../../api/costmap_trajectory_checker/html, location: 'costmap_trajectory_checker.tag',
+- {docs_url: ../../../api/articulate_cart/html, location: articulate_cart.tag, package: articulate_cart}
+- {docs_url: ../../../api/costmap_trajectory_checker/html, location: costmap_trajectory_checker.tag,
   package: costmap_trajectory_checker}
-- {docs_url: ../../../api/cart_pushing_msgs/html, location: 'cart_pushing_msgs.tag',
+- {docs_url: ../../../api/cart_pushing_msgs/html, location: cart_pushing_msgs.tag,
   package: cart_pushing_msgs}
-- {docs_url: ../../../api/sbpl_cart_planner/html, location: 'sbpl_cart_planner.tag',
+- {docs_url: ../../../api/sbpl_cart_planner/html, location: sbpl_cart_planner.tag,
   package: sbpl_cart_planner}
-- {docs_url: ../../../api/global_planner_switcher/html, location: 'global_planner_switcher.tag',
+- {docs_url: ../../../api/global_planner_switcher/html, location: global_planner_switcher.tag,
   package: global_planner_switcher}
-- {docs_url: ../../../api/isolated_point_filter/html, location: 'isolated_point_filter.tag',
+- {docs_url: ../../../api/isolated_point_filter/html, location: isolated_point_filter.tag,
   package: isolated_point_filter}
-- {docs_url: ../../../api/pr2_pose_saver/html, location: 'pr2_pose_saver.tag',
-  package: pr2_pose_saver}
-- {docs_url: ../../../api/cart_local_planner/html, location: 'cart_local_planner.tag',
+- {docs_url: ../../../api/pr2_pose_saver/html, location: pr2_pose_saver.tag, package: pr2_pose_saver}
+- {docs_url: ../../../api/cart_local_planner/html, location: cart_local_planner.tag,
   package: cart_local_planner}
-- {docs_url: ../../../api/cart_pushing_executive/html, location: 'cart_pushing_executive.tag',
+- {docs_url: ../../../api/cart_pushing_executive/html, location: cart_pushing_executive.tag,
   package: cart_pushing_executive}

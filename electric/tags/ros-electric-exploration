@@ -1,4 +1,2 @@
-- {docs_url: ../../../api/explore/html, location: 'explore.tag',
-  package: explore}
-- {docs_url: ../../../api/explore_stage/html, location: 'explore_stage.tag',
-  package: explore_stage}
+- {docs_url: ../../../api/explore/html, location: explore.tag, package: explore}
+- {docs_url: ../../../api/explore_stage/html, location: explore_stage.tag, package: explore_stage}

@@ -1,4 +1,3 @@
-- {docs_url: ../../../api/opende/html, location: 'opende.tag',
-  package: opende}
-- {docs_url: ../../../api/parallel_quickstep/html, location: 'parallel_quickstep.tag',
+- {docs_url: ../../../api/opende/html, location: opende.tag, package: opende}
+- {docs_url: ../../../api/parallel_quickstep/html, location: parallel_quickstep.tag,
   package: parallel_quickstep}

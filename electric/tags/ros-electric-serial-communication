@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/cereal_port/html, location: 'cereal_port.tag',
-  package: cereal_port}
+- {docs_url: ../../../api/cereal_port/html, location: cereal_port.tag, package: cereal_port}

@@ -1,4 +1,3 @@
-- {docs_url: ../../../api/clearpath_tools/html, location: 'clearpath_tools.tag',
-  package: clearpath_tools}
-- {docs_url: ../../../api/clearpath_kinect_demo/html, location: 'clearpath_kinect_demo.tag',
+- {docs_url: ../../../api/clearpath_tools/html, location: clearpath_tools.tag, package: clearpath_tools}
+- {docs_url: ../../../api/clearpath_kinect_demo/html, location: clearpath_kinect_demo.tag,
   package: clearpath_kinect_demo}

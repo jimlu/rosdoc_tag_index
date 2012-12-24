@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/bullet/html, location: 'bullet.tag',
-  package: bullet}
+- {docs_url: ../../../api/bullet/html, location: bullet.tag, package: bullet}

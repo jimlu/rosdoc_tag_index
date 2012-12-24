@@ -1,6 +1,6 @@
-- {docs_url: ../../../api/camera_pose_calibration/html, location: 'camera_pose_calibration.tag',
+- {docs_url: ../../../api/camera_pose_calibration/html, location: camera_pose_calibration.tag,
   package: camera_pose_calibration}
-- {docs_url: ../../../api/camera_pose_toolkits/html, location: 'camera_pose_toolkits.tag',
+- {docs_url: ../../../api/camera_pose_toolkits/html, location: camera_pose_toolkits.tag,
   package: camera_pose_toolkits}
-- {docs_url: ../../../api/kinect_depth_calibration/html, location: 'kinect_depth_calibration.tag',
+- {docs_url: ../../../api/kinect_depth_calibration/html, location: kinect_depth_calibration.tag,
   package: kinect_depth_calibration}

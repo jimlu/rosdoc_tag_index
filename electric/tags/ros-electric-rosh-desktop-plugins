@@ -1,4 +1,3 @@
-- {docs_url: ../../../api/rosh_visualization/html, location: 'rosh_visualization.tag',
+- {docs_url: ../../../api/rosh_visualization/html, location: rosh_visualization.tag,
   package: rosh_visualization}
-- {docs_url: ../../../api/rosh_desktop/html, location: 'rosh_desktop.tag',
-  package: rosh_desktop}
+- {docs_url: ../../../api/rosh_desktop/html, location: rosh_desktop.tag, package: rosh_desktop}

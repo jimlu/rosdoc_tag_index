@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/control_msgs/html, location: 'control_msgs.tag',
-  package: control_msgs}
+- {docs_url: ../../../api/control_msgs/html, location: control_msgs.tag, package: control_msgs}

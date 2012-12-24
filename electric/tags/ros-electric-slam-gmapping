@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/gmapping/html, location: 'gmapping.tag',
-  package: gmapping}
+- {docs_url: ../../../api/gmapping/html, location: gmapping.tag, package: gmapping}

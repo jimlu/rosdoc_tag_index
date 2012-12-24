@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/common_rosdeps/html, location: 'common_rosdeps.tag',
-  package: common_rosdeps}
+- {docs_url: ../../../api/common_rosdeps/html, location: common_rosdeps.tag, package: common_rosdeps}

@@ -1,10 +1,5 @@
-- {docs_url: ../../../api/bond/html, location: 'bond.tag',
-  package: bond}
-- {docs_url: ../../../api/smclib/html, location: 'smclib.tag',
-  package: smclib}
-- {docs_url: ../../../api/bondcpp/html, location: 'bondcpp.tag',
-  package: bondcpp}
-- {docs_url: ../../../api/bondpy/html, location: 'bondpy.tag',
-  package: bondpy}
-- {docs_url: ../../../api/test_bond/html, location: 'test_bond.tag',
-  package: test_bond}
+- {docs_url: ../../../api/bond/html, location: bond.tag, package: bond}
+- {docs_url: ../../../api/smclib/html, location: smclib.tag, package: smclib}
+- {docs_url: ../../../api/bondcpp/html, location: bondcpp.tag, package: bondcpp}
+- {docs_url: ../../../api/bondpy/html, location: bondpy.tag, package: bondpy}
+- {docs_url: ../../../api/test_bond/html, location: test_bond.tag, package: test_bond}

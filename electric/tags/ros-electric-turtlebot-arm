@@ -1,10 +1,10 @@
-- {docs_url: ../../../api/turtlebot_kinect_arm_calibration/html, location: 'turtlebot_kinect_arm_calibration.tag',
+- {docs_url: ../../../api/turtlebot_kinect_arm_calibration/html, location: turtlebot_kinect_arm_calibration.tag,
   package: turtlebot_kinect_arm_calibration}
-- {docs_url: ../../../api/turtlebot_arm_description/html, location: 'turtlebot_arm_description.tag',
+- {docs_url: ../../../api/turtlebot_arm_description/html, location: turtlebot_arm_description.tag,
   package: turtlebot_arm_description}
-- {docs_url: ../../../api/turtlebot_block_manipulation/html, location: 'turtlebot_block_manipulation.tag',
+- {docs_url: ../../../api/turtlebot_block_manipulation/html, location: turtlebot_block_manipulation.tag,
   package: turtlebot_block_manipulation}
-- {docs_url: ../../../api/turtlebot_arm_interactive_markers/html, location: 'turtlebot_arm_interactive_markers.tag',
+- {docs_url: ../../../api/turtlebot_arm_interactive_markers/html, location: turtlebot_arm_interactive_markers.tag,
   package: turtlebot_arm_interactive_markers}
-- {docs_url: ../../../api/turtlebot_arm_bringup/html, location: 'turtlebot_arm_bringup.tag',
+- {docs_url: ../../../api/turtlebot_arm_bringup/html, location: turtlebot_arm_bringup.tag,
   package: turtlebot_arm_bringup}

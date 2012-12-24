@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/ackermann_msgs/html, location: 'ackermann_msgs.tag',
-  package: ackermann_msgs}
+- {docs_url: ../../../api/ackermann_msgs/html, location: ackermann_msgs.tag, package: ackermann_msgs}

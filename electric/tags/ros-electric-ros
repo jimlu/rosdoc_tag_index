@@ -1,26 +1,13 @@
-- {docs_url: ../../../api/rosemacs/html, location: 'rosemacs.tag',
-  package: rosemacs}
-- {docs_url: ../../../api/rosboost_cfg/html, location: 'rosboost_cfg.tag',
-  package: rosboost_cfg}
-- {docs_url: ../../../api/rospack/html, location: 'rospack.tag',
-  package: rospack}
-- {docs_url: ../../../api/roslib/html, location: 'roslib.tag',
-  package: roslib}
-- {docs_url: ../../../api/test_rosdep/html, location: 'test_rosdep.tag',
-  package: test_rosdep}
-- {docs_url: ../../../api/rosbash/html, location: 'rosbash.tag',
-  package: rosbash}
-- {docs_url: ../../../api/test_roslib/html, location: 'test_roslib.tag',
-  package: test_roslib}
-- {docs_url: ../../../api/roscreate/html, location: 'roscreate.tag',
-  package: roscreate}
-- {docs_url: ../../../api/test_roscreate/html, location: 'test_roscreate.tag',
-  package: test_roscreate}
-- {docs_url: ../../../api/rosclean/html, location: 'rosclean.tag',
-  package: rosclean}
-- {docs_url: ../../../api/test_rospack/html, location: 'test_rospack.tag',
-  package: test_rospack}
-- {docs_url: ../../../api/test_rosmake/html, location: 'test_rosmake.tag',
-  package: test_rosmake}
-- {docs_url: ../../../api/roslang/html, location: 'roslang.tag',
-  package: roslang}
+- {docs_url: ../../../api/rosemacs/html, location: rosemacs.tag, package: rosemacs}
+- {docs_url: ../../../api/rosboost_cfg/html, location: rosboost_cfg.tag, package: rosboost_cfg}
+- {docs_url: ../../../api/rospack/html, location: rospack.tag, package: rospack}
+- {docs_url: ../../../api/roslib/html, location: roslib.tag, package: roslib}
+- {docs_url: ../../../api/test_rosdep/html, location: test_rosdep.tag, package: test_rosdep}
+- {docs_url: ../../../api/rosbash/html, location: rosbash.tag, package: rosbash}
+- {docs_url: ../../../api/test_roslib/html, location: test_roslib.tag, package: test_roslib}
+- {docs_url: ../../../api/roscreate/html, location: roscreate.tag, package: roscreate}
+- {docs_url: ../../../api/test_roscreate/html, location: test_roscreate.tag, package: test_roscreate}
+- {docs_url: ../../../api/rosclean/html, location: rosclean.tag, package: rosclean}
+- {docs_url: ../../../api/test_rospack/html, location: test_rospack.tag, package: test_rospack}
+- {docs_url: ../../../api/test_rosmake/html, location: test_rosmake.tag, package: test_rosmake}
+- {docs_url: ../../../api/roslang/html, location: roslang.tag, package: roslang}

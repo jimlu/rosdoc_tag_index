@@ -1,12 +1,6 @@
-- {docs_url: ../../../api/openni/html, location: 'openni.tag',
-  package: openni}
-- {docs_url: ../../../api/nite/html, location: 'nite.tag',
-  package: nite}
-- {docs_url: ../../../api/openni_tracker/html, location: 'openni_tracker.tag',
-  package: openni_tracker}
-- {docs_url: ../../../api/openni_camera/html, location: 'openni_camera.tag',
-  package: openni_camera}
-- {docs_url: ../../../api/depth_image_proc/html, location: 'depth_image_proc.tag',
-  package: depth_image_proc}
-- {docs_url: ../../../api/openni_launch/html, location: 'openni_launch.tag',
-  package: openni_launch}
+- {docs_url: ../../../api/openni/html, location: openni.tag, package: openni}
+- {docs_url: ../../../api/nite/html, location: nite.tag, package: nite}
+- {docs_url: ../../../api/openni_tracker/html, location: openni_tracker.tag, package: openni_tracker}
+- {docs_url: ../../../api/openni_camera/html, location: openni_camera.tag, package: openni_camera}
+- {docs_url: ../../../api/depth_image_proc/html, location: depth_image_proc.tag, package: depth_image_proc}
+- {docs_url: ../../../api/openni_launch/html, location: openni_launch.tag, package: openni_launch}

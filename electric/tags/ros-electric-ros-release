@@ -1,6 +1,3 @@
-- {docs_url: ../../../api/job_generation/html, location: 'job_generation.tag',
-  package: job_generation}
-- {docs_url: ../../../api/release/html, location: 'release.tag',
-  package: release}
-- {docs_url: ../../../api/isogenerator/html, location: 'isogenerator.tag',
-  package: isogenerator}
+- {docs_url: ../../../api/job_generation/html, location: job_generation.tag, package: job_generation}
+- {docs_url: ../../../api/release/html, location: release.tag, package: release}
+- {docs_url: ../../../api/isogenerator/html, location: isogenerator.tag, package: isogenerator}

@@ -1,8 +1,5 @@
-- {docs_url: ../../../api/angles/html, location: 'angles.tag',
-  package: angles}
-- {docs_url: ../../../api/tf/html, location: 'tf.tag',
-  package: tf}
-- {docs_url: ../../../api/tf_conversions/html, location: 'tf_conversions.tag',
-  package: tf_conversions}
-- {docs_url: ../../../api/eigen_conversions/html, location: 'eigen_conversions.tag',
+- {docs_url: ../../../api/angles/html, location: angles.tag, package: angles}
+- {docs_url: ../../../api/tf/html, location: tf.tag, package: tf}
+- {docs_url: ../../../api/tf_conversions/html, location: tf_conversions.tag, package: tf_conversions}
+- {docs_url: ../../../api/eigen_conversions/html, location: eigen_conversions.tag,
   package: eigen_conversions}

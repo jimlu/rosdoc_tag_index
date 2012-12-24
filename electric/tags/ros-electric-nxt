@@ -1,12 +1,6 @@
-- {docs_url: ../../../api/nxt_lxf2urdf/html, location: 'nxt_lxf2urdf.tag',
-  package: nxt_lxf2urdf}
-- {docs_url: ../../../api/nxt_msgs/html, location: 'nxt_msgs.tag',
-  package: nxt_msgs}
-- {docs_url: ../../../api/nxt_rviz_plugin/html, location: 'nxt_rviz_plugin.tag',
-  package: nxt_rviz_plugin}
-- {docs_url: ../../../api/nxt_ros/html, location: 'nxt_ros.tag',
-  package: nxt_ros}
-- {docs_url: ../../../api/nxt_description/html, location: 'nxt_description.tag',
-  package: nxt_description}
-- {docs_url: ../../../api/nxt_controllers/html, location: 'nxt_controllers.tag',
-  package: nxt_controllers}
+- {docs_url: ../../../api/nxt_lxf2urdf/html, location: nxt_lxf2urdf.tag, package: nxt_lxf2urdf}
+- {docs_url: ../../../api/nxt_msgs/html, location: nxt_msgs.tag, package: nxt_msgs}
+- {docs_url: ../../../api/nxt_rviz_plugin/html, location: nxt_rviz_plugin.tag, package: nxt_rviz_plugin}
+- {docs_url: ../../../api/nxt_ros/html, location: nxt_ros.tag, package: nxt_ros}
+- {docs_url: ../../../api/nxt_description/html, location: nxt_description.tag, package: nxt_description}
+- {docs_url: ../../../api/nxt_controllers/html, location: nxt_controllers.tag, package: nxt_controllers}

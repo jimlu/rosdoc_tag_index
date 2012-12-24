@@ -1,10 +1,9 @@
-- {docs_url: ../../../api/cob_hardware_config/html, location: 'cob_hardware_config.tag',
+- {docs_url: ../../../api/cob_hardware_config/html, location: cob_hardware_config.tag,
   package: cob_hardware_config}
-- {docs_url: ../../../api/cob_default_robot_config/html, location: 'cob_default_robot_config.tag',
+- {docs_url: ../../../api/cob_default_robot_config/html, location: cob_default_robot_config.tag,
   package: cob_default_robot_config}
-- {docs_url: ../../../api/cob_bringup/html, location: 'cob_bringup.tag',
-  package: cob_bringup}
-- {docs_url: ../../../api/cob_controller_configuration_gazebo/html, location: 'cob_controller_configuration_gazebo.tag',
+- {docs_url: ../../../api/cob_bringup/html, location: cob_bringup.tag, package: cob_bringup}
+- {docs_url: ../../../api/cob_controller_configuration_gazebo/html, location: cob_controller_configuration_gazebo.tag,
   package: cob_controller_configuration_gazebo}
-- {docs_url: ../../../api/cob_hardware_test/html, location: 'cob_hardware_test.tag',
+- {docs_url: ../../../api/cob_hardware_test/html, location: cob_hardware_test.tag,
   package: cob_hardware_test}

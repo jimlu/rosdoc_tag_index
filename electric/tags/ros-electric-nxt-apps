@@ -1,4 +1,3 @@
-- {docs_url: ../../../api/nxt_assisted_teleop/html, location: 'nxt_assisted_teleop.tag',
+- {docs_url: ../../../api/nxt_assisted_teleop/html, location: nxt_assisted_teleop.tag,
   package: nxt_assisted_teleop}
-- {docs_url: ../../../api/nxt_teleop/html, location: 'nxt_teleop.tag',
-  package: nxt_teleop}
+- {docs_url: ../../../api/nxt_teleop/html, location: nxt_teleop.tag, package: nxt_teleop}

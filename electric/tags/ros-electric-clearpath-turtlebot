@@ -1,6 +1,4 @@
-- {docs_url: ../../../api/turtlebot_kinect/html, location: 'turtlebot_kinect.tag',
-  package: turtlebot_kinect}
-- {docs_url: ../../../api/turtlebot_rndmwalk/html, location: 'turtlebot_rndmwalk.tag',
+- {docs_url: ../../../api/turtlebot_kinect/html, location: turtlebot_kinect.tag, package: turtlebot_kinect}
+- {docs_url: ../../../api/turtlebot_rndmwalk/html, location: turtlebot_rndmwalk.tag,
   package: turtlebot_rndmwalk}
-- {docs_url: ../../../api/turtlebot_train/html, location: 'turtlebot_train.tag',
-  package: turtlebot_train}
+- {docs_url: ../../../api/turtlebot_train/html, location: turtlebot_train.tag, package: turtlebot_train}

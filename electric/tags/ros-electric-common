@@ -1,6 +1,3 @@
-- {docs_url: ../../../api/actionlib/html, location: 'actionlib.tag',
-  package: actionlib}
-- {docs_url: ../../../api/yaml_cpp/html, location: 'yaml_cpp.tag',
-  package: yaml_cpp}
-- {docs_url: ../../../api/bfl/html, location: 'bfl.tag',
-  package: bfl}
+- {docs_url: ../../../api/actionlib/html, location: actionlib.tag, package: actionlib}
+- {docs_url: ../../../api/yaml_cpp/html, location: yaml_cpp.tag, package: yaml_cpp}
+- {docs_url: ../../../api/bfl/html, location: bfl.tag, package: bfl}

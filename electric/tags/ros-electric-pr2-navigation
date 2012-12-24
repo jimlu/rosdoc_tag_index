@@ -1,20 +1,19 @@
-- {docs_url: ../../../api/pr2_navigation_teleop/html, location: 'pr2_navigation_teleop.tag',
+- {docs_url: ../../../api/pr2_navigation_teleop/html, location: pr2_navigation_teleop.tag,
   package: pr2_navigation_teleop}
-- {docs_url: ../../../api/pr2_navigation_self_filter/html, location: 'pr2_navigation_self_filter.tag',
+- {docs_url: ../../../api/pr2_navigation_self_filter/html, location: pr2_navigation_self_filter.tag,
   package: pr2_navigation_self_filter}
-- {docs_url: ../../../api/pr2_move_base/html, location: 'pr2_move_base.tag',
-  package: pr2_move_base}
-- {docs_url: ../../../api/pr2_navigation_config/html, location: 'pr2_navigation_config.tag',
+- {docs_url: ../../../api/pr2_move_base/html, location: pr2_move_base.tag, package: pr2_move_base}
+- {docs_url: ../../../api/pr2_navigation_config/html, location: pr2_navigation_config.tag,
   package: pr2_navigation_config}
-- {docs_url: ../../../api/pr2_navigation_slam/html, location: 'pr2_navigation_slam.tag',
+- {docs_url: ../../../api/pr2_navigation_slam/html, location: pr2_navigation_slam.tag,
   package: pr2_navigation_slam}
-- {docs_url: ../../../api/laser_tilt_controller_filter/html, location: 'laser_tilt_controller_filter.tag',
+- {docs_url: ../../../api/laser_tilt_controller_filter/html, location: laser_tilt_controller_filter.tag,
   package: laser_tilt_controller_filter}
-- {docs_url: ../../../api/pr2_navigation_global/html, location: 'pr2_navigation_global.tag',
+- {docs_url: ../../../api/pr2_navigation_global/html, location: pr2_navigation_global.tag,
   package: pr2_navigation_global}
-- {docs_url: ../../../api/pr2_navigation_local/html, location: 'pr2_navigation_local.tag',
+- {docs_url: ../../../api/pr2_navigation_local/html, location: pr2_navigation_local.tag,
   package: pr2_navigation_local}
-- {docs_url: ../../../api/semantic_point_annotator/html, location: 'semantic_point_annotator.tag',
+- {docs_url: ../../../api/semantic_point_annotator/html, location: semantic_point_annotator.tag,
   package: semantic_point_annotator}
-- {docs_url: ../../../api/pr2_navigation_perception/html, location: 'pr2_navigation_perception.tag',
+- {docs_url: ../../../api/pr2_navigation_perception/html, location: pr2_navigation_perception.tag,
   package: pr2_navigation_perception}

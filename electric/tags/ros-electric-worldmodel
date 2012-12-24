@@ -1,6 +1,4 @@
-- {docs_url: ../../../api/worldmodel_ops/html, location: 'worldmodel_ops.tag',
-  package: worldmodel_ops}
-- {docs_url: ../../../api/semanticmodel/html, location: 'semanticmodel.tag',
-  package: semanticmodel}
-- {docs_url: ../../../api/semantic_model_web_interface/html, location: 'semantic_model_web_interface.tag',
+- {docs_url: ../../../api/worldmodel_ops/html, location: worldmodel_ops.tag, package: worldmodel_ops}
+- {docs_url: ../../../api/semanticmodel/html, location: semanticmodel.tag, package: semanticmodel}
+- {docs_url: ../../../api/semantic_model_web_interface/html, location: semantic_model_web_interface.tag,
   package: semantic_model_web_interface}

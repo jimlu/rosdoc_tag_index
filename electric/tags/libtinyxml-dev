@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/tinyxml/html, location: 'tinyxml.tag',
-  package: tinyxml}
+- {docs_url: ../../../api/tinyxml/html, location: tinyxml.tag, package: tinyxml}

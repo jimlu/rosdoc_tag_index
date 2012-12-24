@@ -1,6 +1,3 @@
-- {docs_url: ../../../api/roswiki/html, location: 'roswiki.tag',
-  package: roswiki}
-- {docs_url: ../../../api/rosdoc_rosorg/html, location: 'rosdoc_rosorg.tag',
-  package: rosdoc_rosorg}
-- {docs_url: ../../../api/rosbrowse/html, location: 'rosbrowse.tag',
-  package: rosbrowse}
+- {docs_url: ../../../api/roswiki/html, location: roswiki.tag, package: roswiki}
+- {docs_url: ../../../api/rosdoc_rosorg/html, location: rosdoc_rosorg.tag, package: rosdoc_rosorg}
+- {docs_url: ../../../api/rosbrowse/html, location: rosbrowse.tag, package: rosbrowse}

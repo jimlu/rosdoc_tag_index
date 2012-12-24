@@ -1,6 +1,4 @@
-- {docs_url: ../../../api/terminal_tools/html, location: 'terminal_tools.tag',
-  package: terminal_tools}
-- {docs_url: ../../../api/pcl_visualization/html, location: 'pcl_visualization.tag',
+- {docs_url: ../../../api/terminal_tools/html, location: terminal_tools.tag, package: terminal_tools}
+- {docs_url: ../../../api/pcl_visualization/html, location: pcl_visualization.tag,
   package: pcl_visualization}
-- {docs_url: ../../../api/pcl_tutorials/html, location: 'pcl_tutorials.tag',
-  package: pcl_tutorials}
+- {docs_url: ../../../api/pcl_tutorials/html, location: pcl_tutorials.tag, package: pcl_tutorials}

@@ -1,12 +1,8 @@
-- {docs_url: ../../../api/ecl_config/html, location: 'ecl_config.tag',
-  package: ecl_config}
-- {docs_url: ../../../api/ecl_converters_lite/html, location: 'ecl_converters_lite.tag',
+- {docs_url: ../../../api/ecl_config/html, location: ecl_config.tag, package: ecl_config}
+- {docs_url: ../../../api/ecl_converters_lite/html, location: ecl_converters_lite.tag,
   package: ecl_converters_lite}
-- {docs_url: ../../../api/ecl_sigslots_lite/html, location: 'ecl_sigslots_lite.tag',
+- {docs_url: ../../../api/ecl_sigslots_lite/html, location: ecl_sigslots_lite.tag,
   package: ecl_sigslots_lite}
-- {docs_url: ../../../api/ecl_errors/html, location: 'ecl_errors.tag',
-  package: ecl_errors}
-- {docs_url: ../../../api/ecl_time_lite/html, location: 'ecl_time_lite.tag',
-  package: ecl_time_lite}
-- {docs_url: ../../../api/ecl_io/html, location: 'ecl_io.tag',
-  package: ecl_io}
+- {docs_url: ../../../api/ecl_errors/html, location: ecl_errors.tag, package: ecl_errors}
+- {docs_url: ../../../api/ecl_time_lite/html, location: ecl_time_lite.tag, package: ecl_time_lite}
+- {docs_url: ../../../api/ecl_io/html, location: ecl_io.tag, package: ecl_io}

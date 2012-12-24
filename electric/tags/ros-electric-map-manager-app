@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/map_manager_app/html, location: 'map_manager_app.tag',
-  package: map_manager_app}
+- {docs_url: ../../../api/map_manager_app/html, location: map_manager_app.tag, package: map_manager_app}

@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/collada-dom/html, location: 'collada-dom.tag',
-  package: collada-dom}
+- {docs_url: ../../../api/collada-dom/html, location: collada-dom.tag, package: collada-dom}

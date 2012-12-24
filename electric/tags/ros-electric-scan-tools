@@ -1,14 +1,12 @@
-- {docs_url: ../../../api/csm/html, location: 'csm.tag',
-  package: csm}
-- {docs_url: ../../../api/laser_ortho_projector/html, location: 'laser_ortho_projector.tag',
+- {docs_url: ../../../api/csm/html, location: csm.tag, package: csm}
+- {docs_url: ../../../api/laser_ortho_projector/html, location: laser_ortho_projector.tag,
   package: laser_ortho_projector}
-- {docs_url: ../../../api/laser_scan_matcher/html, location: 'laser_scan_matcher.tag',
+- {docs_url: ../../../api/laser_scan_matcher/html, location: laser_scan_matcher.tag,
   package: laser_scan_matcher}
-- {docs_url: ../../../api/laser_scan_sparsifier/html, location: 'laser_scan_sparsifier.tag',
+- {docs_url: ../../../api/laser_scan_sparsifier/html, location: laser_scan_sparsifier.tag,
   package: laser_scan_sparsifier}
-- {docs_url: ../../../api/ncd_parser/html, location: 'ncd_parser.tag',
-  package: ncd_parser}
-- {docs_url: ../../../api/laser_scan_splitter/html, location: 'laser_scan_splitter.tag',
+- {docs_url: ../../../api/ncd_parser/html, location: ncd_parser.tag, package: ncd_parser}
+- {docs_url: ../../../api/laser_scan_splitter/html, location: laser_scan_splitter.tag,
   package: laser_scan_splitter}
-- {docs_url: ../../../api/scan_to_cloud_converter/html, location: 'scan_to_cloud_converter.tag',
+- {docs_url: ../../../api/scan_to_cloud_converter/html, location: scan_to_cloud_converter.tag,
   package: scan_to_cloud_converter}

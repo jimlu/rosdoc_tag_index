@@ -1,42 +1,22 @@
-- {docs_url: ../../../api/ecl_eigen/html, location: 'ecl_eigen.tag',
-  package: ecl_eigen}
-- {docs_url: ../../../api/ecl_exceptions/html, location: 'ecl_exceptions.tag',
-  package: ecl_exceptions}
-- {docs_url: ../../../api/ecl_mpl/html, location: 'ecl_mpl.tag',
-  package: ecl_mpl}
-- {docs_url: ../../../api/ecl_type_traits/html, location: 'ecl_type_traits.tag',
-  package: ecl_type_traits}
-- {docs_url: ../../../api/ecl_concepts/html, location: 'ecl_concepts.tag',
-  package: ecl_concepts}
-- {docs_url: ../../../api/ecl_converters/html, location: 'ecl_converters.tag',
-  package: ecl_converters}
-- {docs_url: ../../../api/ecl_formatters/html, location: 'ecl_formatters.tag',
-  package: ecl_formatters}
-- {docs_url: ../../../api/ecl_linear_algebra/html, location: 'ecl_linear_algebra.tag',
+- {docs_url: ../../../api/ecl_eigen/html, location: ecl_eigen.tag, package: ecl_eigen}
+- {docs_url: ../../../api/ecl_exceptions/html, location: ecl_exceptions.tag, package: ecl_exceptions}
+- {docs_url: ../../../api/ecl_mpl/html, location: ecl_mpl.tag, package: ecl_mpl}
+- {docs_url: ../../../api/ecl_type_traits/html, location: ecl_type_traits.tag, package: ecl_type_traits}
+- {docs_url: ../../../api/ecl_concepts/html, location: ecl_concepts.tag, package: ecl_concepts}
+- {docs_url: ../../../api/ecl_converters/html, location: ecl_converters.tag, package: ecl_converters}
+- {docs_url: ../../../api/ecl_formatters/html, location: ecl_formatters.tag, package: ecl_formatters}
+- {docs_url: ../../../api/ecl_linear_algebra/html, location: ecl_linear_algebra.tag,
   package: ecl_linear_algebra}
-- {docs_url: ../../../api/ecl_statistics/html, location: 'ecl_statistics.tag',
-  package: ecl_statistics}
-- {docs_url: ../../../api/ecl_utilities/html, location: 'ecl_utilities.tag',
-  package: ecl_utilities}
-- {docs_url: ../../../api/ecl_containers/html, location: 'ecl_containers.tag',
-  package: ecl_containers}
-- {docs_url: ../../../api/ecl_command_line/html, location: 'ecl_command_line.tag',
-  package: ecl_command_line}
-- {docs_url: ../../../api/ecl_time/html, location: 'ecl_time.tag',
-  package: ecl_time}
-- {docs_url: ../../../api/ecl_threads/html, location: 'ecl_threads.tag',
-  package: ecl_threads}
-- {docs_url: ../../../api/ecl_devices/html, location: 'ecl_devices.tag',
-  package: ecl_devices}
-- {docs_url: ../../../api/ecl_streams/html, location: 'ecl_streams.tag',
-  package: ecl_streams}
-- {docs_url: ../../../api/ecl_math/html, location: 'ecl_math.tag',
-  package: ecl_math}
-- {docs_url: ../../../api/ecl_ipc/html, location: 'ecl_ipc.tag',
-  package: ecl_ipc}
-- {docs_url: ../../../api/ecl_sigslots/html, location: 'ecl_sigslots.tag',
-  package: ecl_sigslots}
-- {docs_url: ../../../api/ecl_geometry/html, location: 'ecl_geometry.tag',
-  package: ecl_geometry}
-- {docs_url: ../../../api/ecl_core_apps/html, location: 'ecl_core_apps.tag',
-  package: ecl_core_apps}
+- {docs_url: ../../../api/ecl_statistics/html, location: ecl_statistics.tag, package: ecl_statistics}
+- {docs_url: ../../../api/ecl_utilities/html, location: ecl_utilities.tag, package: ecl_utilities}
+- {docs_url: ../../../api/ecl_containers/html, location: ecl_containers.tag, package: ecl_containers}
+- {docs_url: ../../../api/ecl_command_line/html, location: ecl_command_line.tag, package: ecl_command_line}
+- {docs_url: ../../../api/ecl_time/html, location: ecl_time.tag, package: ecl_time}
+- {docs_url: ../../../api/ecl_threads/html, location: ecl_threads.tag, package: ecl_threads}
+- {docs_url: ../../../api/ecl_devices/html, location: ecl_devices.tag, package: ecl_devices}
+- {docs_url: ../../../api/ecl_streams/html, location: ecl_streams.tag, package: ecl_streams}
+- {docs_url: ../../../api/ecl_math/html, location: ecl_math.tag, package: ecl_math}
+- {docs_url: ../../../api/ecl_ipc/html, location: ecl_ipc.tag, package: ecl_ipc}
+- {docs_url: ../../../api/ecl_sigslots/html, location: ecl_sigslots.tag, package: ecl_sigslots}
+- {docs_url: ../../../api/ecl_geometry/html, location: ecl_geometry.tag, package: ecl_geometry}
+- {docs_url: ../../../api/ecl_core_apps/html, location: ecl_core_apps.tag, package: ecl_core_apps}

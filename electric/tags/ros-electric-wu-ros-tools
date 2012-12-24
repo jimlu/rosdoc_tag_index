@@ -1,12 +1,7 @@
-- {docs_url: ../../../api/easy_markers/html, location: 'easy_markers.tag',
-  package: easy_markers}
-- {docs_url: ../../../api/manifest_cleaner/html, location: 'manifest_cleaner.tag',
-  package: manifest_cleaner}
-- {docs_url: ../../../api/rxgraphplus/html, location: 'rxgraphplus.tag',
-  package: rxgraphplus}
-- {docs_url: ../../../api/generic_dashboard/html, location: 'generic_dashboard.tag',
+- {docs_url: ../../../api/easy_markers/html, location: easy_markers.tag, package: easy_markers}
+- {docs_url: ../../../api/manifest_cleaner/html, location: manifest_cleaner.tag, package: manifest_cleaner}
+- {docs_url: ../../../api/rxgraphplus/html, location: rxgraphplus.tag, package: rxgraphplus}
+- {docs_url: ../../../api/generic_dashboard/html, location: generic_dashboard.tag,
   package: generic_dashboard}
-- {docs_url: ../../../api/rosbaglive/html, location: 'rosbaglive.tag',
-  package: rosbaglive}
-- {docs_url: ../../../api/roswiki_node/html, location: 'roswiki_node.tag',
-  package: roswiki_node}
+- {docs_url: ../../../api/rosbaglive/html, location: rosbaglive.tag, package: rosbaglive}
+- {docs_url: ../../../api/roswiki_node/html, location: roswiki_node.tag, package: roswiki_node}

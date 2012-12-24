@@ -1,6 +1,4 @@
-- {docs_url: ../../../api/rtt_rospack/html, location: 'rtt_rospack.tag',
-  package: rtt_rospack}
-- {docs_url: ../../../api/rtt_rosnode/html, location: 'rtt_rosnode.tag',
-  package: rtt_rosnode}
-- {docs_url: ../../../api/rtt_ros_integration_example/html, location: 'rtt_ros_integration_example.tag',
+- {docs_url: ../../../api/rtt_rospack/html, location: rtt_rospack.tag, package: rtt_rospack}
+- {docs_url: ../../../api/rtt_rosnode/html, location: rtt_rosnode.tag, package: rtt_rosnode}
+- {docs_url: ../../../api/rtt_ros_integration_example/html, location: rtt_ros_integration_example.tag,
   package: rtt_ros_integration_example}

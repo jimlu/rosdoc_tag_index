@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/turtle_tf/html, location: 'turtle_tf.tag',
-  package: turtle_tf}
+- {docs_url: ../../../api/turtle_tf/html, location: turtle_tf.tag, package: turtle_tf}
