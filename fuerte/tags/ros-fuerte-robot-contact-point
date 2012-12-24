@@ -1,0 +1,2 @@
+- {docs_url: ../../../api/rcpdf_interface/html, location: rcpdf_interface.tag, package: rcpdf_interface}
+- {docs_url: ../../../api/rcpdf/html, location: rcpdf.tag, package: rcpdf}
