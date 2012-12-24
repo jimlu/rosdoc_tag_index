@@ -1,0 +1,1 @@
+[opencv2, cv_bridge, std_msgs, roscpp, eigen]
