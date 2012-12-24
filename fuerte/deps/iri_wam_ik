@@ -1,0 +1,1 @@
+[roscpp, iri_wam_common_msgs, sensor_msgs, geometry_msgs, tf, orocos_kdl]

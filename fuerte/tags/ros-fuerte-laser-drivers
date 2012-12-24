@@ -1,0 +1,4 @@
+- {docs_url: ../../../api/sicktoolbox/html, location: sicktoolbox.tag, package: sicktoolbox}
+- {docs_url: ../../../api/hokuyo_node/html, location: hokuyo_node.tag, package: hokuyo_node}
+- {docs_url: ../../../api/sicktoolbox_wrapper/html, location: sicktoolbox_wrapper.tag,
+  package: sicktoolbox_wrapper}

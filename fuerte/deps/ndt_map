@@ -1,0 +1,1 @@
+[pointcloud_vrml, eigen, opencv2, pcl, common_rosdeps, cv_bridge, pcl_ros]

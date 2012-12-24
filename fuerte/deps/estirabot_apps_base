@@ -1,0 +1,1 @@
+[smach_ros, sensor_msgs, smach, rospy, iri_wam_smach, iri_common_smach]

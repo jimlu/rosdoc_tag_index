@@ -1,0 +1,2 @@
+- {docs_url: ../../../api/people_msgs/html, location: people_msgs.tag, package: people_msgs}
+- {docs_url: ../../../api/face_detector/html, location: face_detector.tag, package: face_detector}

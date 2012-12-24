@@ -1,0 +1,2 @@
+[image_geometry, roscpp, iri_base_algorithm, sensor_msgs, image_transport, opencv2,
+  geometry_msgs, tf, cv_bridge]

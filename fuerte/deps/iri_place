@@ -1,0 +1,1 @@
+[iri_wam_common_msgs, iri_base_algorithm, object_manipulation_msgs, roscpp, iri_action_server]

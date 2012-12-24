@@ -1,0 +1,2 @@
+[std_srvs, roscpp, message_filters, std_msgs, iri_base_algorithm, sensor_msgs, opencv2,
+  cv_bridge, pcl_ros]
