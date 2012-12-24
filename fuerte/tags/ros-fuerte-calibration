@@ -1,0 +1,15 @@
+- {docs_url: ../../../api/calibration_msgs/html, location: calibration_msgs.tag, package: calibration_msgs}
+- {docs_url: ../../../api/image_cb_detector/html, location: image_cb_detector.tag,
+  package: image_cb_detector}
+- {docs_url: ../../../api/laser_cb_detector/html, location: laser_cb_detector.tag,
+  package: laser_cb_detector}
+- {docs_url: ../../../api/calibration_estimation/html, location: calibration_estimation.tag,
+  package: calibration_estimation}
+- {docs_url: ../../../api/settlerlib/html, location: settlerlib.tag, package: settlerlib}
+- {docs_url: ../../../api/monocam_settler/html, location: monocam_settler.tag, package: monocam_settler}
+- {docs_url: ../../../api/interval_intersection/html, location: interval_intersection.tag,
+  package: interval_intersection}
+- {docs_url: ../../../api/joint_states_settler/html, location: joint_states_settler.tag,
+  package: joint_states_settler}
+- {docs_url: ../../../api/calibration_launch/html, location: calibration_launch.tag,
+  package: calibration_launch}
