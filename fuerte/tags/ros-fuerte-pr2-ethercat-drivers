@@ -1,0 +1,5 @@
+- {docs_url: ../../../api/eml/html, location: eml.tag, package: eml}
+- {docs_url: ../../../api/fingertip_pressure/html, location: fingertip_pressure.tag,
+  package: fingertip_pressure}
+- {docs_url: ../../../api/ethercat_hardware/html, location: ethercat_hardware.tag,
+  package: ethercat_hardware}

@@ -1,0 +1,2 @@
+- {docs_url: ../../../api/rail_models/html, location: rail_models.tag, package: rail_models}
+- {docs_url: ../../../api/rail_worlds/html, location: rail_worlds.tag, package: rail_worlds}
