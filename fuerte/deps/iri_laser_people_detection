@@ -1,0 +1,2 @@
+[roscpp, iri_nav_msgs, iri_base_algorithm, sensor_msgs, geometry_msgs, visualization_msgs,
+  tf]

@@ -1,0 +1,1 @@
+[eigen, iri_wam_common_msgs, geometry_msgs, tf, rospy, roscpp]

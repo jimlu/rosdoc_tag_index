@@ -1,0 +1,2 @@
+[iri_wam_common_msgs, sensor_msgs, std_msgs, iri_clothes_grasping_point, geometry_msgs,
+  iri_wrinkled_map, normal_descriptor_node, pcl_ros]

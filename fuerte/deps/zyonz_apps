@@ -1,0 +1,5 @@
+[smach_ros, iri_pointcloud_to_pcd, iri_wam_common_msgs, zyonz_image_based_leaf_probing,
+  zyonz_obtain_roi_jump_edge_based, iri_filter_jump_edge, zyonz_obtain_two_clustered_leaves,
+  zyonz_apps_base, sensor_msgs, actionlib, std_msgs, smach, geometry_msgs, pcl, tf,
+  iri_common_smach, object_manipulation_msgs, zyonz_msgs, zyonz_nbv_geometric_simple,
+  pcl_ros]

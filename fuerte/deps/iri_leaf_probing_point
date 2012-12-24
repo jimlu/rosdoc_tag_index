@@ -1,0 +1,2 @@
+[std_srvs, roscpp, iri_base_algorithm, iri_leaf_segmentation, sensor_msgs, iri_leaf_fitting,
+  pcl_ros]
