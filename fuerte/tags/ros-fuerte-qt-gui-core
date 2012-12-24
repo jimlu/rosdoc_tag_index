@@ -1,0 +1,5 @@
+- {docs_url: ../../../api/qt_gui/html, location: qt_gui.tag, package: qt_gui}
+- {docs_url: ../../../api/qt_gui_app/html, location: qt_gui_app.tag, package: qt_gui_app}
+- {docs_url: ../../../api/qt_gui_cpp/html, location: qt_gui_cpp.tag, package: qt_gui_cpp}
+- {docs_url: ../../../api/qt_dotgraph/html, location: qt_dotgraph.tag, package: qt_dotgraph}
+- {docs_url: ../../../api/qt_gui_py_common/html, location: qt_gui_py_common.tag, package: qt_gui_py_common}
