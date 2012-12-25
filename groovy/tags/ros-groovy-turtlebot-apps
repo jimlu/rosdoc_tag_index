@@ -1,0 +1,17 @@
+- {docs_url: ../../../api/pano_core/html, location: pano_core.tag, package: pano_core}
+- {docs_url: ../../../api/pano_py/html, location: pano_py.tag, package: pano_py}
+- {docs_url: ../../../api/turtlebot_follower/html, location: turtlebot_follower.tag,
+  package: turtlebot_follower}
+- {docs_url: ../../../api/pano_ros/html, location: pano_ros.tag, package: pano_ros}
+- {docs_url: ../../../api/turtlebot_teleop/html, location: turtlebot_teleop.tag, package: turtlebot_teleop}
+- {docs_url: ../../../api/turtlebot_calibration/html, location: turtlebot_calibration.tag,
+  package: turtlebot_calibration}
+- {docs_url: ../../../api/turtlebot_navigation/html, location: turtlebot_navigation.tag,
+  package: turtlebot_navigation}
+- {docs_url: ../../../api/turtlebot_panorama/html, location: turtlebot_panorama.tag,
+  package: turtlebot_panorama}
+- {docs_url: ../../../api/turtlebot_sounds/html, location: turtlebot_sounds.tag, package: turtlebot_sounds}
+- {docs_url: ../../../api/turtlebot_core_apps/html, location: turtlebot_core_apps.tag,
+  package: turtlebot_core_apps}
+- {docs_url: ../../../api/turtlebot_actions/html, location: turtlebot_actions.tag,
+  package: turtlebot_actions}
