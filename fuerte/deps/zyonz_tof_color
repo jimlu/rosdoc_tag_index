@@ -1,0 +1,2 @@
+[iri_pcl_filters, std_srvs, roscpp, iri_base_driver, sensor_msgs, opencv2, iri_pmdcamera,
+  cv_bridge]

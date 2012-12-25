@@ -1,0 +1,4 @@
+- {docs_url: ../../../api/libpcan/html, location: libpcan.tag, package: libpcan}
+- {docs_url: ../../../api/libmesasr/html, location: libmesasr.tag, package: libmesasr}
+- {docs_url: ../../../api/libphidgets/html, location: libphidgets.tag, package: libphidgets}
+- {docs_url: ../../../api/libntcan/html, location: libntcan.tag, package: libntcan}

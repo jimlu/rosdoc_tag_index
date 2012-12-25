@@ -1,0 +1,3 @@
+- {docs_url: ../../../api/rosh_base/html, location: rosh_base.tag, package: rosh_base}
+- {docs_url: ../../../api/rosh_experimental/html, location: rosh_experimental.tag,
+  package: rosh_experimental}

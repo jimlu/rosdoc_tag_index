@@ -1,0 +1,3 @@
+- {docs_url: ../../../api/zeroconf_avahi/html, location: zeroconf_avahi.tag, package: zeroconf_avahi}
+- {docs_url: ../../../api/zeroconf_avahi_demos/html, location: zeroconf_avahi_demos.tag,
+  package: zeroconf_avahi_demos}

@@ -1,0 +1,28 @@
+- {docs_url: ../../../api/arm_navigation_msgs/html, location: arm_navigation_msgs.tag,
+  package: arm_navigation_msgs}
+- {docs_url: ../../../api/kinematics_msgs/html, location: kinematics_msgs.tag, package: kinematics_msgs}
+- {docs_url: ../../../api/geometric_shapes/html, location: geometric_shapes.tag, package: geometric_shapes}
+- {docs_url: ../../../api/planning_models/html, location: planning_models.tag, package: planning_models}
+- {docs_url: ../../../api/robot_self_filter/html, location: robot_self_filter.tag,
+  package: robot_self_filter}
+- {docs_url: ../../../api/collision_space/html, location: collision_space.tag, package: collision_space}
+- {docs_url: ../../../api/planning_environment/html, location: planning_environment.tag,
+  package: planning_environment}
+- {docs_url: ../../../api/move_arm/html, location: move_arm.tag, package: move_arm}
+- {docs_url: ../../../api/spline_smoother/html, location: spline_smoother.tag, package: spline_smoother}
+- {docs_url: ../../../api/joint_normalization_filters/html, location: joint_normalization_filters.tag,
+  package: joint_normalization_filters}
+- {docs_url: ../../../api/trajectory_filter_server/html, location: trajectory_filter_server.tag,
+  package: trajectory_filter_server}
+- {docs_url: ../../../api/mapping_rviz_plugin/html, location: mapping_rviz_plugin.tag,
+  package: mapping_rviz_plugin}
+- {docs_url: ../../../api/constraint_aware_spline_smoother/html, location: constraint_aware_spline_smoother.tag,
+  package: constraint_aware_spline_smoother}
+- {docs_url: ../../../api/kinematics_base/html, location: kinematics_base.tag, package: kinematics_base}
+- {docs_url: ../../../api/arm_kinematics_constraint_aware/html, location: arm_kinematics_constraint_aware.tag,
+  package: arm_kinematics_constraint_aware}
+- {docs_url: ../../../api/collision_map/html, location: collision_map.tag, package: collision_map}
+- {docs_url: ../../../api/ompl_ros_interface/html, location: ompl_ros_interface.tag,
+  package: ompl_ros_interface}
+- {docs_url: ../../../api/motion_planning_rviz_plugin/html, location: motion_planning_rviz_plugin.tag,
+  package: motion_planning_rviz_plugin}

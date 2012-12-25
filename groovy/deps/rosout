@@ -1,1 +1,1 @@
-[catkin, roscpp]
+[rosgraph_msgs, catkin, roscpp, log4cxx]

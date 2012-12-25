@@ -1,0 +1,10 @@
+- {docs_url: ../../../api/turtlebot_follower/html, location: turtlebot_follower.tag,
+  package: turtlebot_follower}
+- {docs_url: ../../../api/turtlebot_teleop/html, location: turtlebot_teleop.tag, package: turtlebot_teleop}
+- {docs_url: ../../../api/turtlebot_calibration/html, location: turtlebot_calibration.tag,
+  package: turtlebot_calibration}
+- {docs_url: ../../../api/turtlebot_navigation/html, location: turtlebot_navigation.tag,
+  package: turtlebot_navigation}
+- {docs_url: ../../../api/turtlebot_sounds/html, location: turtlebot_sounds.tag, package: turtlebot_sounds}
+- {docs_url: ../../../api/turtlebot_actions/html, location: turtlebot_actions.tag,
+  package: turtlebot_actions}

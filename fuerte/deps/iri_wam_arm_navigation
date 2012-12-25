@@ -1,0 +1,1 @@
+[kdl, roscpp, actionlib, geometry_msgs, iri_action_server, iri_base_algorithm, arm_navigation_msgs]

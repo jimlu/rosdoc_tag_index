@@ -1,0 +1,4 @@
+- {docs_url: ../../../api/kingfisher_msgs/html, location: kingfisher_msgs.tag, package: kingfisher_msgs}
+- {docs_url: ../../../api/kingfisher_bringup/html, location: kingfisher_bringup.tag,
+  package: kingfisher_bringup}
+- {docs_url: ../../../api/kingfisher_node/html, location: kingfisher_node.tag, package: kingfisher_node}

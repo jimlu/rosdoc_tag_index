@@ -1,0 +1,4 @@
+- {docs_url: ../../../api/camera_self_filter/html, location: camera_self_filter.tag,
+  package: camera_self_filter}
+- {docs_url: ../../../api/pr2_camera_self_filter/html, location: pr2_camera_self_filter.tag,
+  package: pr2_camera_self_filter}

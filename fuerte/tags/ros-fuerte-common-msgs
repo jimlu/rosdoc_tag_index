@@ -1,0 +1,10 @@
+- {docs_url: ../../../api/geometry_msgs/html, location: geometry_msgs.tag, package: geometry_msgs}
+- {docs_url: ../../../api/nav_msgs/html, location: nav_msgs.tag, package: nav_msgs}
+- {docs_url: ../../../api/shape_msgs/html, location: shape_msgs.tag, package: shape_msgs}
+- {docs_url: ../../../api/sensor_msgs/html, location: sensor_msgs.tag, package: sensor_msgs}
+- {docs_url: ../../../api/stereo_msgs/html, location: stereo_msgs.tag, package: stereo_msgs}
+- {docs_url: ../../../api/actionlib_msgs/html, location: actionlib_msgs.tag, package: actionlib_msgs}
+- {docs_url: ../../../api/trajectory_msgs/html, location: trajectory_msgs.tag, package: trajectory_msgs}
+- {docs_url: ../../../api/visualization_msgs/html, location: visualization_msgs.tag,
+  package: visualization_msgs}
+- {docs_url: ../../../api/diagnostic_msgs/html, location: diagnostic_msgs.tag, package: diagnostic_msgs}

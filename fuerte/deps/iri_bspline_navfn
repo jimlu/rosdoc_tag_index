@@ -1,0 +1,2 @@
+[nav_msgs, rosconsole, roscpp, costmap_2d, pluginlib, eigen, netpbm, nav_core, geometry_msgs,
+  visualization_msgs, tf, fltk, pcl_ros]

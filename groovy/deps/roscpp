@@ -1,3 +1,2 @@
 [rosgraph_msgs, rosconsole, roslang, catkin, xmlrpcpp, std_msgs, message_runtime,
-  rostime, roscpp_serialization, roscpp_traits, rostest, rosunit, message_generation,
-  cpp_common, pkg-config]
+  rostime, roscpp_serialization, roscpp_traits, message_generation, cpp_common, pkg-config]
