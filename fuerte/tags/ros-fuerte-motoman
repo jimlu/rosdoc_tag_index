@@ -1,5 +1,5 @@
-- {docs_url: ../../../api/motoman_config/html, location: motoman_config.tag, package: motoman_config}
 - {docs_url: ../../../api/dx100/html, location: dx100.tag, package: dx100}
+- {docs_url: ../../../api/motoman_config/html, location: motoman_config.tag, package: motoman_config}
 - {docs_url: ../../../api/SIA20D_Mesh_arm_navigation/html, location: SIA20D_Mesh_arm_navigation.tag,
   package: SIA20D_Mesh_arm_navigation}
 - {docs_url: ../../../api/sia10d_mesh_arm_navigation/html, location: sia10d_mesh_arm_navigation.tag,

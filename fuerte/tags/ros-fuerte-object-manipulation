@@ -1,0 +1,24 @@
+- {docs_url: ../../../api/household_objects_database_msgs/html, location: household_objects_database_msgs.tag,
+  package: household_objects_database_msgs}
+- {docs_url: ../../../api/current_state_validator/html, location: current_state_validator.tag,
+  package: current_state_validator}
+- {docs_url: ../../../api/compressed_pointcloud_transport/html, location: compressed_pointcloud_transport.tag,
+  package: compressed_pointcloud_transport}
+- {docs_url: ../../../api/rviz_interaction_tools/html, location: rviz_interaction_tools.tag,
+  package: rviz_interaction_tools}
+- {docs_url: ../../../api/object_manipulation_msgs/html, location: object_manipulation_msgs.tag,
+  package: object_manipulation_msgs}
+- {docs_url: ../../../api/object_manipulator/html, location: object_manipulator.tag,
+  package: object_manipulator}
+- {docs_url: ../../../api/point_cloud_server/html, location: point_cloud_server.tag,
+  package: point_cloud_server}
+- {docs_url: ../../../api/interactive_marker_helpers/html, location: interactive_marker_helpers.tag,
+  package: interactive_marker_helpers}
+- {docs_url: ../../../api/household_objects_database/html, location: household_objects_database.tag,
+  package: household_objects_database}
+- {docs_url: ../../../api/bayesian_grasp_planner/html, location: bayesian_grasp_planner.tag,
+  package: bayesian_grasp_planner}
+- {docs_url: ../../../api/static_transform_broadcaster/html, location: static_transform_broadcaster.tag,
+  package: static_transform_broadcaster}
+- {docs_url: ../../../api/probabilistic_grasp_planner/html, location: probabilistic_grasp_planner.tag,
+  package: probabilistic_grasp_planner}
