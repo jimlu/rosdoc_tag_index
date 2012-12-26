@@ -1,4 +1,5 @@
 - {docs_url: ../../../api/kdl_typekit/html, location: kdl_typekit.tag, package: kdl_typekit}
-- {docs_url: ../../../api/kdl_conversions/html, location: kdl_conversions.tag, package: kdl_conversions}
+- {docs_url: ../../../api/rtt_kdl_conversions/html, location: rtt_kdl_conversions.tag,
+  package: rtt_kdl_conversions}
 - {docs_url: ../../../api/kdl_lua/html, location: kdl_lua.tag, package: kdl_lua}
 - {docs_url: ../../../api/rtt_tf/html, location: rtt_tf.tag, package: rtt_tf}
