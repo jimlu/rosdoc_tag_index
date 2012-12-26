@@ -1,9 +1,9 @@
 - {docs_url: ../../../api/simple_message/html, location: simple_message.tag, package: simple_message}
 - {docs_url: ../../../api/armadillo_calibration/html, location: armadillo_calibration.tag,
   package: armadillo_calibration}
+- {docs_url: ../../../api/motoman/html, location: motoman.tag, package: motoman}
 - {docs_url: ../../../api/industrial_io_client/html, location: industrial_io_client.tag,
   package: industrial_io_client}
-- {docs_url: ../../../api/motoman/html, location: motoman.tag, package: motoman}
 - {docs_url: ../../../api/armadillo_arm_navigation/html, location: armadillo_arm_navigation.tag,
   package: armadillo_arm_navigation}
 - {docs_url: ../../../api/sia10d_mesh_arm_navigation/html, location: sia10d_mesh_arm_navigation.tag,
