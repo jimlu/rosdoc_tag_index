@@ -1,0 +1,2 @@
+- {docs_url: ../../../api/ogre/html, location: ogre.tag, package: ogre}
+- {docs_url: ../../../api/ogre_tools/html, location: ogre_tools.tag, package: ogre_tools}
