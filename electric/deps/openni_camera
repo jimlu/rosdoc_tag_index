@@ -1,2 +1,3 @@
-[dynamic_reconfigure, ps-engine, roscpp, stereo_msgs, camera_info_manager, sensor_msgs,
-  image_transport, libusb1.0, pcl, tf, nodelet, openni, pcl_ros]
+[dynamic_reconfigure, libopenni-sensor-primesense-dev, roscpp, stereo_msgs, libopenni-dev,
+  camera_info_manager, sensor_msgs, image_transport, libusb1.0, pcl, tf, nodelet,
+  openni, pcl_ros]
