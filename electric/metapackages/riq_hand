@@ -1,1 +1,1 @@
-[riq_hand_ethercat_hardware, riq_hand_gui, riq_hand_cli, riq_msgs]
+[riq_hand_gui, riq_hand_ethercat_hardware, riq_hand_cli, riq_msgs]
