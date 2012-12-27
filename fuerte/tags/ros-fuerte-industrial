@@ -1,0 +1,2 @@
+- {docs_url: ../../../api/simple_message/html, location: simple_message.tag, package: simple_message}
+- {docs_url: ../../../api/robotiq/html, location: robotiq.tag, package: robotiq}
