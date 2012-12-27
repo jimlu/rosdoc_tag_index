@@ -6,10 +6,10 @@
   package: pr2_arm_navigation_tutorials}
 - {docs_url: ../../../api/pr2_arm_navigation_actions/html, location: pr2_arm_navigation_actions.tag,
   package: pr2_arm_navigation_actions}
-- {docs_url: ../../../api/pr2_arm_navigation_planning/html, location: pr2_arm_navigation_planning.tag,
-  package: pr2_arm_navigation_planning}
 - {docs_url: ../../../api/pr2_arm_navigation_filtering/html, location: pr2_arm_navigation_filtering.tag,
   package: pr2_arm_navigation_filtering}
+- {docs_url: ../../../api/pr2_arm_navigation_planning/html, location: pr2_arm_navigation_planning.tag,
+  package: pr2_arm_navigation_planning}
 - {docs_url: ../../../api/pr2_arm_navigation_kinematics/html, location: pr2_arm_navigation_kinematics.tag,
   package: pr2_arm_navigation_kinematics}
 - {docs_url: ../../../api/pr2_3dnav/html, location: pr2_3dnav.tag, package: pr2_3dnav}

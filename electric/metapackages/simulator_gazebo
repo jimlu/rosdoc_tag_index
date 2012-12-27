@@ -1,1 +1,1 @@
-[gazebo, gazebo_tools, gazebo_msgs, gazebo_plugins, gazebo_worlds]
+[gazebo_msgs, gazebo_tools, gazebo, gazebo_plugins, gazebo_worlds]
