@@ -1,7 +1,5 @@
 - {docs_url: ../../../api/access_point_control/html, location: access_point_control.tag,
   package: access_point_control}
-- {docs_url: ../../../api/hostapd_access_point/html, location: hostapd_access_point.tag,
-  package: hostapd_access_point}
 - {docs_url: ../../../api/wpa_supplicant_node/html, location: wpa_supplicant_node.tag,
   package: wpa_supplicant_node}
 - {docs_url: ../../../api/multi_interface_roam/html, location: multi_interface_roam.tag,
@@ -9,10 +7,12 @@
 - {docs_url: ../../../api/linksys_access_point/html, location: linksys_access_point.tag,
   package: linksys_access_point}
 - {docs_url: ../../../api/wpa_supplicant/html, location: wpa_supplicant.tag, package: wpa_supplicant}
-- {docs_url: ../../../api/ddwrt_access_point/html, location: ddwrt_access_point.tag,
-  package: ddwrt_access_point}
 - {docs_url: ../../../api/network_traffic_control/html, location: network_traffic_control.tag,
   package: network_traffic_control}
+- {docs_url: ../../../api/hostapd_access_point/html, location: hostapd_access_point.tag,
+  package: hostapd_access_point}
+- {docs_url: ../../../api/ddwrt_access_point/html, location: ddwrt_access_point.tag,
+  package: ddwrt_access_point}
 - {docs_url: ../../../api/network_control_tests/html, location: network_control_tests.tag,
   package: network_control_tests}
 - {docs_url: ../../../api/network_detector/html, location: network_detector.tag, package: network_detector}
