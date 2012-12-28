@@ -1,1 +1,1 @@
-[rosgraph_msgs, python-yaml, catkin, rosmaster, rosout, rosclean, python-paramiko]
+[rosgraph_msgs, python-yaml, catkin, rosparam, rosmaster, rosout, rosclean, python-paramiko]

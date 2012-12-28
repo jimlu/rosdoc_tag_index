@@ -1,1 +1,1 @@
-[python-mock, catkin]
+[python-rospkg, python-mock, catkin]
