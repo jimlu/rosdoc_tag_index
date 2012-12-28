@@ -1,1 +1,2 @@
-[kdl, openni-dev, roscpp, ps-engine, roslib, nite-dev, geometry_msgs, tf]
+[kdl, libopenni-sensor-primesense-dev, roscpp, libopenni-dev, roslib, geometry_msgs,
+  libusb-1.0-dev, libopenni-nite-dev, tf]
