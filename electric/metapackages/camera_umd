@@ -1,1 +1,1 @@
-[uvc_camera, jpeg_streamer, uvc_stereo]
+[uvc_camera, uvc_stereo, jpeg_streamer]
