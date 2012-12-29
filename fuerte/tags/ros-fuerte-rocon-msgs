@@ -1,4 +1,4 @@
-- {docs_url: ../../../api/demo_msgs/html, location: demo_msgs.tag, package: demo_msgs}
 - {docs_url: ../../../api/appmanager_msgs/html, location: appmanager_msgs.tag, package: appmanager_msgs}
 - {docs_url: ../../../api/concert_msgs/html, location: concert_msgs.tag, package: concert_msgs}
+- {docs_url: ../../../api/demo_msgs/html, location: demo_msgs.tag, package: demo_msgs}
 - {docs_url: ../../../api/gateway_msgs/html, location: gateway_msgs.tag, package: gateway_msgs}
