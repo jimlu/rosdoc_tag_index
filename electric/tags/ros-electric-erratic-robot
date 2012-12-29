@@ -1,5 +1,3 @@
-- {docs_url: ../../../api/player/html, location: player.tag, package: player}
-- {docs_url: ../../../api/erratic_player/html, location: erratic_player.tag, package: erratic_player}
 - {docs_url: ../../../api/erratic_gazebo_plugins/html, location: erratic_gazebo_plugins.tag,
   package: erratic_gazebo_plugins}
 - {docs_url: ../../../api/erratic_description/html, location: erratic_description.tag,
@@ -8,4 +6,6 @@
   package: erratic_navigation}
 - {docs_url: ../../../api/erratic_navigation_apps/html, location: erratic_navigation_apps.tag,
   package: erratic_navigation_apps}
+- {docs_url: ../../../api/player/html, location: player.tag, package: player}
+- {docs_url: ../../../api/erratic_player/html, location: erratic_player.tag, package: erratic_player}
 - {docs_url: ../../../api/erratic_teleop/html, location: erratic_teleop.tag, package: erratic_teleop}
