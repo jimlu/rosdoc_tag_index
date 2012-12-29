@@ -1,6 +1,6 @@
-- {docs_url: ../../../api/turtlebot_description/html, location: turtlebot_description.tag,
-  package: turtlebot_description}
 - {docs_url: ../../../api/pointcloud_to_laserscan/html, location: pointcloud_to_laserscan.tag,
   package: pointcloud_to_laserscan}
+- {docs_url: ../../../api/turtlebot_description/html, location: turtlebot_description.tag,
+  package: turtlebot_description}
 - {docs_url: ../../../api/turtlebot_bringup/html, location: turtlebot_bringup.tag,
   package: turtlebot_bringup}
