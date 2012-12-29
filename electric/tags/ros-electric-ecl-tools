@@ -1,5 +1,5 @@
 - {docs_url: ../../../api/ecl_license/html, location: ecl_license.tag, package: ecl_license}
-- {docs_url: ../../../api/ecl_build/html, location: ecl_build.tag, package: ecl_build}
 - {docs_url: ../../../api/ecl_doc/html, location: ecl_doc.tag, package: ecl_doc}
+- {docs_url: ../../../api/ecl_build/html, location: ecl_build.tag, package: ecl_build}
 - {docs_url: ../../../api/ecl_scripts/html, location: ecl_scripts.tag, package: ecl_scripts}
 - {docs_url: ../../../api/ecl_create/html, location: ecl_create.tag, package: ecl_create}
