@@ -1,2 +1,1 @@
-[ros, common_msgs, geometry, geometry_experimental, image_common, nodelet_core, qt_gui_core,
-  ros_comm, std_msgs, vision_opencv, visualization, pr2_power_drivers]
+[rqt_gui_cpp, rqt_gui, rqt_gui_py]
