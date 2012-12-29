@@ -1,3 +1,3 @@
+- {docs_url: ../../../api/turtlesim/html, location: turtlesim.tag, package: turtlesim}
 - {docs_url: ../../../api/roscpp_tutorials/html, location: roscpp_tutorials.tag, package: roscpp_tutorials}
 - {docs_url: ../../../api/rospy_tutorials/html, location: rospy_tutorials.tag, package: rospy_tutorials}
-- {docs_url: ../../../api/turtlesim/html, location: turtlesim.tag, package: turtlesim}
