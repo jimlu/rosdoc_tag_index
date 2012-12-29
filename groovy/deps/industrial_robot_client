@@ -1,2 +1,2 @@
 [urdf, roscpp, std_msgs, actionlib_msgs, trajectory_msgs, sensor_msgs, industrial_utils,
-  simple_message, control_msgs, actionlib]
+  simple_message, industrial_msgs, control_msgs, actionlib]
