@@ -1,3 +1,4 @@
-[kdl, motion_planning_msgs, roscpp, trajectory_msgs, planning_environment, filters,
-  planning_models, sensor_msgs, kdl_parser, distance_field, planning_environment_msgs,
-  spline_smoother, angles, visualization_msgs, tf, mapping_msgs, eigen]
+[kdl, rosconsole, trajectory_msgs, roscpp, planning_environment, filters, planning_models,
+  sensor_msgs, kdl_parser, distance_field, eigen, constraint_aware_spline_smoother,
+  spline_smoother, angles, visualization_msgs, tf, common_rosdeps, collision_proximity,
+  arm_navigation_msgs]
