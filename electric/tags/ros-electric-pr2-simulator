@@ -1,8 +1,8 @@
+- {docs_url: ../../../api/pr2_ogre/html, location: pr2_ogre.tag, package: pr2_ogre}
 - {docs_url: ../../../api/pr2_gazebo_plugins/html, location: pr2_gazebo_plugins.tag,
   package: pr2_gazebo_plugins}
 - {docs_url: ../../../api/pr2_examples_gazebo/html, location: pr2_examples_gazebo.tag,
   package: pr2_examples_gazebo}
-- {docs_url: ../../../api/pr2_ogre/html, location: pr2_ogre.tag, package: pr2_ogre}
 - {docs_url: ../../../api/pr2_controller_configuration_gazebo/html, location: pr2_controller_configuration_gazebo.tag,
   package: pr2_controller_configuration_gazebo}
 - {docs_url: ../../../api/pr2_gazebo/html, location: pr2_gazebo.tag, package: pr2_gazebo}
