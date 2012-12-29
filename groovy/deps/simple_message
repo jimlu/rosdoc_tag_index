@@ -1,1 +1,1 @@
-[roscpp]
+[industrial_msgs, roscpp]
