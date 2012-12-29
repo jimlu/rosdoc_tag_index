@@ -1,1 +1,1 @@
-[python-rospkg, catkin]
+[python-rospkg, roslib, catkin]
