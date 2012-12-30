@@ -1,4 +1,4 @@
-- {docs_url: ../../../api/ur5_driver/html, location: ur5_driver.tag, package: ur5_driver}
 - {docs_url: ../../../api/ur5_description/html, location: ur5_description.tag, package: ur5_description}
-- {docs_url: ../../../api/ur5_bringup/html, location: ur5_bringup.tag, package: ur5_bringup}
 - {docs_url: ../../../api/ur5_gazebo/html, location: ur5_gazebo.tag, package: ur5_gazebo}
+- {docs_url: ../../../api/ur5_driver/html, location: ur5_driver.tag, package: ur5_driver}
+- {docs_url: ../../../api/ur5_bringup/html, location: ur5_bringup.tag, package: ur5_bringup}
