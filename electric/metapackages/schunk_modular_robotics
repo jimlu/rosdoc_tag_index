@@ -1,2 +1,2 @@
-[schunk_powercube_chain, CANOpen_driver, schunk_sdh, schunk_libm5api, schunk_simulated_tactile_sensors,
-  schunk_description]
+[schunk_powercube_chain, CANOpen_driver, schunk_sdh, schunk_description, schunk_simulated_tactile_sensors,
+  schunk_libm5api]
