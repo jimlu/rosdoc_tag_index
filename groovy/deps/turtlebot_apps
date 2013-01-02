@@ -1,3 +1,3 @@
 [ros, ros_comm, std_msgs, image_common, vision_opencv, common_msgs, actionlib, geometry,
   orocos_kinematics_dynamics, turtlebot, nodelet_core, perception_pcl, navigation,
-  slam_gmapping, yujin_ocs, kobuki, joystick_drivers, warehouse_ros, map_store]
+  slam_gmapping, yujin_ocs, kobuki, joystick_drivers, warehouse_ros, map_store, image_transport_plugins]
