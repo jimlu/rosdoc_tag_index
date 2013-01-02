@@ -1,7 +1,6 @@
-- {docs_url: ../../../api/compressed_image_transport/html, location: compressed_image_transport.tag,
-  package: compressed_image_transport}
-- {docs_url: ../../../api/libtheora/html, location: libtheora.tag, package: libtheora}
-- {docs_url: ../../../api/theora_image_transport/html, location: theora_image_transport.tag,
-  package: theora_image_transport}
 - {docs_url: ../../../api/compressed_depth_image_transport/html, location: compressed_depth_image_transport.tag,
   package: compressed_depth_image_transport}
+- {docs_url: ../../../api/compressed_image_transport/html, location: compressed_image_transport.tag,
+  package: compressed_image_transport}
+- {docs_url: ../../../api/theora_image_transport/html, location: theora_image_transport.tag,
+  package: theora_image_transport}
