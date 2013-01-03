@@ -2,10 +2,10 @@
 - {docs_url: ../../../api/image_segmentation_demo/html, location: image_segmentation_demo.tag,
   package: image_segmentation_demo}
 - {docs_url: ../../../api/safe_teleop_base/html, location: safe_teleop_base.tag, package: safe_teleop_base}
-- {docs_url: ../../../api/safe_teleop_stage/html, location: safe_teleop_stage.tag,
-  package: safe_teleop_stage}
 - {docs_url: ../../../api/safe_teleop_pr2/html, location: safe_teleop_pr2.tag, package: safe_teleop_pr2}
 - {docs_url: ../../../api/augmented_object_selection/html, location: augmented_object_selection.tag,
   package: augmented_object_selection}
+- {docs_url: ../../../api/safe_teleop_stage/html, location: safe_teleop_stage.tag,
+  package: safe_teleop_stage}
 - {docs_url: ../../../api/bosch_object_segmentation_gui/html, location: bosch_object_segmentation_gui.tag,
   package: bosch_object_segmentation_gui}
