@@ -1,5 +1,5 @@
+- {docs_url: ../../../api/pcl16/html, location: pcl16.tag, package: pcl16}
+- {docs_url: ../../../api/pcl16_ros/html, location: pcl16_ros.tag, package: pcl16_ros}
+- {docs_url: ../../../api/cminpack/html, location: cminpack.tag, package: cminpack}
 - {docs_url: ../../../api/python_msg_conversions/html, location: python_msg_conversions.tag,
   package: python_msg_conversions}
-- {docs_url: ../../../api/pcl16/html, location: pcl16.tag, package: pcl16}
-- {docs_url: ../../../api/cminpack/html, location: cminpack.tag, package: cminpack}
-- {docs_url: ../../../api/pcl16_ros/html, location: pcl16_ros.tag, package: pcl16_ros}
