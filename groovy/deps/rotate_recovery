@@ -1,2 +1,2 @@
-[roscpp, costmap_2d, pluginlib, nav_core, geometry_msgs, angles, tf, common_rosdeps,
-  base_local_planner, eigen]
+[roscpp, costmap_2d, pluginlib, nav_core, geometry_msgs, angles, tf, base_local_planner,
+  eigen]
