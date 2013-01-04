@@ -1,1 +1,1 @@
-[rosconsole, roslib, tinyxml]
+[rosbuild, rosconsole, roslib, tinyxml]
