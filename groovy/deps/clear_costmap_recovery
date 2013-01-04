@@ -1,1 +1,1 @@
-[roscpp, costmap_2d, pluginlib, nav_core, tf, common_rosdeps, eigen]
+[eigen, costmap_2d, pluginlib, nav_core, tf, roscpp]
