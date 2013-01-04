@@ -1,1 +1,3 @@
-[sensor_msgs, wxpython, rospy]
+[move_arm, trajectory_filter_server, planning_environment, katana_trajectory_filter,
+  constraint_aware_spline_smoother, arm_kinematics_constraint_aware, kinematics_base,
+  ompl_ros_interface]
