@@ -1,1 +1,1 @@
-[test_diagnostic_aggregator, diagnostic_updater, self_test, diagnostic_analysis, diagnostic_aggregator]
+[self_test, diagnostic_updater, test_diagnostic_aggregator, diagnostic_analysis, diagnostic_aggregator]

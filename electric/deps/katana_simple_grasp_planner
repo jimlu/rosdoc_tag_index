@@ -1,0 +1,1 @@
+[roscpp, pluginlib, actionlib, sensor_msgs, arm_kinematics_constraint_aware, tf, object_manipulation_msgs]

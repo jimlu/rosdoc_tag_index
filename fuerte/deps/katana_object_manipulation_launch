@@ -1,1 +1,1 @@
-[object_manipulator, orrosplanning]
+[pr2_mechanism_msgs, object_manipulator, rospy]
