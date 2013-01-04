@@ -1,2 +1,1 @@
-[dynamic_reconfigure, roscpp, costmap_2d, pluginlib, nav_core, geometry_msgs, common_rosdeps,
-  eigen]
+[dynamic_reconfigure, roscpp, costmap_2d, pluginlib, nav_core, geometry_msgs, eigen]
