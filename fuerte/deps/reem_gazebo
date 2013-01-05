@@ -1,0 +1,3 @@
+[reem_description, ogre, gazebo_worlds, range_gazebo_plugin, std_msgs, pr2_gazebo_plugins,
+  robot_mechanism_controllers, reem_controller_configuration_gazebo, reem_diffdrive_plugin,
+  rospy, laser_filters, gazebo, roscpp]
