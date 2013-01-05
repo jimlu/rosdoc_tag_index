@@ -1,0 +1,3 @@
+[nav_msgs, dynamic_reconfigure, std_srvs, roscpp, bullet, python-numpy, urdf, sensor_msgs,
+  reem_msgs, driver_base, gazebo_tools, rospy, tinyxml, angles, tf, geometry_msgs,
+  gazebo]
