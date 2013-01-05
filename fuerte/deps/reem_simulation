@@ -1,0 +1,2 @@
+[pr2_controllers, laser_pipeline, pr2_simulator, reem_common, reem_plugins, robot_model,
+  ros, ros_comm, simulator_gazebo, visualization_common]

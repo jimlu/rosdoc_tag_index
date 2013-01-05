@@ -1,0 +1,2 @@
+[kdl, pluginlib, kinematics_base, kdl_parser, geometry_msgs, angles, tf, kinematics_msgs,
+  tf_conversions, arm_navigation_msgs]
