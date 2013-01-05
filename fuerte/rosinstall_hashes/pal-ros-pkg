@@ -1,0 +1,6 @@
+{jenkins_scripts-sys: 6c2db52dfa421185b7f795831a0222c472993f1b, pal_image_processing: 988b420e6d2df0fb12f53e77869550ab4bbf46dd,
+  perception_blort: e20af1294fe999bee1a4c71dc39815f6c5fb6e76, reem_arm_navigation: 7719b079b698ec8077dd6312177e67ffa0983143,
+  reem_common: 010c0d1e9df3ef5ba0bfcf4d3f80141ba61e8ec5, reem_controllers: 5d62050bc70438b88978ea4fbfe81a1d57611e5f,
+  reem_kinematics: b1f4fa9738fe736c700e7552c9d718407cb99e40, reem_msgs: 8f6f09df42918dc6b093786a00ef321345733354,
+  reem_plugins: 9f170b9810fc4a295e539e293c2f9fd9c5b2651d, reem_robot: 7a5ecd98577620e7bfd9757824f0a79cb03ba162,
+  reem_simulation: e102b88438212656c5c41538c291167e5c283604, rosdoc_lite-sys: e828f7c5d2404bd77df3923d0d39b7aa5bca29e0}

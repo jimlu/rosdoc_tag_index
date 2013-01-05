@@ -1,0 +1,2 @@
+[dynamic_reconfigure, roscpp, image_transport, opencv2, geometry_msgs, stereo_image_proc,
+  cv_bridge]
