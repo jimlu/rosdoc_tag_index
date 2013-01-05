@@ -1,0 +1,1 @@
+[pluginlib, control_toolbox, roscpp, pr2_controller_interface, trajectory_msgs, angles]
