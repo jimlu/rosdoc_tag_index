@@ -1,1 +1,1 @@
-[roscpp_traits, rostime, cpp_common, catkin, roscpp_serialization]
+[genpy, catkin, rostime, roscpp_serialization, roscpp_traits, cpp_common]
