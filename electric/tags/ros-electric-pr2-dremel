@@ -1,6 +1,6 @@
-- {docs_url: ../../../api/vlr/html, location: vlr.tag, package: vlr}
 - {docs_url: ../../../api/pr2_dremel_arm_controller/html, location: pr2_dremel_arm_controller.tag,
   package: pr2_dremel_arm_controller}
+- {docs_url: ../../../api/vlr/html, location: vlr.tag, package: vlr}
 - {docs_url: ../../../api/remote_power_manager/html, location: remote_power_manager.tag,
   package: remote_power_manager}
 - {docs_url: ../../../api/pr2_dremel_server/html, location: pr2_dremel_server.tag,

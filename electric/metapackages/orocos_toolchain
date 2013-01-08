@@ -1,1 +1,1 @@
-[ocl, orogen, utilrb, rtt, utilmm, typelib, log4cpp, rtt_typelib]
+[ocl, typelib, utilrb, rtt, utilmm, orogen, log4cpp, rtt_typelib]

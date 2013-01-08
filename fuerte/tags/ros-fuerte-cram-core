@@ -1,3 +1,4 @@
+- {docs_url: ../../../api/trivial_garbage/html, location: trivial_garbage.tag, package: trivial_garbage}
 - {docs_url: ../../../api/alexandria/html, location: alexandria.tag, package: alexandria}
 - {docs_url: ../../../api/synchronization_tools/html, location: synchronization_tools.tag,
   package: synchronization_tools}
@@ -6,7 +7,6 @@
 - {docs_url: ../../../api/cram_reasoning/html, location: cram_reasoning.tag, package: cram_reasoning}
 - {docs_url: ../../../api/split_sequence/html, location: split_sequence.tag, package: split_sequence}
 - {docs_url: ../../../api/gsd/html, location: gsd.tag, package: gsd}
-- {docs_url: ../../../api/trivial_garbage/html, location: trivial_garbage.tag, package: trivial_garbage}
 - {docs_url: ../../../api/cram_designators/html, location: cram_designators.tag, package: cram_designators}
 - {docs_url: ../../../api/cram_test_utilities/html, location: cram_test_utilities.tag,
   package: cram_test_utilities}
