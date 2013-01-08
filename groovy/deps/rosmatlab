@@ -1,1 +1,1 @@
-[rosbuild, cpp_introspection, roscpp]
+[cpp_introspection, catkin, roscpp]
