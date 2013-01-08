@@ -1,1 +1,1 @@
-[kdl_typekit, kdl_lua, rtt_kdl_conversions, rtt_tf]
+[kdl_typekit, kdl_lua, rtt_tf, rtt_kdl_conversions]
