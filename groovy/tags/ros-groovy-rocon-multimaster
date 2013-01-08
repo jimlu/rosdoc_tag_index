@@ -1,0 +1,9 @@
+- {docs_url: ../../../api/rocon_utilities/html, location: rocon_utilities.tag, package: rocon_utilities}
+- {docs_url: ../../../api/redis/html, location: redis.tag, package: redis}
+- {docs_url: ../../../api/rocon_gateway/html, location: rocon_gateway.tag, package: rocon_gateway}
+- {docs_url: ../../../api/rocon_hub/html, location: rocon_hub.tag, package: rocon_hub}
+- {docs_url: ../../../api/rocon_hub_client/html, location: rocon_hub_client.tag, package: rocon_hub_client}
+- {docs_url: ../../../api/rocon_gateway_tests/html, location: rocon_gateway_tests.tag,
+  package: rocon_gateway_tests}
+- {docs_url: ../../../api/rocon_unreliable_experiments/html, location: rocon_unreliable_experiments.tag,
+  package: rocon_unreliable_experiments}
