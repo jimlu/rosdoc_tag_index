@@ -1,1 +1,1 @@
-[cob_command_gui, cob_dashboard, cob_teleop, cob_script_server, cob_interactive_teleop]
+[cob_teleop, cob_command_gui, cob_dashboard, cob_script_server, cob_interactive_teleop]
