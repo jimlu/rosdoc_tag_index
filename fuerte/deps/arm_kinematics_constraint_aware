@@ -1,2 +1,2 @@
-[kdl, planning_models, roscpp, pluginlib, kinematics_base, motion_planning_msgs, sensor_msgs,
-  kdl_parser, kinematics_msgs, planning_environment, tf, tf_conversions]
+[roscpp, pluginlib, kinematics_base, planning_models, sensor_msgs, kdl_parser, kinematics_msgs,
+  planning_environment, tf, tf_conversions, arm_navigation_msgs]
