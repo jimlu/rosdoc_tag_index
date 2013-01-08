@@ -4,9 +4,9 @@
 - {docs_url: ../../../api/art_map/html, location: art_map.tag, package: art_map}
 - {docs_url: ../../../api/art_nav/html, location: art_nav.tag, package: art_nav}
 - {docs_url: ../../../api/art_image/html, location: art_image.tag, package: art_image}
-- {docs_url: ../../../api/applanix/html, location: applanix.tag, package: applanix}
+- {docs_url: ../../../api/art_pilot/html, location: art_pilot.tag, package: art_pilot}
 - {docs_url: ../../../api/art_teleop/html, location: art_teleop.tag, package: art_teleop}
 - {docs_url: ../../../api/art_servo/html, location: art_servo.tag, package: art_servo}
 - {docs_url: ../../../api/art_observers/html, location: art_observers.tag, package: art_observers}
-- {docs_url: ../../../api/art_pilot/html, location: art_pilot.tag, package: art_pilot}
+- {docs_url: ../../../api/applanix/html, location: applanix.tag, package: applanix}
 - {docs_url: ../../../api/art_run/html, location: art_run.tag, package: art_run}
