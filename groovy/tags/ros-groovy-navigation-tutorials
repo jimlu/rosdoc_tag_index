@@ -1,5 +1,5 @@
-- {docs_url: ../../../api/roomba_stage/html, location: roomba_stage.tag, package: roomba_stage}
 - {docs_url: ../../../api/navigation_stage/html, location: navigation_stage.tag, package: navigation_stage}
+- {docs_url: ../../../api/roomba_stage/html, location: roomba_stage.tag, package: roomba_stage}
 - {docs_url: ../../../api/odometry_publisher_tutorial/html, location: odometry_publisher_tutorial.tag,
   package: odometry_publisher_tutorial}
 - {docs_url: ../../../api/point_cloud_publisher_tutorial/html, location: point_cloud_publisher_tutorial.tag,
