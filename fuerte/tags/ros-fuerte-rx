@@ -1,6 +1,6 @@
 - {docs_url: ../../../api/wxPython_swig_interface/html, location: wxPython_swig_interface.tag,
   package: wxPython_swig_interface}
 - {docs_url: ../../../api/rxtools/html, location: rxtools.tag, package: rxtools}
-- {docs_url: ../../../api/rxbag/html, location: rxbag.tag, package: rxbag}
 - {docs_url: ../../../api/xdot/html, location: xdot.tag, package: xdot}
 - {docs_url: ../../../api/rxgraph/html, location: rxgraph.tag, package: rxgraph}
+- {docs_url: ../../../api/rxbag/html, location: rxbag.tag, package: rxbag}
