@@ -1,4 +1,4 @@
-[iri_oa_client, iri_dynamics_objects_localization, iri_checkpoint_nav, iri_platform_teleop,
-  iri_nav_msgs, iri_people_follower_client, iri_obstacle_detection, iri_laser_localisation,
-  iri_no_collision, iri_laser_navigation, iri_localization3d, iri_people_follower,
-  iri_people_simulation, iri_force_robot_companion, iri_ry_oa_bridge, iri_bspline_navfn]
+[iri_oa_client, iri_platform_teleop, iri_checkpoint_nav, iri_people_simulation, iri_nav_msgs,
+  iri_people_follower_client, iri_obstacle_detection, iri_no_collision, iri_laser_navigation,
+  iri_localization3d, iri_people_follower, iri_bspline_navfn, iri_laser_localisation,
+  iri_force_robot_companion, iri_ry_oa_bridge, iri_dynamics_objects_localization]
