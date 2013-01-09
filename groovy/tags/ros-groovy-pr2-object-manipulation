@@ -1,0 +1,59 @@
+- {docs_url: ../../../api/tabletop_object_detector/html, location: tabletop_object_detector.tag,
+  package: tabletop_object_detector}
+- {docs_url: ../../../api/tabletop_collision_map_processing/html, location: tabletop_collision_map_processing.tag,
+  package: tabletop_collision_map_processing}
+- {docs_url: ../../../api/pr2_create_object_model/html, location: pr2_create_object_model.tag,
+  package: pr2_create_object_model}
+- {docs_url: ../../../api/pr2_wrappers/html, location: pr2_wrappers.tag, package: pr2_wrappers}
+- {docs_url: ../../../api/pr2_manipulation_controllers/html, location: pr2_manipulation_controllers.tag,
+  package: pr2_manipulation_controllers}
+- {docs_url: ../../../api/pr2_gripper_grasp_planner_cluster/html, location: pr2_gripper_grasp_planner_cluster.tag,
+  package: pr2_gripper_grasp_planner_cluster}
+- {docs_url: ../../../api/pr2_gripper_grasp_controller/html, location: pr2_gripper_grasp_controller.tag,
+  package: pr2_gripper_grasp_controller}
+- {docs_url: ../../../api/pr2_gripper_sensor_msgs/html, location: pr2_gripper_sensor_msgs.tag,
+  package: pr2_gripper_sensor_msgs}
+- {docs_url: ../../../api/pr2_gripper_sensor_controller/html, location: pr2_gripper_sensor_controller.tag,
+  package: pr2_gripper_sensor_controller}
+- {docs_url: ../../../api/pr2_gripper_sensor_action/html, location: pr2_gripper_sensor_action.tag,
+  package: pr2_gripper_sensor_action}
+- {docs_url: ../../../api/pr2_gripper_reactive_approach/html, location: pr2_gripper_reactive_approach.tag,
+  package: pr2_gripper_reactive_approach}
+- {docs_url: ../../../api/pr2_object_manipulation_launch/html, location: pr2_object_manipulation_launch.tag,
+  package: pr2_object_manipulation_launch}
+- {docs_url: ../../../api/pr2_tabletop_manipulation_launch/html, location: pr2_tabletop_manipulation_launch.tag,
+  package: pr2_tabletop_manipulation_launch}
+- {docs_url: ../../../api/pr2_pick_and_place_demos/html, location: pr2_pick_and_place_demos.tag,
+  package: pr2_pick_and_place_demos}
+- {docs_url: ../../../api/robot_self_filter_color/html, location: robot_self_filter_color.tag,
+  package: robot_self_filter_color}
+- {docs_url: ../../../api/pr2_object_manipulation_msgs/html, location: pr2_object_manipulation_msgs.tag,
+  package: pr2_object_manipulation_msgs}
+- {docs_url: ../../../api/pr2_grasp_adjust/html, location: pr2_grasp_adjust.tag, package: pr2_grasp_adjust}
+- {docs_url: ../../../api/object_recognition_gui/html, location: object_recognition_gui.tag,
+  package: object_recognition_gui}
+- {docs_url: ../../../api/rgbd_assembler/html, location: rgbd_assembler.tag, package: rgbd_assembler}
+- {docs_url: ../../../api/active_realtime_segmentation/html, location: active_realtime_segmentation.tag,
+  package: active_realtime_segmentation}
+- {docs_url: ../../../api/object_segmentation_gui/html, location: object_segmentation_gui.tag,
+  package: object_segmentation_gui}
+- {docs_url: ../../../api/pr2_interactive_object_detection/html, location: pr2_interactive_object_detection.tag,
+  package: pr2_interactive_object_detection}
+- {docs_url: ../../../api/pr2_interactive_gripper_pose_action/html, location: pr2_interactive_gripper_pose_action.tag,
+  package: pr2_interactive_gripper_pose_action}
+- {docs_url: ../../../api/tf_throttle/html, location: tf_throttle.tag, package: tf_throttle}
+- {docs_url: ../../../api/pr2_navigation_controllers/html, location: pr2_navigation_controllers.tag,
+  package: pr2_navigation_controllers}
+- {docs_url: ../../../api/pr2_marker_control/html, location: pr2_marker_control.tag,
+  package: pr2_marker_control}
+- {docs_url: ../../../api/segmented_clutter_grasp_planner/html, location: segmented_clutter_grasp_planner.tag,
+  package: segmented_clutter_grasp_planner}
+- {docs_url: ../../../api/pr2_interactive_manipulation/html, location: pr2_interactive_manipulation.tag,
+  package: pr2_interactive_manipulation}
+- {docs_url: ../../../api/pick_and_place_demo_app/html, location: pick_and_place_demo_app.tag,
+  package: pick_and_place_demo_app}
+- {docs_url: ../../../api/manipulation_worlds/html, location: manipulation_worlds.tag,
+  package: manipulation_worlds}
+- {docs_url: ../../../api/fast_plane_detection/html, location: fast_plane_detection.tag,
+  package: fast_plane_detection}
+- {docs_url: ../../../api/pr2_handy_tools/html, location: pr2_handy_tools.tag, package: pr2_handy_tools}
