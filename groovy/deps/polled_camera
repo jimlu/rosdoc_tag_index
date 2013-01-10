@@ -1,0 +1,1 @@
+[rosconsole, catkin, roscpp, std_msgs, sensor_msgs, image_transport, message_generation]
