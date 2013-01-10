@@ -4,10 +4,9 @@
   package: tabletop_collision_map_processing}
 - {docs_url: ../../../api/pr2_create_object_model/html, location: pr2_create_object_model.tag,
   package: pr2_create_object_model}
+- {docs_url: ../../../api/pr2_wrappers/html, location: pr2_wrappers.tag, package: pr2_wrappers}
 - {docs_url: ../../../api/pr2_manipulation_controllers/html, location: pr2_manipulation_controllers.tag,
   package: pr2_manipulation_controllers}
-- {docs_url: ../../../api/robot_self_filter_color/html, location: robot_self_filter_color.tag,
-  package: robot_self_filter_color}
 - {docs_url: ../../../api/pr2_gripper_grasp_planner_cluster/html, location: pr2_gripper_grasp_planner_cluster.tag,
   package: pr2_gripper_grasp_planner_cluster}
 - {docs_url: ../../../api/pr2_gripper_grasp_controller/html, location: pr2_gripper_grasp_controller.tag,
@@ -22,6 +21,12 @@
   package: pr2_gripper_reactive_approach}
 - {docs_url: ../../../api/pr2_object_manipulation_launch/html, location: pr2_object_manipulation_launch.tag,
   package: pr2_object_manipulation_launch}
+- {docs_url: ../../../api/pr2_tabletop_manipulation_launch/html, location: pr2_tabletop_manipulation_launch.tag,
+  package: pr2_tabletop_manipulation_launch}
+- {docs_url: ../../../api/pr2_pick_and_place_demos/html, location: pr2_pick_and_place_demos.tag,
+  package: pr2_pick_and_place_demos}
+- {docs_url: ../../../api/robot_self_filter_color/html, location: robot_self_filter_color.tag,
+  package: robot_self_filter_color}
 - {docs_url: ../../../api/pr2_object_manipulation_msgs/html, location: pr2_object_manipulation_msgs.tag,
   package: pr2_object_manipulation_msgs}
 - {docs_url: ../../../api/pr2_grasp_adjust/html, location: pr2_grasp_adjust.tag, package: pr2_grasp_adjust}
@@ -36,7 +41,7 @@
   package: pr2_interactive_object_detection}
 - {docs_url: ../../../api/pr2_interactive_gripper_pose_action/html, location: pr2_interactive_gripper_pose_action.tag,
   package: pr2_interactive_gripper_pose_action}
-- {docs_url: ../../../api/pr2_wrappers/html, location: pr2_wrappers.tag, package: pr2_wrappers}
+- {docs_url: ../../../api/tf_throttle/html, location: tf_throttle.tag, package: tf_throttle}
 - {docs_url: ../../../api/pr2_navigation_controllers/html, location: pr2_navigation_controllers.tag,
   package: pr2_navigation_controllers}
 - {docs_url: ../../../api/pr2_marker_control/html, location: pr2_marker_control.tag,
@@ -45,23 +50,10 @@
   package: segmented_clutter_grasp_planner}
 - {docs_url: ../../../api/pr2_interactive_manipulation/html, location: pr2_interactive_manipulation.tag,
   package: pr2_interactive_manipulation}
-- {docs_url: ../../../api/pr2_tabletop_manipulation_launch/html, location: pr2_tabletop_manipulation_launch.tag,
-  package: pr2_tabletop_manipulation_launch}
-- {docs_url: ../../../api/pr2_pick_and_place_demos/html, location: pr2_pick_and_place_demos.tag,
-  package: pr2_pick_and_place_demos}
 - {docs_url: ../../../api/pick_and_place_demo_app/html, location: pick_and_place_demo_app.tag,
   package: pick_and_place_demo_app}
-- {docs_url: ../../../api/vfh_recognition/html, location: vfh_recognition.tag, package: vfh_recognition}
-- {docs_url: ../../../api/vfh_recognizer_db/html, location: vfh_recognizer_db.tag,
-  package: vfh_recognizer_db}
-- {docs_url: ../../../api/tabletop_vfh_cluster_detector/html, location: tabletop_vfh_cluster_detector.tag,
-  package: tabletop_vfh_cluster_detector}
 - {docs_url: ../../../api/manipulation_worlds/html, location: manipulation_worlds.tag,
   package: manipulation_worlds}
-- {docs_url: ../../../api/vfh_recognizer_fs/html, location: vfh_recognizer_fs.tag,
-  package: vfh_recognizer_fs}
 - {docs_url: ../../../api/fast_plane_detection/html, location: fast_plane_detection.tag,
   package: fast_plane_detection}
 - {docs_url: ../../../api/pr2_handy_tools/html, location: pr2_handy_tools.tag, package: pr2_handy_tools}
-- {docs_url: ../../../api/simple_Jtranspose_controller/html, location: simple_Jtranspose_controller.tag,
-  package: simple_Jtranspose_controller}
