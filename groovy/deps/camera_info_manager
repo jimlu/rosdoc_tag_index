@@ -1,0 +1,2 @@
+[catkin, roscpp, roslib, sensor_msgs, image_transport, rostest, camera_calibration_parsers,
+  boost]
