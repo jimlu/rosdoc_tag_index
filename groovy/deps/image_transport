@@ -1,0 +1,1 @@
+[rosconsole, catkin, roscpp, message_filters, pluginlib, roslib, sensor_msgs]
