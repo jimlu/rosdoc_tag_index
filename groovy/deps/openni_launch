@@ -1,1 +1,1 @@
-[tf, image_proc, depth_image_proc, openni_camera, nodelet]
+[image_proc, nodelet, openni_camera, tf, catkin, depth_image_proc]
