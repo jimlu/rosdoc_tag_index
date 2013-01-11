@@ -1,1 +1,2 @@
-[roscpp, iri_base_driver, sensor_msgs, control_msgs, iri_action_server, geometry_msgs]
+[roscpp, std_msgs, sensor_msgs, control_msgs, iri_base_driver, iri_action_server,
+  geometry_msgs]
