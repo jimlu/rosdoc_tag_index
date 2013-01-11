@@ -1,0 +1,2 @@
+[ros, common_msgs, segway_rmp, turtlebot, robot_model, xacro, freenect_stack, openni_launch,
+  laser_drivers, tf, laser_filters]
