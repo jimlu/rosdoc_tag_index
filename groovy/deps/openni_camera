@@ -1,2 +1,2 @@
-[dynamic_reconfigure, libopenni-sensor-primesense-dev, roscpp, libopenni-dev, camera_info_manager,
-  sensor_msgs, image_transport, libusb-1.0-dev, nodelet]
+[dynamic_reconfigure, libopenni-sensor-primesense-dev, catkin, roscpp, libopenni-dev,
+  camera_info_manager, sensor_msgs, image_transport, libusb-1.0-dev, nodelet]
