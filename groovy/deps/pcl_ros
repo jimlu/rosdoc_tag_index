@@ -1,0 +1,2 @@
+[dynamic_reconfigure, catkin, eigen, pluginlib, rosbag, sensor_msgs, nodelet_topic_tools,
+  tf, pcl, std_msgs, nodelet, roscpp]
