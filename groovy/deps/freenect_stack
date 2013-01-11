@@ -1,0 +1,2 @@
+[common_msgs, dynamic_reconfigure, image_common, nodelet_core, ros_comm, geometry,
+  image_pipeline, diagnostics]
