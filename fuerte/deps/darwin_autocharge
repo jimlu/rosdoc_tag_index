@@ -1,0 +1,2 @@
+[roscpp, iri_darwin_robot, iri_base_algorithm, std_msgs, control_msgs, sensor_msgs,
+  ar_pose, actionlib]
