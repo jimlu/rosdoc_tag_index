@@ -1,1 +1,1 @@
-[nav_msgs, ecl_threads, nodelet, roscpp]
+[nav_msgs, dynamic_reconfigure, roscpp, ecl_threads, geometry_msgs, nodelet]
