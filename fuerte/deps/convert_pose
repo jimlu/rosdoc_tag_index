@@ -1,1 +1,3 @@
-[roscpp, iri_base_algorithm, std_msgs, control_msgs, ar_pose, actionlib, arm_navigation_msgs]
+[roscpp, darwin_arm_simple_nav, iri_darwin_robot, iri_base_algorithm, sensor_msgs,
+  ar_pose, kinematics_msgs, control_msgs, std_msgs, geometry_msgs, iri_darwin_kinematics,
+  actionlib, arm_navigation_msgs]
