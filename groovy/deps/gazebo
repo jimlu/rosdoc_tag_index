@@ -1,4 +1,4 @@
-[ogre, tar, libxml2, curl, protobuf-dev, fltk, roslib, urdfdom_headers, libqt4-dev,
-  console_bridge, yaml, tf, common_rosdeps, dynamic_reconfigure, gazebo_msgs, libqt4-opengl-dev,
-  libtool, tinyxml, tbb, roscpp, rosgraph_msgs, std_srvs, bullet, geometry_msgs, urdfdom,
+[tar, libxml2, curl, protobuf-dev, roscpp, roslib, urdfdom_headers, libqt4-dev, console_bridge,
+  yaml, tf, dynamic_reconfigure, gazebo_msgs, libqt4-opengl-dev, libtool, tinyxml,
+  tbb, fltk, rosgraph_msgs, std_srvs, bullet, libogre-dev, geometry_msgs, urdfdom,
   pkg-config]
