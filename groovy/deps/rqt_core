@@ -1,4 +1,0 @@
-[rqt_web, rqt_gui_py, rqt_shell, rqt_reconfigure, rqt_logger_level, rqt_bag_plugins,
-  rqt_bag, rqt_gui, rqt_service_caller, rqt_image_view, rqt_py_console, rqt_srv, rqt_dep,
-  rqt_topic, rqt_graph, rqt_console, rqt_publisher, rqt_msg, rqt_gui_cpp, rqt_plot,
-  rqt_py_common]
