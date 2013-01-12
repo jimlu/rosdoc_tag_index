@@ -1,2 +1,2 @@
-[bullet, common_msgs, common_rosdeps, driver_common, geometry, image_common, nodelet_core,
-  perception_pcl, robot_model, ros, ros_comm, visualization_common, xacro]
+[bullet, common_msgs, driver_common, geometry, image_common, nodelet_core, perception_pcl,
+  robot_model, ros, ros_comm, xacro]
