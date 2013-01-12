@@ -1,2 +1,2 @@
 [collvoid_local_planner, collvoid_simple_global_planner, collvoid_controller, collvoid_msgs,
-  collvoid_pr2, pacman_controller, collvoid_turtlebot, pacman_turtles, collvoid_stage]
+  collvoid_stage, pacman_controller, collvoid_turtlebot, pacman_turtles, collvoid_pr2]
