@@ -1,1 +1,1 @@
-[tibi_dabo_msgs, iri_base_algorithm, std_msgs, roscpp, actionlib]
+[iri_base_algorithm, iri_perception_msgs, roscpp, iri_action_server]
