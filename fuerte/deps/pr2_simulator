@@ -1,4 +1,4 @@
 [common_msgs, diagnostics, driver_common, geometry, geometry_experimental, image_common,
   image_pipeline, navigation, physics_ode, pr2_common, pr2_controllers, pr2_ethercat_drivers,
   pr2_mechanism, robot_model, robot_state_publisher, ros, ros_comm, simulator_gazebo,
-  vision_opencv, visualization_common]
+  vision_opencv]
