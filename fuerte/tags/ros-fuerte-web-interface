@@ -1,9 +1,9 @@
 - {docs_url: ../../../api/pyclearsilver/html, location: pyclearsilver.tag, package: pyclearsilver}
 - {docs_url: ../../../api/launchman/html, location: launchman.tag, package: launchman}
-- {docs_url: ../../../api/web_msgs/html, location: web_msgs.tag, package: web_msgs}
+- {docs_url: ../../../api/ckill/html, location: ckill.tag, package: ckill}
 - {docs_url: ../../../api/rosjson/html, location: rosjson.tag, package: rosjson}
 - {docs_url: ../../../api/rosweb/html, location: rosweb.tag, package: rosweb}
+- {docs_url: ../../../api/image_stream/html, location: image_stream.tag, package: image_stream}
+- {docs_url: ../../../api/web_msgs/html, location: web_msgs.tag, package: web_msgs}
 - {docs_url: ../../../api/webui/html, location: webui.tag, package: webui}
 - {docs_url: ../../../api/ros_apache2/html, location: ros_apache2.tag, package: ros_apache2}
-- {docs_url: ../../../api/image_stream/html, location: image_stream.tag, package: image_stream}
-- {docs_url: ../../../api/ckill/html, location: ckill.tag, package: ckill}
