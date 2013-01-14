@@ -1,1 +1,1 @@
-[common_msgs, convex_decomposition, ivcon, urdf, robot_model, ros, ros_comm, xacro]
+[common_msgs, convex_decomposition, ivcon, urdfdom, ros, ros_comm, xacro]
