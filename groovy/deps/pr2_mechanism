@@ -1,2 +1,2 @@
 [common_msgs, diagnostics, geometry, pluginlib, pr2_common, robot_model, ros, ros_comm,
-  pr2_mechanism_msgs]
+  pr2_mechanism_msgs, ros_control]
