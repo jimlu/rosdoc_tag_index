@@ -4,7 +4,6 @@
   package: pr2_mechanism_model}
 - {docs_url: ../../../api/pr2_mechanism_diagnostics/html, location: pr2_mechanism_diagnostics.tag,
   package: pr2_mechanism_diagnostics}
-- {docs_url: ../../../api/realtime_tools/html, location: realtime_tools.tag, package: realtime_tools}
 - {docs_url: ../../../api/pr2_controller_interface/html, location: pr2_controller_interface.tag,
   package: pr2_controller_interface}
 - {docs_url: ../../../api/pr2_controller_manager/html, location: pr2_controller_manager.tag,
