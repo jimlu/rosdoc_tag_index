@@ -1,2 +1,2 @@
-[nav_msgs, cob_relayboard, roscpp, diagnostic_updater, cob_utilities, sensor_msgs,
-  cob_srvs, rostest, geometry_msgs, cob_base_drive_chain, tf, diagnostic_msgs, pr2_controllers_msgs]
+[nav_msgs, cob_relayboard, roscpp, cob_utilities, sensor_msgs, diagnostic_updater,
+  geometry_msgs, tf, diagnostic_msgs, pr2_controllers_msgs]
