@@ -1,2 +1,2 @@
-[cob_common, cob_extern, common, common_msgs, diagnostics, pr2_controllers, robot_model,
-  ros, ros_comm, simulator_gazebo]
+[cob_common, cob_extern, common, common_msgs, control, diagnostics, pr2_controllers,
+  robot_model, ros, ros_comm, simulator_gazebo]

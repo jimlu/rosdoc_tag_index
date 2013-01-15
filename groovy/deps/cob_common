@@ -1,1 +1,1 @@
-[common_msgs, robot_model, ros, ros_comm]
+[common_msgs, robot_model, ros, ros_comm, simulator_gazebo]
