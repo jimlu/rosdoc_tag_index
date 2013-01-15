@@ -1,1 +1,1 @@
-[roscpp, pr2_mechanism_model]
+[controller_interface, roscpp, pr2_mechanism_model]
