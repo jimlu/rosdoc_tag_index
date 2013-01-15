@@ -1,5 +1,5 @@
-[turtlebot_wviz, rosjs_pr2interaction, wviz_kinematic_manager, interactive_marker_client,
-  rosjs_remotelabwidgets, wviz_tf_manager, rosjs_tests, robot_booking, wviz, mjpeg_server,
-  pr2_pick_and_place_service, tf_lister, pointcloud_snapshot_service, rosjs_assisted_teleoperation,
-  rosjs_resources, wviz_scene_manager, ping, rosjs_visualization, topic_logger, rosjs_tutorials,
-  rosjs_common]
+[turtlebot_wviz, pr2_pick_and_place_service, wviz_kinematic_manager, rosjs_remotelabwidgets,
+  rosjs_tests, rosjs_common, ping, robot_booking, wviz, mjpeg_server, topic_logger,
+  tf_lister, rosjs_assisted_teleoperation, interactive_marker_client, rosjs_pr2interaction,
+  rosjs_resources, wviz_scene_manager, rosjs_visualization, wviz_tf_manager, rosjs_tutorials,
+  pointcloud_snapshot_service]
