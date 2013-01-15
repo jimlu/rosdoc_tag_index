@@ -1,9 +1,8 @@
+- {docs_url: ../../../api/schunk_sdh/html, location: schunk_sdh.tag, package: schunk_sdh}
+- {docs_url: ../../../api/schunk_simulated_tactile_sensors/html, location: schunk_simulated_tactile_sensors.tag,
+  package: schunk_simulated_tactile_sensors}
 - {docs_url: ../../../api/schunk_libm5api/html, location: schunk_libm5api.tag, package: schunk_libm5api}
 - {docs_url: ../../../api/schunk_powercube_chain/html, location: schunk_powercube_chain.tag,
   package: schunk_powercube_chain}
-- {docs_url: ../../../api/CANOpen_driver/html, location: CANOpen_driver.tag, package: CANOpen_driver}
-- {docs_url: ../../../api/schunk_sdh/html, location: schunk_sdh.tag, package: schunk_sdh}
 - {docs_url: ../../../api/schunk_description/html, location: schunk_description.tag,
   package: schunk_description}
-- {docs_url: ../../../api/schunk_simulated_tactile_sensors/html, location: schunk_simulated_tactile_sensors.tag,
-  package: schunk_simulated_tactile_sensors}

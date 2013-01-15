@@ -1,2 +1,2 @@
-[urdf, roscpp, actionlib, trajectory_msgs, sensor_msgs, cob_srvs, rostest, control_msgs,
-  libpcan, libntcan, diagnostic_msgs, pr2_controllers_msgs]
+[urdf, roscpp, brics_actuator, actionlib, trajectory_msgs, sensor_msgs, cob_srvs,
+  rostest, control_msgs, libpcan, libntcan, diagnostic_msgs, pr2_controllers_msgs]
