@@ -1,4 +1,4 @@
-[trivial_garbage, cram_reasoning, alexandria, gsd, cram_projection, babel, cram_math,
-  cffi, gsll, lisp_unit, cram_utilities, cl_store, synchronization_tools, cl_utilities,
-  cram_designators, cram_test_utilities, cram_language, cram_execution_trace, cram_process_modules,
+[cram_reasoning, cl_store, cram_math, cram_projection, babel, gsd, cffi, cram_utilities,
+  cram_execution_trace, lisp_unit, gsll, alexandria, synchronization_tools, cl_utilities,
+  cram_designators, cram_test_utilities, cram_language, trivial_garbage, cram_process_modules,
   split_sequence, trivial_features]
