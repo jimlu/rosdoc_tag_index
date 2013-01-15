@@ -1,2 +1,2 @@
-[cob_bringup, cob_controller_configuration_gazebo, cob_hardware_config, cob_default_robot_config,
-  cob_hardware_test]
+[cob_bringup, cob_controller_configuration_gazebo, cob_monitoring, cob_hardware_config,
+  cob_default_robot_config, cob_hardware_test]
