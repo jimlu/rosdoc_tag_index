@@ -1,8 +1,8 @@
-[rosconsole, test_roscpp_serialization, test_roswtf, test_ros, test_roslaunch, perf_roscpp,
-  test_rostest, test_crosspackage, test_rosgraph, test_roscpp_serialization_perf,
-  test_roslib_comm, test_rostime, rostime, roscpp, rosparam, rosout, roscpp_serialization,
-  test_rosparam, roscpp_traits, topic_tools, rostest, test_topic_tools, rostopic,
-  test_rospy, test_roscpp, roslaunch, roslisp, message_filters, cpp_common, roscore_migration_rules,
-  std_msgs, test_rosnode, rosservice, rospy, test_rosmsg, test_rosbag, test_rosservice,
-  test_rosmaster, rosgraph_msgs, roswtf, std_srvs, xmlrpcpp, rosmaster, rosmsg, test_rostopic,
-  rosgraph, rosnode, rosbag, rosbagmigration]
+[rosconsole, test_roscpp_serialization, test_roswtf, test_roslaunch, perf_roscpp,
+  test_rostest, rosbagmigration, test_rosgraph, test_roscpp_serialization_perf, test_ros,
+  roscpp_traits, test_rostime, test_rosmaster, rosparam, rosout, test_crosspackage,
+  test_rosparam, roscpp_serialization, topic_tools, rostest, test_topic_tools, rostopic,
+  cpp_common, test_rospy, test_roscpp, rosgraph_msgs, roslisp, message_filters, rosgraph,
+  roscore_migration_rules, rostime, test_rosnode, rosservice, rospy, test_rosmsg,
+  std_msgs, test_rosbag, test_rosservice, roscpp, roslaunch, roswtf, std_srvs, xmlrpcpp,
+  test_roslib_comm, rosmaster, rosmsg, test_rostopic, rosnode, rosbag]
