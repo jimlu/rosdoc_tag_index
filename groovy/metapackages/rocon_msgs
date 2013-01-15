@@ -1,1 +1,1 @@
-[demo_msgs, concert_msgs, appmanager_msgs, gateway_msgs]
+[appmanager_msgs, concert_msgs, demo_msgs, gateway_msgs]
