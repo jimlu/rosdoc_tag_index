@@ -1,1 +1,1 @@
-[geometry_msgs, actionlib, sensor_msgs, actionlib_msgs]
+[opencv2, geometry_msgs, actionlib, sensor_msgs, actionlib_msgs]
