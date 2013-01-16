@@ -1,5 +1,5 @@
 [camera_drivers, cob_calibration_data, cob_command_tools, cob_common, cob_driver,
   cob_environments, cob_substitute, diagnostics, image_pipeline, joystick_drivers,
-  laser_drivers, navigation, openni_kinect, pr2_common, pr2_controllers, pr2_mechanism,
-  pr2_robot, robot_model, ros, ros_comm, schunk_modular_robotics, universal_robot,
+  laser_drivers, navigation, nodelet_core, openni_kinect, pr2_common, pr2_controllers,
+  pr2_mechanism, pr2_robot, robot_model, ros, ros_comm, schunk_modular_robotics, universal_robot,
   visualization, wifi_drivers]
