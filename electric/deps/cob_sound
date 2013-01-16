@@ -1,1 +1,1 @@
-[std_msgs, sound_play, actionlib, rospy, roscpp]
+[roscpp, actionlib, std_msgs, cob_srvs, rospy, sound_play]
