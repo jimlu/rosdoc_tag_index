@@ -1,9 +1,9 @@
 - {docs_url: ../../../api/cob_navigation_config/html, location: cob_navigation_config.tag,
   package: cob_navigation_config}
 - {docs_url: ../../../api/cob_mapping_slam/html, location: cob_mapping_slam.tag, package: cob_mapping_slam}
-- {docs_url: ../../../api/cob_linear_nav/html, location: cob_linear_nav.tag, package: cob_linear_nav}
 - {docs_url: ../../../api/cob_vel_integrator/html, location: cob_vel_integrator.tag,
   package: cob_vel_integrator}
+- {docs_url: ../../../api/cob_linear_nav/html, location: cob_linear_nav.tag, package: cob_linear_nav}
 - {docs_url: ../../../api/cob_navigation_global/html, location: cob_navigation_global.tag,
   package: cob_navigation_global}
 - {docs_url: ../../../api/cob_navigation_slam/html, location: cob_navigation_slam.tag,
