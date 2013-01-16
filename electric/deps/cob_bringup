@@ -1,7 +1,8 @@
-[schunk_powercube_chain, cob_default_env_config, wifi_ddwrt, cob_command_gui, cob_light,
-  cob_hardware_config, image_proc, rviz, cob_sick_s300, cob_head_axis, prosilica_camera,
-  cob_undercarriage_ctrl, pr2_computer_monitor, cob_relayboard, cob_teleop, diagnostic_aggregator,
-  cob_collision_velocity_filter, joy, robot_state_publisher, pr2_dashboard_aggregator,
-  costmap_2d, openni_camera, cob_lbr, cob_base_drive_chain, ur5_driver, cob_sound,
-  hokuyo_node, cob_hokuyo, cob_dashboard, schunk_sdh, cob_footprint_observer, cob_base_velocity_smoother,
-  openni_launch, cob_camera_sensors, cob_default_robot_config, cob_trajectory_controller]
+[schunk_powercube_chain, camera1394, cob_default_env_config, wifi_ddwrt, cob_command_gui,
+  cob_light, cob_hardware_config, image_proc, rviz, cob_sick_s300, cob_voltage_control,
+  cob_monitoring, cob_head_axis, prosilica_camera, cob_undercarriage_ctrl, pr2_computer_monitor,
+  nodelet, cob_relayboard, cob_hwboard, cob_teleop, diagnostic_aggregator, cob_collision_velocity_filter,
+  joy, robot_state_publisher, pr2_dashboard_aggregator, costmap_2d, openni_camera,
+  cob_lbr, cob_base_drive_chain, ur5_driver, cob_sound, hokuyo_node, cob_hokuyo, cob_dashboard,
+  schunk_sdh, cob_footprint_observer, cob_base_velocity_smoother, openni_launch, cob_camera_sensors,
+  cob_default_robot_config, cob_trajectory_controller]
