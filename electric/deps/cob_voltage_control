@@ -1,0 +1,1 @@
+[cob_relayboard, dynamic_reconfigure, roscpp, rostest, rospy, pr2_msgs, libphidgets]
