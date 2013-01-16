@@ -1,7 +1,7 @@
 - {docs_url: ../../../api/cob_leptonica/html, location: cob_leptonica.tag, package: cob_leptonica}
 - {docs_url: ../../../api/cob_tesseract/html, location: cob_tesseract.tag, package: cob_tesseract}
-- {docs_url: ../../../api/cob_read_text/html, location: cob_read_text.tag, package: cob_read_text}
 - {docs_url: ../../../api/cob_object_detection_msgs/html, location: cob_object_detection_msgs.tag,
   package: cob_object_detection_msgs}
 - {docs_url: ../../../api/cob_object_detection_fake/html, location: cob_object_detection_fake.tag,
   package: cob_object_detection_fake}
+- {docs_url: ../../../api/cob_read_text/html, location: cob_read_text.tag, package: cob_read_text}
