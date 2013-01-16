@@ -1,1 +1,2 @@
-[cob_common, robot_model, ros, ros_comm, simulator_gazebo, visualization_common, xacro]
+[cob_common, robot_model, robot_model_visualization, ros, ros_comm, simulator_gazebo,
+  visualization_common, xacro]

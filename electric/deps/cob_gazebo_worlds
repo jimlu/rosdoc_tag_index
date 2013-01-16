@@ -1,1 +1,2 @@
-[ivcon, xacro, ogre_tools, gazebo_tools, gazebo_plugins, convex_decomposition, gazebo]
+[ivcon, xacro, ogre_tools, robot_state_publisher, joint_state_publisher, gazebo_tools,
+  gazebo_plugins, convex_decomposition, gazebo]
