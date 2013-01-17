@@ -1,0 +1,3 @@
+[move_arm, trajectory_filter_server, collider, planning_environment, actionlib, robot_self_filter,
+  maxwell_defs, constraint_aware_spline_smoother, arm_kinematics_constraint_aware,
+  arm_navigation_msgs, ompl_ros_interface]
