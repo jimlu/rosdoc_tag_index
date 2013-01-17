@@ -1,0 +1,2 @@
+[arbotix, arm_navigation, arm_navigation_experimental, common_msgs, geometry, laser_drivers,
+  navigation, rharmony, robot_model, ros, ros_comm, xacro]
