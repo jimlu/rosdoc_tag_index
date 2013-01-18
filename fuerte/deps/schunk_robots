@@ -1,1 +1,2 @@
-[cob_command_tools, cob_common, cob_driver, robot_model, ros, schunk_modular_robotics]
+[cob_command_tools, cob_common, cob_driver, cob_environments, cob_robots, pr2_controllers,
+  pr2_mechanism, robot_model, ros, schunk_modular_robotics, simulator_gazebo]
