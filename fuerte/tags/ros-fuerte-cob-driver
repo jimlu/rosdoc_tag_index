@@ -17,14 +17,13 @@
 - {docs_url: ../../../api/cob_undercarriage_ctrl/html, location: cob_undercarriage_ctrl.tag,
   package: cob_undercarriage_ctrl}
 - {docs_url: ../../../api/cob_head_axis/html, location: cob_head_axis.tag, package: cob_head_axis}
-- {docs_url: ../../../api/cob_voltage_control/html, location: cob_voltage_control.tag,
-  package: cob_voltage_control}
-- {docs_url: ../../../api/cob_light/html, location: cob_light.tag, package: cob_light}
-- {docs_url: ../../../api/cob_base_drive_chain/html, location: cob_base_drive_chain.tag,
-  package: cob_base_drive_chain}
 - {docs_url: ../../../api/cob_camera_sensors/html, location: cob_camera_sensors.tag,
   package: cob_camera_sensors}
+- {docs_url: ../../../api/cob_base_drive_chain/html, location: cob_base_drive_chain.tag,
+  package: cob_base_drive_chain}
+- {docs_url: ../../../api/cob_light/html, location: cob_light.tag, package: cob_light}
 - {docs_url: ../../../api/cob_trajectory_controller/html, location: cob_trajectory_controller.tag,
   package: cob_trajectory_controller}
 - {docs_url: ../../../api/cob_phidgets/html, location: cob_phidgets.tag, package: cob_phidgets}
-- {docs_url: ../../../api/cob_lightmode/html, location: cob_lightmode.tag, package: cob_lightmode}
+- {docs_url: ../../../api/cob_voltage_control/html, location: cob_voltage_control.tag,
+  package: cob_voltage_control}
