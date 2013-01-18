@@ -1,1 +1,1 @@
-[sensor_msgs, trajectory_msgs, std_msgs, roscpp, control_msgs]
+[roscpp, industrial_robot_client, trajectory_msgs, sensor_msgs, control_msgs, std_msgs]
