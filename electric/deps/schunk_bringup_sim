@@ -1,2 +1,2 @@
 [schunk_hardware_config, schunk_controller_configuration_gazebo, cob_controller_configuration_gazebo,
-  gazebo, cob_gazebo_worlds]
+  gazebo]
