@@ -1,0 +1,5 @@
+- {docs_url: ../../../api/hrl_kinematics/html, location: hrl_kinematics.tag, package: hrl_kinematics}
+- {docs_url: ../../../api/humanoid_localization/html, location: humanoid_localization.tag,
+  package: humanoid_localization}
+- {docs_url: ../../../api/gridmap_2d/html, location: gridmap_2d.tag, package: gridmap_2d}
+- {docs_url: ../../../api/footstep_planner/html, location: footstep_planner.tag, package: footstep_planner}
