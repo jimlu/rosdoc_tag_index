@@ -1,0 +1,2 @@
+[common, common_msgs, geometry, joystick_drivers, nao_robot, navigation, robot_model,
+  ros, ros_comm]
