@@ -1,0 +1,2 @@
+[common, common_msgs, diagnostics, diagnostics_monitors, nao_robot, pluginlib, ros,
+  ros_comm, rx]
