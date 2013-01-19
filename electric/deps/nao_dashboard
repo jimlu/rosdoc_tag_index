@@ -1,0 +1,2 @@
+[rxtools, nao_msgs, std_srvs, roscpp, diagnostic_aggregator, pluginlib, actionlib,
+  roslib, std_msgs, robot_monitor, rospy, diagnostic_msgs]
