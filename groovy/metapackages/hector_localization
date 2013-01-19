@@ -1,2 +1,1 @@
-[hector_pose_estimation_rtt, hector_pose_estimation, hector_pose_estimation_core,
-  world_magnetic_model]
+[hector_pose_estimation_rtt, world_magnetic_model, hector_pose_estimation, hector_pose_estimation_core]
