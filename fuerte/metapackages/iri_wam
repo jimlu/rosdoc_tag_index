@@ -1,3 +1,3 @@
-[iri_wam_cartesian_planning, iri_wam_tcp_ik, iri_wam_description, iri_wam_ik, iri_wam_common_msgs,
-  iri_wam_arm_navigation, iri_bhand, iri_wam_wrapper, iri_wam_base, iri_wam_simulator,
-  iri_wam_tutorial, iri_bhand_description, iri_wam_move_arm, iri_bhand_simulator]
+[iri_wam_cartesian_planning, iri_wam_description, iri_wam_ik, iri_wam_common_msgs,
+  iri_wam_tutorial, iri_wam_arm_navigation, iri_bhand, iri_wam_wrapper, iri_wam_base,
+  iri_wam_simulator, iri_wam_tcp_ik, iri_bhand_description, iri_wam_move_arm, iri_bhand_simulator]
