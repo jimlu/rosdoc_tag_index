@@ -1,1 +1,2 @@
-[hector_gazebo_plugins, gazebo, gazebo_tools, hlugv_description]
+[hector_roll_pitch_stabilizer, hector_imu_attitude_to_tf, hlugv_description, hector_gazebo_plugins,
+  gazebo_tools, gazebo]
