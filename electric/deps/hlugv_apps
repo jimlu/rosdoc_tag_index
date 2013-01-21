@@ -1,2 +1,3 @@
-[hector_exploration_controller, hector_exploration_node, hector_trajectory_server,
-  hector_mapping, hector_map_server]
+[object_tracker, worldmodel_geotiff_plugins, hector_exploration_controller, hlugv_gazebo,
+  hector_trajectory_server, hector_geotiff, hector_exploration_node, hector_map_server,
+  hector_mapping]
