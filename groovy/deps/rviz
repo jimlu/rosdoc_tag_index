@@ -1,5 +1,5 @@
 [rosconsole, catkin, eigen, urdf, resource_retriever, nav_msgs, python_qt_binding,
   laser_geometry, roscpp, roslib, libqt4-dev, yaml-cpp, visualization_msgs, tf, image_geometry,
-  urdf_interface, interactive_markers, message_filters, sensor_msgs, std_msgs, libqt4-opengl-dev,
+  interactive_markers, message_filters, sensor_msgs, std_msgs, libqt4-opengl-dev,
   image_transport, assimp, rospy, std_srvs, pluginlib, libogre-dev, geometry_msgs,
-  rosbag]
+  urdfdom, rosbag]
