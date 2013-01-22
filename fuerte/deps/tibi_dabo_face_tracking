@@ -1,1 +1,1 @@
-[iri_nav_msgs, iri_base_algorithm, trajectory_msgs, roscpp, actionlib]
+[roscpp, iri_nav_msgs, iri_base_algorithm, trajectory_msgs, face_detector_mono, actionlib]

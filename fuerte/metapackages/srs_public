@@ -1,4 +1,4 @@
-[srs_assisted_arm_navigation_ui, srs_assisted_grasping, srs_msgs, srs_states, srs_human_sensing,
+[srs_assisted_grasping, srs_assisted_arm_navigation_ui, srs_msgs, srs_states, srs_human_sensing,
   srs_decision_making_interface, srs_people_tracking_filter, srs_assisted_grasping_ui,
   srs_env_model_percp, srs_env_model_utils, srs_object_verification, srs_user_tests,
   srs_env_model_msgs, srs_env_model, srs_training, srs_grasping, srs_assisted_arm_navigation,
