@@ -1,1 +1,1 @@
-[graphviz, concert_msgs, roslib, rospy, python-pydot]
+[catkin, roslib, graphviz, concert_msgs, rospy, python-pydot]
