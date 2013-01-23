@@ -1,1 +1,1 @@
-[std_msgs, appmanager_msgs, concert_msgs, rospy, gateway_msgs]
+[appmanager_msgs, gateway_msgs, std_msgs, concert_msgs, rospy, catkin]

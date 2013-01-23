@@ -1,1 +1,1 @@
-[ros, ros_comm, rocon_msgs, zeroconf_msgs]
+[rocon_appmanager, rocon_apps, concert_client, rocon_appmanager_frontend]
