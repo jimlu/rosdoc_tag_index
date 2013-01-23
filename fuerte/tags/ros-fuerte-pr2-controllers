@@ -1,5 +1,3 @@
-- {docs_url: ../../../api/pr2_controllers_msgs/html, location: pr2_controllers_msgs.tag,
-  package: pr2_controllers_msgs}
 - {docs_url: ../../../api/single_joint_position_action/html, location: single_joint_position_action.tag,
   package: single_joint_position_action}
 - {docs_url: ../../../api/control_toolbox/html, location: control_toolbox.tag, package: control_toolbox}
