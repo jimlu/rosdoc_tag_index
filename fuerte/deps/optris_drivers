@@ -1,1 +1,1 @@
-[std_msgs, roscpp]
+[sensor_msgs, std_msgs, roscpp]
