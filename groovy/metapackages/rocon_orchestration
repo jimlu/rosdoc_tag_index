@@ -1,2 +1,1 @@
-[concert_conductor, graveyard_concert_master, graveyard_rocon_master_sync, graveyard_rocon_qorchestra,
-  rocon_orchestra, concert_master, graveyard_rocon_conductor]
+[concert_conductor, rocon_orchestra, concert_master]
