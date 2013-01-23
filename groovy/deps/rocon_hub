@@ -1,1 +1,1 @@
-[avahi-daemon, redis, redis-server, rospy, avahi-utils]
+[avahi-daemon, redis, redis-server, catkin, avahi-utils]
