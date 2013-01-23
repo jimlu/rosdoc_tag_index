@@ -1,2 +1,2 @@
 [actionlib, common_msgs, control, diagnostics, filters, geometry, orocos_kinematics_dynamics,
-  pluginlib, pr2_common, pr2_mechanism, robot_model, ros, ros_comm]
+  pluginlib, pr2_common, pr2_mechanism, robot_model, ros, ros_comm, pr2_controllers_msgs]
