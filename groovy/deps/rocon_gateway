@@ -1,1 +1,1 @@
-[gateway_msgs, zeroconf_msgs, roslib, redis, rospy, rocon_utilities]
+[gateway_msgs, catkin, redis, roslib, zeroconf_msgs, rospy, rocon_utilities]
