@@ -1,1 +1,2 @@
-[rocon_gateway, gateway_msgs, rostest, actionlib_tutorials, roscpp_tutorials, rospy]
+[rocon_gateway, catkin, gateway_msgs, rospy_tutorials, rostest, rospy, roscpp_tutorials,
+  actionlib_tutorials]
