@@ -1,9 +1,8 @@
-- {docs_url: ../../../api/colladadom/html, location: colladadom.tag, package: colladadom}
 - {docs_url: ../../../api/urdf_interface/html, location: urdf_interface.tag, package: urdf_interface}
-- {docs_url: ../../../api/simmechanics_to_urdf/html, location: simmechanics_to_urdf.tag,
-  package: simmechanics_to_urdf}
-- {docs_url: ../../../api/collada_parser/html, location: collada_parser.tag, package: collada_parser}
 - {docs_url: ../../../api/urdf_parser/html, location: urdf_parser.tag, package: urdf_parser}
+- {docs_url: ../../../api/ivcon/html, location: ivcon.tag, package: ivcon}
+- {docs_url: ../../../api/colladadom/html, location: colladadom.tag, package: colladadom}
+- {docs_url: ../../../api/collada_parser/html, location: collada_parser.tag, package: collada_parser}
 - {docs_url: ../../../api/urdf/html, location: urdf.tag, package: urdf}
 - {docs_url: ../../../api/kdl_parser/html, location: kdl_parser.tag, package: kdl_parser}
 - {docs_url: ../../../api/robot_state_publisher/html, location: robot_state_publisher.tag,
@@ -11,6 +10,7 @@
 - {docs_url: ../../../api/resource_retriever/html, location: resource_retriever.tag,
   package: resource_retriever}
 - {docs_url: ../../../api/collada_urdf/html, location: collada_urdf.tag, package: collada_urdf}
-- {docs_url: ../../../api/ivcon/html, location: ivcon.tag, package: ivcon}
+- {docs_url: ../../../api/simmechanics_to_urdf/html, location: simmechanics_to_urdf.tag,
+  package: simmechanics_to_urdf}
 - {docs_url: ../../../api/convex_decomposition/html, location: convex_decomposition.tag,
   package: convex_decomposition}
