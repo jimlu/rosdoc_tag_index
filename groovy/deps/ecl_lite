@@ -1,1 +1,2 @@
-[ecl_tools, ros]
+[ecl_converters_lite, ecl_sigslots_lite, ecl_io, ecl_time_lite, ecl_config, ecl_errors,
+  ecl_tools]

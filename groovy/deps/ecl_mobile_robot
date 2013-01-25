@@ -1,2 +1,2 @@
-[ecl_license, ecl_linear_algebra, ecl_math, ecl_errors, ecl_config, ecl_geometry,
-  ecl_build]
+[catkin, ecl_license, ecl_formatters, ecl_linear_algebra, ecl_math, ecl_geometry,
+  ecl_errors]
