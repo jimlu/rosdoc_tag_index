@@ -1,1 +1,1 @@
-[ecl_build, ecl_mpl, ecl_concepts, ecl_license]
+[catkin, ecl_mpl, ecl_concepts, ecl_license]
