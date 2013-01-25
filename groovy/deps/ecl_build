@@ -1,1 +1,1 @@
-[rosbuild, ecl_license]
+[catkin, ecl_license]

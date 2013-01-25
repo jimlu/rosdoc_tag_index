@@ -1,1 +1,1 @@
-[ecl_formatters, ecl_build, ecl_license, ecl_exceptions, ecl_geometry]
+[ecl_formatters, ecl_exceptions, catkin, ecl_geometry, ecl_license]
