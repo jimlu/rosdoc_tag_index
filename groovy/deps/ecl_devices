@@ -1,2 +1,2 @@
-[ecl_utilities, ecl_mpl, ecl_containers, ecl_type_traits, ecl_license, ecl_threads,
-  ecl_build, ecl_config, ecl_errors]
+[ecl_utilities, ecl_mpl, catkin, ecl_containers, ecl_type_traits, ecl_license, ecl_threads,
+  ecl_config, ecl_errors]
