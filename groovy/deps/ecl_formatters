@@ -1,1 +1,1 @@
-[ecl_build, ecl_converters, ecl_config, ecl_exceptions, ecl_license]
+[ecl_exceptions, ecl_converters, ecl_config, catkin, ecl_license]

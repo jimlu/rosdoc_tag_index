@@ -1,2 +1,2 @@
-[ecl_mpl, ecl_containers, ecl_type_traits, ecl_license, ecl_formatters, ecl_linear_algebra,
-  ecl_math, ecl_config, ecl_build, ecl_exceptions]
+[ecl_mpl, catkin, ecl_containers, ecl_type_traits, ecl_license, ecl_formatters, ecl_linear_algebra,
+  ecl_math, ecl_config, ecl_exceptions]
