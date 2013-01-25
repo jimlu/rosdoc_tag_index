@@ -1,1 +1,1 @@
-[ecl_formatters, ecl_utilities, ecl_build, ecl_slam, ecl_license]
+[ecl_formatters, ecl_utilities, ecl_slam, catkin, ecl_license]
