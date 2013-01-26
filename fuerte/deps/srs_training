@@ -1,1 +1,1 @@
-[tf, geometry_msgs, rospy]
+[tf, geometry_msgs, rospy, srs_interaction_primitives]
