@@ -1,0 +1,1 @@
+[catkin, urdfdom_headers, console_bridge, tinyxml, boost, pkg-config]

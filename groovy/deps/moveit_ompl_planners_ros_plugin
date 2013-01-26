@@ -1,0 +1,2 @@
+[dynamic_reconfigure, moveit_core, catkin, roscpp, pluginlib, moveit_ros_planning,
+  tf, moveit_ompl_planners_core]
