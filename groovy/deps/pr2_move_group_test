@@ -1,0 +1,2 @@
+[move_group, actionlib, ompl_interface_ros, move_group_interface, pr2_moveit_config,
+  moveit_msgs]
