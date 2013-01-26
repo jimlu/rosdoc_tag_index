@@ -1,0 +1,2 @@
+[moveit_core, catkin, roscpp, message_filters, rosconsole, urdf, octomap, tf, tf_conversions,
+  pcl_ros]
