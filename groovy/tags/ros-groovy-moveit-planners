@@ -1,0 +1,7 @@
+- {docs_url: ../../../api/sbpl_interface/html, location: sbpl_interface.tag, package: sbpl_interface}
+- {docs_url: ../../../api/sbpl_interface_ros/html, location: sbpl_interface_ros.tag,
+  package: sbpl_interface_ros}
+- {docs_url: ../../../api/chomp_motion_planner/html, location: chomp_motion_planner.tag,
+  package: chomp_motion_planner}
+- {docs_url: ../../../api/chomp_interface_ros/html, location: chomp_interface_ros.tag,
+  package: chomp_interface_ros}

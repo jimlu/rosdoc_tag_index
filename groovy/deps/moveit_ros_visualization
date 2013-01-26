@@ -1,0 +1,2 @@
+[catkin, roscpp, pluginlib, interactive_markers, moveit_ros_warehouse, geometric_shapes,
+  moveit_ros_planning_interface, rviz]
