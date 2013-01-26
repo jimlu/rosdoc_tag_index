@@ -1,0 +1,3 @@
+[roslaunch, dynamic_reconfigure, xterm, python-psutil, python-pyside.qtuitools, screen,
+  roslib, rosgraph, rosservice, rospy, pyside-tools, python-pyside, master_discovery_fkie,
+  default_cfg_fkie, python-paramiko, python-docutils]
