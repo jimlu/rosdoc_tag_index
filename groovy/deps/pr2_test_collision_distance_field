@@ -1,0 +1,2 @@
+[collision_detection_fcl, collision_distance_field_ros, collision_distance_field,
+  planning_scene_monitor, robot_model_loader]
