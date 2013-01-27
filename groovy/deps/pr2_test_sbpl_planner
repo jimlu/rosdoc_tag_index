@@ -1,0 +1,2 @@
+[planning_scene, sbpl_interface, robot_model_loader, ompl_interface_ros, collision_distance_field_ros,
+  collision_distance_field]
