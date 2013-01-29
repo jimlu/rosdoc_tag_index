@@ -1,0 +1,2 @@
+[lwr_hardware, orocos_controllers, orocos_toolchain, orocos_tools, ros, rtt_common_msgs,
+  rtt_ros_comm, simulator_gazebo]
