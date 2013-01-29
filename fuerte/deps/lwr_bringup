@@ -1,0 +1,3 @@
+[rtt_diagnostic_msgs, fake_servo, oro_joint_trajectory_action, rtt_actionlib_msgs,
+  joint_spline_trajectory_generator, rtt, rtt_std_msgs, rtt_sensor_msgs, rtt_trajectory_msgs,
+  lwr_fri, rtt_control_msgs, oro_joint_state_publisher]

@@ -1,0 +1,2 @@
+[geometry, orocos_kinematics_dynamics, orocos_toolchain, ros, ros_comm, rtt_common_msgs,
+  rtt_ros_comm]
