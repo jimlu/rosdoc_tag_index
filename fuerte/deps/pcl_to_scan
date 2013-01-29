@@ -1,0 +1,2 @@
+[dynamic_reconfigure, roscpp, sensor_msgs, openni_camera, rospy, visualization_msgs,
+  tf, nodelet, pcl_ros]
