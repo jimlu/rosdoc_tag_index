@@ -1,6 +1,6 @@
-- {docs_url: ../../../api/image_transport/html, location: image_transport.tag, package: image_transport}
-- {docs_url: ../../../api/polled_camera/html, location: polled_camera.tag, package: polled_camera}
 - {docs_url: ../../../api/camera_calibration_parsers/html, location: camera_calibration_parsers.tag,
   package: camera_calibration_parsers}
 - {docs_url: ../../../api/camera_info_manager/html, location: camera_info_manager.tag,
   package: camera_info_manager}
+- {docs_url: ../../../api/image_transport/html, location: image_transport.tag, package: image_transport}
+- {docs_url: ../../../api/polled_camera/html, location: polled_camera.tag, package: polled_camera}
