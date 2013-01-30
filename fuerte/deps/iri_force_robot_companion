@@ -1,2 +1,2 @@
-[iri_perception_msgs, roscpp, iri_base_algorithm, wiimote, sensor_msgs, laser_geometry,
-  tf, geometry_msgs, visualization_msgs, move_base_msgs, actionlib]
+[iri_perception_msgs, roscpp, std_msgs, iri_base_algorithm, wiimote, sensor_msgs,
+  laser_geometry, tf, geometry_msgs, visualization_msgs, move_base_msgs, actionlib]

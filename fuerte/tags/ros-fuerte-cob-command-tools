@@ -1,9 +1,7 @@
-- {docs_url: ../../../api/cob_teleop/html, location: cob_teleop.tag, package: cob_teleop}
 - {docs_url: ../../../api/cob_script_server/html, location: cob_script_server.tag,
   package: cob_script_server}
+- {docs_url: ../../../api/cob_command_gui/html, location: cob_command_gui.tag, package: cob_command_gui}
+- {docs_url: ../../../api/cob_dashboard/html, location: cob_dashboard.tag, package: cob_dashboard}
+- {docs_url: ../../../api/cob_teleop/html, location: cob_teleop.tag, package: cob_teleop}
 - {docs_url: ../../../api/cob_interactive_teleop/html, location: cob_interactive_teleop.tag,
   package: cob_interactive_teleop}
-- {docs_url: ../../../api/cob_dashboard/html, location: cob_dashboard.tag, package: cob_dashboard}
-- {docs_url: ../../../api/cob_command_gui_rviz/html, location: cob_command_gui_rviz.tag,
-  package: cob_command_gui_rviz}
-- {docs_url: ../../../api/cob_command_gui/html, location: cob_command_gui.tag, package: cob_command_gui}
