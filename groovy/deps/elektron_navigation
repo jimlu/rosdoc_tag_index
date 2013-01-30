@@ -1,0 +1,2 @@
+[move_base, elektron_bringup, actionlib, roslib, std_msgs, gmapping, rospy, sound_play,
+  actionlib_msgs]
