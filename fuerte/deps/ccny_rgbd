@@ -1,0 +1,3 @@
+[nav_msgs, dynamic_reconfigure, std_srvs, roscpp, nodelet, image_geometry, sensor_msgs,
+  image_transport, geometry_msgs, pcl, visualization_msgs, tf, cv_bridge, ccny_g2o,
+  pcl_ros]
