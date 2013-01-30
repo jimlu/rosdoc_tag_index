@@ -1,0 +1,1 @@
+[qt4, roscpp, opencv2, pcl, visualization_msgs, openmp, octreelib]
