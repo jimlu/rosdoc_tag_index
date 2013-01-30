@@ -1,2 +1,2 @@
-[urdf, motion_planning_msgs, joint_normalization_filters, trajectory_msgs, spline_smoother,
-  filters, roscpp]
+[urdf, joint_normalization_filters, trajectory_msgs, spline_smoother, filters, arm_navigation_msgs,
+  roscpp]
