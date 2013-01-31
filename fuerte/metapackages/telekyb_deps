@@ -1,2 +1,2 @@
-[yaml_wrapper, dhd_wrapper, hidapi_wrapper, armadillo_wrapper, odeint_wrapper, eigen3_wrapper,
-  dhd32_wrapper, viconsdk_wrapper, vrpn_wrapper]
+[yaml_wrapper, dhd_wrapper, viconsdk_wrapper, armadillo_wrapper, odeint_wrapper, eigen3_wrapper,
+  dhd32_wrapper, hidapi_wrapper, vrpn_wrapper]
