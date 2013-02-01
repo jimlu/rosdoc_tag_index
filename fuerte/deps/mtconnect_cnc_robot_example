@@ -1,0 +1,2 @@
+[nav_msgs, planning_environment, actionlib, sensor_msgs, mtconnect_msgs, object_manipulator,
+  geometry_msgs, mtconnect_ros_bridge, object_manipulation_msgs, arm_navigation_msgs]
