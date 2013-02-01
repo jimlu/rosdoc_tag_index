@@ -1,2 +1,2 @@
-[tug_ist_diagnosis_repair, tug_ist_diagnosis_engine, tug_ist_diagnosis_model, tug_ist_diagnosis_board,
-  tug_ist_diagnosis_observers, tug_ist_diagnosis_launch, tug_ist_diagnosis_msgs]
+[tug_ist_diagnosis_repair, tug_ist_diagnosis_engine, tug_ist_diagnosis_msgs, tug_ist_diagnosis_board,
+  tug_ist_diagnosis_observers, tug_ist_diagnosis_launch, tug_ist_diagnosis_model]
