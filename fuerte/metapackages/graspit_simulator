@@ -1,1 +1,1 @@
-[graspit_dbase_tasks, graspit, graspit_ros_planning_msgs, graspit_ros_planning, dbase_grasp_planner]
+[graspit_dbase_tasks, graspit, dbase_grasp_planner, graspit_ros_planning, graspit_ros_planning_msgs]
