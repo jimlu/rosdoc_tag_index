@@ -1,1 +1,2 @@
-[common_msgs, visualization, ros, ros_comm, diagnostics_monitors, robot_model_visualization]
+[common_msgs, visualization, ros, ros_comm, diagnostics_monitors, robot_model_visualization,
+  turtlebot_create_desktop, kobuki_desktop]
