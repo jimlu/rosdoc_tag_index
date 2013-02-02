@@ -1,0 +1,2 @@
+[kdl, pr2_controller_manager, eigen, ee_cart_imped_msgs, pr2_controller_interface,
+  actionlib, pluginlib, realtime_tools, geometry_msgs, actionlib_msgs, pr2_mechanism_model]
