@@ -1,3 +1,2 @@
-[colladadom, urdf_interface, ivcon, collada_parser, srdf, robot_state_publisher, urdf,
-  kdl_parser, resource_retriever, collada_urdf, simmechanics_to_urdf, convex_decomposition,
-  urdf_parser]
+[colladadom, urdf_parser, ivcon, collada_parser, urdf_interface, srdf, robot_state_publisher,
+  urdf, simmechanics_to_urdf, kdl_parser, collada_urdf, convex_decomposition, resource_retriever]
