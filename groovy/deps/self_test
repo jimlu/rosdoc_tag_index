@@ -1,1 +1,1 @@
-[diagnostic_updater, roscpp, diagnostic_msgs]
+[diagnostic_updater, rostest, catkin, diagnostic_msgs, roscpp]

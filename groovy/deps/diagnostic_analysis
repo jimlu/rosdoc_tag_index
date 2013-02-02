@@ -1,1 +1,1 @@
-[rostest, rosbag, diagnostic_msgs]
+[rostest, roslib, rosbag, diagnostic_msgs, catkin]

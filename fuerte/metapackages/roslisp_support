@@ -1,2 +1,2 @@
-[roslisp_runtime, test_roslisp, roslisp_repl, roslisp_tutorials, roslisp_testing,
+[roslisp_testing, test_roslisp, roslisp_repl, roslisp_tutorials, roslisp_runtime,
   sbcl]
