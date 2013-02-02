@@ -1,0 +1,2 @@
+[common, common_msgs, geometry, orocos_kinematics_dynamics, pluginlib, pr2_mechanism,
+  ros, ros_comm]
