@@ -1,2 +1,1 @@
-[shape_tools, shape_msgs, catkin, eigen, libqhull, resource_retriever, console_bridge,
-  assimp, octomap, random_numbers, eigen_stl_containers, boost]
+[rosconsole, bullet, resource_retriever, assimp, tf, pkg-config]
