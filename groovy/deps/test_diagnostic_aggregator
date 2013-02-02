@@ -1,1 +1,1 @@
-[roscpp, rospy, diagnostic_msgs, diagnostic_aggregator, pluginlib]
+[catkin, roscpp, diagnostic_aggregator, pluginlib, rospy, diagnostic_msgs]
