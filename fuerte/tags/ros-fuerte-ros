@@ -1,4 +1,5 @@
 - {docs_url: ../../../api/rosboost_cfg/html, location: rosboost_cfg.tag, package: rosboost_cfg}
+- {docs_url: ../../../api/rosbash/html, location: rosbash.tag, package: rosbash}
 - {docs_url: ../../../api/roslib/html, location: roslib.tag, package: roslib}
 - {docs_url: ../../../api/roscreate/html, location: roscreate.tag, package: roscreate}
 - {docs_url: ../../../api/mk/html, location: mk.tag, package: mk}
