@@ -1,1 +1,2 @@
-[common_msgs, pluginlib, ros, ros_comm]
+[self_test, diagnostic_updater, diagnostic_common_diagnostics, diagnostic_analysis,
+  diagnostic_aggregator]
