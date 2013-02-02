@@ -1,2 +1,2 @@
 [gateway_msgs, catkin, rocon_hub_client, redis, rocon_app_manager_msgs, concert_msgs,
-  rospy]
+  rospy, rocon_utilities]
