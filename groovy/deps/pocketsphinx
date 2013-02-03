@@ -1,0 +1,1 @@
+[catkin, std_srvs, std_msgs, gstreamer0.10-pocketsphinx, rospy, geometry_msgs]
