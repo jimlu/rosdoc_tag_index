@@ -1,0 +1,1 @@
+[nav_msgs, neato_driver, rospy, sensor_msgs, geometry_msgs, tf, catkin]
