@@ -1,1 +1,1 @@
-[rospy, roscpp]
+[catkin, std_msgs]

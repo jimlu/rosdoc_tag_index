@@ -1,0 +1,5 @@
+[python-tk, libxml2, collada-dom, ttf-sazanami-mincho, tf, python-psutil, ttf-sazanami-gothic,
+  java, tvmet, ttf-kochi-gothic, libgfortran3, ttf-kochi-mincho, xulrunner-1.9.2,
+  openrtm_ros_bridge, jsk_tools, common_rosdeps, jython, atlas, rospy, rosunit, roscpp,
+  libreadline-java, libxtst-dev, omniorb, f2c, openrtm, python-omniorb, libjpeg, zlib,
+  eclipse, uuid, python-svn, xdotool, libpng12-dev]
