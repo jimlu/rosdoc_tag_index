@@ -1,0 +1,2 @@
+[nav_msgs, move_base, map_server, iis_idl, openhrp3, amcl, geometry_msgs, jsk_maps,
+  wiimote, tf]
