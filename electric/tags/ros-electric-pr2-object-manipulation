@@ -51,13 +51,13 @@
   package: pr2_pick_and_place_demos}
 - {docs_url: ../../../api/pick_and_place_demo_app/html, location: pick_and_place_demo_app.tag,
   package: pick_and_place_demo_app}
-- {docs_url: ../../../api/manipulation_worlds/html, location: manipulation_worlds.tag,
-  package: manipulation_worlds}
 - {docs_url: ../../../api/vfh_recognition/html, location: vfh_recognition.tag, package: vfh_recognition}
 - {docs_url: ../../../api/vfh_recognizer_db/html, location: vfh_recognizer_db.tag,
   package: vfh_recognizer_db}
 - {docs_url: ../../../api/tabletop_vfh_cluster_detector/html, location: tabletop_vfh_cluster_detector.tag,
   package: tabletop_vfh_cluster_detector}
+- {docs_url: ../../../api/manipulation_worlds/html, location: manipulation_worlds.tag,
+  package: manipulation_worlds}
 - {docs_url: ../../../api/vfh_recognizer_fs/html, location: vfh_recognizer_fs.tag,
   package: vfh_recognizer_fs}
 - {docs_url: ../../../api/fast_plane_detection/html, location: fast_plane_detection.tag,
