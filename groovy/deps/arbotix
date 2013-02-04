@@ -1,1 +1,1 @@
-[common, common_msgs, control, geometry, ros, ros_comm]
+[arbotix_msgs, arbotix_sensors, arbotix_python, arbotix_controllers, arbotix_firmware]
