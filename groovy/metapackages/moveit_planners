@@ -1,1 +1,1 @@
-[moveit_ompl_planners_core, catkin, moveit_ompl_planners_ros_plugin]
+[moveit_ompl_planners_core, moveit_ompl_planners_ros_plugin]

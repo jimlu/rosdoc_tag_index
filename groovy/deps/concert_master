@@ -1,1 +1,1 @@
-[rospy, concert_msgs, rocon_hub_client, catkin, rocon_gateway]
+[rocon_gateway, rocon_hub, catkin, concert_msgs, rocon_hub_client, rospy]

@@ -1,5 +1,5 @@
-[rosconsole, catkin, eigen, interactive_markers, shape_msgs, ompl, eigen_conversions,
-  pcl_ros, roscpp, srdfdom, actionlib, console_bridge, control_msgs, eigen_stl_containers,
+[rosconsole, eigen, interactive_markers, shape_msgs, ompl, eigen_conversions, pcl_ros,
+  roscpp, srdfdom, actionlib, console_bridge, control_msgs, eigen_stl_containers,
   tf, geometric_shapes, yaml-cpp, shape_tools, rqt, urdf, message_filters, python,
   sensor_msgs, rostime, octomap_msgs, assimp, random_numbers, warehouse_ros, fcl,
   manipulation_msgs, tf_conversions, rviz, dynamic_reconfigure, pluginlib, rosconsole_bridge,
