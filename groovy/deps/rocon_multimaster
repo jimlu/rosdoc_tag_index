@@ -1,2 +1,2 @@
-[rocon_gateway, rocon_hub, redis, rocon_hub_client, rocon_msgs, rocon_unreliable_experiments,
+[rocon_gateway, rocon_hub, redis, rocon_hub_client, rocon_unreliable_experiments,
   rocon_utilities]
