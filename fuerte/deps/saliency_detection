@@ -1,1 +1,1 @@
-[cv_bridge, sensor_msgs, roscpp, image_transport]
+[opencv2, cv_bridge, sensor_msgs, roscpp, image_transport]
