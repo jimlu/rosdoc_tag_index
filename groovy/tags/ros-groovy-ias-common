@@ -1,8 +1,8 @@
 - {docs_url: ../../../api/triangle_mesh_msgs/html, location: triangle_mesh_msgs.tag,
   package: triangle_mesh_msgs}
 - {docs_url: ../../../api/vision_msgs/html, location: vision_msgs.tag, package: vision_msgs}
-- {docs_url: ../../../api/annotation_srvs/html, location: annotation_srvs.tag, package: annotation_srvs}
+- {docs_url: ../../../api/cogman_msgs/html, location: cogman_msgs.tag, package: cogman_msgs}
 - {docs_url: ../../../api/ias_table_msgs/html, location: ias_table_msgs.tag, package: ias_table_msgs}
 - {docs_url: ../../../api/navp_action/html, location: navp_action.tag, package: navp_action}
-- {docs_url: ../../../api/cogman_msgs/html, location: cogman_msgs.tag, package: cogman_msgs}
+- {docs_url: ../../../api/annotation_srvs/html, location: annotation_srvs.tag, package: annotation_srvs}
 - {docs_url: ../../../api/vision_srvs/html, location: vision_srvs.tag, package: vision_srvs}
