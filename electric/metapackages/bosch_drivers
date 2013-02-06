@@ -1,2 +1,2 @@
-[bmp085, adc_sub20, gumstix_memwrite_bma180, amtec, smi540, photo, usb_cam, sub20,
+[bmp085, adc_sub20, amtec, smi540, photo, usb_cam, gumstix_memwrite_bma180, sub20,
   bma180, gumstix_memread_bma180]
