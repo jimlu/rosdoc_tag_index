@@ -1,9 +1,9 @@
-- {docs_url: ../../../api/ccny_asctec_firmware/html, location: ccny_asctec_firmware.tag,
-  package: ccny_asctec_firmware}
+- {docs_url: ../../../api/asctec_msgs/html, location: asctec_msgs.tag, package: asctec_msgs}
+- {docs_url: ../../../api/asctec_proc/html, location: asctec_proc.tag, package: asctec_proc}
 - {docs_url: ../../../api/ccny_asctec_firmware_2/html, location: ccny_asctec_firmware_2.tag,
   package: ccny_asctec_firmware_2}
-- {docs_url: ../../../api/asctec_msgs/html, location: asctec_msgs.tag, package: asctec_msgs}
 - {docs_url: ../../../api/asctec_mon/html, location: asctec_mon.tag, package: asctec_mon}
 - {docs_url: ../../../api/asctec_autopilot/html, location: asctec_autopilot.tag, package: asctec_autopilot}
 - {docs_url: ../../../api/pelican_urdf/html, location: pelican_urdf.tag, package: pelican_urdf}
-- {docs_url: ../../../api/asctec_proc/html, location: asctec_proc.tag, package: asctec_proc}
+- {docs_url: ../../../api/ccny_asctec_firmware/html, location: ccny_asctec_firmware.tag,
+  package: ccny_asctec_firmware}
