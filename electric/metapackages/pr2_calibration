@@ -1,4 +1,4 @@
-[laser_joint_processor, interval_intersection, pr2_calibration_launch, pr2_se_calibration_launch,
-  pr2_calibration_estimation, monocam_settler, laser_cb_detector, dense_laser_assembler,
-  pr2_calibration_executive, settlerlib, pr2_dense_laser_snapshotter, joint_states_settler,
-  image_cb_detector, laser_joint_projector, pr2_calibration_propagation, calibration_msgs]
+[laser_joint_processor, settlerlib, pr2_calibration_launch, pr2_se_calibration_launch,
+  dense_laser_assembler, monocam_settler, laser_cb_detector, pr2_calibration_estimation,
+  pr2_calibration_executive, interval_intersection, pr2_dense_laser_snapshotter, calibration_msgs,
+  image_cb_detector, laser_joint_projector, pr2_calibration_propagation, joint_states_settler]
