@@ -1,1 +1,1 @@
-[moveit_planners, catkin, moveit_setup_assistant, moveit_commander, moveit_ros]
+[moveit_planners, moveit_setup_assistant, moveit_commander, moveit_ros]

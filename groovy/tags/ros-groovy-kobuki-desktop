@@ -1,5 +1,6 @@
 - {docs_url: ../../../api/kobuki_qtestsuite/html, location: kobuki_qtestsuite.tag,
   package: kobuki_qtestsuite}
+- {docs_url: ../../../api/kobuki_dashboard/html, location: kobuki_dashboard.tag, package: kobuki_dashboard}
 - {docs_url: ../../../api/kobuki_gazebo_plugins/html, location: kobuki_gazebo_plugins.tag,
   package: kobuki_gazebo_plugins}
 - {docs_url: ../../../api/kobuki_gazebo/html, location: kobuki_gazebo.tag, package: kobuki_gazebo}
