@@ -1,1 +1,1 @@
-[opencv2, opencv_tests, cv_bridge, cv_markers, image_geometry]
+[image_geometry, opencv_tests, opencv2, cv_markers, cv_bridge]
