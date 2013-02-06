@@ -1,22 +1,21 @@
 - {docs_url: ../../../api/rosconsole/html, location: rosconsole.tag, package: rosconsole}
 - {docs_url: ../../../api/test_roscpp_serialization/html, location: test_roscpp_serialization.tag,
   package: test_roscpp_serialization}
-- {docs_url: ../../../api/perf_roscpp/html, location: perf_roscpp.tag, package: perf_roscpp}
 - {docs_url: ../../../api/test_roscpp_serialization_perf/html, location: test_roscpp_serialization_perf.tag,
   package: test_roscpp_serialization_perf}
 - {docs_url: ../../../api/test_ros/html, location: test_ros.tag, package: test_ros}
 - {docs_url: ../../../api/test_rostime/html, location: test_rostime.tag, package: test_rostime}
 - {docs_url: ../../../api/roscpp/html, location: roscpp.tag, package: roscpp}
-- {docs_url: ../../../api/rosout/html, location: rosout.tag, package: rosout}
+- {docs_url: ../../../api/topic_tools/html, location: topic_tools.tag, package: topic_tools}
 - {docs_url: ../../../api/test_crosspackage/html, location: test_crosspackage.tag,
   package: test_crosspackage}
-- {docs_url: ../../../api/topic_tools/html, location: topic_tools.tag, package: topic_tools}
+- {docs_url: ../../../api/rosout/html, location: rosout.tag, package: rosout}
 - {docs_url: ../../../api/test_rospy/html, location: test_rospy.tag, package: test_rospy}
 - {docs_url: ../../../api/rosgraph_msgs/html, location: rosgraph_msgs.tag, package: rosgraph_msgs}
 - {docs_url: ../../../api/roslisp/html, location: roslisp.tag, package: roslisp}
 - {docs_url: ../../../api/message_filters/html, location: message_filters.tag, package: message_filters}
+- {docs_url: ../../../api/perf_roscpp/html, location: perf_roscpp.tag, package: perf_roscpp}
 - {docs_url: ../../../api/test_rosbag/html, location: test_rosbag.tag, package: test_rosbag}
-- {docs_url: ../../../api/test_rosservice/html, location: test_rosservice.tag, package: test_rosservice}
 - {docs_url: ../../../api/test_roscpp/html, location: test_roscpp.tag, package: test_roscpp}
 - {docs_url: ../../../api/std_srvs/html, location: std_srvs.tag, package: std_srvs}
 - {docs_url: ../../../api/xmlrpcpp/html, location: xmlrpcpp.tag, package: xmlrpcpp}
