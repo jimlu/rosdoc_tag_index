@@ -4,10 +4,10 @@
 - {docs_url: ../../../api/ivcon/html, location: ivcon.tag, package: ivcon}
 - {docs_url: ../../../api/collada_parser/html, location: collada_parser.tag, package: collada_parser}
 - {docs_url: ../../../api/urdf/html, location: urdf.tag, package: urdf}
+- {docs_url: ../../../api/srdf/html, location: srdf.tag, package: srdf}
 - {docs_url: ../../../api/kdl_parser/html, location: kdl_parser.tag, package: kdl_parser}
 - {docs_url: ../../../api/robot_state_publisher/html, location: robot_state_publisher.tag,
   package: robot_state_publisher}
-- {docs_url: ../../../api/srdf/html, location: srdf.tag, package: srdf}
 - {docs_url: ../../../api/resource_retriever/html, location: resource_retriever.tag,
   package: resource_retriever}
 - {docs_url: ../../../api/collada_urdf/html, location: collada_urdf.tag, package: collada_urdf}
