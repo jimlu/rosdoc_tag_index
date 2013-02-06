@@ -1,4 +1,4 @@
-[cob_canopen_motor, cob_relayboard, cob_hwboard, cob_sick_s300, cob_utilities, cob_voltage_control,
-  cob_collision_velocity_filter, cob_footprint_observer, cob_base_velocity_smoother,
+[cob_canopen_motor, cob_relayboard, cob_hwboard, cob_collision_velocity_filter, cob_utilities,
+  cob_voltage_control, cob_sick_s300, cob_footprint_observer, cob_base_velocity_smoother,
   cob_undercarriage_ctrl, cob_head_axis, cob_camera_sensors, cob_generic_can, cob_base_drive_chain,
   cob_touch, cob_trajectory_controller, cob_phidgets, cob_light, cob_sound, cob_hokuyo]
