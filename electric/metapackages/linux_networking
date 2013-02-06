@@ -1,4 +1,4 @@
-[ieee80211_channels, access_point_control, hostapd_access_point, multi_interface_roam,
-  linksys_access_point, wpa_supplicant, asmach, ddwrt_access_point, network_control_tests,
-  wpa_supplicant_node, network_detector, network_traffic_control, network_monitor_udp,
+[ieee80211_channels, access_point_control, multi_interface_roam, network_control_tests,
+  wpa_supplicant, asmach, linksys_access_point, network_monitor_udp, hostapd_access_point,
+  wpa_supplicant_node, network_detector, network_traffic_control, ddwrt_access_point,
   asmach_tutorials]
