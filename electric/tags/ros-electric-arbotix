@@ -1,6 +1,6 @@
 - {docs_url: ../../../api/arbotix_msgs/html, location: arbotix_msgs.tag, package: arbotix_msgs}
+- {docs_url: ../../../api/arbotix_firmware/html, location: arbotix_firmware.tag, package: arbotix_firmware}
 - {docs_url: ../../../api/arbotix_python/html, location: arbotix_python.tag, package: arbotix_python}
 - {docs_url: ../../../api/arbotix_sensors/html, location: arbotix_sensors.tag, package: arbotix_sensors}
-- {docs_url: ../../../api/arbotix_firmware/html, location: arbotix_firmware.tag, package: arbotix_firmware}
 - {docs_url: ../../../api/arbotix_controllers/html, location: arbotix_controllers.tag,
   package: arbotix_controllers}

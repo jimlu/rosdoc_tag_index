@@ -1,1 +1,1 @@
-[arbotix_sensors, arbotix_firmware, arbotix_controllers, arbotix_python, arbotix_msgs]
+[arbotix_msgs, arbotix_firmware, arbotix_python, arbotix_sensors, arbotix_controllers]
