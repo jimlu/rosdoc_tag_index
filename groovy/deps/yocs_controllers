@@ -1,1 +1,1 @@
-[roscpp]
+[catkin, roscpp]
