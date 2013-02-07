@@ -1,1 +1,1 @@
-[ros_comm, nodelet_core, ecl_core, common_msgs, dynamic_reconfigure]
+[yocs_controllers, yocs_velocity_smoother, cmd_vel_mux]
