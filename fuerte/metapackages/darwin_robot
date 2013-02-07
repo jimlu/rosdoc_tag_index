@@ -1,2 +1,2 @@
-[darwin_simple_nav_client, convert_pose, darwin_autocharge, darwin_arm_simple_nav,
-  darwin_simple_nav, darwin_find_eggs, darwin_icra12, darwin_teleop, darwin_arm_client]
+[darwin_simple_nav_client, darwin_autocharge, darwin_arm_simple_nav, darwin_simple_nav,
+  darwin_find_eggs, convert_pose, darwin_teleop, darwin_arm_client, darwin_icra12]
