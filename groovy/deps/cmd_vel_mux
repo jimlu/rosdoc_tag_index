@@ -1,1 +1,1 @@
-[dynamic_reconfigure, nodelet, roscpp, yaml-cpp]
+[dynamic_reconfigure, catkin, nodelet, roscpp, yaml-cpp]
