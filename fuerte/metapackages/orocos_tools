@@ -1,1 +1,1 @@
-[rtt_control_msgs, oro_action_server]
+[xeno_clock, rtt_control_msgs, oro_action_server]
