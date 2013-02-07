@@ -1,1 +1,2 @@
-[sensor_msgs, rtt, rtt_rosnode, ocl, rtt_sensor_msgs]
+[kdl, ocl, sensor_msgs, rtt_rosnode, rtt_geometry_msgs, rtt, geometry_msgs, rtt_sensor_msgs,
+  xeno_clock, tf_conversions]
