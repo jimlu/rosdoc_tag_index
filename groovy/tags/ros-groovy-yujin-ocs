@@ -1,4 +1,1 @@
-- {docs_url: ../../../api/yocs_controllers/html, location: yocs_controllers.tag, package: yocs_controllers}
-- {docs_url: ../../../api/yocs_velocity_smoother/html, location: yocs_velocity_smoother.tag,
-  package: yocs_velocity_smoother}
-- {docs_url: ../../../api/cmd_vel_mux/html, location: cmd_vel_mux.tag, package: cmd_vel_mux}
+- {docs_url: ../../../api/yujin_ocs/html, location: yujin_ocs.tag, package: yujin_ocs}
