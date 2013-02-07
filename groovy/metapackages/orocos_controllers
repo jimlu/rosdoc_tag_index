@@ -1,2 +1,2 @@
-[fake_servo, oro_joint_trajectory_action, joint_spline_trajectory_generator, oro_joint_state_publisher,
-  oro_controllers_manager]
+[oro_joint_trajectory_action, oro_controllers_manager, joint_spline_trajectory_generator,
+  oro_joint_state_publisher, fake_servo]
