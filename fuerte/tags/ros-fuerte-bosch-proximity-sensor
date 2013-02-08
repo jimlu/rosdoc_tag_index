@@ -2,9 +2,9 @@
   package: proximity_sensor_driver}
 - {docs_url: ../../../api/proximity_sensor_tf/html, location: proximity_sensor_tf.tag,
   package: proximity_sensor_tf}
-- {docs_url: ../../../api/proximity_sensor_fake_data/html, location: proximity_sensor_fake_data.tag,
-  package: proximity_sensor_fake_data}
 - {docs_url: ../../../api/proximity_sensor_visualize/html, location: proximity_sensor_visualize.tag,
   package: proximity_sensor_visualize}
+- {docs_url: ../../../api/proximity_sensor_fake_data/html, location: proximity_sensor_fake_data.tag,
+  package: proximity_sensor_fake_data}
 - {docs_url: ../../../api/proximity_sensor_dashboard/html, location: proximity_sensor_dashboard.tag,
   package: proximity_sensor_dashboard}
