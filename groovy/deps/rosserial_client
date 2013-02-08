@@ -1,1 +1,1 @@
-[tf, rosserial_msgs, std_msgs]
+[tf, std_msgs, rosserial_msgs, catkin, rospy]

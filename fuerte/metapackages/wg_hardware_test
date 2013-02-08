@@ -1,3 +1,3 @@
-[pr2_hardware_test_monitor, pr2_camera_focus, pr2_drive_life_test, life_test, roslaunch_caller,
-  wgtest_status_indicator, pr2_component_descriptions, qualification, pr2_transmission_check,
+[pr2_hardware_test_monitor, pr2_camera_focus, pr2_drive_life_test, life_test, pr2_component_descriptions,
+  wgtest_status_indicator, qualification, roslaunch_caller, pr2_transmission_check,
   ectools, mtrace_tools, wg_invent_client]

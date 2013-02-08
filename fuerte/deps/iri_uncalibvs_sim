@@ -1,2 +1,3 @@
-[pr2_gazebo_plugins, roscpp, gazebo, iri_base_algorithm, sensor_msgs, robot_mechanism_controllers,
-  geometry_msgs, ar_pose, actionlib, pcl_ros]
+[kdl, pr2_gazebo_plugins, roscpp, gazebo, iri_base_algorithm, sensor_msgs, kdl_parser,
+  robot_mechanism_controllers, geometry_msgs, eigen_conversions, ar_pose, actionlib,
+  pcl_ros]

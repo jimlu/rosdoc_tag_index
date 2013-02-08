@@ -1,2 +1,1 @@
-[rosserial_xbee, rosserial_arduino, rosserial_embeddedlinux, rosserial_python, rosserial_msgs,
-  rosserial_client]
+[rosserial_python, rosserial_msgs, rosserial_client]
