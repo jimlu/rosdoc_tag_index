@@ -1,2 +1,2 @@
-[re_2dmap_extractor, re_comm, re_object_detector_gui, re_vision, re_msgs, re_kinect_object_detector,
-  re_object_recorder, re_comm_core, re_srvs, re_ontology, ar_bounding_box]
+[re_comm, re_2dmap_extractor, re_object_detector_gui, re_kinect_object_detector, re_vision,
+  re_msgs, ar_bounding_box, re_object_recorder, re_comm_core, re_srvs, re_ontology]
