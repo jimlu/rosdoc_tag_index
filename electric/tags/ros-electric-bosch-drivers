@@ -3,10 +3,10 @@
 - {docs_url: ../../../api/adc_sub20/html, location: adc_sub20.tag, package: adc_sub20}
 - {docs_url: ../../../api/gumstix_memwrite_bma180/html, location: gumstix_memwrite_bma180.tag,
   package: gumstix_memwrite_bma180}
+- {docs_url: ../../../api/amtec/html, location: amtec.tag, package: amtec}
 - {docs_url: ../../../api/smi540/html, location: smi540.tag, package: smi540}
 - {docs_url: ../../../api/photo/html, location: photo.tag, package: photo}
 - {docs_url: ../../../api/usb_cam/html, location: usb_cam.tag, package: usb_cam}
+- {docs_url: ../../../api/bma180/html, location: bma180.tag, package: bma180}
 - {docs_url: ../../../api/gumstix_memread_bma180/html, location: gumstix_memread_bma180.tag,
   package: gumstix_memread_bma180}
-- {docs_url: ../../../api/bma180/html, location: bma180.tag, package: bma180}
-- {docs_url: ../../../api/amtec/html, location: amtec.tag, package: amtec}
