@@ -1,1 +1,1 @@
-[industrial_msgs, actionlib, actionlib_msgs]
+[std_msgs, actionlib, rospy, actionlib_msgs, industrial_msgs]
