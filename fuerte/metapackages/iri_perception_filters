@@ -1,4 +1,4 @@
-[iri_objectcount, iri_pcl_filters, iri_sift, iri_vws, iri_filter_jump_edge, iri_filter_table,
-  average_point_cloud_node, iri_finddd, iri_opencv_filters, iri_apply_tof_calibration,
-  iri_plane_segmentation_pcl_rgb, iri_wrinkled_map, normal_descriptor_node, iri_pcl_app,
-  handeye_log, iri_feature_map]
+[iri_pcl_filters, iri_sift, iri_vws, iri_filter_jump_edge, iri_filter_table, average_point_cloud_node,
+  iri_objectcount, iri_opencv_filters, iri_apply_tof_calibration, iri_plane_segmentation_pcl_rgb,
+  iri_finddd, iri_wrinkled_map, normal_descriptor_node, iri_pcl_app, handeye_log,
+  iri_feature_map]
