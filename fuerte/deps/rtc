@@ -1,1 +1,1 @@
-[libann-dev, roscpp, openmesh, sensor_msgs, libdevil-dev, opencv2, libglui-dev, libglew-dev]
+[libann-dev, libglew-dev, openmesh, sensor_msgs, libdevil-dev, opencv2, libglui-dev]
