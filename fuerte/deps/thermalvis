@@ -1,0 +1,3 @@
+[dynamic_reconfigure, image_geometry, sba, roscpp, stereo_msgs, cv_bridge, visualization_msgs,
+  std_msgs, rosbag, image_transport, rosservice, rospy, openni_camera, pcl, camera_calibration_parsers,
+  tf, geometry_msgs, nodelet]

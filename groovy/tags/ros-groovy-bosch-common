@@ -1,0 +1,3 @@
+- {docs_url: ../../../api/bosch_maps/html, location: bosch_maps.tag, package: bosch_maps}
+- {docs_url: ../../../api/rtc/html, location: rtc.tag, package: rtc}
+- {docs_url: ../../../api/bosch_worlds/html, location: bosch_worlds.tag, package: bosch_worlds}
