@@ -1,1 +1,1 @@
-[bpcg, frame_common, posest, sparselib, vslam_system, sba, g2o, vocabulary_tree]
+[bpcg, frame_common, posest, vocabulary_tree, vslam_system, sba, g2o, sparselib]
