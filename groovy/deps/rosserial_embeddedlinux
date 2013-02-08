@@ -1,1 +1,2 @@
-[nav_msgs, sensor_msgs, std_msgs, geometry_msgs, rosserial_client]
+[nav_msgs, catkin, std_msgs, sensor_msgs, rosserial_msgs, geometry_msgs, rosserial_client,
+  rospy]

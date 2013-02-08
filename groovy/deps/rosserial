@@ -1,1 +1,1 @@
-[common_msgs, geometry, ros, ros_comm]
+[rosserial_python, rosserial_msgs, rosserial_client]

@@ -1,1 +1,2 @@
-[nav_msgs, avr-libc, std_msgs, sensor_msgs, gcc-avr, geometry_msgs, rosserial_client]
+[nav_msgs, catkin, rosserial_client, std_msgs, message_runtime, sensor_msgs, gcc-avr,
+  rosserial_msgs, geometry_msgs, avr-libc, message_generation, rospy]
