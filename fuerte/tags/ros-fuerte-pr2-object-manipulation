@@ -25,6 +25,8 @@
   package: pr2_tabletop_manipulation_launch}
 - {docs_url: ../../../api/pr2_pick_and_place_demos/html, location: pr2_pick_and_place_demos.tag,
   package: pr2_pick_and_place_demos}
+- {docs_url: ../../../api/pick_and_place_demo_app/html, location: pick_and_place_demo_app.tag,
+  package: pick_and_place_demo_app}
 - {docs_url: ../../../api/robot_self_filter_color/html, location: robot_self_filter_color.tag,
   package: robot_self_filter_color}
 - {docs_url: ../../../api/pr2_object_manipulation_msgs/html, location: pr2_object_manipulation_msgs.tag,
@@ -50,8 +52,6 @@
   package: segmented_clutter_grasp_planner}
 - {docs_url: ../../../api/pr2_interactive_manipulation/html, location: pr2_interactive_manipulation.tag,
   package: pr2_interactive_manipulation}
-- {docs_url: ../../../api/pick_and_place_demo_app/html, location: pick_and_place_demo_app.tag,
-  package: pick_and_place_demo_app}
 - {docs_url: ../../../api/manipulation_worlds/html, location: manipulation_worlds.tag,
   package: manipulation_worlds}
 - {docs_url: ../../../api/pr2_pick_and_place_tutorial/html, location: pr2_pick_and_place_tutorial.tag,
