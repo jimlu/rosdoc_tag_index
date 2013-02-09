@@ -17,13 +17,13 @@
 - {docs_url: ../../../api/sbpl/html, location: sbpl.tag, package: sbpl}
 - {docs_url: ../../../api/mapping_rviz_plugin/html, location: mapping_rviz_plugin.tag,
   package: mapping_rviz_plugin}
-- {docs_url: ../../../api/ompl/html, location: ompl.tag, package: ompl}
 - {docs_url: ../../../api/constraint_aware_spline_smoother/html, location: constraint_aware_spline_smoother.tag,
   package: constraint_aware_spline_smoother}
 - {docs_url: ../../../api/kinematics_base/html, location: kinematics_base.tag, package: kinematics_base}
 - {docs_url: ../../../api/arm_kinematics_constraint_aware/html, location: arm_kinematics_constraint_aware.tag,
   package: arm_kinematics_constraint_aware}
 - {docs_url: ../../../api/collision_map/html, location: collision_map.tag, package: collision_map}
+- {docs_url: ../../../api/ompl/html, location: ompl.tag, package: ompl}
 - {docs_url: ../../../api/ompl_ros_interface/html, location: ompl_ros_interface.tag,
   package: ompl_ros_interface}
 - {docs_url: ../../../api/motion_planning_rviz_plugin/html, location: motion_planning_rviz_plugin.tag,
