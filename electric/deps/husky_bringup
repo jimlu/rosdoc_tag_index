@@ -1,2 +1,2 @@
-[nav_msgs, clearpath_bringup, sensor_msgs, geometry_msgs, clearpath_base, dynamic_reconfigure,
-  rospy, kdl, diagnostic_msgs]
+[nav_msgs, clearpath_bringup, app_manager, sensor_msgs, geometry_msgs, clearpath_base,
+  dynamic_reconfigure, rospy, kdl, diagnostic_msgs]
