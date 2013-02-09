@@ -1,6 +1,8 @@
 - {docs_url: ../../../api/simple_message/html, location: simple_message.tag, package: simple_message}
 - {docs_url: ../../../api/armadillo_calibration/html, location: armadillo_calibration.tag,
   package: armadillo_calibration}
+- {docs_url: ../../../api/SIA20D_Mesh_arm_navigation/html, location: SIA20D_Mesh_arm_navigation.tag,
+  package: SIA20D_Mesh_arm_navigation}
 - {docs_url: ../../../api/armadillo_object_manipulation/html, location: armadillo_object_manipulation.tag,
   package: armadillo_object_manipulation}
 - {docs_url: ../../../api/motoman/html, location: motoman.tag, package: motoman}
@@ -10,6 +12,4 @@
   package: sia10d_mesh_arm_navigation}
 - {docs_url: ../../../api/industrial_io_client/html, location: industrial_io_client.tag,
   package: industrial_io_client}
-- {docs_url: ../../../api/SIA20D_Mesh_arm_navigation/html, location: SIA20D_Mesh_arm_navigation.tag,
-  package: SIA20D_Mesh_arm_navigation}
 - {docs_url: ../../../api/robotiq/html, location: robotiq.tag, package: robotiq}
