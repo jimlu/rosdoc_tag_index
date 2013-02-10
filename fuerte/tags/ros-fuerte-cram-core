@@ -1,10 +1,12 @@
+- {docs_url: ../../../api/trivial_garbage/html, location: trivial_garbage.tag, package: trivial_garbage}
+- {docs_url: ../../../api/alexandria/html, location: alexandria.tag, package: alexandria}
 - {docs_url: ../../../api/synchronization_tools/html, location: synchronization_tools.tag,
   package: synchronization_tools}
-- {docs_url: ../../../api/alexandria/html, location: alexandria.tag, package: alexandria}
 - {docs_url: ../../../api/lisp_unit/html, location: lisp_unit.tag, package: lisp_unit}
 - {docs_url: ../../../api/cram_utilities/html, location: cram_utilities.tag, package: cram_utilities}
 - {docs_url: ../../../api/cram_reasoning/html, location: cram_reasoning.tag, package: cram_reasoning}
-- {docs_url: ../../../api/trivial_garbage/html, location: trivial_garbage.tag, package: trivial_garbage}
+- {docs_url: ../../../api/split_sequence/html, location: split_sequence.tag, package: split_sequence}
+- {docs_url: ../../../api/gsd/html, location: gsd.tag, package: gsd}
 - {docs_url: ../../../api/cram_designators/html, location: cram_designators.tag, package: cram_designators}
 - {docs_url: ../../../api/cram_test_utilities/html, location: cram_test_utilities.tag,
   package: cram_test_utilities}
@@ -17,8 +19,6 @@
 - {docs_url: ../../../api/cram_projection/html, location: cram_projection.tag, package: cram_projection}
 - {docs_url: ../../../api/trivial_features/html, location: trivial_features.tag, package: trivial_features}
 - {docs_url: ../../../api/babel/html, location: babel.tag, package: babel}
-- {docs_url: ../../../api/split_sequence/html, location: split_sequence.tag, package: split_sequence}
-- {docs_url: ../../../api/gsd/html, location: gsd.tag, package: gsd}
 - {docs_url: ../../../api/cffi/html, location: cffi.tag, package: cffi}
 - {docs_url: ../../../api/cl_utilities/html, location: cl_utilities.tag, package: cl_utilities}
 - {docs_url: ../../../api/gsll/html, location: gsll.tag, package: gsll}
