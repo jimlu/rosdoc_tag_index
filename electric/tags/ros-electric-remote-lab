@@ -3,6 +3,8 @@
   package: interactive_marker_client}
 - {docs_url: ../../../api/wviz_kinematic_manager/html, location: wviz_kinematic_manager.tag,
   package: wviz_kinematic_manager}
+- {docs_url: ../../../api/pr2_pick_and_place_service/html, location: pr2_pick_and_place_service.tag,
+  package: pr2_pick_and_place_service}
 - {docs_url: ../../../api/rosjs_remotelabwidgets/html, location: rosjs_remotelabwidgets.tag,
   package: rosjs_remotelabwidgets}
 - {docs_url: ../../../api/ping/html, location: ping.tag, package: ping}
@@ -11,10 +13,9 @@
 - {docs_url: ../../../api/pointcloud_snapshot_service/html, location: pointcloud_snapshot_service.tag,
   package: pointcloud_snapshot_service}
 - {docs_url: ../../../api/rosjs_resources/html, location: rosjs_resources.tag, package: rosjs_resources}
-- {docs_url: ../../../api/pr2_pick_and_place_service/html, location: pr2_pick_and_place_service.tag,
-  package: pr2_pick_and_place_service}
 - {docs_url: ../../../api/wviz/html, location: wviz.tag, package: wviz}
 - {docs_url: ../../../api/mjpeg_server/html, location: mjpeg_server.tag, package: mjpeg_server}
+- {docs_url: ../../../api/topic_logger/html, location: topic_logger.tag, package: topic_logger}
 - {docs_url: ../../../api/tf_lister/html, location: tf_lister.tag, package: tf_lister}
 - {docs_url: ../../../api/rosjs_assisted_teleoperation/html, location: rosjs_assisted_teleoperation.tag,
   package: rosjs_assisted_teleoperation}
@@ -23,5 +24,4 @@
 - {docs_url: ../../../api/wviz_scene_manager/html, location: wviz_scene_manager.tag,
   package: wviz_scene_manager}
 - {docs_url: ../../../api/wviz_tf_manager/html, location: wviz_tf_manager.tag, package: wviz_tf_manager}
-- {docs_url: ../../../api/topic_logger/html, location: topic_logger.tag, package: topic_logger}
 - {docs_url: ../../../api/rosjs_tutorials/html, location: rosjs_tutorials.tag, package: rosjs_tutorials}
