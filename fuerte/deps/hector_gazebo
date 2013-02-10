@@ -1,2 +1,2 @@
 [common_msgs, driver_common, image_common, nodelet_core, perception_pcl, ros, ros_comm,
-  simulator_gazebo]
+  simulator_gazebo, geometry]
