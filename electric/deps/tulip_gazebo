@@ -1,0 +1,2 @@
+[nav_msgs, std_srvs, pluginlib, pr2_controller_interface, gazebo_msgs, geometry_msgs,
+  control_toolbox, pr2_mechanism_model]
