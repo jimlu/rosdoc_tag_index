@@ -1,2 +1,3 @@
-[clearpath_common, common_msgs, openni_kinect, robot_model, robot_model_visualization,
-  ros, ros_comm, xacro, navigation, slam_gmapping, visualization, multimaster_experimental]
+[clearpath_common, common_msgs, openni_camera, robot_model, robot_model_visualization,
+  ros, ros_comm, xacro, navigation, slam_gmapping, visualization, multimaster_experimental,
+  orocos_kinematics_dynamics]
