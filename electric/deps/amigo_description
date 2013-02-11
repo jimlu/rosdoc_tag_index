@@ -1,0 +1,3 @@
+[pr2_controller_manager, pr2_gazebo_plugins, xacro, pr2_mechanism_diagnostics, pluginlib,
+  pr2_controller_interface, urdf, gazebo_worlds, gazebo_tools, geometry_msgs, gazebo_plugins,
+  gazebo, pr2_mechanism_model]
