@@ -1,1 +1,2 @@
-[ecl_devices, ecl_mobile_robot, ecl_converters, ecl_time, ecl_geometry, ecl_sigslots]
+[catkin, ecl_command_line, ecl_devices, ecl_mobile_robot, ecl_converters, ecl_time,
+  ecl_geometry, ecl_sigslots]

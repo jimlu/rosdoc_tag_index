@@ -1,1 +1,1 @@
-[kobuki_msgs, nodelet, pcl_ros]
+[kobuki_msgs, catkin, roscpp, pluginlib, nodelet, pcl_ros]

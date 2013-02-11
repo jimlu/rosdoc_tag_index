@@ -1,15 +1,1 @@
-- {docs_url: ../../../api/kobuki_auto_docking/html, location: kobuki_auto_docking.tag,
-  package: kobuki_auto_docking}
-- {docs_url: ../../../api/kobuki_bumper2pc/html, location: kobuki_bumper2pc.tag, package: kobuki_bumper2pc}
-- {docs_url: ../../../api/kobuki_description/html, location: kobuki_description.tag,
-  package: kobuki_description}
-- {docs_url: ../../../api/kobuki_driver/html, location: kobuki_driver.tag, package: kobuki_driver}
-- {docs_url: ../../../api/kobuki_safety_controller/html, location: kobuki_safety_controller.tag,
-  package: kobuki_safety_controller}
-- {docs_url: ../../../api/kobuki_keyop/html, location: kobuki_keyop.tag, package: kobuki_keyop}
-- {docs_url: ../../../api/kobuki_node/html, location: kobuki_node.tag, package: kobuki_node}
-- {docs_url: ../../../api/kobuki_testsuite/html, location: kobuki_testsuite.tag, package: kobuki_testsuite}
-- {docs_url: ../../../api/kobuki_controller_tutorial/html, location: kobuki_controller_tutorial.tag,
-  package: kobuki_controller_tutorial}
-- {docs_url: ../../../api/kobuki_ftdi/html, location: kobuki_ftdi.tag, package: kobuki_ftdi}
-- {docs_url: ../../../api/kobuki_arm/html, location: kobuki_arm.tag, package: kobuki_arm}
+- {docs_url: ../../../api/kobuki/html, location: kobuki.tag, package: kobuki}
