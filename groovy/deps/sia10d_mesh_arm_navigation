@@ -1,0 +1,2 @@
+[move_arm, trajectory_filter_server, kinematics_base, constraint_aware_spline_smoother,
+  arm_kinematics_constraint_aware, planning_environment, ompl_ros_interface]
