@@ -1,0 +1,1 @@
+[rqt_robot_dashboard, rqt_gui, rospy, create_node, rqt_gui_py, diagnostic_msgs]
