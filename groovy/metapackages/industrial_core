@@ -1,2 +1,1 @@
-[industrial_robot_client, industrial_utils, simple_message, industrial_robot_simulator,
-  industrial_msgs]
+[industrial_msgs, industrial_utils, simple_message, industrial_robot_simulator, industrial_robot_client]
