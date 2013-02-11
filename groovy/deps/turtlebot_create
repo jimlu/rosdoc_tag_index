@@ -1,1 +1,1 @@
-[robot_model, xacro, tf, dynamic_reconfigure, common_msgs, ros_comm]
+[robot_model, xacro, tf, dynamic_reconfigure, common_msgs, ros_comm, orocos_kinematics_dynamics]

@@ -1,2 +1,2 @@
-[nav_msgs, dynamic_reconfigure, create_driver, rospy, tf, geometry_msgs, diagnostic_msgs,
-  daemontools]
+[nav_msgs, dynamic_reconfigure, create_driver, python_orocos_kdl, rospy, tf, geometry_msgs,
+  diagnostic_msgs, daemontools]
