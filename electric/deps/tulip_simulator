@@ -1,0 +1,2 @@
+[common_msgs, pluginlib, pr2_controllers, pr2_mechanism, robot_model, ros, ros_comm,
+  simulator_gazebo, xacro]
