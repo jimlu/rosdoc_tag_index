@@ -1,3 +1,2 @@
-[kobuki_testsuite, kobuki_bumper2pc, kobuki_description, kobuki_controller_tutorial,
-  kobuki_safety_controller, kobuki_auto_docking, kobuki_keyop, kobuki_node, kobuki_ftdi,
-  kobuki_arm, kobuki_driver]
+[kobuki_testsuite, kobuki_bumper2pc, kobuki_node, kobuki_safety_controller, kobuki_auto_docking,
+  kobuki_keyop, kobuki_controller_tutorial, kobuki_ftdi, kobuki_arm, kobuki_driver]

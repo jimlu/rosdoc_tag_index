@@ -1,1 +1,1 @@
-[yocs_controllers, kobuki_msgs, std_msgs, roscpp, nodelet]
+[kobuki_msgs, catkin, roscpp, pluginlib, std_msgs, yocs_controllers, nodelet]

@@ -1,12 +1,12 @@
 - {docs_url: ../../../api/head_monitor_msgs/html, location: head_monitor_msgs.tag,
   package: head_monitor_msgs}
-- {docs_url: ../../../api/move_arm_head_monitor/html, location: move_arm_head_monitor.tag,
-  package: move_arm_head_monitor}
 - {docs_url: ../../../api/collider/html, location: collider.tag, package: collider}
 - {docs_url: ../../../api/arm_navigation_experimental_tools/html, location: arm_navigation_experimental_tools.tag,
   package: arm_navigation_experimental_tools}
 - {docs_url: ../../../api/trajectory_execution_monitor/html, location: trajectory_execution_monitor.tag,
   package: trajectory_execution_monitor}
+- {docs_url: ../../../api/move_arm_head_monitor/html, location: move_arm_head_monitor.tag,
+  package: move_arm_head_monitor}
 - {docs_url: ../../../api/interpolated_ik_motion_planner/html, location: interpolated_ik_motion_planner.tag,
   package: interpolated_ik_motion_planner}
 - {docs_url: ../../../api/distance_field/html, location: distance_field.tag, package: distance_field}
