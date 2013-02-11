@@ -1,1 +1,1 @@
-[dynamic_reconfigure, catkin, roscpp, pluginlib, yaml-cpp, nodelet]
+[dynamic_reconfigure, catkin, roscpp, pluginlib, geometry_msgs, yaml-cpp, nodelet]
