@@ -1,1 +1,1 @@
-[ftdi-eeprom, libftdi-dev, ecl_command_line]
+[ftdi-eeprom, libftdi-dev, catkin, libusb-dev, ecl_command_line]

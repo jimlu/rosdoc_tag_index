@@ -1,3 +1,2 @@
-[common_msgs, diagnostics, ecl_core, ecl_navigation, geometry, nodelet_core, ros,
-  ros_comm, robot_model, xacro, std_msgs, kobuki_msgs, perception_pcl, yujin_ocs,
-  actionlib, geometry]
+[kobuki_testsuite, kobuki_bumper2pc, kobuki_node, kobuki_safety_controller, kobuki_auto_docking,
+  kobuki_keyop, kobuki_controller_tutorial, kobuki_ftdi, kobuki_arm, kobuki_driver]
