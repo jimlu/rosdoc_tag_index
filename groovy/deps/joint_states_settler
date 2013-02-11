@@ -1,0 +1,2 @@
+[rosconsole, catkin, roscpp, actionlib, std_msgs, roscpp_serialization, settlerlib,
+  actionlib_msgs]

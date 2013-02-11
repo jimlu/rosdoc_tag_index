@@ -1,2 +1,1 @@
-[perception_tools, industrial_io_client, industrial_robot_simulator, industrial_utils,
-  object_manipulation_tools, industrial_robot_client, industrial_msgs]
+[object_manipulation_tools, perception_tools, industrial_io_client, arm_workspace_evaluator]

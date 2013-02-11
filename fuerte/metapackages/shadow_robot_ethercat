@@ -1,1 +1,2 @@
-[sr_robot_lib, sr_edc_launch, sr_edc_ethercat_drivers, sr_external_dependencies, sr_edc_controller_configuration]
+[sr_robot_lib, sr_edc_controller_configuration, sr_edc_ethercat_drivers, sr_external_dependencies,
+  sr_edc_launch]

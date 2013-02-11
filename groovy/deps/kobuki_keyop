@@ -1,2 +1,2 @@
-[kobuki_msgs, std_srvs, roscpp, ecl_threads, cmd_vel_mux, std_msgs, geometry_msgs,
+[kobuki_msgs, std_srvs, roscpp, ecl_threads, cmd_vel_mux, std_msgs, catkin, geometry_msgs,
   ecl_time, yocs_velocity_smoother, ecl_exceptions]

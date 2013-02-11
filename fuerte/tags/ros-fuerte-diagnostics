@@ -1,9 +1,9 @@
+- {docs_url: ../../../api/diagnostic_updater/html, location: diagnostic_updater.tag,
+  package: diagnostic_updater}
+- {docs_url: ../../../api/self_test/html, location: self_test.tag, package: self_test}
 - {docs_url: ../../../api/diagnostic_aggregator/html, location: diagnostic_aggregator.tag,
   package: diagnostic_aggregator}
 - {docs_url: ../../../api/test_diagnostic_aggregator/html, location: test_diagnostic_aggregator.tag,
   package: test_diagnostic_aggregator}
-- {docs_url: ../../../api/diagnostic_updater/html, location: diagnostic_updater.tag,
-  package: diagnostic_updater}
-- {docs_url: ../../../api/self_test/html, location: self_test.tag, package: self_test}
 - {docs_url: ../../../api/diagnostic_analysis/html, location: diagnostic_analysis.tag,
   package: diagnostic_analysis}
