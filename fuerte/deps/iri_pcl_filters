@@ -1,2 +1,2 @@
-[dynamic_reconfigure, std_srvs, roscpp, iri_wam_common_msgs, std_msgs, sensor_msgs,
-  image_transport, opencv2, geometry_msgs, cv_bridge, pcl_ros]
+[dynamic_reconfigure, std_srvs, roscpp, iri_wam_common_msgs, std_msgs, iri_perception_msgs,
+  sensor_msgs, image_transport, opencv2, geometry_msgs, cv_bridge, pcl_ros]
