@@ -1,1 +1,1 @@
-[nav_msgs, roscpp, hector_uav_msgs, sensor_msgs, geometry_msgs, gazebo]
+[rosgraph_msgs, nav_msgs, roscpp, hector_uav_msgs, sensor_msgs, geometry_msgs, gazebo]
