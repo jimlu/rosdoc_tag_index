@@ -1,0 +1,1 @@
+[roscpp, gazebo_worlds, std_msgs, gazebo_tools, gazebo_plugins, gazebo]

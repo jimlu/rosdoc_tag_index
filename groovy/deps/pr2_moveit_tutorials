@@ -1,2 +1,2 @@
-[moveit_core, moveit_ros_perception, pluginlib, moveit_ros_planning, octomap, catkin,
-  fcl]
+[moveit_core, moveit_ros_perception, pluginlib, interactive_markers, moveit_ros_planning,
+  octomap, catkin, fcl]
