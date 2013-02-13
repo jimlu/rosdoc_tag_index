@@ -1,1 +1,2 @@
-[irb_2400_arm_navigation, abb_common, irb_5400_arm_navigation]
+[irb_2400_moveit_config, irb_2400_arm_navigation, abb_common, irb_5400_arm_navigation,
+  abb_moveit_plugins]
