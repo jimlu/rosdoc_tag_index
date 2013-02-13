@@ -1,4 +1,4 @@
 [pr2_gazebo_cartworld, twist_recovery, articulate_cart, costmap_trajectory_checker,
-  isolated_point_filter, cart_pushing_msgs, cart_local_planner, cart_pushing_executive,
-  pr2_pose_saver, manipulation_transforms, cart_state_estimator, sbpl_cart_planner,
+  cart_pushing_msgs, cart_state_estimator, isolated_point_filter, pr2_pose_saver,
+  cart_local_planner, manipulation_transforms, cart_pushing_executive, sbpl_cart_planner,
   cart_pushing_stage]
