@@ -1,0 +1,3 @@
+- {docs_url: ../../../api/husky_gazebo/html, location: husky_gazebo.tag, package: husky_gazebo}
+- {docs_url: ../../../api/husky_gazebo_plugins/html, location: husky_gazebo_plugins.tag,
+  package: husky_gazebo_plugins}
