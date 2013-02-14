@@ -1,3 +1,3 @@
-[nav_msgs, libnabo, roscpp, sensor_msgs, std_msgs, ethzasl_gridmap_2d, eigen, libpointmatcher,
-  libpointmatcher_ros, geometry_msgs, yaml-cpp, map_msgs, tf, rospy, libargtable2-dev,
-  rosbag, tf_conversions, tf2]
+[nav_msgs, interactive_markers, libnabo, roscpp, message_filters, sensor_msgs, visualization_msgs,
+  std_msgs, ethzasl_gridmap_2d, eigen, libpointmatcher, libpointmatcher_ros, geometry_msgs,
+  yaml-cpp, map_msgs, tf, rospy, libargtable2-dev, rosbag, tf_conversions, tf2]
