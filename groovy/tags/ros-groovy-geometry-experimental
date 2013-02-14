@@ -1,9 +1,2 @@
-- {docs_url: ../../../api/tf2_msgs/html, location: tf2_msgs.tag, package: tf2_msgs}
-- {docs_url: ../../../api/tf2/html, location: tf2.tag, package: tf2}
-- {docs_url: ../../../api/tf2_ros/html, location: tf2_ros.tag, package: tf2_ros}
-- {docs_url: ../../../api/tf2_geometry_msgs/html, location: tf2_geometry_msgs.tag,
-  package: tf2_geometry_msgs}
-- {docs_url: ../../../api/tf2_bullet/html, location: tf2_bullet.tag, package: tf2_bullet}
-- {docs_url: ../../../api/tf2_tools/html, location: tf2_tools.tag, package: tf2_tools}
-- {docs_url: ../../../api/tf2_kdl/html, location: tf2_kdl.tag, package: tf2_kdl}
-- {docs_url: ../../../api/test_tf2/html, location: test_tf2.tag, package: test_tf2}
+- {docs_url: ../../../api/geometry_experimental/html, location: geometry_experimental.tag,
+  package: geometry_experimental}

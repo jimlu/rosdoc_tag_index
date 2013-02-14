@@ -1,2 +1,2 @@
 [schunk_hardware_config, schunk_controller_configuration_gazebo, schunk_default_config,
-  schunk_bringup, schunk_bringup_sim]
+  schunk_bringup_sim, schunk_bringup]

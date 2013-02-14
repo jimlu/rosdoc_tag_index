@@ -1,2 +1,2 @@
-[pointcloud_vrml, ndt_map, sdf_tracker, pangolin_wrapper, ndt_map_builder, ndt_visualisation,
-  ndt_feature_reg, ndt_registration]
+[pointcloud_vrml, ndt_map, sdf_tracker, ndt_map_builder, ndt_visualisation, ndt_feature_reg,
+  ndt_registration]
