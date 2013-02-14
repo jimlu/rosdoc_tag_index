@@ -1,3 +1,2 @@
-[armadillo_calibration, armadillo_object_manipulation, industrial_io_client, armadillo_arm_navigation,
-  sia10d_mesh_arm_navigation, motoman, armadillo, simple_message, SIA20D_Mesh_arm_navigation,
-  robotiq]
+[armadillo_calibration, robotiq, industrial_io_client, armadillo_arm_navigation, sia10d_mesh_arm_navigation,
+  motoman, simple_message, armadillo, armadillo_object_manipulation, SIA20D_Mesh_arm_navigation]
