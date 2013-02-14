@@ -1,1 +1,1 @@
-[tf2_msgs, tf2_ros, tf2]
+[catkin, tf2_msgs, tf2_ros, tf2]
