@@ -1,2 +1,2 @@
-[roscpp, actionlib_msgs, rosgraph, actionlib, std_msgs, geometry_msgs, message_filters,
-  rospy, tf2_msgs, tf2]
+[catkin, roscpp, message_filters, std_msgs, actionlib, rosgraph, tf2_msgs, geometry_msgs,
+  rospy, actionlib_msgs, tf2]

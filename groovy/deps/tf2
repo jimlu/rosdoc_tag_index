@@ -1,1 +1,1 @@
-[rospy, geometry_msgs, tf2_msgs, roscpp]
+[rospy, geometry_msgs, tf2_msgs, catkin, roscpp]
