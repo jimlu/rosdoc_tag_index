@@ -1,1 +1,1 @@
-[pointcloud_vrml, ndt_map, pangolin_wrapper, eigen, pcl, tf, common_rosdeps, tf_conversions]
+[common_rosdeps, ndt_map, pcl, eigen]
