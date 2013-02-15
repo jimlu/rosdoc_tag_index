@@ -1,0 +1,2 @@
+[hector_elevation_mapping, hector_exploration_controller, hector_path_follower, hector_exploration_node,
+  hector_elevation_msgs, hector_elevation_visualization, hector_costmap, hector_exploration_planner]
