@@ -1,0 +1,2 @@
+[hector_map_tools, roscpp, sensor_msgs, geometry_msgs, hector_elevation_msgs, pcl,
+  tf, nodelet, pcl_ros]
