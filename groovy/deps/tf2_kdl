@@ -1,1 +1,1 @@
-[kdl, geometry_msgs, tf2_ros]
+[orocos_kdl, catkin, tf2_ros, tf2]
