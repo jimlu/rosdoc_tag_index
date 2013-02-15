@@ -1,1 +1,1 @@
-[iri_opencv_filters, iri_base_algorithm, rospy, iri_perception_msgs, iri_learning_msgs]
+[iri_base_algorithm, iri_learning_msgs, opencv2, rospy, pcl, cv_bridge, iri_perception_msgs]

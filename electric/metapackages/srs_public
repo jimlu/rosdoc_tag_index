@@ -1,8 +1,8 @@
-[srs_assisted_grasping, srs_assisted_arm_navigation_ui, srs_env_model_msgs, srs_states,
-  srs_msgs, srs_decision_making_interface, srs_likelihood_calculation, srs_assisted_grasping_ui,
-  srs_grasping, srs_env_model_utils, srs_object_verification, srs_user_tests, srs_human_sensing,
+[srs_assisted_grasping, srs_assisted_arm_navigation_ui, srs_msgs, srs_states, srs_human_sensing,
+  srs_decision_making_interface, srs_people_tracking_filter, srs_assisted_grasping_ui,
+  srs_grasping, srs_env_model_utils, srs_object_verification, srs_user_tests, srs_env_model_msgs,
   srs_env_model, srs_training, srs_env_model_percp, srs_assisted_arm_navigation, srs_environments,
-  srs_assisted_grasping_msgs, srs_decision_making, srs_assisted_detection, srs_people_tracking_filter,
+  srs_assisted_grasping_msgs, srs_decision_making, srs_assisted_detection, srs_likelihood_calculation,
   srs_ui_but, srs_symbolic_grounding, srs_assisted_arm_navigation_msgs, srs_body_detector,
   cob_spacenav_teleop, srs_pellet, srs_interaction_primitives, srs_leg_detector, srs_env_model_ui,
   srs_arm_navigation_tests, srs_knowledge, srs_scenarios]

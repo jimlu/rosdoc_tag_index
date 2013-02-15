@@ -1,4 +1,4 @@
-[ecl_statistics, ecl_formatters, ecl_sigslots, ecl_exceptions, ecl_tools, ecl_eigen,
-  ecl_type_traits, ecl_command_line, ecl_ipc, ecl_devices, ecl_time, ecl_lite, ecl_containers,
-  ecl_threads, ecl_streams, ecl_geometry, ecl_core_apps, ecl_utilities, ecl_mpl, ecl_concepts,
-  ecl_math, ecl_converters, ecl_linear_algebra]
+[ecl_statistics, ecl_utilities, ecl_linear_algebra, ecl_eigen, ecl_containers, ecl_type_traits,
+  ecl_command_line, ecl_formatters, ecl_threads, ecl_devices, ecl_concepts, ecl_math,
+  ecl_streams, ecl_ipc, ecl_converters, ecl_mpl, ecl_time, ecl_geometry, ecl_core_apps,
+  ecl_sigslots, ecl_exceptions]
