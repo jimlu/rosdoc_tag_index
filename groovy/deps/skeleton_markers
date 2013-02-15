@@ -1,0 +1,1 @@
+[roscpp, openni_tracker, openni_camera, geometry_msgs, nite, visualization_msgs, rospy]
