@@ -1,0 +1,2 @@
+[dynamic_reconfigure, hector_map_tools, sensor_msgs, opencv2, geometry_msgs, hector_elevation_msgs,
+  pcl, cv_bridge, pcl_ros]

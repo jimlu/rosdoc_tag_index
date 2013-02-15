@@ -1,0 +1,2 @@
+[dynamic_reconfigure, hector_map_tools, eigen, hector_elevation_msgs, visualization_msgs,
+  tf, common_rosdeps]
