@@ -1,0 +1,1 @@
+[roscpp, std_msgs, openni_camera, opencv2, uvc_cam, rospy, cv_bridge, rviz]

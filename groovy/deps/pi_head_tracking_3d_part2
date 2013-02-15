@@ -1,0 +1,3 @@
+[roscpp, dynamixel_controllers, openni_tracker, pi_tb_description, robot_state_publisher,
+  visualization_msgs, std_msgs, joint_state_publisher, geometry_msgs, openni_camera,
+  turtlebot_description, tf, rospy, dynamixel_msgs, dynamixel_driver, rviz]
