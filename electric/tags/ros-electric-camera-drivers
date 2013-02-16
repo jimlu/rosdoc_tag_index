@@ -1,5 +1,5 @@
-- {docs_url: ../../../api/camera1394/html, location: camera1394.tag, package: camera1394}
 - {docs_url: ../../../api/prosilica_gige_sdk/html, location: prosilica_gige_sdk.tag,
   package: prosilica_gige_sdk}
-- {docs_url: ../../../api/prosilica_camera/html, location: prosilica_camera.tag, package: prosilica_camera}
+- {docs_url: ../../../api/camera1394/html, location: camera1394.tag, package: camera1394}
 - {docs_url: ../../../api/wge100_camera/html, location: wge100_camera.tag, package: wge100_camera}
+- {docs_url: ../../../api/prosilica_camera/html, location: prosilica_camera.tag, package: prosilica_camera}
