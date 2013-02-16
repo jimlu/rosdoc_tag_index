@@ -1,1 +1,1 @@
-[polled_camera, camera_info_manager, image_transport, camera_calibration_parsers]
+[camera_info_manager, polled_camera, image_transport, camera_calibration_parsers]
