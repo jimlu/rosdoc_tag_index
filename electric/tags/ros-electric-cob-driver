@@ -3,13 +3,13 @@
 - {docs_url: ../../../api/cob_generic_can/html, location: cob_generic_can.tag, package: cob_generic_can}
 - {docs_url: ../../../api/cob_canopen_motor/html, location: cob_canopen_motor.tag,
   package: cob_canopen_motor}
-- {docs_url: ../../../api/cob_sound/html, location: cob_sound.tag, package: cob_sound}
 - {docs_url: ../../../api/cob_hwboard/html, location: cob_hwboard.tag, package: cob_hwboard}
 - {docs_url: ../../../api/cob_footprint_observer/html, location: cob_footprint_observer.tag,
   package: cob_footprint_observer}
 - {docs_url: ../../../api/cob_collision_velocity_filter/html, location: cob_collision_velocity_filter.tag,
   package: cob_collision_velocity_filter}
-- {docs_url: ../../../api/cob_hokuyo/html, location: cob_hokuyo.tag, package: cob_hokuyo}
+- {docs_url: ../../../api/cob_voltage_control/html, location: cob_voltage_control.tag,
+  package: cob_voltage_control}
 - {docs_url: ../../../api/cob_sick_s300/html, location: cob_sick_s300.tag, package: cob_sick_s300}
 - {docs_url: ../../../api/cob_touch/html, location: cob_touch.tag, package: cob_touch}
 - {docs_url: ../../../api/cob_base_velocity_smoother/html, location: cob_base_velocity_smoother.tag,
@@ -25,5 +25,5 @@
 - {docs_url: ../../../api/cob_trajectory_controller/html, location: cob_trajectory_controller.tag,
   package: cob_trajectory_controller}
 - {docs_url: ../../../api/cob_phidgets/html, location: cob_phidgets.tag, package: cob_phidgets}
-- {docs_url: ../../../api/cob_voltage_control/html, location: cob_voltage_control.tag,
-  package: cob_voltage_control}
+- {docs_url: ../../../api/cob_sound/html, location: cob_sound.tag, package: cob_sound}
+- {docs_url: ../../../api/cob_hokuyo/html, location: cob_hokuyo.tag, package: cob_hokuyo}
