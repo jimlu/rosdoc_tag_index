@@ -1,3 +1,2 @@
-[ros, ros_comm, common_msgs, simulator_gazebo, geometry, turtlebot_create, bullet,
-  diagnostics, navigation, nodelet_core, depthimage_to_laserscan, robot_model, kobuki,
-  rqt, rqt_common_plugins, qt_gui_core, rqt_robot_plugins, kobuki_msgs, turtlebot]
+[ros, ros_comm, kobuki, rqt, rqt_common_plugins, qt_gui_core, common_msgs, rqt_robot_plugins,
+  kobuki_msgs]
