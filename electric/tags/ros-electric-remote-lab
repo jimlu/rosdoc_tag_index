@@ -7,8 +7,8 @@
   package: pr2_pick_and_place_service}
 - {docs_url: ../../../api/rosjs_remotelabwidgets/html, location: rosjs_remotelabwidgets.tag,
   package: rosjs_remotelabwidgets}
-- {docs_url: ../../../api/ping/html, location: ping.tag, package: ping}
 - {docs_url: ../../../api/rosjs_tests/html, location: rosjs_tests.tag, package: rosjs_tests}
+- {docs_url: ../../../api/ping/html, location: ping.tag, package: ping}
 - {docs_url: ../../../api/robot_booking/html, location: robot_booking.tag, package: robot_booking}
 - {docs_url: ../../../api/pointcloud_snapshot_service/html, location: pointcloud_snapshot_service.tag,
   package: pointcloud_snapshot_service}
