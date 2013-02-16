@@ -1,1 +1,1 @@
-[pymongo, mongo_ros, mongodb]
+[mongodb, pymongo, mongo_ros]

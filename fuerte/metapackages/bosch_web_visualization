@@ -1,2 +1,2 @@
-[rosjs_visualization, map_compressor, wviz, tf_lister, rosjs_resources, wviz_scene_manager,
-  pointcloud_snapshot_service, wviz_tf_manager, rosjs_common]
+[map_compressor, pointcloud_snapshot_service, wviz, tf_lister, rosjs_resources, wviz_scene_manager,
+  rosjs_common, wviz_tf_manager, rosjs_visualization]
