@@ -1,3 +1,3 @@
 [global_planner_switcher, pr2_gazebo_cartworld, articulate_cart, costmap_trajectory_checker,
-  isolated_point_filter, cart_pushing_msgs, cart_local_planner, cart_state_estimator,
-  cart_pushing_executive, pr2_pose_saver, manipulation_transforms, sbpl_cart_planner]
+  cart_pushing_msgs, isolated_point_filter, cart_local_planner, cart_pushing_executive,
+  pr2_pose_saver, manipulation_transforms, cart_state_estimator, sbpl_cart_planner]
