@@ -1,3 +1,2 @@
 [nav_msgs, control_toolbox, roscpp, costmap_2d, pluginlib, actionlib, nav_core, geometry_msgs,
-  tinyxml, angles, visualization_msgs, tf, base_local_planner, actionlib_msgs, tf_conversions,
-  eigen]
+  tinyxml, angles, visualization_msgs, tf, base_local_planner, tf_conversions, eigen]
