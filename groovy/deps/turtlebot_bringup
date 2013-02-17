@@ -1,3 +1,3 @@
-[turtlebot_app_manager, depthimage_to_laserscan, kobuki_description, create_description,
-  diagnostic_aggregator, zeroconf_avahi, robot_state_publisher, openni_camera, kobuki_node,
-  create_node, linux_hardware]
+[turtlebot_app_manager, kobuki_bumper2pc, kobuki_description, create_description,
+  diagnostic_aggregator, zeroconf_avahi, robot_state_publisher, kobuki_safety_controller,
+  openni_camera, kobuki_node, create_node, depthimage_to_laserscan, linux_hardware]
