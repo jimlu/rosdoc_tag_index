@@ -1,1 +1,1 @@
-[arm_navigation, common, common_msgs, ros, robot_model, ros, ros_comm]
+[arm_navigation, industrial_core, robot_model, ros, ros_comm]
