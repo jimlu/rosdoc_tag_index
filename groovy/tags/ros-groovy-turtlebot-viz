@@ -4,5 +4,5 @@
   package: turtlebot_rviz_launchers}
 - {docs_url: ../../../api/turtlebot_diagnostics/html, location: turtlebot_diagnostics.tag,
   package: turtlebot_diagnostics}
-- {docs_url: ../../../api/turtlebot_dashboard_launchers/html, location: turtlebot_dashboard_launchers.tag,
-  package: turtlebot_dashboard_launchers}
+- {docs_url: ../../../api/turtlebot_dashboard/html, location: turtlebot_dashboard.tag,
+  package: turtlebot_dashboard}
