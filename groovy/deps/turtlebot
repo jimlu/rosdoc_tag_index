@@ -1,3 +1,3 @@
 [zeroconf_avahi_suite, navigation, robot_model, diagnostics, depthimage_to_laserscan,
   openni_camera, multimaster_experimental, xacro, std_msgs, common_msgs, ros, ros_comm,
-  turtlebot_create, kobuki, kobuki_msgs]
+  turtlebot_create, kobuki, kobuki_description, kobuki_msgs]
