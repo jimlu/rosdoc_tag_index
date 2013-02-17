@@ -1,2 +1,2 @@
-[image_segmentation_demo, safe_teleop_base, grabcut_3d, safe_teleop_pr2, augmented_object_selection,
-  safe_teleop_stage, bosch_object_segmentation_gui]
+[image_segmentation_demo, safe_teleop_stage, grabcut_3d, safe_teleop_pr2, augmented_object_selection,
+  safe_teleop_base, bosch_object_segmentation_gui]
