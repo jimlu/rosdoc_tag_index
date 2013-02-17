@@ -1,7 +1,7 @@
 - {docs_url: ../../../api/turtle_actionlib/html, location: turtle_actionlib.tag, package: turtle_actionlib}
-- {docs_url: ../../../api/nodelet_tutorial_math/html, location: nodelet_tutorial_math.tag,
-  package: nodelet_tutorial_math}
-- {docs_url: ../../../api/actionlib_tutorials/html, location: actionlib_tutorials.tag,
-  package: actionlib_tutorials}
 - {docs_url: ../../../api/pluginlib_tutorials/html, location: pluginlib_tutorials.tag,
   package: pluginlib_tutorials}
+- {docs_url: ../../../api/actionlib_tutorials/html, location: actionlib_tutorials.tag,
+  package: actionlib_tutorials}
+- {docs_url: ../../../api/nodelet_tutorial_math/html, location: nodelet_tutorial_math.tag,
+  package: nodelet_tutorial_math}

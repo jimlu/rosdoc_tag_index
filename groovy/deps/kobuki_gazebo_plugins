@@ -1,1 +1,1 @@
-[nav_msgs, roscpp, bullet, boost, sensor_msgs, create_node, geometry_msgs, tf, gazebo]
+[boost]
