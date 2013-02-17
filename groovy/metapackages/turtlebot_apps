@@ -1,3 +1,3 @@
 [pano_py, pano_core, turtlebot_follower, pano_ros, turtlebot_teleop, turtlebot_calibration,
-  turtlebot_navigation, turtlebot_core_apps, turtlebot_sounds, turtlebot_panorama,
+  turtlebot_navigation, turtlebot_panorama, turtlebot_sounds, turtlebot_core_apps,
   turtlebot_actions]
