@@ -1,1 +1,1 @@
-[rxtools, std_srvs, roslib, std_msgs, robot_monitor, rospy, turtlebot_node]
+[kobuki_dashboard, create_dashboard]
