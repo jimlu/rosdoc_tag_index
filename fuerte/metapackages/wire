@@ -1,2 +1,2 @@
-[wire_viz, wire_core, wire_state_estimators, wire_tutorials, wire_msgs, armadillo_matrix,
-  problib]
+[wire_viz, wire_core, wire_state_estimators, wire_tutorials, problib, armadillo_matrix,
+  wire_msgs]
