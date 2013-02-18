@@ -1,1 +1,1 @@
-[rospy, rosserial_msgs, catkin, python-serial]
+[rospy, rosserial_msgs, catkin, diagnostic_msgs, python-serial]
