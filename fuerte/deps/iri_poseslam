@@ -1,1 +1,2 @@
-[roscpp, iri_base_algorithm, sensor_msgs, geometry_msgs, tf, iri_laser_icp, rosbag]
+[laser_geometry, roscpp, iri_nav_msgs, iri_base_algorithm, sensor_msgs, geometry_msgs,
+  pcl, tf, iri_laser_icp, rosbag, pcl_ros]
