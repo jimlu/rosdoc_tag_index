@@ -1,1 +1,1 @@
-[opennl, trimesh, bmtk, vcglib, openmesh]
+[bmtk, opennl, vcglib, trimesh, openmesh]
