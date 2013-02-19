@@ -2,9 +2,9 @@
   package: turtlebot_kinect_arm_calibration}
 - {docs_url: ../../../api/turtlebot_arm_description/html, location: turtlebot_arm_description.tag,
   package: turtlebot_arm_description}
-- {docs_url: ../../../api/turtlebot_arm_bringup/html, location: turtlebot_arm_bringup.tag,
-  package: turtlebot_arm_bringup}
-- {docs_url: ../../../api/turtlebot_arm_interactive_markers/html, location: turtlebot_arm_interactive_markers.tag,
-  package: turtlebot_arm_interactive_markers}
 - {docs_url: ../../../api/turtlebot_block_manipulation/html, location: turtlebot_block_manipulation.tag,
   package: turtlebot_block_manipulation}
+- {docs_url: ../../../api/turtlebot_arm_interactive_markers/html, location: turtlebot_arm_interactive_markers.tag,
+  package: turtlebot_arm_interactive_markers}
+- {docs_url: ../../../api/turtlebot_arm_bringup/html, location: turtlebot_arm_bringup.tag,
+  package: turtlebot_arm_bringup}

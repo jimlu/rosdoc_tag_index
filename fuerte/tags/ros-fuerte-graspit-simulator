@@ -1,9 +1,9 @@
 - {docs_url: ../../../api/graspit/html, location: graspit.tag, package: graspit}
 - {docs_url: ../../../api/graspit_dbase_tasks/html, location: graspit_dbase_tasks.tag,
   package: graspit_dbase_tasks}
-- {docs_url: ../../../api/dbase_grasp_planner/html, location: dbase_grasp_planner.tag,
-  package: dbase_grasp_planner}
 - {docs_url: ../../../api/graspit_ros_planning_msgs/html, location: graspit_ros_planning_msgs.tag,
   package: graspit_ros_planning_msgs}
 - {docs_url: ../../../api/graspit_ros_planning/html, location: graspit_ros_planning.tag,
   package: graspit_ros_planning}
+- {docs_url: ../../../api/dbase_grasp_planner/html, location: dbase_grasp_planner.tag,
+  package: dbase_grasp_planner}
