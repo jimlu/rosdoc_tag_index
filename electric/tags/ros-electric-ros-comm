@@ -22,7 +22,6 @@
 - {docs_url: ../../../api/test_roscpp_serialization_perf/html, location: test_roscpp_serialization_perf.tag,
   package: test_roscpp_serialization_perf}
 - {docs_url: ../../../api/std_srvs/html, location: std_srvs.tag, package: std_srvs}
-- {docs_url: ../../../api/test_roslib_comm/html, location: test_roslib_comm.tag, package: test_roslib_comm}
 - {docs_url: ../../../api/test_roscpp/html, location: test_roscpp.tag, package: test_roscpp}
 - {docs_url: ../../../api/test_rostime/html, location: test_rostime.tag, package: test_rostime}
 - {docs_url: ../../../api/test_crosspackage/html, location: test_crosspackage.tag,
@@ -40,4 +39,5 @@
 - {docs_url: ../../../api/test_rosparam/html, location: test_rosparam.tag, package: test_rosparam}
 - {docs_url: ../../../api/test_rosmaster/html, location: test_rosmaster.tag, package: test_rosmaster}
 - {docs_url: ../../../api/perf_roscpp/html, location: perf_roscpp.tag, package: perf_roscpp}
+- {docs_url: ../../../api/test_roslib_comm/html, location: test_roslib_comm.tag, package: test_roslib_comm}
 - {docs_url: ../../../api/test_rostopic/html, location: test_rostopic.tag, package: test_rostopic}
