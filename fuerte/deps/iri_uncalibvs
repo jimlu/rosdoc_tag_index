@@ -1,2 +1,2 @@
-[kdl, roscpp, std_msgs, iri_base_algorithm, sensor_msgs, kdl_parser, eigen_conversions,
-  geometry_msgs, asctec_msgs, ar_pose, actionlib]
+[kdl, roscpp, sensor_msgs, actionlib, std_msgs, kdl_parser, eigen_conversions, geometry_msgs,
+  asctec_msgs, ar_pose, iri_base_algorithm, mav_msgs]
