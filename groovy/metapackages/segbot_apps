@@ -1,1 +1,1 @@
-[segbot_controller, eband_local_planner, segbot_navigation]
+[segbot_controller, segbot_navigation, eband_local_planner]
