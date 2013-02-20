@@ -1,0 +1,3 @@
+[python-sphinx, rosconsole, catkin, eigen, libmysqlclient-dev, rosbag, pcl_msgs, libqhull,
+  rostime, roscpp_serialization, libvtk, std_msgs, topic_tools, libusb-1.0-dev, flann,
+  sensor_msgs, roscpp_traits, cpp_common, boost, roscpp]
