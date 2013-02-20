@@ -1,11 +1,11 @@
-- {docs_url: ../../../api/hector_quadrotor_teleop/html, location: hector_quadrotor_teleop.tag,
-  package: hector_quadrotor_teleop}
 - {docs_url: ../../../api/hector_uav_msgs/html, location: hector_uav_msgs.tag, package: hector_uav_msgs}
 - {docs_url: ../../../api/hector_quadrotor_gazebo_plugins/html, location: hector_quadrotor_gazebo_plugins.tag,
   package: hector_quadrotor_gazebo_plugins}
+- {docs_url: ../../../api/hector_quadrotor_teleop/html, location: hector_quadrotor_teleop.tag,
+  package: hector_quadrotor_teleop}
+- {docs_url: ../../../api/hector_quadrotor_controller/html, location: hector_quadrotor_controller.tag,
+  package: hector_quadrotor_controller}
 - {docs_url: ../../../api/hector_quadrotor_gazebo/html, location: hector_quadrotor_gazebo.tag,
   package: hector_quadrotor_gazebo}
 - {docs_url: ../../../api/hector_quadrotor_urdf/html, location: hector_quadrotor_urdf.tag,
   package: hector_quadrotor_urdf}
-- {docs_url: ../../../api/hector_quadrotor_controller/html, location: hector_quadrotor_controller.tag,
-  package: hector_quadrotor_controller}
