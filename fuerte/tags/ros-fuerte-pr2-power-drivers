@@ -1,4 +1,4 @@
 - {docs_url: ../../../api/pr2_power_board/html, location: pr2_power_board.tag, package: pr2_power_board}
-- {docs_url: ../../../api/power_monitor/html, location: power_monitor.tag, package: power_monitor}
 - {docs_url: ../../../api/ocean_battery_driver/html, location: ocean_battery_driver.tag,
   package: ocean_battery_driver}
+- {docs_url: ../../../api/power_monitor/html, location: power_monitor.tag, package: power_monitor}
