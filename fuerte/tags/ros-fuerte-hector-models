@@ -1,6 +1,6 @@
-- {docs_url: ../../../api/hector_xacro_tools/html, location: hector_xacro_tools.tag,
-  package: hector_xacro_tools}
 - {docs_url: ../../../api/hector_sensors_description/html, location: hector_sensors_description.tag,
   package: hector_sensors_description}
 - {docs_url: ../../../api/hector_sensors_gazebo/html, location: hector_sensors_gazebo.tag,
   package: hector_sensors_gazebo}
+- {docs_url: ../../../api/hector_xacro_tools/html, location: hector_xacro_tools.tag,
+  package: hector_xacro_tools}
