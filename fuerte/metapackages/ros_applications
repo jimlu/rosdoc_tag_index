@@ -1,2 +1,2 @@
-[application_client, dummy_applications, ui_responder, application_msgs, ui_preempter,
-  application_manager]
+[application_client, dummy_applications, application_manager, application_msgs, ui_preempter,
+  ui_responder]
