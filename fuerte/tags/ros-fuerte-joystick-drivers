@@ -1,5 +1,5 @@
-- {docs_url: ../../../api/joy/html, location: joy.tag, package: joy}
-- {docs_url: ../../../api/wiimote/html, location: wiimote.tag, package: wiimote}
 - {docs_url: ../../../api/spacenav/html, location: spacenav.tag, package: spacenav}
-- {docs_url: ../../../api/ps3joy/html, location: ps3joy.tag, package: ps3joy}
 - {docs_url: ../../../api/spacenav_node/html, location: spacenav_node.tag, package: spacenav_node}
+- {docs_url: ../../../api/wiimote/html, location: wiimote.tag, package: wiimote}
+- {docs_url: ../../../api/ps3joy/html, location: ps3joy.tag, package: ps3joy}
+- {docs_url: ../../../api/joy/html, location: joy.tag, package: joy}
