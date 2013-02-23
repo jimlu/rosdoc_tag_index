@@ -1,1 +1,1 @@
-[common, common_msgs, map_msgs, ros, geometry, geometry_experimental]
+[common, common_msgs, map_msgs, ros, geometry, geometry_experimental, visualization]
