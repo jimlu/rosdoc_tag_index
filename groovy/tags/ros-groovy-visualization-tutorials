@@ -1,4 +1,4 @@
-- {docs_url: ../../../api/interactive_marker_tutorials/html, location: interactive_marker_tutorials.tag,
-  package: interactive_marker_tutorials}
 - {docs_url: ../../../api/visualization_marker_tutorials/html, location: visualization_marker_tutorials.tag,
   package: visualization_marker_tutorials}
+- {docs_url: ../../../api/interactive_marker_tutorials/html, location: interactive_marker_tutorials.tag,
+  package: interactive_marker_tutorials}
