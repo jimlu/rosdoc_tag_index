@@ -1,3 +1,4 @@
-[nav_msgs, planning_environment, actionlib, sensor_msgs, mtconnect_msgs, object_manipulator,
-  geometry_msgs, object_manipulation_tools, mtconnect_ros_bridge, object_manipulation_msgs,
+[nav_msgs, industrial_trajectory_filters, industrial_robot_simulator, planning_environment,
+  actionlib, sensor_msgs, mtconnect_msgs, object_manipulator, geometry_msgs, object_manipulation_tools,
+  industrial_robot_client, mtconnect_ros_bridge, object_manipulation_msgs, abb_common,
   arm_navigation_msgs]
