@@ -1,14 +1,14 @@
+- {docs_url: ../../../api/hector_nav_msgs/html, location: hector_nav_msgs.tag, package: hector_nav_msgs}
+- {docs_url: ../../../api/hector_map_tools/html, location: hector_map_tools.tag, package: hector_map_tools}
+- {docs_url: ../../../api/hector_geotiff/html, location: hector_geotiff.tag, package: hector_geotiff}
 - {docs_url: ../../../api/hector_imu_attitude_to_tf/html, location: hector_imu_attitude_to_tf.tag,
   package: hector_imu_attitude_to_tf}
-- {docs_url: ../../../api/hector_map_tools/html, location: hector_map_tools.tag, package: hector_map_tools}
-- {docs_url: ../../../api/hector_compressed_map_transport/html, location: hector_compressed_map_transport.tag,
-  package: hector_compressed_map_transport}
-- {docs_url: ../../../api/hector_nav_msgs/html, location: hector_nav_msgs.tag, package: hector_nav_msgs}
 - {docs_url: ../../../api/hector_map_server/html, location: hector_map_server.tag,
   package: hector_map_server}
 - {docs_url: ../../../api/hector_mapping/html, location: hector_mapping.tag, package: hector_mapping}
 - {docs_url: ../../../api/hector_trajectory_server/html, location: hector_trajectory_server.tag,
   package: hector_trajectory_server}
-- {docs_url: ../../../api/hector_geotiff/html, location: hector_geotiff.tag, package: hector_geotiff}
 - {docs_url: ../../../api/hector_slam_launch/html, location: hector_slam_launch.tag,
   package: hector_slam_launch}
+- {docs_url: ../../../api/hector_compressed_map_transport/html, location: hector_compressed_map_transport.tag,
+  package: hector_compressed_map_transport}
