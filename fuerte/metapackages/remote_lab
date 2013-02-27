@@ -1,3 +1,3 @@
-[turtlebot_wviz, rosjs_pr2interaction, rosjs_remotelabwidgets, rosjs_tests, ping,
-  robot_booking, pr2_pick_and_place_service, topic_logger, rosjs_assisted_teleoperation,
+[turtlebot_wviz, topic_logger, rosjs_remotelabwidgets, rosjs_tests, ping, robot_booking,
+  pr2_pick_and_place_service, rosjs_assisted_teleoperation, rosjs_pr2interaction,
   remote_lab_examples, rosjs_tutorials]
