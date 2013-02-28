@@ -1,1 +1,2 @@
-[iri_grasping_learner, iri_svmsgd, iri_publish_params, iri_learning_msgs, iri_rule_learner]
+[iri_learning_msgs, iri_grasping_learner, iri_svmsgd, iri_pasula_learner, iri_publish_params,
+  iri_rule_learner]
