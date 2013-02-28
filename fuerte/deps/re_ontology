@@ -1,2 +1,1 @@
-[knowrob_actions, jpl, knowrob_objects, comp_cop, re_msgs, comp_spatial, mod_srdl,
-  ias_knowledge_base]
+[knowrob_actions, jpl, knowrob_objects, re_msgs, comp_spatial, mod_srdl, ias_knowledge_base]
