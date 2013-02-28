@@ -1,1 +1,1 @@
-[rospy, rostest, catkin]
+[rosbag, rostest, catkin, rospy]
