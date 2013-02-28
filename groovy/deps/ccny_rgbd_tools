@@ -1,1 +1,2 @@
-[ros]
+[ros, ros_comm, perception_pcl, common_msgs, geometry, vision_opencv, image_common,
+  nodelet_core]
