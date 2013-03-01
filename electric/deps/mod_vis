@@ -1,1 +1,1 @@
-[jpl, rosjava_jni, knowrob_cad_parser, knowrob_cad_models, ias_knowledge_base]
+[rosjava_jni, knowrob_cad_parser, ias_knowledge_base, jpl]

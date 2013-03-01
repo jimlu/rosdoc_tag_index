@@ -6,8 +6,6 @@
 - {docs_url: ../../../api/srldb/html, location: srldb.tag, package: srldb}
 - {docs_url: ../../../api/comp_cop/html, location: comp_cop.tag, package: comp_cop}
 - {docs_url: ../../../api/comp_germandeli/html, location: comp_germandeli.tag, package: comp_germandeli}
-- {docs_url: ../../../api/knowrob_cad_models/html, location: knowrob_cad_models.tag,
-  package: knowrob_cad_models}
 - {docs_url: ../../../api/knowrob_cad_parser/html, location: knowrob_cad_parser.tag,
   package: knowrob_cad_parser}
 - {docs_url: ../../../api/mod_vis/html, location: mod_vis.tag, package: mod_vis}
