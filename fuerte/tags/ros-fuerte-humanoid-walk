@@ -1,5 +1,5 @@
 - {docs_url: ../../../api/walk_interfaces/html, location: walk_interfaces.tag, package: walk_interfaces}
-- {docs_url: ../../../api/walk_msgs/html, location: walk_msgs.tag, package: walk_msgs}
 - {docs_url: ../../../api/walk_tools/html, location: walk_tools.tag, package: walk_tools}
+- {docs_url: ../../../api/walk_msgs/html, location: walk_msgs.tag, package: walk_msgs}
 - {docs_url: ../../../api/halfsteps_pattern_generator/html, location: halfsteps_pattern_generator.tag,
   package: halfsteps_pattern_generator}
