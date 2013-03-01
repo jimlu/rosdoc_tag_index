@@ -1,2 +1,2 @@
-[pr2_mechanism_msgs, pr2_mechanism_diagnostics, pr2_controller_manager, pr2_controller_interface,
+[pr2_controller_manager, pr2_mechanism_msgs, pr2_mechanism_diagnostics, pr2_controller_interface,
   realtime_tools, pr2_hardware_interface, pr2_mechanism_model]
