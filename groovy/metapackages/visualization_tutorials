@@ -1,2 +1,2 @@
-[librviz_tutorial, rviz_python_tutorial, rviz_plugin_tutorials, interactive_marker_tutorials,
-  visualization_marker_tutorials]
+[rviz_python_tutorial, librviz_tutorial, visualization_marker_tutorials, rviz_plugin_tutorials,
+  interactive_marker_tutorials]
