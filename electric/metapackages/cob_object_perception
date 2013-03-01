@@ -1,2 +1,1 @@
-[cob_tesseract, cob_object_detection_fake, cob_read_text, cob_object_detection_msgs,
-  cob_leptonica]
+[cob_read_text, cob_leptonica, cob_tesseract, cob_object_detection_msgs, cob_object_detection_fake]
