@@ -1,8 +1,8 @@
 - {docs_url: ../../../api/husky_interactive_markers/html, location: husky_interactive_markers.tag,
   package: husky_interactive_markers}
 - {docs_url: ../../../api/husky_bringup/html, location: husky_bringup.tag, package: husky_bringup}
-- {docs_url: ../../../api/husky_description/html, location: husky_description.tag,
-  package: husky_description}
+- {docs_url: ../../../api/husky_navigation/html, location: husky_navigation.tag, package: husky_navigation}
 - {docs_url: ../../../api/husky_localization/html, location: husky_localization.tag,
   package: husky_localization}
-- {docs_url: ../../../api/husky_navigation/html, location: husky_navigation.tag, package: husky_navigation}
+- {docs_url: ../../../api/husky_description/html, location: husky_description.tag,
+  package: husky_description}
