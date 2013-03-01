@@ -1,2 +1,2 @@
 [dynamic_reconfigure, driver_base, camera_info_manager, image_transport, diagnostic_updater,
-  libdc1394-dev, tf, nodelet]
+  libdc1394-dev, rostest, tf, nodelet]
