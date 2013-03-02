@@ -4,6 +4,6 @@
 - {docs_url: ../../../api/tf2_geometry_msgs/html, location: tf2_geometry_msgs.tag,
   package: tf2_geometry_msgs}
 - {docs_url: ../../../api/tf2_bullet/html, location: tf2_bullet.tag, package: tf2_bullet}
-- {docs_url: ../../../api/tf2_tools/html, location: tf2_tools.tag, package: tf2_tools}
 - {docs_url: ../../../api/tf2_kdl/html, location: tf2_kdl.tag, package: tf2_kdl}
+- {docs_url: ../../../api/tf2_tools/html, location: tf2_tools.tag, package: tf2_tools}
 - {docs_url: ../../../api/test_tf2/html, location: test_tf2.tag, package: test_tf2}
