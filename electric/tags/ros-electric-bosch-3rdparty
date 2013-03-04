@@ -1,5 +1,5 @@
+- {docs_url: ../../../api/opennl/html, location: opennl.tag, package: opennl}
 - {docs_url: ../../../api/trimesh/html, location: trimesh.tag, package: trimesh}
 - {docs_url: ../../../api/bmtk/html, location: bmtk.tag, package: bmtk}
-- {docs_url: ../../../api/opennl/html, location: opennl.tag, package: opennl}
-- {docs_url: ../../../api/vcglib/html, location: vcglib.tag, package: vcglib}
 - {docs_url: ../../../api/openmesh/html, location: openmesh.tag, package: openmesh}
+- {docs_url: ../../../api/vcglib/html, location: vcglib.tag, package: vcglib}
