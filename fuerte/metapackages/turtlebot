@@ -1,1 +1,1 @@
-[turtlebot_bringup, turtlebot_description, turtlebot_node, turtlebot_driver, pointcloud_to_laserscan]
+[turtlebot_driver, turtlebot_description, turtlebot_node, turtlebot_bringup, pointcloud_to_laserscan]
