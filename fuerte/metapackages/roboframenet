@@ -1,4 +1,4 @@
 [roboframenet_bringup, turtlebot_follower_rfn, stanford_parser, stanford_parser_ros,
-  location_memorizer, stanford_parser_msgs, move_base_rfn, roboframenet_msgs, stop_server,
-  semantic_framer, frame_registrar, arbitrator, moo, rfnserver, executor, move_action_server,
-  utter, imperative_to_declarative, pr2_props_rfn]
+  stanford_parser_msgs, move_base_rfn, roboframenet_msgs, location_memorizer, stop_server,
+  frame_registrar, arbitrator, moo, rfnserver, executor, move_action_server, utter,
+  semantic_framer, imperative_to_declarative, pr2_props_rfn]

@@ -1,2 +1,2 @@
-[lua_utils, herb_agents, luaagent, herb_skills, example_skills, skillgui, actionlib_lua,
+[lua_utils, actionlib_lua, luaagent, herb_skills, example_skills, skillgui, herb_agents,
   fawkes_lua, skiller]
