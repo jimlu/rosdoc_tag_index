@@ -1,4 +1,4 @@
-- {docs_url: ../../../api/cv_bridge/html, location: cv_bridge.tag, package: cv_bridge}
-- {docs_url: ../../../api/opencv_tests/html, location: opencv_tests.tag, package: opencv_tests}
 - {docs_url: ../../../api/image_geometry/html, location: image_geometry.tag, package: image_geometry}
+- {docs_url: ../../../api/cv_bridge/html, location: cv_bridge.tag, package: cv_bridge}
 - {docs_url: ../../../api/cv_markers/html, location: cv_markers.tag, package: cv_markers}
+- {docs_url: ../../../api/opencv_tests/html, location: opencv_tests.tag, package: opencv_tests}
