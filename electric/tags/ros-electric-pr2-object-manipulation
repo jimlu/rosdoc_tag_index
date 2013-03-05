@@ -49,9 +49,9 @@
   package: pr2_tabletop_manipulation_launch}
 - {docs_url: ../../../api/pr2_pick_and_place_demos/html, location: pr2_pick_and_place_demos.tag,
   package: pr2_pick_and_place_demos}
+- {docs_url: ../../../api/vfh_recognition/html, location: vfh_recognition.tag, package: vfh_recognition}
 - {docs_url: ../../../api/pick_and_place_demo_app/html, location: pick_and_place_demo_app.tag,
   package: pick_and_place_demo_app}
-- {docs_url: ../../../api/vfh_recognition/html, location: vfh_recognition.tag, package: vfh_recognition}
 - {docs_url: ../../../api/vfh_recognizer_db/html, location: vfh_recognizer_db.tag,
   package: vfh_recognizer_db}
 - {docs_url: ../../../api/tabletop_vfh_cluster_detector/html, location: tabletop_vfh_cluster_detector.tag,
