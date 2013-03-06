@@ -16,7 +16,6 @@
 - {docs_url: ../../../api/message_filters/html, location: message_filters.tag, package: message_filters}
 - {docs_url: ../../../api/perf_roscpp/html, location: perf_roscpp.tag, package: perf_roscpp}
 - {docs_url: ../../../api/test_rosbag/html, location: test_rosbag.tag, package: test_rosbag}
-- {docs_url: ../../../api/test_rosservice/html, location: test_rosservice.tag, package: test_rosservice}
 - {docs_url: ../../../api/test_roscpp/html, location: test_roscpp.tag, package: test_roscpp}
 - {docs_url: ../../../api/std_srvs/html, location: std_srvs.tag, package: std_srvs}
 - {docs_url: ../../../api/xmlrpcpp/html, location: xmlrpcpp.tag, package: xmlrpcpp}
