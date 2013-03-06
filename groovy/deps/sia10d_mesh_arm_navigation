@@ -1,2 +1,3 @@
-[move_arm, trajectory_filter_server, kinematics_base, constraint_aware_spline_smoother,
-  arm_kinematics_constraint_aware, planning_environment, ompl_ros_interface]
+[move_arm, trajectory_filter_server, rviz, kinematics_base, robot_state_publisher,
+  interpolated_ik_motion_planner, industrial_deprecated, move_arm_warehouse, constraint_aware_spline_smoother,
+  arm_kinematics_constraint_aware, planning_environment, warehouse_ros, ompl_ros_interface]
