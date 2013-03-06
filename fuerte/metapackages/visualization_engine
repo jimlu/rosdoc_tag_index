@@ -1,3 +1,3 @@
 [test_rve, rve_dynlib, rve_rpc, rve_properties, rve_interface_gen, rve_pluginloader,
-  rve_qt, rve_render_client, rve_interfaces, rve_transformer, rve_common, rve_common_transformers,
-  rve_msgs, rve_mesh_loader, rve_geometry, rve_render_server]
+  rve_qt, rve_render_client, rve_mesh_loader, rve_transformer, rve_common, rve_common_transformers,
+  rve_msgs, rve_geometry, rve_interfaces, rve_render_server]
