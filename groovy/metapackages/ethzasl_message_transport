@@ -1,3 +1,3 @@
-[bz2_transport, build_all_transport_pkg, compressed_imagem_transport, theora_imagem_transport,
+[bz2_transport, build_all_transport_pkg, theora_imagem_transport, compressed_imagem_transport,
   string_transport, imagem_transport, throttled_transport, udpmulti_transport, sharedmem_transport,
   message_transport_common, templated_transports, pointcloud_transport]
