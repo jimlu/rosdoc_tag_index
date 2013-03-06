@@ -1,1 +1,2 @@
-[industrial_robot_simulator, industrial_utils, simple_message, industrial_msgs, industrial_robot_client]
+[industrial_deprecated, industrial_robot_simulator, industrial_utils, simple_message,
+  industrial_robot_client, industrial_msgs]
