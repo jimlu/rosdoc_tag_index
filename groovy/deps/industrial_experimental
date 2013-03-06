@@ -1,2 +1,2 @@
 [arm_navigation, arm_navigation_experimental, common_msgs, geometry, industrial_core,
-  object_manipulation, perception_pcl, pr2_object_manipulation, ros, ros_comm]
+  object_manipulation, perception_pcl, pr2_object_manipulation, ros, ros_comm, orocos_kinematics_dynamics]
