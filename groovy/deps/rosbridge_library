@@ -1,0 +1,1 @@
+[catkin, roscpp, python-imaging, rosservice, rospy, rostopic]
