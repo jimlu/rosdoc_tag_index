@@ -7,10 +7,10 @@
 - {docs_url: ../../../api/pr2_test_moveit_manipulation/html, location: pr2_test_moveit_manipulation.tag,
   package: pr2_test_moveit_manipulation}
 - {docs_url: ../../../api/pr2_arm_ik_tests/html, location: pr2_arm_ik_tests.tag, package: pr2_arm_ik_tests}
-- {docs_url: ../../../api/pr2_ompl_planning_tests/html, location: pr2_ompl_planning_tests.tag,
-  package: pr2_ompl_planning_tests}
 - {docs_url: ../../../api/pr2_test_collision_distance_field/html, location: pr2_test_collision_distance_field.tag,
   package: pr2_test_collision_distance_field}
+- {docs_url: ../../../api/pr2_ompl_planning_tests/html, location: pr2_ompl_planning_tests.tag,
+  package: pr2_ompl_planning_tests}
 - {docs_url: ../../../api/pr2_planning_interface_tests/html, location: pr2_planning_interface_tests.tag,
   package: pr2_planning_interface_tests}
 - {docs_url: ../../../api/pr2_test_kinematic_constraints/html, location: pr2_test_kinematic_constraints.tag,
