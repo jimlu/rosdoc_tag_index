@@ -1,1 +1,1 @@
-[catkin, roscpp, python-imaging, rosservice, rospy, rostopic]
+[catkin, message_runtime, python-imaging, rosservice, rospy, rostopic, message_generation]
