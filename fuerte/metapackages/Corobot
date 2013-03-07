@@ -1,3 +1,3 @@
-[corobot_ssc32, corobot_state_tf, corobot_msgs, corobot_pantilt, corobot_map_to_jpeg,
-  corobot_joystick, corobot_arm, PhidgetMotor, corobot_teleop, corobot_srvs, PhidgetServo,
-  corobot_hokuyo, corobot_gps, corobot_camera, corobot_phidgetIK]
+[corobot_ssc32, corobot_state_tf, corobot_msgs, corobot_pantilt, corobot_srvs, corobot_map_to_jpeg,
+  corobot_teleop, PhidgetMotor, corobot_arm, corobot_gps, corobot_hokuyo, PhidgetServo,
+  corobot_camera, corobot_phidgetIK, corobot_joystick]
