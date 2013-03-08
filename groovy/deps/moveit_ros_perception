@@ -1,2 +1,2 @@
-[moveit_core, catkin, roscpp, message_filters, rosconsole, urdf, octomap, tf, tf_conversions,
-  pcl_ros]
+[moveit_core, catkin, roscpp, message_filters, rosconsole, glut, urdf, libglew-dev,
+  image_transport, opengl, octomap, tf, nodelet, tf_conversions, pcl_ros]
