@@ -1,3 +1,3 @@
-[smach_ros, roscpp, iri_wam_common_msgs, estirabot_msgs, actionlib_msgs, pcl, sensor_msgs,
-  actionlib, opencv2, smach, iri_planning_msgs, iri_action_server, cv_bridge, iri_base_algorithm,
+[smach_ros, roscpp, estirabot_msgs, actionlib_msgs, pcl, sensor_msgs, actionlib, opencv2,
+  smach, iri_planning_msgs, iri_perception_msgs, iri_action_server, cv_bridge, iri_base_algorithm,
   iri_common_smach]

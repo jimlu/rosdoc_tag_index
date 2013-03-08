@@ -1,1 +1,1 @@
-[iri_base_algorithm, sensor_msgs, roscpp]
+[iri_base_algorithm, visualization_msgs, sensor_msgs, roscpp, iri_segway_rmp_msgs]

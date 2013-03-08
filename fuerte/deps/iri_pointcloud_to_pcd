@@ -1,1 +1,1 @@
-[iri_base_algorithm, sensor_msgs, roscpp, pcl_ros]
+[iri_base_algorithm, sensor_msgs, roscpp, iri_perception_msgs, pcl_ros]
