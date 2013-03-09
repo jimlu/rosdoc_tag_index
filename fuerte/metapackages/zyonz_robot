@@ -1,4 +1,4 @@
-[zyonz_chlorophyll_meter_client, zyonz_obtain_roi_jump_edge_based, zyonz_find_leaf_probing_points,
-  zyonz_geometric_based_single_leaf_probing, zyonz_chlorophyll_meter, zyonz_apps,
-  zyonz_base, zyonz_camera_pose_around_point, zyonz_apps_base, zyonz_obtain_two_clustered_leaves,
-  zyonz_image_based_leaf_probing, zyonz_tof_color, zyonz_msgs, zyonz_nbv_geometric_simple]
+[zyonz_apps, zyonz_find_leaf_probing_points, zyonz_obtain_roi_jump_edge_based, zyonz_tof_color,
+  zyonz_geometric_based_single_leaf_probing, zyonz_chlorophyll_meter, zyonz_camera_pose_around_point,
+  zyonz_base, zyonz_obtain_two_clustered_leaves, zyonz_apps_base, zyonz_chlorophyll_meter_client,
+  zyonz_image_based_leaf_probing, zyonz_msgs, zyonz_nbv_geometric_simple]
