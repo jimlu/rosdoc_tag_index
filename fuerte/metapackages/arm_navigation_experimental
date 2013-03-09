@@ -1,4 +1,4 @@
-[move_arm_head_monitor, collision_proximity_planner, arm_navigation_experimental_tools,
-  collider, head_monitor_msgs, interpolated_ik_motion_planner, chomp_motion_planner,
-  move_arm_warehouse, distance_field, trajectory_execution_monitor, collision_proximity,
-  collision_free_arm_trajectory_controller]
+[head_monitor_msgs, collision_proximity_planner, arm_navigation_experimental_tools,
+  trajectory_execution_monitor, collider, move_arm_head_monitor, interpolated_ik_motion_planner,
+  chomp_motion_planner, distance_field, move_arm_warehouse, collision_free_arm_trajectory_controller,
+  collision_proximity]
