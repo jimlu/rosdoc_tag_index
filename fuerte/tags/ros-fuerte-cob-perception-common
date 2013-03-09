@@ -1,2 +1,6 @@
+- {docs_url: ../../../api/cob_perception_msgs/html, location: cob_perception_msgs.tag,
+  package: cob_perception_msgs}
 - {docs_url: ../../../api/cob_vision_utils/html, location: cob_vision_utils.tag, package: cob_vision_utils}
 - {docs_url: ../../../api/cob_image_flip/html, location: cob_image_flip.tag, package: cob_image_flip}
+- {docs_url: ../../../api/cob_object_detection_msgs/html, location: cob_object_detection_msgs.tag,
+  package: cob_object_detection_msgs}
