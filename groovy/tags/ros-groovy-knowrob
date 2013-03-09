@@ -1,0 +1,15 @@
+- {docs_url: ../../../api/jpl/html, location: jpl.tag, package: jpl}
+- {docs_url: ../../../api/knowrob_common/html, location: knowrob_common.tag, package: knowrob_common}
+- {docs_url: ../../../api/tf_prolog/html, location: tf_prolog.tag, package: tf_prolog}
+- {docs_url: ../../../api/knowrob_objects/html, location: knowrob_objects.tag, package: knowrob_objects}
+- {docs_url: ../../../api/knowrob_actions/html, location: knowrob_actions.tag, package: knowrob_actions}
+- {docs_url: ../../../api/srldb/html, location: srldb.tag, package: srldb}
+- {docs_url: ../../../api/comp_cop/html, location: comp_cop.tag, package: comp_cop}
+- {docs_url: ../../../api/comp_germandeli/html, location: comp_germandeli.tag, package: comp_germandeli}
+- {docs_url: ../../../api/knowrob_cad_parser/html, location: knowrob_cad_parser.tag,
+  package: knowrob_cad_parser}
+- {docs_url: ../../../api/mod_vis/html, location: mod_vis.tag, package: mod_vis}
+- {docs_url: ../../../api/json_prolog/html, location: json_prolog.tag, package: json_prolog}
+- {docs_url: ../../../api/mod_probcog/html, location: mod_probcog.tag, package: mod_probcog}
+- {docs_url: ../../../api/mod_srdl/html, location: mod_srdl.tag, package: mod_srdl}
+- {docs_url: ../../../api/knowrob_omics/html, location: knowrob_omics.tag, package: knowrob_omics}

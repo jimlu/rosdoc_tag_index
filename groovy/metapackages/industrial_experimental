@@ -1,2 +1,2 @@
-[object_manipulation_tools, industrial_io_client, perception_tools, industrial_trajectory_filters,
-  arm_workspace_evaluator]
+[perception_tools, industrial_io_client, arm_workspace_evaluator, object_manipulation_tools,
+  industrial_trajectory_filters]
