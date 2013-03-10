@@ -1,2 +1,2 @@
-[nav_msgs, catkin, arbotix_msgs, actionlib, sensor_msgs, python-serial, diagnistic_msgs,
-  rospy, control_msgs, tf, geometry_msgs]
+[nav_msgs, catkin, arbotix_msgs, actionlib, sensor_msgs, python-serial, rospy, control_msgs,
+  tf, geometry_msgs, diagnostic_msgs]
