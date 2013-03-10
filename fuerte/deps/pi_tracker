@@ -1,1 +1,2 @@
-[nav_msgs, kdl, roscpp, urdf, std_msgs, geometry_msgs, nite, tf, rospy, rviz]
+[nav_msgs, kdl, openni-dev, roscpp, ps-engine, urdf, std_msgs, geometry_msgs, tf,
+  rospy, rviz]
