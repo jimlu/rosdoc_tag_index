@@ -4,4 +4,3 @@
 - {docs_url: ../../../api/arbotix_controllers/html, location: arbotix_controllers.tag,
   package: arbotix_controllers}
 - {docs_url: ../../../api/arbotix_sensors/html, location: arbotix_sensors.tag, package: arbotix_sensors}
-- {docs_url: ../../../api/arbotix/html, location: arbotix.tag, package: arbotix}
