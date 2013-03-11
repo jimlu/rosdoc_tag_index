@@ -5,4 +5,3 @@
 - {docs_url: ../../../api/rosserial_embeddedlinux/html, location: rosserial_embeddedlinux.tag,
   package: rosserial_embeddedlinux}
 - {docs_url: ../../../api/rosserial_python/html, location: rosserial_python.tag, package: rosserial_python}
-- {docs_url: ../../../api/rosserial/html, location: rosserial.tag, package: rosserial}
