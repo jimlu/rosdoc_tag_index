@@ -1,1 +1,1 @@
-[sensor_msgs, iri_base_algorithm, estirabot_msgs, roscpp]
+[sensor_msgs, iri_base_algorithm, estirabot_msgs, roscpp, iri_learning_msgs]
