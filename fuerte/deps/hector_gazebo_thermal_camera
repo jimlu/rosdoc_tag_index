@@ -1,2 +1,1 @@
-[dynamic_reconfigure, nodelet, image_transport, driver_base, gazebo_plugins, gazebo,
-  pcl_ros]
+[dynamic_reconfigure, nodelet, image_transport, driver_base, gazebo_plugins, gazebo]
