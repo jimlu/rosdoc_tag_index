@@ -1,1 +1,1 @@
-[kingfisher_msgs, rosserial_python, rospy, std_msgs]
+[kingfisher_msgs, rosserial_python, rospy, dynamic_reconfigure, std_msgs]
