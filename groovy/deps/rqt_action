@@ -1,1 +1,1 @@
-[rqt_msg, catkin, actionlib, rospy, rqt_py_common]
+[rqt_msg, rospy, catkin, rqt_py_common]
