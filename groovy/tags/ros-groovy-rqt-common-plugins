@@ -1,1 +1,2 @@
-- {docs_url: ../../../api/rqt_action/html, location: rqt_action.tag, package: rqt_action}
+- {docs_url: ../../../api/rqt_common_plugins/html, location: rqt_common_plugins.tag,
+  package: rqt_common_plugins}
