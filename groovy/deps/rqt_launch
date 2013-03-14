@@ -1,0 +1,1 @@
+[roslaunch, catkin, rqt_gui, rospy, rqt_gui_py, unittest, rqt_py_common]
