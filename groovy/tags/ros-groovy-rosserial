@@ -1,7 +1,1 @@
-- {docs_url: ../../../api/rosserial_msgs/html, location: rosserial_msgs.tag, package: rosserial_msgs}
-- {docs_url: ../../../api/rosserial_client/html, location: rosserial_client.tag, package: rosserial_client}
-- {docs_url: ../../../api/rosserial_arduino/html, location: rosserial_arduino.tag,
-  package: rosserial_arduino}
-- {docs_url: ../../../api/rosserial_embeddedlinux/html, location: rosserial_embeddedlinux.tag,
-  package: rosserial_embeddedlinux}
-- {docs_url: ../../../api/rosserial_python/html, location: rosserial_python.tag, package: rosserial_python}
+- {docs_url: ../../../api/rosserial/html, location: rosserial.tag, package: rosserial}
