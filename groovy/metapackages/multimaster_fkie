@@ -1,1 +1,1 @@
-[default_cfg_fkie, master_discovery_fkie, master_sync_fkie, node_manager_fkie]
+[master_sync_fkie, master_discovery_fkie, default_cfg_fkie, node_manager_fkie]
