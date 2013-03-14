@@ -1,0 +1,1 @@
+[catkin, roscpp, collada_parser, collada-dom, urdf, resource_retriever, assimp, angles]

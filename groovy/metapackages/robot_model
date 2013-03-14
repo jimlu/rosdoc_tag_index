@@ -1,0 +1,4 @@
+[urdf_parser, ivcon, catkin, collada-dom, urdf, srdf, graphviz, collada_urdf, curl,
+  ros, collada_parser, urdfdom_headers, convex_decomposition, urdf_interface, robot_state_publisher,
+  ros_comm, resource_retriever, assimp, angles, common_msgs, geometry, kdl_parser,
+  rosconsole_bridge, urdfdom, orocos_kdl]
