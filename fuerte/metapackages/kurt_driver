@@ -1,2 +1,2 @@
-[kurt_description, kurt_gazebo, imu_recalibration, kurt_gazebo_plugins, kurt_bringup,
+[kurt_gazebo_plugins, kurt_gazebo, imu_recalibration, kurt_description, kurt_bringup,
   kurt_teleop, rotunit_snapshotter, kurt_base]
