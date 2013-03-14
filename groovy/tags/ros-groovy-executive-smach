@@ -1,1 +1,2 @@
 - {docs_url: ../../../api/smach_msgs/html, location: smach_msgs.tag, package: smach_msgs}
+- {docs_url: ../../../api/executive_smach/html, location: executive_smach.tag, package: executive_smach}

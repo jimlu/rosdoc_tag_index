@@ -1,13 +1,13 @@
 - {docs_url: ../../../api/turtlebot_wviz/html, location: turtlebot_wviz.tag, package: turtlebot_wviz}
-- {docs_url: ../../../api/rosjs_pr2interaction/html, location: rosjs_pr2interaction.tag,
-  package: rosjs_pr2interaction}
-- {docs_url: ../../../api/rosjs_remotelabwidgets/html, location: rosjs_remotelabwidgets.tag,
-  package: rosjs_remotelabwidgets}
-- {docs_url: ../../../api/ping/html, location: ping.tag, package: ping}
-- {docs_url: ../../../api/rosjs_tests/html, location: rosjs_tests.tag, package: rosjs_tests}
-- {docs_url: ../../../api/robot_booking/html, location: robot_booking.tag, package: robot_booking}
 - {docs_url: ../../../api/pr2_pick_and_place_service/html, location: pr2_pick_and_place_service.tag,
   package: pr2_pick_and_place_service}
+- {docs_url: ../../../api/rosjs_remotelabwidgets/html, location: rosjs_remotelabwidgets.tag,
+  package: rosjs_remotelabwidgets}
+- {docs_url: ../../../api/rosjs_tests/html, location: rosjs_tests.tag, package: rosjs_tests}
+- {docs_url: ../../../api/ping/html, location: ping.tag, package: ping}
+- {docs_url: ../../../api/robot_booking/html, location: robot_booking.tag, package: robot_booking}
+- {docs_url: ../../../api/rosjs_pr2interaction/html, location: rosjs_pr2interaction.tag,
+  package: rosjs_pr2interaction}
 - {docs_url: ../../../api/rosjs_assisted_teleoperation/html, location: rosjs_assisted_teleoperation.tag,
   package: rosjs_assisted_teleoperation}
 - {docs_url: ../../../api/remote_lab_examples/html, location: remote_lab_examples.tag,
