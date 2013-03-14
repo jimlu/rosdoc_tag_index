@@ -1,1 +1,2 @@
-[std_srvs, actionlib, std_msgs, smach, rostest, rospy, rostopic, smach_msgs, actionlib_msgs]
+[catkin, actionlib, std_msgs, smach, rostest, rospy, rostopic, smach_msgs, std_srvs,
+  actionlib_msgs]
