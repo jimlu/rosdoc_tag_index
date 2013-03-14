@@ -2,7 +2,7 @@
   package: hector_gazebo_plugins}
 - {docs_url: ../../../api/hector_gazebo_worlds/html, location: hector_gazebo_worlds.tag,
   package: hector_gazebo_worlds}
-- {docs_url: ../../../api/hector_gazebo_thermal_camera/html, location: hector_gazebo_thermal_camera.tag,
-  package: hector_gazebo_thermal_camera}
 - {docs_url: ../../../api/gazebo_rtt_plugin/html, location: gazebo_rtt_plugin.tag,
   package: gazebo_rtt_plugin}
+- {docs_url: ../../../api/hector_gazebo_thermal_camera/html, location: hector_gazebo_thermal_camera.tag,
+  package: hector_gazebo_thermal_camera}
