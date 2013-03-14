@@ -1,0 +1,9 @@
+- {docs_url: ../../../api/industrial_deprecated/html, location: industrial_deprecated.tag,
+  package: industrial_deprecated}
+- {docs_url: ../../../api/industrial_msgs/html, location: industrial_msgs.tag, package: industrial_msgs}
+- {docs_url: ../../../api/simple_message/html, location: simple_message.tag, package: simple_message}
+- {docs_url: ../../../api/industrial_utils/html, location: industrial_utils.tag, package: industrial_utils}
+- {docs_url: ../../../api/industrial_robot_client/html, location: industrial_robot_client.tag,
+  package: industrial_robot_client}
+- {docs_url: ../../../api/industrial_robot_simulator/html, location: industrial_robot_simulator.tag,
+  package: industrial_robot_simulator}
