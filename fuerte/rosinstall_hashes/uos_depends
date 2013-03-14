@@ -1,0 +1,5 @@
+{stacks/RCPRG_laser_drivers: f571a3ef8143ecd050d0b08e9894828f42599d56, stacks/laser_drivers: '40370',
+  stacks/navigation: e7d6c19ffe1301a4ff82200d99368679f5cc7664, stacks/object_manipulation: '55302',
+  stacks/pr2_common_actions: '55302', stacks/pr2_object_manipulation: '55302', stacks/sicks300: '74',
+  stacks/simulator_gazebo: '40370', stacks/uos-camera_umd: 6de715ad245cf46d62fcb328de5fb8f2021b9a1d,
+  stacks/urdf_tools: '55'}

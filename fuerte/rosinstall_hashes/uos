@@ -1,0 +1,5 @@
+{jenkins_scripts-sys: 69e0e8eb7bd84b0893f034fbf972ec53ef696b76, katana_driver: 7d937750bdb7f014c17114811a97d874eaac09b5,
+  katana_manipulation: f55b5b25774d0a286abdc4b7622569dbbd7ff683, kurt_apps: b7746f0cd014d2214bbf81f75a52207ff49a7763,
+  kurt_driver: f8c43688682592faea71d2eb04c372ce0a3d7380, kurtana_robot: 1ff1abc7ac1c0170c33e2592e6bbe24f32b6a0d1,
+  rosdoc_lite-sys: 50f735fc7b74a31c0c630798229ccd2faf90ef64, sick_tim3xx: 8fa6a0b1d3edf92cdf69de482a75661c3d17b50b,
+  uos_slam: 6cd9a7760ab3aad5929cb49f9fa52646c1841fa3, uos_tools: f14b40c5661744d1a811460d09cb518457e6e3ac}
