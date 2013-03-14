@@ -1,1 +1,1 @@
-[roscpp_traits, cpp_common, rostime, roscpp_serialization]
+[roscpp_traits, rostime, cpp_common, catkin, roscpp_serialization]
