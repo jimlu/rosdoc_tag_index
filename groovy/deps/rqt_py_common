@@ -1,1 +1,1 @@
-[rospy, roslib, catkin, qt_gui, rostopic]
+[genpy, catkin, actionlib, roslib, rospy, qt_gui, rosbag, rostopic]
