@@ -1,2 +1,2 @@
-[nav_msgs, shape_msgs, stereo_msgs, actionlib_msgs, trajectory_msgs, sensor_msgs,
+[nav_msgs, shape_msgs, catkin, stereo_msgs, actionlib_msgs, trajectory_msgs, sensor_msgs,
   geometry_msgs, visualization_msgs, diagnostic_msgs]

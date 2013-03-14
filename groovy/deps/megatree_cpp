@@ -1,1 +1,1 @@
-[megatree_core, gtest, megatree_storage, eigen]
+[megatree_core, gtest, rostest, megatree_storage, eigen]

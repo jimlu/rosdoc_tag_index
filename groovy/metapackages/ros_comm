@@ -1,3 +1,3 @@
-[rosgraph_msgs, rosconsole, rosnode, std_srvs, roscpp, message_filters, xmlrpcpp,
-  rosparam, rosgraph, topic_tools, rostopic, roswtf, rosout, rosmaster, rospy, roslaunch,
-  rosservice, rostest, ros, rosbag, rosmsg]
+[rosconsole, catkin, rosgraph, ros, roscpp, rosparam, rosout, topic_tools, rostest,
+  rostopic, roswtf, roslaunch, message_filters, rosservice, rospy, rosgraph_msgs,
+  std_srvs, xmlrpcpp, rosmaster, rosmsg, rosnode, rosbag]
