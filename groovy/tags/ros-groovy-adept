@@ -1,0 +1,5 @@
+- {docs_url: ../../../api/ADEPT_VIPER_S650_ikfast_arm_navigation/html, location: ADEPT_VIPER_S650_ikfast_arm_navigation.tag,
+  package: ADEPT_VIPER_S650_ikfast_arm_navigation}
+- {docs_url: ../../../api/adept_common/html, location: adept_common.tag, package: adept_common}
+- {docs_url: ../../../api/ADEPT_VIPER_S650_arm_navigation/html, location: ADEPT_VIPER_S650_arm_navigation.tag,
+  package: ADEPT_VIPER_S650_arm_navigation}
