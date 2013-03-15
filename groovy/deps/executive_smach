@@ -1,1 +1,1 @@
-[actionlib, common_msgs, ros, ros_comm]
+[smach, catkin, emach_ros, smach_msgs]
