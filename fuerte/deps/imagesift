@@ -1,0 +1,1 @@
+[roscpp, sensor_msgs, libsiftfast, opencv2, image_transport, posedetection_msgs, cv_bridge]

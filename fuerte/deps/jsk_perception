@@ -1,0 +1,2 @@
+[imagesift, image_geometry, roseus, sensor_msgs, image_transport, opencv2, driver_base,
+  rospy, dynamic_reconfigure, pcl, geometry_msgs, cv_bridge, pcl_ros]

@@ -1,0 +1,2 @@
+[rospack, roscpp, euslisp, coreutils, std_srvs, actionlib_msgs, std_msgs, sensor_msgs,
+  geometry_msgs, actionlib_tutorials, visualization_msgs, tf, bullet, roslang, actionlib]

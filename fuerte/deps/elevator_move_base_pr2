@@ -1,0 +1,2 @@
+[nav_msgs, image_geometry, roseus, std_srvs, roscpp, roseus_smach, cv_bridge, image_transport,
+  pr2eus, opencv2, rospy, jsk_maps, move_base_msgs, jsk_perception, sound_play]

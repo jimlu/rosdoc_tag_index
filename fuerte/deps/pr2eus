@@ -1,0 +1,2 @@
+[nav_msgs, dynamic_reconfigure, roseus, euscollada, pr2_msgs, move_base_msgs, sound_play,
+  pr2_controllers_msgs]

@@ -1,0 +1,3 @@
+[dynamic_reconfigure, image_geometry, roseus, object_snapshotter, jsk_gui_msgs, jsk_pcl_ros,
+  posedetection_msgs, sensor_msgs, dynamic_tf_publisher, image_transport, tf, topic_tools,
+  geometry_msgs, jsk_maps, visualization_msgs, std_msgs, sound_play, image_view2]

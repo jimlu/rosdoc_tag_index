@@ -1,0 +1,2 @@
+[dynamic_reconfigure, image_geometry, std_srvs, stereo_msgs, nodelet, image_transport,
+  opencv2, geometry_msgs, pcl, tf, tbb, cv_bridge, pcl_ros]

@@ -1,0 +1,1 @@
+[opencv2, sensor_msgs, cv_bridge, roscpp, posedetection_msgs]

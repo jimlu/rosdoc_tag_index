@@ -1,0 +1,6 @@
+[imagesift, pr2_navigation_self_filter, aques_talk, dynamic_tf_publisher, pr2_move_base,
+  pr2_2dnav, pr2_navigation_slam, mjpeg_server, topic_tools, jsk_maps, sound_play,
+  pr2_navigation_teleop, map_server, jsk_pcl_ros, openni_camera, pr2_teleop_general_jsk_patch,
+  pr2_gripper_sensor_action, face_detector_mono, pr2_base_trajectory_action, image_view2,
+  move_base, pr2_arm_navigation_perception, python_twoauth, posedetectiondb, safe_teleop_pr2,
+  amcl, jsk_smart_gui]

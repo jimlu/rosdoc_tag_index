@@ -1,0 +1,2 @@
+[trajectory_msgs, roscpp, std_msgs, actionlib, openraveros, sensor_msgs, geometry_msgs,
+  posedetection_msgs, tf, kinematics_msgs, openrave, arm_navigation_msgs]

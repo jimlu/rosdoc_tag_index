@@ -1,0 +1,3 @@
+[uvc_camera, aques_talk, roseus, image_proc, checkerboard_pose, ar_pose, tabletop_object_detector,
+  saliency_tracking, checkerboard_detector, jsk_perception, visualization_msgs, face_detector_mono,
+  cmvision, image_view2]

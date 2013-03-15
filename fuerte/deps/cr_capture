@@ -1,0 +1,2 @@
+[dynamic_reconfigure, roscpp, message_filters, sensor_msgs, image_transport, opencv2,
+  driver_base, geometry_msgs, tf, cv_bridge]

@@ -1,0 +1,2 @@
+[image_geometry, std_srvs, image_view_jsk_patch, checkerboard_detector, openni_camera,
+  opencv2, depth_image_proc_jsk_patch, jsk_tools]
