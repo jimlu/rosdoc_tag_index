@@ -1,2 +1,2 @@
-[eddiebot_driver, compressed_image_transport, joy, robot_state_publisher, pointcloud_to_laserscan,
-  eddiebot_node, openni_camera, eddiebot_description, app_manager]
+[eddiebot_driver, compressed_image_transport, joy, robot_state_publisher, eddiebot_node,
+  openni_camera, eddiebot_description, app_manager]
