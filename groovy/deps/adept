@@ -1,1 +1,2 @@
-[arm_navigation, common, common_msgs, control, robot_model, ros, ros_comm, industrial_core]
+[arm_navigation, arm_navigation_experimental, common, common_msgs, control, robot_model,
+  ros, ros_comm, industrial_core, warehouse_ros, moveit_core]
