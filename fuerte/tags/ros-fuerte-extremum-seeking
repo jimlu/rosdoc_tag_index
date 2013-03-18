@@ -1,7 +1,7 @@
 - {docs_url: ../../../api/esc_common/html, location: esc_common.tag, package: esc_common}
 - {docs_url: ../../../api/esc_ros/html, location: esc_ros.tag, package: esc_ros}
 - {docs_url: ../../../api/esc_nn/html, location: esc_nn.tag, package: esc_nn}
-- {docs_url: ../../../api/esc_approx/html, location: esc_approx.tag, package: esc_approx}
+- {docs_url: ../../../api/esc_sm/html, location: esc_sm.tag, package: esc_sm}
 - {docs_url: ../../../api/esc_test/html, location: esc_test.tag, package: esc_test}
 - {docs_url: ../../../api/esc_perturb/html, location: esc_perturb.tag, package: esc_perturb}
-- {docs_url: ../../../api/esc_sm/html, location: esc_sm.tag, package: esc_sm}
+- {docs_url: ../../../api/esc_approx/html, location: esc_approx.tag, package: esc_approx}
