@@ -1,2 +1,2 @@
-[roscpp, std_msgs, sensor_msgs, resource_retriever, image_transport, rospy, visualization_msgs,
-  tf, geometry_msgs, cv_bridge, pcl_ros]
+[roscpp, std_msgs, sensor_msgs, resource_retriever, image_transport, eigen, rospy,
+  visualization_msgs, tf, geometry_msgs, cv_bridge, pcl_ros]
