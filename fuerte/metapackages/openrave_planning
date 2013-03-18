@@ -1,3 +1,3 @@
-[collada_robots, openrave_sensors, openrave_calibration, orrosplanning, session_tutorials,
-  roscpp_sessions, openrave_robot_filter, openrave_msgs, openraveros_tutorials, openraveros,
-  openrave_actionlib, openrave, openrave_database, openrave_robot_control]
+[collada_robots, openrave_sensors, openrave_robot_control, orrosplanning, session_tutorials,
+  roscpp_sessions, openraveros, openrave_msgs, openraveros_tutorials, openrave_robot_filter,
+  openrave_actionlib, openrave, openrave_database, openrave_calibration]

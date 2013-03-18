@@ -1,1 +1,1 @@
-[parallel_util, posedetection_msgs, jsk_tools]
+[jsk_tools, parallel_util, posedetection_msgs]
