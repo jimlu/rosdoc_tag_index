@@ -1,1 +1,2 @@
+- {docs_url: ../../../api/rqt_gps/html, location: rqt_gps.tag, package: rqt_gps}
 - {docs_url: ../../../api/rqt_tf_tree/html, location: rqt_tf_tree.tag, package: rqt_tf_tree}

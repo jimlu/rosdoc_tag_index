@@ -1,2 +1,2 @@
-[maxwell_arm_navigation, maxwell_navigation, maxwell_interactive_markers, maxwell_calibration,
-  maxwell_defs]
+[maxwell_calibration, maxwell_interactive_markers, maxwell_arm_navigation, maxwell_defs,
+  maxwell_navigation]
