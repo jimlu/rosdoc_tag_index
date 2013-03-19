@@ -1,0 +1,2 @@
+[nav_msgs, laser_geometry, roscpp, message_filters, joy, actionlib, sensor_msgs, move_base_msgs,
+  geometry_msgs, tf]

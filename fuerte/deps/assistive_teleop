@@ -1,0 +1,3 @@
+[rosbridge_server, pr2_common_action_msgs, actionlib, image_rotate, std_msgs, mjpeg_server,
+  pixel_2_3d, topic_tools, rospy, pr2_msgs, control_msgs, tf, geometry_msgs, arm_navigation_msgs,
+  sound_play, kinematics_msgs, pr2_controllers_msgs]

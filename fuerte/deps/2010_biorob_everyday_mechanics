@@ -1,0 +1,2 @@
+[hrl_lib, equilibrium_point_control, checkerboard_detector, hrl_tilting_hokuyo, opencv2,
+  rospy, force_torque, cv_bridge, hrl_camera]

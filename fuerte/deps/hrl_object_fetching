@@ -1,0 +1,2 @@
+[roslaunch, opencv2, pcl, bullet, spline_smoother, pr2_overhead_grasping, rospy, image_transport,
+  hrl_rfid, tf, hrl_cvblobslib, rosnode, cv_bridge, pcl_ros]

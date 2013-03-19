@@ -1,0 +1,2 @@
+[hrl_lib, actionlib, pr2_arm_kinematics, rospy, visualization_msgs, tf, geometry_msgs,
+  kinematics_msgs, pr2_controllers_msgs]
