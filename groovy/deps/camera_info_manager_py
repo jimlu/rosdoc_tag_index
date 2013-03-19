@@ -1,1 +1,1 @@
-[sensor_msgs, rospy, python-yaml]
+[python-yaml, catkin, sensor_msgs, rostest, rospy, rosunit]
