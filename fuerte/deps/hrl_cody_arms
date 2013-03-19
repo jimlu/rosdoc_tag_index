@@ -1,0 +1,1 @@
+[kdl, hrl_lib, std_srvs, equilibrium_point_control, std_msgs, rospy, visualization_msgs]

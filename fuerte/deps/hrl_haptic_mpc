@@ -1,0 +1,3 @@
+[hrl_lib, trajectory_msgs, hrl_haptic_manipulation_in_clutter_srvs, hrl_haptic_manipulation_in_clutter_msgs,
+  python, pykdl_utils, interactive_markers, std_msgs, hrl_cody_arms, python-openopt,
+  rospy, geometry_msgs, pr2_controllers_msgs]

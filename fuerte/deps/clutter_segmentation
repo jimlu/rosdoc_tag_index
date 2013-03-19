@@ -1,0 +1,2 @@
+[hrl_lib, message_filters, std_msgs, sensor_msgs, opencv2, pr2_clutter_helper, rospy,
+  python-opencv, geometry_msgs]
