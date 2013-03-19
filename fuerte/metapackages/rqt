@@ -1,5 +1,5 @@
 [rqt_py_console, rqt_image_view, rqt_graph, rqt_console, rqt_runtime_monitor, rqt_srv,
-  rqt_gui_cpp, rqt_bag, rqt_gui, rqt_plot, rqt_publisher, rqt_robot_steering, rqt_web,
+  rqt_dep, rqt_bag, rqt_gui, rqt_plot, rqt_publisher, rqt_robot_steering, rqt_web,
   rqt_shell, rqt_nav_view, rqt_topic, rqt_gui_py, rqt_rviz, rqt_py_common, rqt_tf_tree,
-  rqt_robot_dashboard, rqt_service_caller, rqt_msg, rqt_logger_level, rqt_bag_plugins,
-  rqt_dep, rqt_robot_monitor, rqt_pr2_dashboard, rqt_pose_view, rqt_param]
+  rqt_robot_dashboard, rqt_logger_level, rqt_msg, rqt_service_caller, rqt_bag_plugins,
+  rqt_gui_cpp, rqt_param, rqt_pr2_dashboard, rqt_pose_view, rqt_robot_monitor]
