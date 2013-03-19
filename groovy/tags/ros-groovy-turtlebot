@@ -1,7 +1,7 @@
 - {docs_url: ../../../api/turtlebot_app_manager/html, location: turtlebot_app_manager.tag,
   package: turtlebot_app_manager}
-- {docs_url: ../../../api/turtlebot_description/html, location: turtlebot_description.tag,
-  package: turtlebot_description}
 - {docs_url: ../../../api/linux_hardware/html, location: linux_hardware.tag, package: linux_hardware}
 - {docs_url: ../../../api/turtlebot_bringup/html, location: turtlebot_bringup.tag,
   package: turtlebot_bringup}
+- {docs_url: ../../../api/turtlebot_description/html, location: turtlebot_description.tag,
+  package: turtlebot_description}
