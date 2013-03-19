@@ -1,0 +1,2 @@
+[m3skin_ros, hrl_lib, hrl_haptic_manipulation_in_clutter_msgs, hrl_msgs, m3skin_rviz_demo,
+  rospy, geometry_msgs]

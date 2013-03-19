@@ -1,0 +1,1 @@
+[smach_ros, actionlib, trajectory_msgs, smach, rospy, actionlib_msgs, pr2_controllers_msgs]

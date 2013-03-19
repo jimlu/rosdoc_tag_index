@@ -1,0 +1,2 @@
+[hrl_behavior_manager, hrl_move_floor_detect, pr2_grasp_behaviors, hrl_table_detect,
+  hrl_clickable_world, pr2_approach_table, hrl_clickable_behaviors, pr2_collision_monitor]

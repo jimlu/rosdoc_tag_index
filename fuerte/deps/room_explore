@@ -1,0 +1,2 @@
+[actionlib, std_msgs, explore_hrl, move_base_msgs, geometry_msgs, visualization_msgs,
+  tf, rospy, actionlib_msgs]

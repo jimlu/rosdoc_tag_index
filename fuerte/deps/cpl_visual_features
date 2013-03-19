@@ -1,0 +1,1 @@
+[roscpp, message_filters, roslib, sensor_msgs, opencv2, cv_bridge]

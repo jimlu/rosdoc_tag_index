@@ -1,0 +1,2 @@
+[roscpp, roslib, sensor_msgs, image_transport, opencv2, geometry_msgs, pcl, cv_bridge,
+  openni, pcl_ros]

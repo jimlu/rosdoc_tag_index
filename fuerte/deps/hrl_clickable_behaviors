@@ -1,0 +1,2 @@
+[hrl_move_floor_detect, std_srvs, roscpp, pr2_grasp_behaviors, actionlib, roslib,
+  hrl_clickable_world, rospy, move_base_msgs, pr2_approach_table, hrl_table_detect]

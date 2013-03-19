@@ -1,0 +1,3 @@
+[freeglut3-dev, hrl_lib, libxt-dev, roscpp, tcsh, libncurses5-dev, libmotif-dev, libx11-dev,
+  geometry_msgs, libexpat1-dev, x11proto-print-dev, tf, rospy, libglw1-mesa, libdrm-dev,
+  x11proto-gl-dev, x11proto-dri2-dev]

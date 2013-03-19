@@ -1,0 +1,2 @@
+[pr2_controller_interface, realtime_tools, hrl_pr2_arms, pr2_manipulation_controllers,
+  tf, rosrt]

@@ -1,0 +1,2 @@
+[std_srvs, hrl_pr2_traj_playback, hrl_pr2_ar_servo, rospy, hrl_head_registration,
+  ar_pose, hrl_ellipsoidal_control]
