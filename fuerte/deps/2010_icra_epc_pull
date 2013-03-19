@@ -1,0 +1,2 @@
+[hrl_lib, segway_omni, vis_odometry_feat, hrl_tilting_hokuyo, geometry_msgs, zenither,
+  rospy, hrl_hokuyo, segway_vo]

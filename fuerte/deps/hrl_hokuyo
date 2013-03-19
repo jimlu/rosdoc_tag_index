@@ -1,0 +1,1 @@
+[hrl_lib, hokuyo_node, sensor_msgs, rospy]

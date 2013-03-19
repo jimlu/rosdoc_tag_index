@@ -1,0 +1,2 @@
+[image_geometry, std_srvs, roscpp, roslib, std_msgs, image_transport, opencv2, smach,
+  rospy, pixel_2_3d, visualization_msgs, tf, geometry_msgs, cv_bridge]

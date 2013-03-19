@@ -1,0 +1,2 @@
+[image_geometry, roscpp, image_transport, eigen_conversions, opencv2, pcl, cv_bridge,
+  pcl_ros]

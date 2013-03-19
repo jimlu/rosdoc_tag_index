@@ -1,0 +1,2 @@
+[teleop_controllers, polled_camera, actionlib, pr2_laser_snapshotter, opencv2, geometry_msgs,
+  pr2_msgs, phantom_omni, hrl_camera, pr2_controllers_msgs]

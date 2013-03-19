@@ -1,0 +1,5 @@
+[hrl_lib, ml_lib, pr2_mechanism_msgs, actionlib_msgs, trajectory_msgs, interpolated_ik_motion_planner,
+  kinematics_msgs, libsvm3, hrl_camera, pr2_gripper_reactive_approach, actionlib,
+  pr2_msgs, visualization_msgs, message_filters, hrl_pr2_lib, std_msgs, sensor_msgs,
+  opencv2, laser_interface, rospy, move_base_msgs, cv_bridge, pr2_controllers_msgs,
+  dynamic_reconfigure, feature_extractor_fpfh, geometry_msgs]

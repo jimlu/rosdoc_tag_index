@@ -1,0 +1,8 @@
+[command_generator_PR2, pr2_arm_navigation_planning, actionlib_msgs, interpolated_ik_motion_planner,
+  book_stacking_msgs, kinematics_msgs, household_objects_database, pcl_ros, tabletop_collision_map_processing,
+  roscpp, arm_navigation_msgs, planning_environment, pr2_arm_navigation_filtering,
+  pr2_machine, topic_tools, omnix, pr2_msgs, pcl, visualization_msgs, pr2_arm_navigation_kinematics,
+  pr2_controllers_msgs, pr2_navigation_config, sensor_msgs, std_msgs, robot_self_filter,
+  object_manipulator, laser_assembler, pr2_move_base, pr2_gazebo, move_base, trajectory_filter_server,
+  pr2_arm_navigation_perception, simple_Jtranspose_controller, pr2_arm_navigation_actions,
+  pr2_grasp_adjust, object_manipulation_msgs]

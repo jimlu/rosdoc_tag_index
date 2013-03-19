@@ -1,0 +1,1 @@
+[hrl_lib, hrl_common_code_darpa_m3, rospy, geometry_msgs, hrl_msgs]

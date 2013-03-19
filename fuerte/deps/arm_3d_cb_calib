@@ -1,0 +1,1 @@
+[roscpp, stereo_msgs, sensor_msgs, opencv2, tf, cv_bridge, camera_calibration]

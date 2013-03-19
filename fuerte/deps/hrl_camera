@@ -1,0 +1,1 @@
+[hrl_lib, polled_camera, hrl_opencv, sensor_msgs, opencv2, rospy, cv_bridge]

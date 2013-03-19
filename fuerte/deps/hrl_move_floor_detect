@@ -1,0 +1,2 @@
+[roslaunch, move_base, bullet, image_geometry, image_transport, opencv2, nav_core,
+  rospy, pcl, tf, rosnode, cv_bridge, pcl_ros]

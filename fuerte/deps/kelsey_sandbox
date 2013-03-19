@@ -1,0 +1,3 @@
+[image_geometry, roscpp, pr2_controller_interface, std_msgs, filters, pluginlib, sensor_msgs,
+  image_transport, opencv2, laser_interface, rospy, pr2_msgs, pcl, pixel_2_3d, tf,
+  geometry_msgs, cv_bridge, python_orocos_kdl, camera_calibration]
