@@ -1,0 +1,2 @@
+[nav_msgs, navfn, roscpp, costmap_2d, actionlib, roslib, std_msgs, tf, geometry_msgs,
+  visualization_msgs, move_base_msgs, actionlib_msgs]

@@ -1,0 +1,2 @@
+[hrl_lib, std_srvs, std_msgs, hrl_tilting_hokuyo, mayavi2, rospy, pcl, visualization_msgs,
+  geometry_msgs]
