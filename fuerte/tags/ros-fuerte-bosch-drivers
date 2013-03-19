@@ -5,20 +5,20 @@
 - {docs_url: ../../../api/bmp085_driver/html, location: bmp085_driver.tag, package: bmp085_driver}
 - {docs_url: ../../../api/gumstix_memwrite_bma180/html, location: gumstix_memwrite_bma180.tag,
   package: gumstix_memwrite_bma180}
-- {docs_url: ../../../api/usb_cam/html, location: usb_cam.tag, package: usb_cam}
 - {docs_url: ../../../api/amtec/html, location: amtec.tag, package: amtec}
 - {docs_url: ../../../api/bmc050_driver/html, location: bmc050_driver.tag, package: bmc050_driver}
 - {docs_url: ../../../api/smi540/html, location: smi540.tag, package: smi540}
 - {docs_url: ../../../api/photo/html, location: photo.tag, package: photo}
-- {docs_url: ../../../api/sub20_interface/html, location: sub20_interface.tag, package: sub20_interface}
-- {docs_url: ../../../api/adc_sub20/html, location: adc_sub20.tag, package: adc_sub20}
-- {docs_url: ../../../api/bma180/html, location: bma180.tag, package: bma180}
 - {docs_url: ../../../api/uniserial/html, location: uniserial.tag, package: uniserial}
 - {docs_url: ../../../api/arduino_interface/html, location: arduino_interface.tag,
   package: arduino_interface}
+- {docs_url: ../../../api/sub20_interface/html, location: sub20_interface.tag, package: sub20_interface}
 - {docs_url: ../../../api/bma180_driver/html, location: bma180_driver.tag, package: bma180_driver}
 - {docs_url: ../../../api/bosch_drivers_example_nodes/html, location: bosch_drivers_example_nodes.tag,
   package: bosch_drivers_example_nodes}
+- {docs_url: ../../../api/usb_cam/html, location: usb_cam.tag, package: usb_cam}
+- {docs_url: ../../../api/bma180/html, location: bma180.tag, package: bma180}
+- {docs_url: ../../../api/adc_sub20/html, location: adc_sub20.tag, package: adc_sub20}
 - {docs_url: ../../../api/gumstix_memread_bma180/html, location: gumstix_memread_bma180.tag,
   package: gumstix_memread_bma180}
 - {docs_url: ../../../api/bosch_drivers_basic_nodes/html, location: bosch_drivers_basic_nodes.tag,
