@@ -1,0 +1,2 @@
+[interactive_markers, sensor_msgs, geometry_msgs, image_transport, eigen_conversions,
+  opencv2, rospy, pcl, tf, pixel_2_3d, cv_bridge, tf_conversions, pcl_ros]

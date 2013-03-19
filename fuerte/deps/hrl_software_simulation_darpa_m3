@@ -1,0 +1,2 @@
+[kdl, hrl_lib, hrl_srvs, hrl_haptic_manipulation_in_clutter_msgs, opende, equilibrium_point_control,
+  hrl_common_code_darpa_m3, hrl_msgs, geometry_msgs, rospy]

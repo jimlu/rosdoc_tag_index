@@ -1,0 +1,3 @@
+[pr2_mechanism_msgs, rosparam, pykdl_utils, actionlib, trajectory_msgs, robot_mechanism_controllers,
+  rospy, pr2_manipulation_controllers, visualization_msgs, object_manipulation_msgs,
+  pr2_controllers_msgs]

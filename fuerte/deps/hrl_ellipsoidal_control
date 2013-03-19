@@ -1,0 +1,2 @@
+[pykdl_utils, interactive_markers, eigen_conversions, hrl_pr2_arms, tf_conversions,
+  pcl_ros]

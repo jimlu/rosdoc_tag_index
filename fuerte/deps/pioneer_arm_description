@@ -1,0 +1,2 @@
+[actuator_array_gazebo_plugin, xacro, python-argparse, rospy, gazebo_plugins, p2os_urdf,
+  gazebo]
