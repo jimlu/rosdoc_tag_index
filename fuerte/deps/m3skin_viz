@@ -1,0 +1,2 @@
+[m3skin_ros, roscpp, hrl_haptic_manipulation_in_clutter_msgs, std_msgs, visualization_msgs,
+  tf]

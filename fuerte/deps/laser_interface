@@ -1,0 +1,2 @@
+[hrl_opencv, hrl_lib, std_msgs, sensor_msgs, opencv2, rospy, visualization_msgs, geometry_msgs,
+  cv_bridge]

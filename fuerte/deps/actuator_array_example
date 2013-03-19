@@ -1,0 +1,2 @@
+[actuator_array_gazebo_plugin, xacro, roscpp, robot_state_publisher, actuator_array_driver,
+  gazebo]

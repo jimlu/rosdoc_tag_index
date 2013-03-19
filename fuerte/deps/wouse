@@ -1,0 +1,1 @@
+[std_srvs, std_msgs, pr2_power_board, rospy, sound_play, python-pygame]

@@ -1,0 +1,3 @@
+[teleop_controllers, tabletop_collision_map_processing, robotis, cv_bridge, actionlib,
+  pr2_grasp_behaviors, opencv2, object_manipulator, rospy, tf, object_manipulation_msgs,
+  tabletop_object_detector, UI_segment_object]

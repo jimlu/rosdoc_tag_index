@@ -1,0 +1,2 @@
+[smach_ros, costmap_services, actionlib_msgs, smach, geometry_msgs, tf, move_base_msgs,
+  actionlib]

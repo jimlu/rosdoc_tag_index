@@ -1,0 +1,2 @@
+[smach_ros, rfid_hardware, move_base_msgs, rfid_artoolkit, approach_table, smach,
+  rfid_servoing, tf, explore_hrl, rfid_behaviors]

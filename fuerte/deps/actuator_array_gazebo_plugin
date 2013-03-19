@@ -1,0 +1,2 @@
+[std_srvs, roscpp, urdf, sensor_msgs, actuator_array_driver, angles, control_toolbox,
+  gazebo]
