@@ -1,1 +1,1 @@
-[clearpath_teleop, clearpath_sensors, clearpath_base, clearpath_bringup]
+[clearpath_bringup, clearpath_base, clearpath_teleop, clearpath_sensors]
