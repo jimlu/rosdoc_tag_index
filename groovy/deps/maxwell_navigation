@@ -1,1 +1,1 @@
-[move_base, hokuyo_node, pocketsphinx, tf]
+[tf, hokuyo_node, pocketsphinx, catkin]
