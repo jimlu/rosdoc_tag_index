@@ -1,2 +1,2 @@
-[tk_trajprocessor, telekyb_core, tk_mkinterface, tk_state, telekyb_interface, tk_exception,
-  tk_obstacle, tk_trajctrl, tk_behavior]
+[telekyb_core, tk_exception, tk_state, tk_mkinterface, tk_trajprocessor, tk_obstacle,
+  tk_trajctrl, tk_behavior, telekyb_interface]
