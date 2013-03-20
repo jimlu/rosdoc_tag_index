@@ -1,2 +1,2 @@
 [image_geometry, catkin, eigen, message_filters, nodelet, boost, sensor_msgs, image_transport,
-  stereo_msgs, pcl, tf, cv_bridge, pcl_ros]
+  stereo_msgs, rostest, pcl, tf, cv_bridge, pcl_ros]
