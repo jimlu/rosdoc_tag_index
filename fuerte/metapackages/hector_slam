@@ -1,2 +1,2 @@
 [hector_imu_attitude_to_tf, hector_map_tools, hector_compressed_map_transport, hector_slam_launch,
-  hector_nav_msgs, hector_trajectory_server, hector_geotiff, hector_map_server, hector_mapping]
+  hector_trajectory_server, hector_nav_msgs, hector_geotiff, hector_map_server, hector_mapping]

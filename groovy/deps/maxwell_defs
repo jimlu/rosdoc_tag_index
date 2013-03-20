@@ -1,1 +1,1 @@
-[ivcon, urdf, xacro, diagnostic_msgs, arbotix_python]
+[ivcon, xacro, urdf, arbotix_python, catkin, diagnostic_msgs]
