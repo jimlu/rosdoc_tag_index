@@ -1,2 +1,2 @@
-[dynamic_reconfigure, catkin, roscpp, image_transport, opencv2, geometry_msgs, tf,
-  cv_bridge]
+[dynamic_reconfigure, catkin, roscpp, image_transport, opencv2, rostest, geometry_msgs,
+  tf, cv_bridge]
