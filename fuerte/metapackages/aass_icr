@@ -1,1 +1,1 @@
-[icr_msgs, icr, libobj, libqhull, libicr]
+[libqhull, icr, libobj, libicr, icr_msgs]

@@ -1,1 +1,1 @@
-[image_geometry, catkin, sensor_msgs, opencv2, rospy, std_srvs]
+[image_geometry, catkin, sensor_msgs, opencv2, rostest, rospy, std_srvs]

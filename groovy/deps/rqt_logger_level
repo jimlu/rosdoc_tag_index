@@ -1,1 +1,1 @@
-[python-rospkg, rospy, rqt_gui, rqt_gui_py, catkin]
+[rqt_gui_py, catkin, rospkg, rqt_gui, python-rospkg, rosservice, rospy, rosnode]
