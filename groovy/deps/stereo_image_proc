@@ -1,2 +1,2 @@
 [dynamic_reconfigure, image_geometry, image_proc, stereo_msgs, message_filters, sensor_msgs,
-  image_transport, opencv2, catkin, nodelet]
+  image_transport, opencv2, rostest, catkin, nodelet]
