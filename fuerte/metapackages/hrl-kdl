@@ -1,1 +1,1 @@
-[hrl_geom, pykdl_utils]
+[pykdl_utils, hrl_geom]
