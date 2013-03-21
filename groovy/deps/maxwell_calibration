@@ -1,1 +1,1 @@
-[calibration_estimation, kdl, pr2_calibration_launch, calibration_launch, kdl_parser]
+[calibration_estimation, calibration_launch, catkin]
