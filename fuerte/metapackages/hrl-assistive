@@ -1,1 +1,1 @@
-[hrl_head_registration, hrl_face_adls, hrl_ellipsoidal_control, assistive_teleop]
+[assistive_teleop, hrl_face_adls, hrl_head_registration, hrl_ellipsoidal_control]
