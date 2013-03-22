@@ -1,1 +1,1 @@
-[python-imaging, rosbridge_library, rospy, catkin, rosapi]
+[catkin, rosapi, python-imaging, rosbridge_library, rospy, rosauth]
