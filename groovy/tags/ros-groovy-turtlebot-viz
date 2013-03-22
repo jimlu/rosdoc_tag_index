@@ -1,8 +1,8 @@
 - {docs_url: ../../../api/turtlebot_interactive_markers/html, location: turtlebot_interactive_markers.tag,
   package: turtlebot_interactive_markers}
+- {docs_url: ../../../api/turtlebot_dashboard/html, location: turtlebot_dashboard.tag,
+  package: turtlebot_dashboard}
 - {docs_url: ../../../api/turtlebot_rviz_launchers/html, location: turtlebot_rviz_launchers.tag,
   package: turtlebot_rviz_launchers}
 - {docs_url: ../../../api/turtlebot_diagnostics/html, location: turtlebot_diagnostics.tag,
   package: turtlebot_diagnostics}
-- {docs_url: ../../../api/turtlebot_dashboard/html, location: turtlebot_dashboard.tag,
-  package: turtlebot_dashboard}
