@@ -1,8 +1,8 @@
 - {docs_url: ../../../api/sr_external_dependencies/html, location: sr_external_dependencies.tag,
   package: sr_external_dependencies}
 - {docs_url: ../../../api/sr_robot_lib/html, location: sr_robot_lib.tag, package: sr_robot_lib}
-- {docs_url: ../../../api/sr_edc_controller_configuration/html, location: sr_edc_controller_configuration.tag,
-  package: sr_edc_controller_configuration}
+- {docs_url: ../../../api/sr_edc_launch/html, location: sr_edc_launch.tag, package: sr_edc_launch}
 - {docs_url: ../../../api/sr_edc_ethercat_drivers/html, location: sr_edc_ethercat_drivers.tag,
   package: sr_edc_ethercat_drivers}
-- {docs_url: ../../../api/sr_edc_launch/html, location: sr_edc_launch.tag, package: sr_edc_launch}
+- {docs_url: ../../../api/sr_edc_controller_configuration/html, location: sr_edc_controller_configuration.tag,
+  package: sr_edc_controller_configuration}
