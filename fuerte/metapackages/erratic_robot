@@ -1,2 +1,2 @@
-[erratic_navigation_apps, player, erratic_player, erratic_teleop, erratic_description,
-  erratic_gazebo_plugins, erratic_navigation]
+[erratic_navigation_apps, erratic_player, erratic_teleop, erratic_description, player,
+  erratic_navigation, erratic_gazebo_plugins]
