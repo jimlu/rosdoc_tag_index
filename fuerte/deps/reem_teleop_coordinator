@@ -1,0 +1,2 @@
+[roscpp, planning_environment, tree_kinematics, sensor_msgs, kdl_parser, kinematics_msgs,
+  tf, geometry_msgs, orocos_kdl, tf_conversions, arm_navigation_msgs]
