@@ -1,4 +1,4 @@
-[gumstix_memread_bma180, bmp085, bmp085_driver, gumstix_memwrite_bma180, usb_cam,
-  bmc050_driver, smi540, photo, bma180, bosch_drivers_basic_nodes, uniserial, adc_sub20,
-  bosch_drivers_common, sub20, bosch_drivers_example_nodes, arduino_interface, bma180_driver,
-  amtec, sub20_interface]
+[bmp085, adc_sub20, uniserial, bosch_drivers_common, bmc050_driver, smi540, photo,
+  sub20_interface, usb_cam, gumstix_memread_bma180, bosch_drivers_basic_nodes, bosch_drivers_example_nodes,
+  bma180_driver, sub20, bma180, arduino_interface, amtec, gumstix_memwrite_bma180,
+  bmp085_driver]
