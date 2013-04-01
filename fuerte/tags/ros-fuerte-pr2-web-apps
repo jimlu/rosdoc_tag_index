@@ -5,12 +5,12 @@
   package: tuckarms_application}
 - {docs_url: ../../../api/mannequin_application/html, location: mannequin_application.tag,
   package: mannequin_application}
-- {docs_url: ../../../api/pr2_addons_application/html, location: pr2_addons_application.tag,
-  package: pr2_addons_application}
-- {docs_url: ../../../api/camera_application/html, location: camera_application.tag,
-  package: camera_application}
 - {docs_url: ../../../api/pr2_base_application/html, location: pr2_base_application.tag,
   package: pr2_base_application}
+- {docs_url: ../../../api/camera_application/html, location: camera_application.tag,
+  package: camera_application}
+- {docs_url: ../../../api/pr2_addons_application/html, location: pr2_addons_application.tag,
+  package: pr2_addons_application}
 - {docs_url: ../../../api/soccer_application/html, location: soccer_application.tag,
   package: soccer_application}
 - {docs_url: ../../../api/pr2_recharge_application/html, location: pr2_recharge_application.tag,
