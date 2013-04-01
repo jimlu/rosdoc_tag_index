@@ -1,0 +1,2 @@
+[common_msgs, geometry, kinematics, arm_navigation, orocos_kinematics_dynamics, robot_model,
+  ros]

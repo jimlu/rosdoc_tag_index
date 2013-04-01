@@ -1,0 +1,2 @@
+[roscpp, pr2_controller_interface, pluginlib, sensor_msgs, geometry_msgs, orocos_kdl,
+  pr2_mechanism_model]
