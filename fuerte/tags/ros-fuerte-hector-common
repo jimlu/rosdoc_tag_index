@@ -1,6 +1,6 @@
 - {docs_url: ../../../api/bfl_eigen/html, location: bfl_eigen.tag, package: bfl_eigen}
 - {docs_url: ../../../api/bfl_boost/html, location: bfl_boost.tag, package: bfl_boost}
-- {docs_url: ../../../api/message_to_tf/html, location: message_to_tf.tag, package: message_to_tf}
+- {docs_url: ../../../api/hector_std_msgs/html, location: hector_std_msgs.tag, package: hector_std_msgs}
 - {docs_url: ../../../api/hector_marker_drawing/html, location: hector_marker_drawing.tag,
   package: hector_marker_drawing}
-- {docs_url: ../../../api/hector_std_msgs/html, location: hector_std_msgs.tag, package: hector_std_msgs}
+- {docs_url: ../../../api/message_to_tf/html, location: message_to_tf.tag, package: message_to_tf}
