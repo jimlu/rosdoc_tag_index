@@ -1,1 +1,1 @@
-[qt_build, std_msgs, roscpp, libqt4-dev]
+[catkin, roscpp, message_runtime, std_msgs, libqt4-dev, message_generation, qt_build]
