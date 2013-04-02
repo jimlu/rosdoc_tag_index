@@ -1,0 +1,2 @@
+[catkin, moveit_msgs, moveit_ros_move_group, rqt_topic, rospy, rostopic, rqt_gui_py,
+  rqt_gui, rqt_py_common]
