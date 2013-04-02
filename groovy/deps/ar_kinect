@@ -1,0 +1,2 @@
+[roscpp, cv_bridge, glut, artoolkit, opencv2, geometry_msgs, visualization_msgs, tf,
+  ar_pose, pcl_ros]
