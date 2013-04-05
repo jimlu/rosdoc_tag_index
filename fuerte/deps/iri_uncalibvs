@@ -1,2 +1,2 @@
 [kdl, control_toolbox, roscpp, sensor_msgs, actionlib, std_msgs, kdl_parser, eigen_conversions,
-  geometry_msgs, asctec_msgs, ar_pose, iri_base_algorithm, mav_msgs]
+  geometry_msgs, tf, asctec_msgs, ar_pose, iri_base_algorithm, mav_msgs]
