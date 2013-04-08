@@ -1,1 +1,1 @@
-[rosbridge_library, rosbridge_server, rosapi]
+[rosbridge_library, rosbridge_server, catkin, rosapi]
