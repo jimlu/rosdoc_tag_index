@@ -1,4 +1,4 @@
 [hrpsys_ros_bridge, choreonoid, hrpsys, openrtm, tvmet, iis_idl, RS003, openhrp3,
-  openhrp3_tutorials, openvgr, rosnode_rtc, hironx_ros_bridge, mrobot_ros_bridge,
-  beego_navigation, openrtm_ros_bridge, openinvent, fmk_ros_bridge, hrpsys_tutorials,
-  rtmbuild, hrpsys_ros_bridge_tutorials]
+  hrpsys_gazebo, openvgr, rosnode_rtc, hironx_ros_bridge, mrobot_ros_bridge, beego_navigation,
+  openrtm_ros_bridge, openinvent, fmk_ros_bridge, hrpsys_tutorials, rtmbuild, openhrp3_tutorials,
+  hrpsys_ros_bridge_tutorials]
