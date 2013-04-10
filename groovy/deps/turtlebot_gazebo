@@ -1,1 +1,1 @@
-[gazebo_plugins]
+[robot_state_publisher, gazebo, gazebo_plugins, turtlebot_bringup, turtlebot_description]
