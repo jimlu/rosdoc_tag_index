@@ -1,1 +1,1 @@
-[common_msgs, ros, simulator_gazebo, turtlebot_create]
+[ros, simulator_gazebo, robot_model, common_msgs, turtlebot, turtlebot_create]
