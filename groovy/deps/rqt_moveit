@@ -1,2 +1,2 @@
-[rqt_gui_py, catkin, rqt_gui, sensor_msgs, rqt_topic, rospy, rqt_py_common, rosnode,
-  moveit]
+[rqt_gui_py, catkin, moveit_ros, rqt_gui, sensor_msgs, rqt_topic, rospy, rosnode,
+  rqt_py_common]

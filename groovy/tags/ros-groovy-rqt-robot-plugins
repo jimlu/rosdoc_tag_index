@@ -1,2 +1,2 @@
-- {docs_url: ../../../api/rqt_moveit/html, location: rqt_moveit.tag, package: rqt_moveit}
-- {docs_url: ../../../api/rqt_tf_tree/html, location: rqt_tf_tree.tag, package: rqt_tf_tree}
+- {docs_url: ../../../api/rqt_robot_plugins/html, location: rqt_robot_plugins.tag,
+  package: rqt_robot_plugins}
