@@ -1,1 +1,1 @@
-[tf, sensor_msgs, camera_info_manager_py, rospy]
+[tf, sensor_msgs, camera_info_manager_py, rospy, geometry_msgs]
