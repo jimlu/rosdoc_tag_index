@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/rqt_common_plugins/html, location: rqt_common_plugins.tag,
-  package: rqt_common_plugins}
+- {docs_url: ../../../api/rqt_marble/html, location: rqt_marble.tag, package: rqt_marble}
