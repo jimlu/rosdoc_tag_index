@@ -1,2 +1,2 @@
 [roscpp, sensor_msgs, iri_base_algorithm, std_msgs, catec_actions_msgs, catec_msgs,
-  geometry_msgs, tf, asctec_msgs, ar_pose, actionlib, mav_msgs]
+  geometry_msgs, tf, asctec_msgs, eigen_conversions, ar_pose, actionlib, mav_msgs]
