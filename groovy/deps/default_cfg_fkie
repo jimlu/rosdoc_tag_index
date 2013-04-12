@@ -1,1 +1,1 @@
-[roslaunch, roslib, rospy]
+[roslaunch, rospy, roslib, catkin]
