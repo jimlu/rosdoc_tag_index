@@ -1,1 +1,2 @@
-[roscpp, message_filters, roslib, sensor_msgs, opencv2, cv_bridge]
+[roscpp, message_filters, roslib, sensor_msgs, opencv2, geometry_msgs, pcl, pcl16_ros,
+  pcl16, cv_bridge, pcl_ros]
