@@ -1,1 +1,1 @@
-[rosgraph, master_discovery_fkie, roslib, rospy]
+[rospy, master_discovery_fkie, roslib, catkin, rosgraph]
