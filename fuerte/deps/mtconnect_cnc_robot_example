@@ -1,4 +1,5 @@
 [nav_msgs, industrial_trajectory_filters, industrial_robot_simulator, mtconnect_task_parser,
   actionlib, M16iB20_arm_navigation, sensor_msgs, industrial_robot_client, mtconnect_msgs,
   object_manipulator, control_msgs, object_manipulation_tools, planning_environment,
-  geometry_msgs, mtconnect_ros_bridge, object_manipulation_msgs, abb_common, arm_navigation_msgs]
+  geometry_msgs, mtconnect_ros_bridge, object_manipulation_msgs, abb_common, simple_message,
+  arm_navigation_msgs]

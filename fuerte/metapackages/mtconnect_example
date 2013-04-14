@@ -1,2 +1,3 @@
-[mtconnect_cnc_robot_example, mtconnect_m16ib20_arm_navigation, mtconnect_task_parser,
-  mtconnect_irb2400_arm_navigation]
+[mtconnect_example_msgs, mtconnect_state_machine, mtconnect_m16ib20_arm_navigation,
+  mtconnect_task_parser, mtconnect_irb2400_arm_navigation, mtconnect_cnc_robot_example,
+  mtconnect_example_launch]
