@@ -1,4 +1,4 @@
-[srs_assisted_detection, cob_script_server, cob_object_detection_fake, cob_linear_nav,
-  srs_knowledge, smach, cob_kinematics, cob_navigation_global, cob_object_detection_msgs,
-  srs_symbolic_grounding, cob_mmcontroller, cob_manipulator, gazebo, cob_3d_mapping_msgs,
-  kinematics_msgs, srs_object_verification]
+[srs_assisted_detection, cob_script_server, cob_arm_navigation, cob_object_detection_fake,
+  cob_linear_nav, srs_knowledge, smach, cob_kinematics, cob_navigation_global, cob_object_detection_msgs,
+  srs_symbolic_grounding, srs_assisted_grasping_msgs, kinematics_msgs, arm_navigation_msgs,
+  gazebo, cob_3d_mapping_msgs, srs_object_verification]

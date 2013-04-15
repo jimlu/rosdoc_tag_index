@@ -1,1 +1,1 @@
-[rosserial_python, rosserial_msgs, rosserial_client]
+[rosserial_python, rosserial_msgs, catkin, rosserial_client]
