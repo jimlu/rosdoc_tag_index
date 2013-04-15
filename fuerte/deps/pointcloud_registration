@@ -1,0 +1,2 @@
+[roscpp, bullet, actionlib, sensor_msgs, geometry_msgs, pr2_msgs, pcl, move_base_msgs,
+  pr2_controllers_msgs, nodelet, pcl_ros]

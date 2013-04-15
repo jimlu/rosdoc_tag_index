@@ -1,0 +1,2 @@
+[actionlib, geometry_msgs, pcl, visualization_msgs, point_cloud_converter, nodelet,
+  pcl_ros]

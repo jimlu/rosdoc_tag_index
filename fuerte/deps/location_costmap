@@ -1,0 +1,3 @@
+[nav_msgs, cl_transforms, cram_roslisp_common, cram_manipulation_knowledge, cram_math,
+  cram_reasoning, lisp_unit, cram_utilities, alexandria, visualization_msgs, designators_ros,
+  cram_language, trivial_garbage, arm_navigation_msgs]

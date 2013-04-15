@@ -1,0 +1,2 @@
+[roscpp, libitpp-dev, std_msgs, sensor_msgs, libvtk, yaml_cpp, geometry_msgs, pcl,
+  mapping_msgs, pcl_visualization]

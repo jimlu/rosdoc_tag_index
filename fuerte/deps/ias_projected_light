@@ -1,0 +1,1 @@
+[opencv2, image_transport, cv_bridge, roscpp, pcl]

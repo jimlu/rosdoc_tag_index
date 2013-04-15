@@ -1,0 +1,2 @@
+[move_arm, actionlib, motion_planning_msgs, table_objects, collision_environment_msgs,
+  geometry_msgs, pr2_msgs, mapping_msgs, actionlib_msgs, pr2_controllers_msgs]

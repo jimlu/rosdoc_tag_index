@@ -1,0 +1,2 @@
+[pr2_controller_manager, roscpp, urdf, robot_mechanism_controllers, pr2_hardware_interface,
+  tinyxml, pr2_mechanism_model]

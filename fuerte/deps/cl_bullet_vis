@@ -1,0 +1,2 @@
+[cl_transforms, alexandria, cl_glx, cram_physics_utils, lisp_unit, cl_opengl, cl_bullet,
+  trivial_garbage]

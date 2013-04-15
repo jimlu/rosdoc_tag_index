@@ -1,0 +1,1 @@
+[roscpp, sensor_msgs, libsiftfast, opencv2, tf, robot_mask, cv_bridge]
