@@ -7,4 +7,4 @@
   iri_human_assisted_object_detection, iri_laser_people_detection_fusion, iri_bow_object_detector,
   iri_people_tracking_rai, iri_laser_people_map_filter, iri_leaf_segmentation, iri_moped_actionserver,
   iri_image_recorder, iri_moped_handler, iri_door_detector, iri_laser_people_label,
-  iri_people_tracking]
+  iri_laser_people_area_filter, iri_people_tracking]
