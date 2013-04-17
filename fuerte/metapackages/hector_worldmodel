@@ -1,1 +1,1 @@
-[object_tracker, worldmodel_geotiff_plugins, worldmodel_msgs]
+[object_tracker, worldmodel_msgs, hector_worldmodel_geotiff_plugins, hector_object_tracker]
