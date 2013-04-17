@@ -1,0 +1,3 @@
+[ias_table_msgs, roscpp, octomap_server, std_msgs, actionlib, sensor_msgs, eigen,
+  octomap, yaml_cpp, geometry_msgs, pcl, visualization_msgs, mapping_msgs, actionlib_msgs,
+  pcl_ros]

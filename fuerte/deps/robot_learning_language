@@ -1,0 +1,1 @@
+[clsql, babel, designators, cffi, cl_port, cl_libsvm, clmd5, cram_language, uffi]

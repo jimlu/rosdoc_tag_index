@@ -1,0 +1,3 @@
+[nav_msgs, mod_semantic_map, roscpp, dos_pcl, octomap_server, pcl_ias_sample_consensus,
+  actionlib, pcl_visualization, move_base_msgs, octomap, octomap_ros, pr2_msgs, pcl,
+  tf, pcl_to_octree, pr2_controllers_msgs, nodelet, terminal_tools, pcl_ros]

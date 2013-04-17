@@ -1,0 +1,3 @@
+[bullet, common, common_msgs, eigen, geometry, ias_common, image_common, navigation,
+  nodelet_core, octomap_mapping, perception_pcl, point_cloud_perception, pr2_common,
+  pr2_controllers, ros, ros_comm, vision_opencv]

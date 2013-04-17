@@ -1,0 +1,2 @@
+[pr2_arm_navigation_perception, roscpp, flann, terminal_tools, sensor_msgs, geometry_msgs,
+  pcl, visualization_msgs, point_cloud_converter, laser_assembler, mapping_msgs, pcl_ros]

@@ -1,0 +1,3 @@
+[nav_msgs, laser_geometry, std_srvs, eigen, kinematics_base, actionlib, urdf, pr2_arm_kinematics,
+  eigen_conversions, move_base_msgs, kinematics_msgs, visualization_msgs, tf, geometry_msgs,
+  actionlib_msgs]

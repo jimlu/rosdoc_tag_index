@@ -1,1 +1,1 @@
-[sensor_msgs, wxpython, urdf_python, rospy]
+[wxpython, sensor_msgs, wxwidgets]

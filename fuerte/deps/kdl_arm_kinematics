@@ -1,0 +1,1 @@
+[roscpp, kdl_parser, kinematics_msgs, tf, tf_conversions, arm_navigation_msgs]

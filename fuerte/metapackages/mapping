@@ -1,0 +1,5 @@
+[pointcloud_registration, pr2_data_acquisition_tools, kinect_cleanup, pcl_cloud_tools,
+  as11, pcl_ias_sample_consensus, ias_table_srvs, rgbd_registration, handle_detection,
+  autonomous_mapping, vosch, pcl_cloud_algos, handle_detection2D, next_best_view,
+  pcl_vtk_tools, pcl_to_octree, mapping_ias_msgs, furniture_features, ias_projected_light,
+  furniture_classification]

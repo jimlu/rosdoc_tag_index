@@ -1,0 +1,2 @@
+[roscpp, ethercat_trigger_controllers, actionlib, sensor_msgs, geometry_msgs, tf,
+  pr2_controllers_msgs, tf_conversions, pcl_ros]
