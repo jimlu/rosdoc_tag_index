@@ -1,1 +1,1 @@
-[ros]
+[default_cfg_fkie, master_discovery_fkie, catkin, master_sync_fkie, node_manager_fkie]
