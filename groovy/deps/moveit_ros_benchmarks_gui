@@ -1,0 +1,2 @@
+[moveit_ros_benchmarks, catkin, rviz, interactive_markers, moveit_ros_warehouse, eigen_conversions,
+  moveit_ros_planning, tf, moveit_ros_visualization, roscpp]
