@@ -1,3 +1,2 @@
-[rosconsole, object_recognition_msgs, roscpp, python, actionlib, moveit_ros_warehouse,
-  catkin, eigen_conversions, moveit_ros_planning, python-catkin-pkg, rospy, tf, moveit_ros_manipulation,
-  moveit_ros_planning_interface]
+[rosconsole, catkin, roscpp, python, actionlib, moveit_ros_warehouse, eigen_conversions,
+  moveit_ros_planning, python-catkin-pkg, rospy, tf, moveit_ros_manipulation, moveit_ros_planning_interface]
