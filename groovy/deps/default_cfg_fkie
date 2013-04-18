@@ -1,1 +1,1 @@
-[roslaunch, rospy, roslib, catkin]
+[roslaunch, roslib, catkin, message_runtime, std_msgs, rospy, message_generation]

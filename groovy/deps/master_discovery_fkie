@@ -1,1 +1,2 @@
-[catkin, roslib, rosgraph, rospy, avahi-daemon, python-avahi]
+[roslib, catkin, rosgraph, message_runtime, std_msgs, avahi-daemon, rospy, message_generation,
+  python-avahi]
