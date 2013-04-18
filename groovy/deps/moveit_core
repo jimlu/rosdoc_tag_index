@@ -1,5 +1,5 @@
 [catkin, eigen, actionlib_msgs, trajectory_msgs, eigen_conversions, rostime, srdfdom,
   urdfdom_headers, console_bridge, eigen_stl_containers, visualization_msgs, boost,
   shape_tools, shape_msgs, sensor_msgs, moveit_msgs, std_msgs, octomap_msgs, assimp,
-  random_numbers, fcl, geometric_shapes, kdl_parser, octomap, geometry_msgs, urdfdom,
-  pkg-config]
+  random_numbers, fcl, moveit_resources, geometric_shapes, kdl_parser, octomap, geometry_msgs,
+  urdfdom, pkg-config]
