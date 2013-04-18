@@ -1,4 +1,6 @@
 - {docs_url: ../../../api/worldmodel_msgs/html, location: worldmodel_msgs.tag, package: worldmodel_msgs}
-- {docs_url: ../../../api/worldmodel_geotiff_plugins/html, location: worldmodel_geotiff_plugins.tag,
-  package: worldmodel_geotiff_plugins}
+- {docs_url: ../../../api/hector_object_tracker/html, location: hector_object_tracker.tag,
+  package: hector_object_tracker}
 - {docs_url: ../../../api/object_tracker/html, location: object_tracker.tag, package: object_tracker}
+- {docs_url: ../../../api/hector_worldmodel_geotiff_plugins/html, location: hector_worldmodel_geotiff_plugins.tag,
+  package: hector_worldmodel_geotiff_plugins}
