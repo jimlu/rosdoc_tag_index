@@ -1,3 +1,1 @@
-[rosconsole, catkin, rviz, geometric_shapes, interactive_markers, moveit_ros_warehouse,
-  eigen_conversions, moveit_ros_planning, tf, moveit_ros_visualization, moveit_ros_planning_interface,
-  roscpp]
+[rosconsole, catkin, roscpp, moveit_ros_warehouse, eigen_conversions, moveit_ros_planning]
