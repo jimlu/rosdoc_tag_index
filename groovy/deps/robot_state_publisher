@@ -1,0 +1,2 @@
+[rosconsole, catkin, eigen, rostime, sensor_msgs, kdl_parser, tf, tf_conversions,
+  roscpp]
