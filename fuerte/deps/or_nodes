@@ -1,0 +1,2 @@
+[VectorGraphics, or_libs, roscpp, or_msgs, std_msgs, sensor_msgs, image_transport,
+  opencv2, cv_bridge, robbie_architecture, String]
