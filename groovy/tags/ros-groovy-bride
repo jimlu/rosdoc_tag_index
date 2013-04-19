@@ -1,0 +1,6 @@
+- {docs_url: ../../../api/bride/html, location: bride.tag, package: bride}
+- {docs_url: ../../../api/bride_templates/html, location: bride_templates.tag, package: bride_templates}
+- {docs_url: ../../../api/bride_compilers/html, location: bride_compilers.tag, package: bride_compilers}
+- {docs_url: ../../../api/bride_tutorials/html, location: bride_tutorials.tag, package: bride_tutorials}
+- {docs_url: ../../../api/bride_plugin_source/html, location: bride_plugin_source.tag,
+  package: bride_plugin_source}
