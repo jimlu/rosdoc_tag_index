@@ -1,2 +1,2 @@
 [ros, ros_comm, kobuki, rqt, rqt_common_plugins, qt_gui_core, common_msgs, rqt_robot_plugins,
-  kobuki_msgs]
+  kobuki_msgs, simulator_gazebo, kobuki_description]

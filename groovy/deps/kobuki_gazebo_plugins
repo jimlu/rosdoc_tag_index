@@ -1,1 +1,1 @@
-[boost]
+[nav_msgs, kobuki_msgs, roscpp, boost, std_msgs, geometry_msgs, tf, gazebo]
