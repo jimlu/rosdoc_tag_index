@@ -1,1 +1,2 @@
-[catkin, std_msgs, message_runtime, sensor_msgs, geometry_msgs, kobuki_node, message_generation]
+[catkin, std_msgs, message_runtime, sensor_msgs, geometry_msgs, kobuki_node, message_generation,
+  python_orocos_kdl]
