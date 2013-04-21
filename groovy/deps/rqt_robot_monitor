@@ -1,2 +1,2 @@
-[python_qt_binding, catkin, rqt_gui, qt_gui_py_common, python-rospkg, rosmsg, rqt_gui_py,
-  rqt_py_common]
+[python_qt_binding, catkin, rqt_gui, qt_gui_py_common, python-rospkg, rospy, qt_gui,
+  rqt_gui_py, diagnostic_msgs, rqt_py_common]

@@ -1,2 +1,2 @@
 [catkin, tf2_ros, rqt_gui, python-rospkg, rqt_graph, geometry_msgs, qt_dotgraph, rospy,
-  rqt_gui_py, tf2]
+  rqt_gui_py, tf2_msgs, tf2]
