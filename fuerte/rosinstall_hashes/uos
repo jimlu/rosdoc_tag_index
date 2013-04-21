@@ -1,4 +1,4 @@
-{jenkins_scripts-sys: ea12d39d7ce5a307a7c7e5622877b65f7face435, katana_driver: 3e0612493c892f83f25c0d67b130ffe301699675,
+{jenkins_scripts-sys: ea12d39d7ce5a307a7c7e5622877b65f7face435, katana_driver: 8a39d7ae6128983d3a03467eef95ec163accf3e1,
   katana_manipulation: fca0bf235dd7de835a5b034c7eace36b85c9b87c, kurt_apps: b7746f0cd014d2214bbf81f75a52207ff49a7763,
   kurt_driver: 339dcef9f97caa6428910b7a28d1d70a503127a4, kurtana_robot: b2d1af07a322b888e5e6aed2a2393a456676afc5,
   rosdoc_lite-sys: 50f735fc7b74a31c0c630798229ccd2faf90ef64, sick_tim3xx: 8fa6a0b1d3edf92cdf69de482a75661c3d17b50b,
