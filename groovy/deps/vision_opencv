@@ -1,1 +1,1 @@
-[image_geometry, cv_bridge]
+[image_geometry, cv_bridge, catkin]
