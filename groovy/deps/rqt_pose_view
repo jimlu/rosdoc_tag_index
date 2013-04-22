@@ -1,2 +1,2 @@
-[rqt_gui_py, catkin, rqt_gui, python-rospkg, tf, geometry_msgs, rostopic, python-qt-bindings-gl,
-  python-opengl]
+[python_qt_binding, rqt_gui_py, catkin, rospkg, rqt_gui, python-rospkg, tf, geometry_msgs,
+  rostopic, python-qt-bindings-gl, rospy, python-opengl]

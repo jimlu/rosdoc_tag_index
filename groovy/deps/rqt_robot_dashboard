@@ -1,1 +1,2 @@
-[catkin, rqt_gui, rqt_nav_view, rospy, rqt_console, rqt_gui_py, rqt_robot_monitor]
+[python_qt_binding, catkin, rqt_gui, rqt_nav_view, rospy, qt_gui, rqt_console, rqt_gui_py,
+  diagnostic_msgs, rqt_robot_monitor]
