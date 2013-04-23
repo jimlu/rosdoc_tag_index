@@ -1,0 +1,2 @@
+[arm_navigation, common_msgs, geometry, ias_common, image_common, mapping, pluginlib,
+  pr2_object_manipulation, ros, ros_comm, vision_opencv]
