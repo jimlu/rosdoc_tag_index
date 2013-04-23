@@ -1,0 +1,2 @@
+[libglew1.6-dev, nodelet, urdf, sensor_msgs, resource_retriever, image_transport,
+  tf, cv_bridge, libglew1.6]
