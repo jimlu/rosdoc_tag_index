@@ -1,4 +1,4 @@
 [python-tk, libxml2, collada-dom, ttf-sazanami-mincho, ttf-sazanami-gothic, java,
   uuid, ttf-kochi-gothic, libgfortran3, ttf-kochi-mincho, xulrunner-1.9.2, atlas,
-  jython, libreadline-java, libxtst-dev, python-omniorb, f2c, openrtm, omniorb, libjpeg,
-  zlib, eclipse, xdotool, libpng12-dev]
+  jython, openrtm_ros_bridge, libreadline-java, libxtst-dev, python-omniorb, f2c,
+  openrtm, omniorb, libjpeg, zlib, eclipse, xdotool, libpng12-dev]
