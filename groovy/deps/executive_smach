@@ -1,1 +1,1 @@
-[smach_ros, smach, smach_msgs]
+[smach_ros, smach, catkin, smach_msgs]
