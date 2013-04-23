@@ -1,0 +1,2 @@
+[cram_reasoning, roslisp_runtime, cram_roslisp_common, cl_tf, cram_utilities, visualization_msgs,
+  cl_json_pl_client, arm_navigation_msgs]
