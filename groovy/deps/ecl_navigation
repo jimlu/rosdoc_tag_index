@@ -1,1 +1,1 @@
-[ecl_mobile_robot, ecl_maps, ecl_slam, ecl_navigation_apps]
+[ecl_mobile_robot, ecl_slam, ecl_maps, catkin, ecl_navigation_apps]
