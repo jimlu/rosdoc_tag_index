@@ -1,2 +1,2 @@
-[catkin, roscpp, libgstreamer-plugins-base0.10-dev, sensor_msgs, image_transport,
+[roscpp, libgstreamer-plugins-base0.10-dev, sensor_msgs, libgstreamer0.10-dev, image_transport,
   camera_calibration_parsers]
