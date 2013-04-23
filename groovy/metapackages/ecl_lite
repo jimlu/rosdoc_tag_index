@@ -1,1 +1,2 @@
-[ecl_converters_lite, ecl_sigslots_lite, ecl_time_lite, ecl_config, ecl_errors, ecl_io]
+[catkin, ecl_converters_lite, ecl_sigslots_lite, ecl_time_lite, ecl_config, ecl_errors,
+  ecl_io]

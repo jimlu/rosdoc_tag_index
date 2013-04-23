@@ -1,0 +1,4 @@
+[household_objects_database_msgs, cl_semantic_map_utils, cram_reasoning, alexandria,
+  cram_manipulation_knowledge, triangulate_point_cloud, cl_tf, cl_urdf, kinematics_msgs,
+  cl_bullet_vis, cram_designators, cl_json_pl_client, cl_bullet, kdl_arm_kinematics,
+  arm_navigation_msgs]
