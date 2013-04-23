@@ -1,0 +1,5 @@
+[alexandria, cram_projection, handle_detection, actionlib_lisp, cram_language, bullet_reasoning,
+  cram_roslisp_common, ias_perception_actions, pr2_msgs, cljlo_utils, vision_msgs,
+  semantic_map_cache, cram_plan_failures, vision_srvs, designators_ros, std_msgs,
+  cram_designators, cram_plan_knowledge, cram_reasoning, cljlo, cram_utilities, cl_semantic_map_utils,
+  cram_process_modules]
