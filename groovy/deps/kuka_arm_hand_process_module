@@ -1,0 +1,3 @@
+[cram_roslisp_common, cram_reasoning, cljlo, cram_plan_failures, cram_plan_knowledge,
+  designators_ros, actionlib_lisp, cogman_msgs, cljlo_utils, cram_process_modules,
+  perception_process_module]
