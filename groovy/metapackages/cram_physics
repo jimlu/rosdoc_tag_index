@@ -1,0 +1,4 @@
+[bullet_reasoning, pr2_description_lowres, pr2_projection_process_modules, triangulate_point_cloud,
+  robot_mask, cl_opengl, cram_environment_representation, spatial_relations_costmap,
+  cl_bullet_vis, cram_pr2_knowledge, cl_urdf, cl_bullet, kdl_arm_kinematics, bullet_reasoning_designators,
+  bullet_reasoning_demo, cl_glx]

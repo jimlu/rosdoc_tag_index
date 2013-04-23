@@ -1,0 +1,2 @@
+[cram_highlevel, cram_core, geometry, kinematics, robot_model, ros, ros_comm, roslisp_common,
+  roslisp_support]

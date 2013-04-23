@@ -1,0 +1,4 @@
+[occupancy_grid_costmap, location_costmap, bullet_reasoning, semantic_map_costmap,
+  roslisp_runtime, cram_roslisp_common, object_location_designators, bullet_reasoning_designators,
+  pr2_manipulation_knowledge, cram_environment_representation, cram_pr2_knowledge,
+  cram_designators, cram_plan_knowledge, pr2_projection_process_modules]
