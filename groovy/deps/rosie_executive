@@ -1,0 +1,4 @@
+[cram_roslisp_common, cram_reasoning, designators_ros, cram_plan_actionserver, cram_plan_library,
+  cram_plan_knowledge, cram_math, occupancy_grid_costmap, cram_utilities, location_costmap,
+  jlo_navp_process_module, semantic_map_costmap, cl_json_pl_client, kuka_arm_hand_process_module,
+  cram_language, cram_execution_trace, powercube_ptu_process_module, perception_process_module]
