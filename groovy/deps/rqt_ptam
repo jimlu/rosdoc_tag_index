@@ -1,0 +1,2 @@
+[dynamic_reconfigure, roscpp, ptam_com, std_msgs, rqt_gui, sensor_msgs, image_transport,
+  rqt_gui_cpp, cv_bridge]

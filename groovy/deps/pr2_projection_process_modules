@@ -1,0 +1,3 @@
+[cl_transforms, alexandria, bullet_reasoning, cram_plan_failures, cram_projection,
+  cram_manipulation_knowledge, cram_roslisp_common, cram_process_modules, pr2_manipulation_knowledge,
+  cl_semantic_map_utils, cram_designators, cram_plan_knowledge, bullet_reasoning_designators]

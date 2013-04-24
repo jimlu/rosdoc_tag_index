@@ -1,26 +1,26 @@
-- {docs_url: ../../../api/pr2_jacobian_tests/html, location: pr2_jacobian_tests.tag,
-  package: pr2_jacobian_tests}
+- {docs_url: ../../../api/pr2_test_kinematic_constraints/html, location: pr2_test_kinematic_constraints.tag,
+  package: pr2_test_kinematic_constraints}
+- {docs_url: ../../../api/pr2_move_group_test/html, location: pr2_move_group_test.tag,
+  package: pr2_move_group_test}
+- {docs_url: ../../../api/pr2_ompl_planning_tests/html, location: pr2_ompl_planning_tests.tag,
+  package: pr2_ompl_planning_tests}
+- {docs_url: ../../../api/pr2_moveit_tests/html, location: pr2_moveit_tests.tag, package: pr2_moveit_tests}
 - {docs_url: ../../../api/pr2_test_collision_detection/html, location: pr2_test_collision_detection.tag,
   package: pr2_test_collision_detection}
 - {docs_url: ../../../api/pr2_test_sbpl_planner/html, location: pr2_test_sbpl_planner.tag,
   package: pr2_test_sbpl_planner}
+- {docs_url: ../../../api/pr2_planning_interface_tests/html, location: pr2_planning_interface_tests.tag,
+  package: pr2_planning_interface_tests}
+- {docs_url: ../../../api/pr2_trajectory_execution_tests/html, location: pr2_trajectory_execution_tests.tag,
+  package: pr2_trajectory_execution_tests}
+- {docs_url: ../../../api/pr2_simple_benchmark_test/html, location: pr2_simple_benchmark_test.tag,
+  package: pr2_simple_benchmark_test}
 - {docs_url: ../../../api/pr2_test_moveit_manipulation/html, location: pr2_test_moveit_manipulation.tag,
   package: pr2_test_moveit_manipulation}
 - {docs_url: ../../../api/pr2_arm_ik_tests/html, location: pr2_arm_ik_tests.tag, package: pr2_arm_ik_tests}
-- {docs_url: ../../../api/pr2_ompl_planning_tests/html, location: pr2_ompl_planning_tests.tag,
-  package: pr2_ompl_planning_tests}
-- {docs_url: ../../../api/pr2_test_collision_distance_field/html, location: pr2_test_collision_distance_field.tag,
-  package: pr2_test_collision_distance_field}
-- {docs_url: ../../../api/pr2_planning_interface_tests/html, location: pr2_planning_interface_tests.tag,
-  package: pr2_planning_interface_tests}
-- {docs_url: ../../../api/pr2_test_kinematic_constraints/html, location: pr2_test_kinematic_constraints.tag,
-  package: pr2_test_kinematic_constraints}
-- {docs_url: ../../../api/pr2_moveit_tests/html, location: pr2_moveit_tests.tag, package: pr2_moveit_tests}
-- {docs_url: ../../../api/pr2_simple_benchmark_test/html, location: pr2_simple_benchmark_test.tag,
-  package: pr2_simple_benchmark_test}
+- {docs_url: ../../../api/pr2_jacobian_tests/html, location: pr2_jacobian_tests.tag,
+  package: pr2_jacobian_tests}
 - {docs_url: ../../../api/pr2_test_chomp_planner/html, location: pr2_test_chomp_planner.tag,
   package: pr2_test_chomp_planner}
-- {docs_url: ../../../api/pr2_move_group_test/html, location: pr2_move_group_test.tag,
-  package: pr2_move_group_test}
-- {docs_url: ../../../api/pr2_trajectory_execution_tests/html, location: pr2_trajectory_execution_tests.tag,
-  package: pr2_trajectory_execution_tests}
+- {docs_url: ../../../api/pr2_test_collision_distance_field/html, location: pr2_test_collision_distance_field.tag,
+  package: pr2_test_collision_distance_field}
