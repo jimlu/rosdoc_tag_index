@@ -1,2 +1,2 @@
-[nav_msgs, rosconsole, roscpp, costmap_2d, pluginlib, hector_nav_msgs, nav_core, geometry_msgs,
-  eigen]
+[dynamic_reconfigure, nav_msgs, rosconsole, roscpp, costmap_2d, pluginlib, hector_nav_msgs,
+  nav_core, geometry_msgs, rospy, eigen]
