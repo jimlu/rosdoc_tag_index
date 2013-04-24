@@ -1,1 +1,1 @@
-[sandia_hand_msgs, roseus, atlas_utils, hrpsys_ros_bridge, pr2eus]
+[hrpsys_ros_bridge, roseus, atlas_utils, pr2eus, atlas_msgs, sandia_hand_msgs]
