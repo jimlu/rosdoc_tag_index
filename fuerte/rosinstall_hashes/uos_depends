@@ -1,4 +1,4 @@
-{jenkins_scripts-sys: 4bc27844fcf6a2130db063d9cb4dac0590fff379, rosdoc_lite-sys: 50f735fc7b74a31c0c630798229ccd2faf90ef64,
+{jenkins_scripts-sys: 8b4420e7b5379087fd034890305026df2e2a69ad, rosdoc_lite-sys: 50f735fc7b74a31c0c630798229ccd2faf90ef64,
   stacks/RCPRG_laser_drivers: f571a3ef8143ecd050d0b08e9894828f42599d56, stacks/ar_kinect: 34d635f787eeed71bc8e15391bbb605893c8b7b0,
   stacks/ccny_vision: e03c2bf654d5a16073e9a90f875da728bcdda47a, stacks/laser_drivers: '40422',
   stacks/navigation: e7d6c19ffe1301a4ff82200d99368679f5cc7664, stacks/object_manipulation: '55306',
