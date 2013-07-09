@@ -1,2 +1,3 @@
 [actionlib, arm_navigation, arm_navigation_experimental, common_rosdeps, geometry,
-  pr2_controllers, pr2_mechanism, ros, sql_database, visualization]
+  pluginlib, pr2_controllers, pr2_mechanism, ros, sql_database, visualization, household_objects_database_msgs,
+  manipulation_msgs]
