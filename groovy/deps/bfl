@@ -1,1 +1,1 @@
-[cppunit]
+[catkin, ros, cmake, cppunit]
