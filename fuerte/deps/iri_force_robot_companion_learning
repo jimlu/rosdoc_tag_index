@@ -1,0 +1,2 @@
+[std_srvs, roscpp, std_msgs, iri_base_algorithm, sensor_msgs, geometry_msgs, visualization_msgs,
+  tf, iri_perception_msgs]

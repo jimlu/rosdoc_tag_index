@@ -1,6 +1,5 @@
-[iri_oa_client, iri_platform_teleop, iri_checkpoint_nav, iri_people_follower, my_map_checker,
-  iri_ackermann_local_planner, iri_nav_msgs, iri_force_navigation, iri_obstacle_detection,
-  iri_force_navigation_learning, iri_no_collision, iri_dynamics_objects_localization,
-  iri_people_follower_client, iri_laser_navigation, iri_localization3d, iri_people_simulation,
-  iri_poseslam, iri_bspline_navfn, iri_laser_localisation, iri_force_robot_companion,
-  iri_ry_oa_bridge]
+[my_map_checker, iri_no_collision, iri_localization3d, iri_people_follower, iri_force_robot_companion,
+  iri_force_robot_companion_learning, iri_poseslam, iri_laser_localisation, iri_dynamics_objects_localization,
+  iri_oa_client, iri_platform_teleop, iri_nav_msgs, iri_bspline_navfn, iri_checkpoint_nav,
+  iri_people_simulation, iri_ackermann_local_planner, iri_force_navigation, iri_obstacle_detection,
+  iri_force_navigation_learning, iri_laser_navigation, iri_ry_oa_bridge, iri_people_follower_client]
