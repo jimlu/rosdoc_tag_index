@@ -1,4 +1,4 @@
-[pr2_mechanism_msgs, std_srvs, roscpp, interpolated_ik_motion_planner, actionlib,
-  sensor_msgs, geometry_msgs, eigen_conversions, arm_kinematics_constraint_aware,
-  rospy, visualization_msgs, tf, kinematics_msgs, common_rosdeps, arm_navigation_msgs,
+[pr2_mechanism_msgs, std_srvs, roscpp, pluginlib, python, interpolated_ik_motion_planner,
+  actionlib, sensor_msgs, geometry_msgs, eigen_conversions, arm_kinematics_constraint_aware,
+  rospy, python-scipy, visualization_msgs, tf, kinematics_msgs, common_rosdeps, arm_navigation_msgs,
   object_manipulation_msgs, planning_environment, pr2_controllers_msgs]
