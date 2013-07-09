@@ -1,1 +1,1 @@
-[catkin, roscpp, polygon_interface_package, pluginlib]
+[catkin, roscpp, pluginlib]
