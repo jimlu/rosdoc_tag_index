@@ -1,1 +1,2 @@
-[rocon_apps, gateway_msgs, catkin, roslib, rocon_app_manager_msgs, rospy, rocon_utilities]
+[rocon_apps, gateway_msgs, catkin, roslib, rocon_app_manager_msgs, rosmaster, rospy,
+  rocon_utilities]

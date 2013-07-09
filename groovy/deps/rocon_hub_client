@@ -1,1 +1,1 @@
-[redis, rocon_gateway, catkin, rospy]
+[redis, catkin, rocon_utilities, rospy]

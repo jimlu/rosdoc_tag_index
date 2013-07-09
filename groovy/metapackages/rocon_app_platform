@@ -1,1 +1,1 @@
-[rocon_apps, rocon_app_manager, rocon_app_manager_www]
+[rocon_apps, rocon_app_manager, catkin, rocon_app_manager_www]

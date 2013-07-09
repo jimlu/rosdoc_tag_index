@@ -1,1 +1,1 @@
-[geometry_msgs, sensor_msgs, rviz, stereo_msgs, arm_navigation_msgs]
+[geometry_msgs, shape_msgs, sensor_msgs, rviz, stereo_msgs]

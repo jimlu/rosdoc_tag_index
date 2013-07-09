@@ -1,4 +1,2 @@
-[household_objects_database_msgs, current_state_validator, compressed_pointcloud_transport,
-  rviz_interaction_tools, point_cloud_server, interactive_marker_helpers, object_manipulator,
-  bayesian_grasp_planner, household_objects_database, static_transform_broadcaster,
-  probabilistic_grasp_planner, object_manipulation_msgs]
+[object_manipulation_msgs, object_manipulator, point_cloud_server, interactive_marker_helpers,
+  rviz_interaction_tools]
