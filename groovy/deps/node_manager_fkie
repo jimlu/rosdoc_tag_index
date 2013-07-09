@@ -1,3 +1,3 @@
-[roslaunch, dynamic_reconfigure, xterm, catkin, python-pyside.qtuitools, screen, roslib,
-  rosgraph, rosservice, master_sync_fkie, python-docutils, python-pyside, rospy, master_discovery_fkie,
-  default_cfg_fkie, python-paramiko]
+[roslaunch, dynamic_reconfigure, xterm, roslib, catkin, python_qt_binding, screen,
+  multimaster_msgs_fkie, rosgraph, rosservice, master_sync_fkie, rosmsg, rospy, master_discovery_fkie,
+  default_cfg_fkie, python-paramiko, python-docutils]
