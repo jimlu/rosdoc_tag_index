@@ -1,7 +1,7 @@
 [location_designator_projection, occupancy_grid_costmap, execution_trace_server, cram_manipulation_knowledge,
   object_location_designators, fake_process_modules, map_annotation, yason, location_costmap,
   cram_physics_utils, cram_roslisp_common, cljlo_utils, cram_plan_library, trivial_gray_streams,
-  semantic_map_cache, cram_plan_failures, designators_ros, visibility_costmap, cram_plan_knowledge,
-  cljlo, cl_json_pl_server, cram_plan_actionserver, semantic_map_costmap, semantic_map_collision_environment,
-  cram_feature_constraints, cl_semantic_map_utils, cffi_ros_utils, cl_json_pl_client,
+  semantic_map_cache, cram_plan_failures, designators_ros, cl_json_pl_server, cram_plan_knowledge,
+  cljlo, visibility_costmap, cram_plan_actionserver, cffi_ros_utils, semantic_map_collision_environment,
+  cram_feature_constraints, cl_semantic_map_utils, semantic_map_costmap, cl_json_pl_client,
   perception_process_module]
