@@ -1,1 +1,1 @@
-[flex, intltool, mercurial, yasm, scons, bison, xz-utils, libtool, autoconf]
+[flex, intltool, catkin, mercurial, yasm, scons, bison, xz-utils, libtool, autoconf]
