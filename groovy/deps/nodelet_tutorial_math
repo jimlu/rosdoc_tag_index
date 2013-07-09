@@ -1,1 +1,1 @@
-[std_msgs, nodelet, roscpp]
+[std_msgs, nodelet, roscpp, catkin]
