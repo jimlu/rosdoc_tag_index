@@ -1,1 +1,1 @@
-[roscpp, graspit_ros_planning_msgs, graspit, sensor_msgs, geometry_msgs, object_manipulation_msgs]
+[roscpp, graspit_ros_planning_msgs, graspit, sensor_msgs, geometry_msgs, manipulation_msgs]

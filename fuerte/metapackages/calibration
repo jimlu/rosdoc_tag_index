@@ -1,2 +1,2 @@
 [laser_cb_detector, calibration_estimation, monocam_settler, interval_intersection,
-  settlerlib, calibration_msgs, image_cb_detector, calibration_launch, joint_states_settler]
+  settlerlib, joint_states_settler, image_cb_detector, calibration_launch, calibration_msgs]

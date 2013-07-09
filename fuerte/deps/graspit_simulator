@@ -1,1 +1,2 @@
-[common_msgs, object_manipulation, ros, ros_comm]
+[common_msgs, manipulation_msgs, household_objects_database_msgs, household_objects_database,
+  ros, tf, ros_comm]
