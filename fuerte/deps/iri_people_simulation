@@ -1,1 +1,1 @@
-[iri_base_algorithm, geometry_msgs, roscpp, iri_perception_msgs]
+[geometry_msgs, iri_base_algorithm, std_srvs, roscpp, iri_perception_msgs]

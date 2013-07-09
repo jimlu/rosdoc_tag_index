@@ -1,0 +1,1 @@
+[iri_camera_object_learner_server, iri_base_algorithm, cv_bridge, roscpp, image_transport]
