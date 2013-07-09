@@ -1,2 +1,2 @@
-[roscpp, rviz_interaction_tools, actionlib, sensor_msgs, stereo_msgs, geometry_msgs,
-  arm_navigation_msgs, actionlib_msgs, rviz]
+[shape_msgs, roscpp, rviz_interaction_tools, actionlib, sensor_msgs, stereo_msgs,
+  geometry_msgs, interactive_perception_msgs, actionlib_msgs, rviz]

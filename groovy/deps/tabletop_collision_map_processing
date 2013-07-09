@@ -1,2 +1,2 @@
-[household_objects_database_msgs, std_srvs, actionlib, object_manipulator, pr2_msgs,
-  tf, object_manipulation_msgs, tabletop_object_detector, arm_navigation_msgs]
+[household_objects_database_msgs, shape_msgs, std_srvs, actionlib, object_manipulator,
+  pr2_msgs, tf, object_manipulation_msgs, tabletop_object_detector, arm_navigation_msgs]

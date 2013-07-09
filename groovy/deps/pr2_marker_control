@@ -1,3 +1,4 @@
 [roscpp, point_cloud_server, interactive_markers, sensor_msgs, interactive_marker_helpers,
-  object_manipulator, geometry_msgs, visualization_msgs, tf, pr2_navigation_controllers,
-  pr2_object_manipulation_msgs, planning_environment, pr2_wrappers]
+  object_manipulator, pr2_interactive_gripper_pose_action, geometry_msgs, visualization_msgs,
+  tf, pr2_navigation_controllers, pr2_object_manipulation_msgs, planning_environment,
+  pr2_wrappers]

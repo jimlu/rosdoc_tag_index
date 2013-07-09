@@ -2,4 +2,6 @@
   common_rosdeps, driver_common, filters, geometry, image_common, navigation, object_manipulation,
   orocos_kinematics_dynamics, perception_pcl, pluginlib, pr2_arm_navigation, pr2_common,
   pr2_common_actions, pr2_controllers, pr2_mechanism, robot_model, ros_realtime, sql_database,
-  vision_opencv, visualization, simulator_gazebo, pr2_simulator]
+  vision_opencv, visualization, simulator_gazebo, pr2_simulator, geometry_experimental,
+  pr2_plugs, pr2_apps, view_controller_msgs, rviz_animated_view_controller, household_objects_database,
+  household_objects_database_msgs, manipulation_msgs]

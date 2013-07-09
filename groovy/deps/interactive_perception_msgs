@@ -1,0 +1,2 @@
+[shape_msgs, tabletop_object_detector, stereo_msgs, actionlib, sensor_msgs, geometry_msgs,
+  tf, actionlib_msgs]

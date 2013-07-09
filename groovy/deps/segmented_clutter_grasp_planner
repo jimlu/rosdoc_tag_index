@@ -1,2 +1,2 @@
 [roscpp, sensor_msgs, pr2_gripper_grasp_planner_cluster, object_manipulator, pcl,
-  tf, object_manipulation_msgs]
+  tf, object_manipulation_msgs, pkg-config]

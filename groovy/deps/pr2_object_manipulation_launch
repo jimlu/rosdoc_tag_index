@@ -1,5 +1,4 @@
-[dynamic_reconfigure, current_state_validator, trajectory_filter_server, pr2_arm_navigation_perception,
-  pr2_arm_navigation_actions, pr2_arm_navigation_filtering, pr2_gripper_reactive_approach,
-  pr2_arm_navigation_planning, interpolated_ik_motion_planner, pr2_gripper_grasp_planner_cluster,
-  object_manipulator, bayesian_grasp_planner, pr2_manipulation_controllers, pr2_arm_navigation_kinematics,
-  probabilistic_grasp_planner, pr2_gripper_grasp_controller]
+[dynamic_reconfigure, trajectory_filter_server, pr2_arm_navigation_perception, pr2_arm_navigation_actions,
+  pr2_arm_navigation_filtering, pr2_arm_navigation_planning, interpolated_ik_motion_planner,
+  pr2_gripper_grasp_planner_cluster, object_manipulator, pr2_manipulation_controllers,
+  pr2_arm_navigation_kinematics, pr2_gripper_grasp_controller]

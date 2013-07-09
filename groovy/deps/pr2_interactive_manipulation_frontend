@@ -1,0 +1,3 @@
+[std_srvs, rviz, object_recognition_gui, std_msgs, view_controller_msgs, sensor_msgs,
+  tf_throttle, pr2_interactive_object_detection_frontend, object_manipulator, pr2_msgs,
+  pcl, tf, pr2_object_manipulation_msgs, object_manipulation_msgs, pr2_controllers_msgs]

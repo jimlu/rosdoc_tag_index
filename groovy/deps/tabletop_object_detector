@@ -1,2 +1,2 @@
-[household_objects_database_msgs, roscpp, sensor_msgs, distance_field, geometry_msgs,
-  pcl, visualization_msgs, tf, pcl_ros]
+[household_objects_database_msgs, shape_msgs, roscpp, sensor_msgs, distance_field,
+  geometry_msgs, pcl, visualization_msgs, tf, pcl_ros]

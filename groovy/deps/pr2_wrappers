@@ -1,2 +1,2 @@
 [roscpp, pr2_common_action_msgs, sensor_msgs, move_base_msgs, object_manipulator,
-  geometry_msgs, visualization_msgs, tf, pr2_controllers_msgs]
+  geometry_msgs, visualization_msgs, tf, pr2_plugs_msgs, pr2_controllers_msgs]
