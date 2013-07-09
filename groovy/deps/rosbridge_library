@@ -1,1 +1,3 @@
-[catkin, message_runtime, python-imaging, rosservice, rospy, rostopic, message_generation]
+[nav_msgs, catkin, stereo_msgs, actionlib_msgs, message_runtime, sensor_msgs, geometry_msgs,
+  python-imaging, rospy_tutorials, rosservice, rospy, rostopic, message_generation,
+  std_srvs]
