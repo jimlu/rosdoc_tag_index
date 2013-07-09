@@ -1,0 +1,4 @@
+[move_arm, trajectory_filter_server, rviz, planning_environment, robot_state_publisher,
+  interpolated_ik_motion_planner, industrial_deprecated, move_arm_warehouse, constraint_aware_spline_smoother,
+  arm_kinematics_constraint_aware, fanuc_m16ib_support, kinematics_base, warehouse_ros,
+  ompl_ros_interface]

@@ -1,1 +1,2 @@
-[fanuc_config, m430ia2f_arm_navigation, m10ia_arm_navigation, fanuc_common, m16ib20_arm_navigation]
+[fanuc_m430ia_support, fanuc_driver, fanuc_assets, fanuc_m10ia_support, fanuc_m16ib20_arm_navigation,
+  fanuc_m16ib_support, fanuc_m10ia_arm_navigation]
