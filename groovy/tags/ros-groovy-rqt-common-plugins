@@ -1,1 +1,3 @@
+- {docs_url: ../../../api/rqt_cpp_common/html, location: rqt_cpp_common.tag, package: rqt_cpp_common}
+- {docs_url: ../../../api/rqt_top/html, location: rqt_top.tag, package: rqt_top}
 - {docs_url: ../../../api/rqt_marble/html, location: rqt_marble.tag, package: rqt_marble}

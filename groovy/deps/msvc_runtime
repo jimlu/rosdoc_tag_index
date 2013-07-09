@@ -1,1 +1,1 @@
-[rosgraph_msgs, win_roscpp_tutorials]
+[rosgraph_msgs, rosout, catkin, win_roscpp_tutorials]

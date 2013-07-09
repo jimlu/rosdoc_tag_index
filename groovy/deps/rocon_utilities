@@ -1,1 +1,1 @@
-[rospy, catkin]
+[std_msgs, rospy, rostest, catkin, rosunit]
