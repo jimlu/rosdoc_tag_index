@@ -1,1 +1,1 @@
-[joy, corobot_msgs, sensor_msgs, roscpp]
+[joy, corobot_msgs, sensor_msgs, roscpp, diagnostic_updater]

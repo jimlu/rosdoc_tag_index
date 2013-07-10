@@ -1,2 +1,2 @@
 [dynamic_reconfigure, corobot_msgs, roscpp, corobot_srvs, sensor_msgs, image_transport,
-  libswscale-dev, rospy, camera_calibration_parsers, cv_bridge]
+  diagnostic_updater, libswscale-dev, rospy, camera_calibration_parsers, cv_bridge]
