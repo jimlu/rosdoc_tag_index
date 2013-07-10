@@ -1,1 +1,2 @@
-[tf, sensor_msgs, camera_info_manager_py, rospy, geometry_msgs]
+[catkin, message_runtime, sensor_msgs, camera_info_manager_py, tf, geometry_msgs,
+  message_generation, rospy]
