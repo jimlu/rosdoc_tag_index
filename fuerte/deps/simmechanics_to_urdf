@@ -1,1 +1,1 @@
-[tf, sensor_msgs, urdf_python, rospy, python-yaml]
+[tf, sensor_msgs, rospy, python-yaml]
