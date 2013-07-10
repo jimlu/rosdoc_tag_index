@@ -1,1 +1,1 @@
-[laser_avoid, elektron_teleop, elektron_navigation, elektron_calibration, pcl_to_scan]
+[laser_avoid, elektron_calibration, elektron_navigation, elektron_teleop, pcl_to_scan]
