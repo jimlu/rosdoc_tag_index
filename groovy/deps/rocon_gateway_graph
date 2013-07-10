@@ -1,1 +1,2 @@
-[rocon_gateway, catkin, rqt_gui, qt_gui_py_common, python-rospkg, rospy, rqt_gui_py]
+[rocon_gateway, catkin, rqt_gui, qt_gui_py_common, python-rospkg, rospy, rqt_gui_py,
+  rocon_utilities]
