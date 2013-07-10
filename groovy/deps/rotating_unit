@@ -1,0 +1,2 @@
+[eigen, point_cloud_mapping, sensor_msgs, perception_srvs, mapping_srvs, geometry_msgs,
+  roscpp]

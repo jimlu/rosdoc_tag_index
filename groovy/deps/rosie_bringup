@@ -1,0 +1,7 @@
+[kdl, motionControl, swissranger_camera, ias_maps, rosie_controller_manager, cop_barcode_plugins,
+  laser_assembler, jlo, soft_runstop, image_proc, diagnostic_aggregator, omni_ethercat,
+  sahand_api, kuka_fri, pr2_computer_monitor, collision_map, tf, teleop_wii, map_server,
+  robot_state_chain_publisher, hokuyo_node, ias_arm_kinematics, robot_state_publisher,
+  cop_transparent_objects_plugin, gmapping, laser_filters, costmap_2d, rosie_description,
+  nav_pcontroller, power_relay, robot_self_filter, powercube_node, simple_grasp_planner,
+  cop, yarp2, pr2_laser_snapshotter, amcl]

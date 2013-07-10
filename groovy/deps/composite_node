@@ -1,0 +1,1 @@
+[roscpp, flir_driver, composite_swissranger, std_msgs, opencv2, stoc_driver, tf, cv_bridge]

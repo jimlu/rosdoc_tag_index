@@ -1,0 +1,4 @@
+[ias_table_msgs, ias_maps, actionlib_msgs, find_base_pose, kinematics_msgs, pcl_ros,
+  laser_geometry, actionlib, pr2_arm_move_ik, pr2_msgs, pcl, visualization_msgs, tf,
+  joint_trajectory_action, pr2_gripper_sensor_msgs, cop_client_cpp, move_base_msgs,
+  pr2_controllers_msgs, std_srvs, articulation_pr2, geometry_msgs, object_manipulation_msgs]

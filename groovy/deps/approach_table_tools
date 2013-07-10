@@ -1,0 +1,2 @@
+[image_geometry, drive_base_action, sensor_msgs, opencv2, rospy, tf, geometry_msgs,
+  cv_bridge, pr2_tuck_arms_action]

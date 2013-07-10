@@ -1,0 +1,1 @@
+[yarp2, sensor_msgs, image_transport, opencv2, camera_calibration_parsers, cv_bridge]
