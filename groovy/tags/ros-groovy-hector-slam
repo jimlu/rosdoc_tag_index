@@ -12,3 +12,5 @@
 - {docs_url: ../../../api/hector_geotiff/html, location: hector_geotiff.tag, package: hector_geotiff}
 - {docs_url: ../../../api/hector_slam_launch/html, location: hector_slam_launch.tag,
   package: hector_slam_launch}
+- {docs_url: ../../../api/hector_geotiff_plugins/html, location: hector_geotiff_plugins.tag,
+  package: hector_geotiff_plugins}
