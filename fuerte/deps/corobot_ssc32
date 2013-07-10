@@ -1,1 +1,1 @@
-[rospy, corobot_msgs, std_msgs, roscpp, corobot_srvs]
+[corobot_msgs, roscpp, corobot_srvs, std_msgs, diagnostic_updater, rospy]
