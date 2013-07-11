@@ -1,5 +1,6 @@
 [cob_script_server, actionlib_msgs, cob_default_env_config, cob_default_robot_config,
-  srs_env_model_percp, ompl_ros_interface, move_arm, srs_env_model_utils, roscpp,
-  planning_environment, actionlib, srs_env_model, arm_kinematics_constraint_aware,
-  cob_navigation_global, message_filters, nodelet, cob_arm_navigation, mongodb, srs_assisted_arm_navigation_msgs,
-  sensor_msgs, srs_interaction_primitives, rviz, trajectory_filter_server]
+  mongo_ros, srs_env_model_percp, ompl_ros_interface, move_arm, srs_env_model_utils,
+  roscpp, planning_environment, actionlib, srs_env_model, arm_kinematics_constraint_aware,
+  cob_navigation_global, nodelet, message_filters, mongodb, srs_assisted_arm_navigation_msgs,
+  head_monitor_msgs, sensor_msgs, srs_interaction_primitives, rviz, trajectory_filter_server,
+  cob_arm_navigation, cob_kinematics]
