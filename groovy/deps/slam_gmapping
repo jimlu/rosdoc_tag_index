@@ -1,1 +1,1 @@
-[common_msgs, geometry, navigation, ros, ros_comm]
+[openslam_gmapping, catkin, gmapping]
