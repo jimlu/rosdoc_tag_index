@@ -1,1 +1,1 @@
-[nav_msgs, rosconsole, map_server, roscpp, message_filters, std_msgs, tf, rosbag]
+[nav_msgs, catkin, roscpp, openslam_gmapping, rostest, tf]

@@ -1,1 +1,1 @@
-[gmapping]
+[openslam_gmapping, catkin, gmapping]
