@@ -1,1 +1,2 @@
-[uos_gazebo_worlds, tf_publisher_gui, uos_common_urdf, uos_diffdrive_teleop, joint_state_muxer]
+[joint_state_muxer, uos_common_urdf, uos_diffdrive_teleop, uos_gazebo_worlds, tf_publisher_gui,
+  rgbd_rosbag_tools]
