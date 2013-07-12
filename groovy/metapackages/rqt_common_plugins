@@ -1,3 +1,4 @@
-[rqt_web, rqt_shell, catkin, rqt_reconfigure, rqt_graph, rqt_dep, rqt_bag, rqt_logger_level,
-  rqt_srv, rqt_py_console, rqt_service_caller, rqt_image_view, rqt_topic, rqt_bag_plugins,
-  rqt_console, rqt_publisher, rqt_action, rqt_msg, rqt_launch, rqt_plot, rqt_py_common]
+[catkin, rqt_py_console, rqt_image_view, rqt_graph, rqt_console, rqt_srv, rqt_reconfigure,
+  rqt_dep, rqt_bag, rqt_plot, rqt_publisher, rqt_web, rqt_shell, rqt_launch, rqt_topic,
+  rqt_action, rqt_top, rqt_py_common, rqt_logger_level, rqt_msg, rqt_service_caller,
+  rqt_bag_plugins]
