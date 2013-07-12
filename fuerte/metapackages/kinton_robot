@@ -1,1 +1,2 @@
-[kinton_apps, kinton_sim, iri_ual_catec, iri_jointspub, arm_sim_controller]
+[iri_ual_catec, kinton_apps, arm_sim_controller, iri_jointspub, kinton_base, kinton_sim,
+  kinton_odom]
