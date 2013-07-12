@@ -1,1 +1,1 @@
-[tf, tf_conversions, kdl_conversions, angles, eigen_conversions]
+[catkin, kdl_conversions, eigen_conversions, angles, tf, tf_conversions]
