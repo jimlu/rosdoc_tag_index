@@ -1,3 +1,4 @@
-[m3skin_ros, m3skin_viz, hrl_haptic_manipulation_in_clutter_msgs, hrl_haptic_manipulation_in_clutter_srvs,
-  hrl_common_code_darpa_m3, hrl_motion_planners_darpa_m3, m3skin_calibration, hrl_fabric_based_tactile_sensor,
-  hrl_software_simulation_darpa_m3, m3skin_rviz_demo, hrl_haptic_mpc, hrl_meka_skin_sensor_darpa_m3]
+[m3skin_ros, hrl_haptic_manipulation_in_clutter_msgs, hrl_haptic_manipulation_in_clutter_srvs,
+  hrl_common_code_darpa_m3, hrl_motion_planners_darpa_m3, m3skin_calibration, hrl_meka_skin_sensor_darpa_m3,
+  hrl_software_simulation_darpa_m3, m3skin_rviz_demo, hrl_fabric_based_tactile_sensor,
+  hrl_haptic_mpc, m3skin_viz]
