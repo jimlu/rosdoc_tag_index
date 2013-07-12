@@ -1,11 +1,11 @@
 - {docs_url: ../../../api/pose_base_controller/html, location: pose_base_controller.tag,
   package: pose_base_controller}
 - {docs_url: ../../../api/goal_passer/html, location: goal_passer.tag, package: goal_passer}
-- {docs_url: ../../../api/assisted_teleop/html, location: assisted_teleop.tag, package: assisted_teleop}
+- {docs_url: ../../../api/twist_recovery/html, location: twist_recovery.tag, package: twist_recovery}
 - {docs_url: ../../../api/eband_local_planner/html, location: eband_local_planner.tag,
   package: eband_local_planner}
 - {docs_url: ../../../api/pose_follower/html, location: pose_follower.tag, package: pose_follower}
-- {docs_url: ../../../api/twist_recovery/html, location: twist_recovery.tag, package: twist_recovery}
+- {docs_url: ../../../api/assisted_teleop/html, location: assisted_teleop.tag, package: assisted_teleop}
 - {docs_url: ../../../api/sbpl_lattice_planner/html, location: sbpl_lattice_planner.tag,
   package: sbpl_lattice_planner}
 - {docs_url: ../../../api/sbpl_recovery/html, location: sbpl_recovery.tag, package: sbpl_recovery}
