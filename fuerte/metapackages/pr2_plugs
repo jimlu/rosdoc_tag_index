@@ -1,2 +1,2 @@
 [stereo_wall_detection, checkerboard_pose_estimation, visual_pose_estimation, pr2_image_snapshot_recorder,
-  pr2_plugs_common, pr2_plugs_actions, pr2_plugs_msgs, outlet_pose_estimation]
+  pr2_plugs_common, outlet_pose_estimation, pr2_plugs_msgs, pr2_plugs_actions]
