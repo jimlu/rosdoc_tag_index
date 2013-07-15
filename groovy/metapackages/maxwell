@@ -1,2 +1,2 @@
-[maxwell_calibration, maxwell_defs, maxwell_moveit_config, simple_moveit_plugins,
+[maxwell_calibration, catkin, simple_moveit_plugins, maxwell_moveit_config, maxwell_defs,
   maxwell_navigation]
