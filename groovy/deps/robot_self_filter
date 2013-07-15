@@ -1,2 +1,2 @@
-[shape_msgs, roscpp, assimp, urdf, sensor_msgs, resource_retriever, pcl, filters,
-  visualization_msgs, tf, geometric_shapes, pkg-config]
+[shape_msgs, pcl_conversions, roscpp, assimp, urdf, sensor_msgs, resource_retriever,
+  pcl, filters, visualization_msgs, tf, geometric_shapes, pkg-config]
