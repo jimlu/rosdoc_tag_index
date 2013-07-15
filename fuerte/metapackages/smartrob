@@ -1,1 +1,1 @@
-[dlut_move_base]
+[dlut_move_base, dlut_pc_odom, dlut_motor_hokuyo]
