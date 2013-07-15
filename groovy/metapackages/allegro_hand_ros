@@ -1,4 +1,4 @@
-[allegro_hand_keyboard, allegro_hand_core_template_slp, allegro_hand_core_grasp_slp,
-  allegro_hand_core_pd, allegro_hand_core_grasp, allegro_hand_core_velSat, allegro_hand_description,
+[allegro_hand_core_pd, allegro_hand_core_grasp_slp, allegro_hand_keyboard, allegro_hand_core_grasp,
+  allegro_hand_description, allegro_hand_core_velSat, allegro_hand_core_template_slp,
   allegro_hand_core_pd_slp, allegro_hand_core_template, joint_state_publisher_experimental,
   urdf_python]
