@@ -1,2 +1,2 @@
 [common, common_msgs, geometry, humanoid_msgs, navigation, ros, ros_comm, perception_pcl,
-  octomap_msgs]
+  octomap_msgs, octomap_ros, robot_model, arm_navigation]
