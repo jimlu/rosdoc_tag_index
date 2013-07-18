@@ -1,2 +1,2 @@
 [nav_msgs, roscpp, iri_base_algorithm, sensor_msgs, eigen_conversions, geometry_msgs,
-  tf]
+  tf, mav_msgs]
