@@ -1,1 +1,1 @@
-[object_manipulation_msgs, geometry_msgs]
+[object_manipulation_msgs, geometry_msgs, manipulation_msgs]
