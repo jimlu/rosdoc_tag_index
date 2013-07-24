@@ -1,1 +1,2 @@
-[teo_gazebo_plugin, teo_base, teo_sim, teo_apps, teo_2dnav, teo_hri_teleop, teo_rosbag_filters]
+[teo_gazebo_plugin, teo_base, teo_battery_monitor, teo_sim, teo_apps, teo_2dnav, teo_hri_teleop,
+  teo_rosbag_filters]
