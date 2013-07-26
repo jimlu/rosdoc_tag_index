@@ -1,1 +1,1 @@
-[common_msgs, geometry, hector_common, nodelet_core, ros, ros_comm]
+[common_msgs, geometry, nodelet_core, ros, ros_comm]
