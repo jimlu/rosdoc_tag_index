@@ -1,1 +1,1 @@
-[rosconsole, bullet, resource_retriever, assimp, tf, pkg-config]
+[rosconsole, bullet, qhull, resource_retriever, assimp, tf, pkg-config]
