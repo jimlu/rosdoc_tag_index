@@ -1,0 +1,2 @@
+[control_toolbox, roscpp, iri_base_algorithm, eigen_conversions, geometry_msgs, tf,
+  ar_pose]
