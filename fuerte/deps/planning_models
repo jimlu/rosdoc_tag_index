@@ -1,1 +1,1 @@
-[rosconsole, bullet, urdf, angles, geometric_shapes, pkg-config]
+[rosconsole, roslib, urdf, angles, geometric_shapes, pkg-config]
