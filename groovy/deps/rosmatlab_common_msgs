@@ -1,1 +1,1 @@
-[rosmatlab, catkin, common_msgs]
+[rosgraph_msgs, catkin, rosmatlab, std_msgs, common_msgs]
