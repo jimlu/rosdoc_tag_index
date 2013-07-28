@@ -4,3 +4,4 @@
   package: dynamixel_controllers}
 - {docs_url: ../../../api/dynamixel_tutorials/html, location: dynamixel_tutorials.tag,
   package: dynamixel_tutorials}
+- {docs_url: ../../../api/dynamixel_motor/html, location: dynamixel_motor.tag, package: dynamixel_motor}

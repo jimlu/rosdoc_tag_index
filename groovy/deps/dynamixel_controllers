@@ -1,2 +1,2 @@
-[actionlib, trajectory_msgs, std_msgs, dynamixel_driver, control_msgs, rospy, dynamixel_msgs,
-  diagnostic_msgs]
+[catkin, actionlib, trajectory_msgs, std_msgs, rospy, dynamixel_driver, message_generation,
+  control_msgs, dynamixel_msgs, diagnostic_msgs]
