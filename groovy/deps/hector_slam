@@ -1,2 +1,1 @@
-[ros, common_msgs, geometry, ros_comm, laser_pipeline, image_common, hector_common,
-  vision_opencv]
+[ros, common_msgs, geometry, ros_comm, laser_pipeline, image_common, vision_opencv]
