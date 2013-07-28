@@ -1,1 +1,1 @@
-[ros, ros_comm, common_msgs, actionlib, control]
+[dynamixel_tutorials, dynamixel_msgs, catkin, dynamixel_controllers, dynamixel_driver]
