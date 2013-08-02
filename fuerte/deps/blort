@@ -1,1 +1,1 @@
-[roscpp, sensor_msgs, libglu1, siftgpu, opencv2, geometry_msgs, tf]
+[roscpp, opengl, sensor_msgs, siftgpu, opencv2, geometry_msgs, tf]

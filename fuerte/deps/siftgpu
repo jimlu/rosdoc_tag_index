@@ -1,1 +1,1 @@
-[libdevil, libglew, mk]
+[libglew-dev, mk, libdevil-dev]
