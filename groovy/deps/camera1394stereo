@@ -1,2 +1,2 @@
-[dynamic_reconfigure, catkin, camera_info_manager, image_transport, driver_base, libdc1394-dev,
-  tf, nodelet]
+[dynamic_reconfigure, catkin, roscpp, nodelet, camera_info_manager, sensor_msgs, image_transport,
+  driver_base, libdc1394-dev, tf, boost]
