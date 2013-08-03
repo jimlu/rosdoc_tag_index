@@ -1,1 +1,2 @@
-[kdl, nav_msgs, roscpp, iri_base_algorithm, kdl_parser, eigen_conversions]
+[kdl, nav_msgs, roscpp, iri_base_algorithm, kdl_parser, eigen_conversions, geometry_msgs,
+  ar_pose]

@@ -1,0 +1,2 @@
+[nav_msgs, roscpp, iri_base_algorithm, sensor_msgs, actionlib, tf, wiimote, move_base_msgs,
+  iri_perception_msgs]
