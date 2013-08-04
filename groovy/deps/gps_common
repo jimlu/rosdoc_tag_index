@@ -1,1 +1,2 @@
-[nav_msgs, sensor_msgs, roscpp, message_filters]
+[nav_msgs, catkin, roscpp, message_filters, std_msgs, message_runtime, sensor_msgs,
+  message_generation]
