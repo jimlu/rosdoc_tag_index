@@ -1,2 +1,3 @@
 - {docs_url: ../../../api/gps_common/html, location: gps_common.tag, package: gps_common}
 - {docs_url: ../../../api/gpsd_client/html, location: gpsd_client.tag, package: gpsd_client}
+- {docs_url: ../../../api/gps_umd/html, location: gps_umd.tag, package: gps_umd}

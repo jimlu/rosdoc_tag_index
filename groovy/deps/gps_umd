@@ -1,1 +1,1 @@
-[common_msgs, ros, ros_comm]
+[gpsd_client, gps_common, catkin]
