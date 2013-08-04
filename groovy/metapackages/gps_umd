@@ -1,1 +1,1 @@
-[gpsd_client, gps_common]
+[gpsd_client, gps_common, catkin]

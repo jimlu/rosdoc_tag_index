@@ -1,1 +1,1 @@
-[gps_common, sensor_msgs, roscpp, libgps]
+[gps_common, catkin, roscpp, sensor_msgs, libgps, pkg-config]
