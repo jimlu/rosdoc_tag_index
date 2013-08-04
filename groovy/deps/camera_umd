@@ -1,1 +1,1 @@
-[common_msgs, driver_common, image_common, nodelet_core, ros, ros_comm]
+[uvc_camera, catkin, jpeg_streamer]

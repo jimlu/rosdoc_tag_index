@@ -1,1 +1,1 @@
-[sensor_msgs, roscpp, image_transport]
+[catkin, sensor_msgs, roscpp, image_transport]
