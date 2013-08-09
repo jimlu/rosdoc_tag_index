@@ -1,2 +1,2 @@
 [catkin, roscpp, actionlib_msgs, message_runtime, std_msgs, rostest, rospy, message_generation,
-  boost]
+  rosnode, boost]
