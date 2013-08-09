@@ -1,2 +1,2 @@
-[rocon_apps, concert_conductor, catkin, zeroconf_avahi, rocon_orchestra, concert_master,
-  rospy_tutorials, rocon_app_manager]
+[rocon_apps, concert_conductor, catkin, zeroconf_avahi, rospy_tutorials, rocon_app_manager,
+  concert_orchestra]

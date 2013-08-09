@@ -1,2 +1,1 @@
-[catkin, rocon_gateway_tutorials, turtle_race_concert, turtle_race_controllers, chatter_concert,
-  turtle_concert, turtle_stroll]
+[turtle_stroll, chatter_concert, turtle_concert, catkin, rocon_gateway_tutorials]
