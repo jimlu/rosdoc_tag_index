@@ -1,0 +1,3 @@
+[rosconsole, catkin, roscpp, python, actionlib, moveit_ros_warehouse, moveit_ros_move_group,
+  eigen_conversions, moveit_ros_planning, python-catkin-pkg, rospy, tf, moveit_ros_manipulation,
+  tf_conversions]

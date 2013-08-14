@@ -1,0 +1,1 @@
+[moveit_ros_planning, moveit_core, moveit_ros_visualization, yaml-cpp, catkin]

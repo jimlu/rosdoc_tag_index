@@ -1,0 +1,2 @@
+[dynamic_reconfigure, moveit_core, moveit_ros_perception, pluginlib, actionlib, angles,
+  catkin]
