@@ -1,0 +1,2 @@
+[pr2_mechanism_msgs, std_srvs, roscpp, urdf, std_msgs, diagnostic_updater, rostest,
+  rospy, angles, catkin, diagnostic_msgs, pr2_mechanism_model]
