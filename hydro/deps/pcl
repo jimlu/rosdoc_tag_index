@@ -1,0 +1,2 @@
+[python-sphinx, libflann, cmake, eigen, libflann-dev, libqhull, libvtk, libusb-1.0-dev,
+  catkin, boost]
