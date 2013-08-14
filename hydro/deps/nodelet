@@ -1,0 +1,2 @@
+[rosconsole, catkin, bondcpp, pluginlib, message_runtime, std_msgs, uuid, rospy, tinyxml,
+  message_generation, boost, roscpp]
