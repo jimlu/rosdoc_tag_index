@@ -1,0 +1,2 @@
+[dynamic_reconfigure, rosconsole, tinyxml, roscpp, message_runtime, realtime_tools,
+  message_generation, angles, tf, catkin]
