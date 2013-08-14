@@ -1,0 +1,2 @@
+[catkin, rqt_robot_dashboard, rqt_gui, roslib, std_msgs, pr2_power_board, rospy, pr2_msgs,
+  std_srvs, rqt_gui_py, diagnostic_msgs]
