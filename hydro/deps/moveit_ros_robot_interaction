@@ -1,0 +1,1 @@
+[catkin, roscpp, interactive_markers, eigen_conversions, moveit_ros_planning, tf]
