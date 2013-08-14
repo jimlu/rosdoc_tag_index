@@ -1,0 +1,4 @@
+[nav_msgs, rosconsole, std_srvs, roscpp, pr2_controller_manager, youbot_driver, actionlib,
+  message_runtime, std_msgs, catkin, diagnostic_msgs, libcap2-bin, brics_actuator,
+  control_msgs, tf, message_generation, geometry_msgs, orocos_kdl, actionlib_msgs,
+  cppunit, eigen]
