@@ -1,0 +1,1 @@
+[catkin, arbotix_msgs, arbotix_firmware, arbotix_python, arbotix_sensors, arbotix_controllers]
