@@ -1,0 +1,2 @@
+[cram_reasoning, alexandria, cram_plan_knowledge, cram_roslisp_common, cram_process_modules,
+  cram_feature_constraints, cram_designators, cram_language, cram_fccl, sbcl]

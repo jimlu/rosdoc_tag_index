@@ -1,0 +1,6 @@
+[pr2_mechanism_msgs, alexandria, actionlib_lisp, kinematics_msgs, trivial_garbage,
+  cram_plan_knowledge, constraint_msgs, cram_roslisp_common, pr2_controllers_msgs,
+  cram_plan_failures, designators_ros, pr2_gripper_sensor_msgs, cram_pr2_knowledge,
+  cram_moveit, arm_navigation_msgs, cram_reasoning, std_srvs, semantic_map_collision_environment,
+  cram_fccl, cram_feature_constraints, pr2_manipulation_knowledge, object_manipulation_msgs,
+  cram_process_modules]
