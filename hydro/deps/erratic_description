@@ -1,0 +1,3 @@
+[ivcon, xacro, gazebo_worlds, erratic_gazebo_plugins, robot_state_publisher, urdf,
+  map_server, robot_self_filter, pr2_gazebo_plugins, gazebo_tools, fake_localization,
+  laser_filters, convex_decomposition, gazebo]
