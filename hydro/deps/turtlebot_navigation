@@ -1,0 +1,2 @@
+[move_base, navfn, clear_costmap_recovery, catkin, roscpp, sensor_msgs, map_server,
+  gmapping, rotate_recovery, amcl, tf, base_local_planner, turtlebot_bringup]

@@ -1,0 +1,2 @@
+[nav_msgs, catkin, std_msgs, message_runtime, sensor_msgs, rospy, message_generation,
+  geometry_msgs, python_orocos_kdl, turtlebot_bringup]
