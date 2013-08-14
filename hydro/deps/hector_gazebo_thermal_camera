@@ -1,0 +1,2 @@
+[dynamic_reconfigure, gazebo, image_transport, driver_base, gazebo_plugins, nodelet,
+  gazebo_ros]
