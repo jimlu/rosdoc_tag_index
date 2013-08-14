@@ -1,0 +1,2 @@
+[pano_py, pano_core, catkin, pano_ros, turtlebot_teleop, turtlebot_calibration, turtlebot_navigation,
+  turtlebot_core_apps, turtlebot_follower, turtlebot_panorama, turtlebot_actions]

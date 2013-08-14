@@ -1,0 +1,1 @@
+[pano_core, catkin, roscpp, std_msgs, image_transport, rospy, cv_bridge]

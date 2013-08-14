@@ -1,0 +1,3 @@
+[pr2_description, pr2_mechanism_msgs, rosparam, catkin, roscpp, pr2_mechanism_diagnostics,
+  pr2_controller_interface, pluginlib, sensor_msgs, realtime_tools, pr2_hardware_interface,
+  rostest, rospy, diagnostic_msgs, pr2_mechanism_model]

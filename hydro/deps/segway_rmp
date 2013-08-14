@@ -1,0 +1,2 @@
+[nav_msgs, catkin, roscpp, message_runtime, std_msgs, libsegwayrmp, tf, geometry_msgs,
+  message_generation, serial]

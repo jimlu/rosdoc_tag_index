@@ -1,0 +1,2 @@
+[catkin, roscpp, joy, kobuki_safety_controller, geometry_msgs, cmd_vel_mux, yocs_velocity_smoother,
+  turtlebot_bringup]
