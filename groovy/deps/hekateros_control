@@ -1,0 +1,2 @@
+[rospy, roscpp, std_msgs, actionlib, message_runtime, sensor_msgs, catkin, control_msgs,
+  message_generation, industrial_msgs, actionlib_msgs]
