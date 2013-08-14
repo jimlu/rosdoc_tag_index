@@ -1,0 +1,2 @@
+[catkin, ecl_type_traits, ecl_license, ecl_devices, ecl_concepts, ecl_converters,
+  ecl_time, ecl_errors]

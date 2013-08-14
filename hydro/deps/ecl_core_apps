@@ -1,0 +1,3 @@
+[ecl_devices, catkin, ecl_containers, ecl_type_traits, ecl_command_line, ecl_formatters,
+  ecl_threads, ecl_time_lite, ecl_linear_algebra, ecl_streams, ecl_ipc, ecl_converters,
+  ecl_config, ecl_errors, ecl_sigslots, ecl_license, ecl_exceptions, ecl_geometry]
