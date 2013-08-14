@@ -1,0 +1,2 @@
+[libopenni-sensor-primesense-dev, catkin, roscpp, libopenni-dev, roslib, geometry_msgs,
+  libusb-1.0-dev, libopenni-nite-dev, tf, orocos_kdl]
