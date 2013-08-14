@@ -1,0 +1,1 @@
+[nav_msgs, kobuki_msgs, catkin, roscpp, std_msgs, geometry_msgs, tf, boost, gazebo_ros]
