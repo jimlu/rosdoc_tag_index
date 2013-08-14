@@ -1,0 +1,2 @@
+[moveit_core, catkin, roscpp, pluginlib, actionlib, urdf, kdl_parser, eigen_conversions,
+  pr2_mechanism_msgs, control_msgs, angles, tf_conversions, pr2_controllers_msgs]

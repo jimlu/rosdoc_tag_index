@@ -1,0 +1,1 @@
+[moveit_core, catkin, pluginlib, interactive_markers, moveit_ros_perception, moveit_ros_planning_interface]
