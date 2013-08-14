@@ -1,0 +1,2 @@
+[gateway_msgs, catkin, zeroconf_msgs, roslib, redis, rocon_hub_client, rospy, rostopic,
+  rosservice, rocon_utilities]
