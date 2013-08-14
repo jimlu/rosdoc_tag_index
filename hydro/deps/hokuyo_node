@@ -1,0 +1,2 @@
+[self_test, rosconsole, catkin, roscpp, driver_base, sensor_msgs, diagnostic_updater,
+  dynamic_reconfigure]
