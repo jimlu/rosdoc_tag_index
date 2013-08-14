@@ -1,0 +1,2 @@
+[dynamic_reconfigure, catkin, roscpp, driver_base, nodelet, camera_info_manager, sensor_msgs,
+  image_transport, diagnostic_updater, libdc1394-dev, rostest, tf, boost]
