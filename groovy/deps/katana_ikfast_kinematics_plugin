@@ -1,0 +1,1 @@
+[roscpp, pluginlib, kinematics_base, urdf, tf, tf_conversions]

@@ -1,0 +1,1 @@
+[trajectory_msgs, spline_smoother, roscpp, filters, arm_navigation_msgs]
