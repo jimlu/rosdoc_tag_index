@@ -1,0 +1,3 @@
+[pr2_controller_manager, xacro, roscpp, robot_state_publisher, urdf, std_msgs, robot_mechanism_controllers,
+  katana_joint_movement_adapter, katana_gazebo_plugins, gazebo, actionlib, pr2_controllers_msgs,
+  katana_description]
