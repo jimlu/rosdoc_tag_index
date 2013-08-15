@@ -1,0 +1,2 @@
+[dynamic_reconfigure, worldmodel_msgs, roscpp, std_msgs, camera_info_manager, sensor_msgs,
+  image_transport, opencv2, rospy, thermaleye_msgs, cv_bridge]

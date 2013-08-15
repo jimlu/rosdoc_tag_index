@@ -1,0 +1,3 @@
+[kdl, dynamic_reconfigure, angles, roscpp, message_filters, face_detector, sensor_msgs,
+  image_transport, headmath, geometry_msgs, people_msgs, pcl, tf, rospy, cv_bridge,
+  pcl_ros]
