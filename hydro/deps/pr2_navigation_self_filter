@@ -1,0 +1,2 @@
+[roscpp, bullet, urdf, sensor_msgs, resource_retriever, pcl, filters, visualization_msgs,
+  tf, pcl_ros]
