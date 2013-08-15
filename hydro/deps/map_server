@@ -1,0 +1,1 @@
+[nav_msgs, catkin, roscpp, sdl-image, rostest, rospy, yaml-cpp, tf]

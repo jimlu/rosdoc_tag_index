@@ -1,0 +1,2 @@
+[dynamic_reconfigure, nav_msgs, pcl_conversions, eigen, costmap_2d, pluginlib, nav_core,
+  tf, catkin, base_local_planner, roscpp]
