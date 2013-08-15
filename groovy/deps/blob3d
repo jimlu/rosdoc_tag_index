@@ -1,0 +1,2 @@
+[roscpp, projector_interface, pr2_python, sensor_msgs, image_transport, opencv2, rospy,
+  pcl, cv_bridge, pcl_ros]
