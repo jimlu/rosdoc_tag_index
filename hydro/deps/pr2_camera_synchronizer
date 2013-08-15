@@ -1,0 +1,2 @@
+[dynamic_reconfigure, catkin, wge100_camera, ethercat_trigger_controllers, rostest,
+  rospy, diagnostic_msgs]
