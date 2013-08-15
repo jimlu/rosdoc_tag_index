@@ -1,0 +1,1 @@
+[move_base, map_server, catkin, rviz, kobuki_softnode, fake_localization]
