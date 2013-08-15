@@ -1,0 +1,3 @@
+- {docs_url: ../../../api/gearbox/html, location: gearbox.tag, package: gearbox}
+- {docs_url: ../../../api/dynamixel_hardware_interface/html, location: dynamixel_hardware_interface.tag,
+  package: dynamixel_hardware_interface}

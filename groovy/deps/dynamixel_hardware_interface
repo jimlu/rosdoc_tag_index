@@ -1,0 +1,2 @@
+[std_srvs, roscpp, pluginlib, actionlib, trajectory_msgs, diagnostic_updater, control_msgs,
+  gearbox, diagnostic_msgs]
