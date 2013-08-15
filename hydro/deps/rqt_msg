@@ -1,0 +1,1 @@
+[catkin, rqt_gui, roslib, python-rospkg, rospy, rosmsg, rqt_console, rqt_gui_py, rqt_py_common]
