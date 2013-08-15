@@ -1,0 +1,2 @@
+[roslaunch, python-yaml, pcl_conversions, roscpp, pluginlib, velodyne_driver, roslib,
+  sensor_msgs, velodyne_msgs, rostest, yaml-cpp, angles, tf, catkin, nodelet, pcl_ros]
