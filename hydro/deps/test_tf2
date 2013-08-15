@@ -1,0 +1,2 @@
+[rosconsole, catkin, roscpp, tf2_geometry_msgs, tf2_kdl, rostest, rosunit, tf2_ros,
+  tf, tf2, tf2_msgs, tf2_bullet]
