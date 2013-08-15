@@ -1,0 +1,1 @@
+[image_geometry, roscpp, bullet, opencv2, pcl, visualization_msgs, pcl_ros]

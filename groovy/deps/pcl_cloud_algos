@@ -1,0 +1,2 @@
+[triangle_mesh_msgs, roscpp, pcl_ias_sample_consensus, sensor_msgs, geometry_msgs,
+  pcl, visualization_msgs, pcl_ros, eigen]
