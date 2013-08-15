@@ -1,0 +1,1 @@
+[nav_msgs, catkin, roscpp, sensor_msgs, geometry_msgs, create_node, gazebo_ros]
