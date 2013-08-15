@@ -1,0 +1,2 @@
+[move_base, map_server, catkin, rviz, eband_local_planner, navfn, gmapping, amcl,
+  segbot_bringup]

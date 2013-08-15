@@ -1,0 +1,3 @@
+[dynamic_reconfigure, pr2_navigation_self_filter, laser_geometry, roscpp, message_filters,
+  pcl, sensor_msgs, pr2_machine, laser_tilt_controller_filter, tf, topic_tools, geometry_msgs,
+  filters, laser_filters, semantic_point_annotator, pcl_ros]
