@@ -1,0 +1,3 @@
+[image_geometry, dynamic_reconfigure, python-imaging, projector_calibration, pr2_python,
+  sensor_msgs, python-scipy, python-qt-bindings, object_manipulator, rospy, tf, geometry_msgs,
+  cv_bridge, tf_conversions]

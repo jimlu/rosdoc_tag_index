@@ -1,0 +1,2 @@
+[common_msgs, geometry, laser_pipeline, object_manipulation, perception_pcl, pr2_object_manipulation,
+  ros, ros_comm, vision_opencv]
