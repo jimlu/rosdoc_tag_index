@@ -1,0 +1,2 @@
+[roscpp, object_manipulation_msgs, actionlib, sensor_msgs, geometry_msgs, rospy, katana_msgs,
+  kinematics_msgs]
