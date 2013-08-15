@@ -1,0 +1,2 @@
+[dynamic_reconfigure, catkin, roscpp, camera_info_manager, sensor_msgs, libuvc, image_transport,
+  driver_base, nodelet]

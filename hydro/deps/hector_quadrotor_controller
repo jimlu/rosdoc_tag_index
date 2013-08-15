@@ -1,0 +1,2 @@
+[rosgraph_msgs, nav_msgs, roscpp, hector_gazebo_plugins, gazebo, sensor_msgs, geometry_msgs,
+  hector_uav_msgs, gazebo_ros]
