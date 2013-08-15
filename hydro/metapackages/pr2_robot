@@ -1,0 +1,2 @@
+[catkin, pr2_ethercat, pr2_controller_configuration, pr2_camera_synchronizer, imu_monitor,
+  pr2_run_stop_auto_restart, pr2_computer_monitor, pr2_bringup]
