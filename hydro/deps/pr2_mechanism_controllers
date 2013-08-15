@@ -1,0 +1,4 @@
+[pr2_mechanism_msgs, catkin, rosconsole, diagnostic_updater, filters, nav_msgs, roscpp,
+  pr2_controller_interface, pr2_msgs, visualization_msgs, message_generation, message_runtime,
+  std_msgs, realtime_tools, tf, rospy, angles, diagnostic_msgs, pr2_controllers_msgs,
+  control_toolbox, pluginlib, robot_mechanism_controllers, geometry_msgs, pr2_mechanism_model]
