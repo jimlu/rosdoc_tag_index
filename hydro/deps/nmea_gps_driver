@@ -1,0 +1,2 @@
+[catkin, nmea_navsat_driver, message_runtime, sensor_msgs, python-serial, geometry_msgs,
+  rospy]
