@@ -1,0 +1,2 @@
+[catkin, roscpp, pluginlib, rosconsole_bridge, urdfdom_headers, urdf_parser_plugin,
+  urdfdom]
