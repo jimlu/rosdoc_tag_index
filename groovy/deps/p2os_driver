@@ -1,0 +1,2 @@
+[nav_msgs, catkin, roscpp, diagnostic_updater, message_runtime, std_msgs, tf, geometry_msgs,
+  message_generation]
