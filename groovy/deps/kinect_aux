@@ -1,0 +1,1 @@
+[std_msgs, sensor_msgs, libusb-1.0-dev, catkin, roscpp]
