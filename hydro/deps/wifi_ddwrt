@@ -1,0 +1,2 @@
+[nav_msgs, catkin, python-mechanize, message_runtime, std_msgs, tf, rospy, pr2_msgs,
+  visualization_msgs, message_generation, geometry_msgs]
