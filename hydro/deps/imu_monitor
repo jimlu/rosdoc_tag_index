@@ -1,0 +1,1 @@
+[catkin, sensor_msgs, diagnostic_msgs, pr2_mechanism_controllers, rospy, python_orocos_kdl]

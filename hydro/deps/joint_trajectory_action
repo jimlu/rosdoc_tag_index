@@ -1,0 +1,1 @@
+[actionlib, trajectory_msgs, catkin, roscpp, pr2_controllers_msgs]

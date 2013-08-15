@@ -1,0 +1,4 @@
+[pr2_controller_manager, catkin, trajectory_msgs, filters, roscpp, pr2_controller_interface,
+  actionlib, eigen_conversions, control_msgs, tf, message_filters, std_msgs, realtime_tools,
+  libtool, angles, diagnostic_msgs, tf_conversions, pr2_controllers_msgs, control_toolbox,
+  pluginlib, kdl_parser, geometry_msgs, rospy, pr2_mechanism_model]

@@ -1,0 +1,2 @@
+[nav_msgs, kobuki_msgs, catkin, roscpp, diagnostic_aggregator, robot_state_publisher,
+  sensor_msgs, yujin_maps, geometry_msgs, tf, kobuki_description, nodelet]

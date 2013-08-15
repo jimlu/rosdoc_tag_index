@@ -1,0 +1,1 @@
+[catkin, roscpp, std_msgs, rospy, pr2_msgs, diagnostic_msgs]
