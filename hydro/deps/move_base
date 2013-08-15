@@ -1,0 +1,3 @@
+[dynamic_reconfigure, nav_msgs, navfn, clear_costmap_recovery, std_srvs, roscpp, costmap_2d,
+  pluginlib, actionlib, visualization_msgs, std_msgs, catkin, move_base_msgs, rotate_recovery,
+  nav_core, geometry_msgs, tf, message_generation, rospy, message_runtime, base_local_planner]

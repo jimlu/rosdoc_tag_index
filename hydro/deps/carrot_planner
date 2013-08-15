@@ -1,0 +1,1 @@
+[catkin, roscpp, costmap_2d, pluginlib, nav_core, tf, base_local_planner, eigen]

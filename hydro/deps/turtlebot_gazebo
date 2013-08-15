@@ -1,0 +1,3 @@
+[xacro, depthimage_to_laserscan, cmd_vel_mux, kobuki_gazebo_plugins, diagnostic_aggregator,
+  robot_pose_ekf, robot_state_publisher, gazebo_ros, turtlebot_description, catkin,
+  create_gazebo_plugins, turtlebot_bringup]

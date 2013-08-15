@@ -1,0 +1,2 @@
+[nav_msgs, catkin, roscpp, std_msgs, sensor_msgs, bfl, rostest, geometry_msgs, tf,
+  rosbag]

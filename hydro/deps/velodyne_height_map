@@ -1,0 +1,2 @@
+[roslaunch, pcl_conversions, angles, pluginlib, velodyne_driver, sensor_msgs, catkin,
+  rostest, pcl, tf, roscpp, velodyne_pointcloud, nodelet, pcl_ros]
