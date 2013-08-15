@@ -1,0 +1,2 @@
+[common, common_msgs, diagnostics, diagnostics_monitors, geometry, joystick_drivers,
+  rqt_robot_model, ros, ros_comm, rqt]
