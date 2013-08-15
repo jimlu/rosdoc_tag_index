@@ -1,0 +1,3 @@
+[dynamic_reconfigure, nav_msgs, trajectory_msgs, roscpp, std_msgs, actionlib, urdf,
+  metralabs_msgs, sensor_msgs, rospy, control_msgs, tf, geometry_msgs, diagnostic_msgs,
+  pr2_controllers_msgs]
