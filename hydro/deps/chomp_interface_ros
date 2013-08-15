@@ -1,0 +1,2 @@
+[planning_interface, planning_scene_monitor, chomp_motion_planner, distance_field,
+  pluginlib]
