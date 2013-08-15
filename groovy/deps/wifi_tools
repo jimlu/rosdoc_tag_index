@@ -1,0 +1,1 @@
+[roscpp, roslib, sensor_msgs, gaussian_process, rospy, pcl, tf, pcl_ros]
