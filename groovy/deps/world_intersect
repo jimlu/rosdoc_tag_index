@@ -1,0 +1,2 @@
+[roscpp, message_filters, pr2_python, sensor_msgs, pymouse, geometry_msgs, pcl, tf,
+  pcl_ros]
