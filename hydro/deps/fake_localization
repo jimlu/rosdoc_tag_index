@@ -1,0 +1,2 @@
+[nav_msgs, rosconsole, catkin, roscpp, message_filters, geometry_msgs, angles, tf,
+  rospy]

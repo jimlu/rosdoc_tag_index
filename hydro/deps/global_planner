@@ -1,0 +1,2 @@
+[dynamic_reconfigure, nav_msgs, navfn, catkin, roscpp, costmap_2d, pluginlib, nav_core,
+  geometry_msgs, tf]
