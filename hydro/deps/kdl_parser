@@ -1,1 +1,1 @@
-[urdf, rosconsole, orocos_kdl, catkin, roscpp]
+[rosconsole, catkin, roscpp, urdf, cmake_modules, orocos_kdl]

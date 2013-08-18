@@ -1,0 +1,1 @@
+[sensor_msgs, rosconsole, boost, yaml-cpp, catkin]
