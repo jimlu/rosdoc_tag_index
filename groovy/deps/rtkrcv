@@ -1,0 +1,1 @@
+[roscpp, liblapack-dev, roslib, sensor_msgs, libblas-dev, rtklib]
