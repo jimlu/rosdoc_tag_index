@@ -1,2 +1,2 @@
-[catkin, roscpp, collada_parser, collada-dom, urdf, resource_retriever, assimp, angles,
-  geometric_shapes]
+[catkin, roscpp, collada_parser, collada-dom, urdf, resource_retriever, assimp, cmake_modules,
+  angles, geometric_shapes]
