@@ -1,0 +1,2 @@
+[nav_msgs, pointcloud_vrml, ndt_map, message_filters, sensor_msgs, geometry_msgs,
+  ndt_visualisation, pcl, visualization_msgs, tf, rosbag, ndt_registration]
