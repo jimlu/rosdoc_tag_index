@@ -1,0 +1,2 @@
+[concert_conductor, map_server, catkin, rviz, kobuki_softapps, yujin_maps, rocon_app_manager,
+  concert_orchestra, rocon_tf_reconstructor, robot_pose_publisher]
