@@ -1,0 +1,3 @@
+[libgstreamer-plugins-base0.10-0, catkin, roscpp, libgstreamer-plugins-base0.10-dev,
+  gstreamer0.10-plugins-good, libgstreamer0.10-0, libgstreamer0.10-dev, gstreamer0.10-plugins-ugly,
+  audio_common_msgs]
