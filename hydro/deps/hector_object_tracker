@@ -1,0 +1,2 @@
+[image_geometry, worldmodel_msgs, roscpp, hector_nav_msgs, hector_marker_drawing,
+  tf, eigen]
