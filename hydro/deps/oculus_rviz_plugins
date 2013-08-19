@@ -1,0 +1,2 @@
+[catkin, rviz, libogre-dev, libqt4-opengl-dev, libqt4-dev, oculus_sdk, tf, boost,
+  roscpp]
