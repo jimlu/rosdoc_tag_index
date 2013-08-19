@@ -1,0 +1,2 @@
+[dynamic_reconfigure, rosconsole, catkin, roscpp, sensor_msgs, laser_proc, tf, urg_c,
+  nodelet]
