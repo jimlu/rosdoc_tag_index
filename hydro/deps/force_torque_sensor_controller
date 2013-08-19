@@ -1,0 +1,2 @@
+[hardware_interface, controller_interface, roscpp, pluginlib, realtime_tools, geometry_msgs,
+  catkin]
