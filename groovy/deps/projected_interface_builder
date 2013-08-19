@@ -1,0 +1,2 @@
+[dynamic_reconfigure, projector_interface, sensor_msgs, python-scipy, python-qt-bindings,
+  rospy, geometry_msgs]
