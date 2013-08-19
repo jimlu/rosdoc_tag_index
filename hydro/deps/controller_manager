@@ -1,0 +1,1 @@
+[hardware_interface, catkin, pluginlib, controller_manager_msgs, realtime_tools, controller_interface]
