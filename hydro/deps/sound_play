@@ -1,0 +1,4 @@
+[libgstreamer-plugins-base0.10-0, message_runtime, catkin, roscpp, libgstreamer-plugins-base0.10-dev,
+  python-gst, gstreamer0.10-plugins-good, roslib, libgstreamer0.10-0, libgstreamer0.10-dev,
+  festival, rospy, gstreamer0.10-plugins-ugly, message_generation, diagnostic_msgs,
+  audio_common_msgs]
