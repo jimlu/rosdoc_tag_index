@@ -1,0 +1,2 @@
+[catkin, roscpp, pluginlib, ecl_threads, sensor_msgs, yocs_controllers, tf, geometry_msgs,
+  std_msgs, nodelet]
