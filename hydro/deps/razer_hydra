@@ -1,0 +1,2 @@
+[catkin, roscpp, message_runtime, tf, geometry_msgs, libusb-1.0-dev, message_generation,
+  pkg-config]
