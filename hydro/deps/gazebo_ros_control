@@ -1,0 +1,2 @@
+[catkin, roscpp, controller_manager, pluginlib, transmission_interface, ros_controllers,
+  gazebo_ros]
