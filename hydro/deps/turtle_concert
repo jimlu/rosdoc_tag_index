@@ -1,0 +1,2 @@
+[rocon_apps, concert_conductor, catkin, zeroconf_avahi, gateway_msgs, zeroconf_msgs,
+  rocon_app_manager, concert_orchestra, rospy, turtle_stroll, rocon_utilities]

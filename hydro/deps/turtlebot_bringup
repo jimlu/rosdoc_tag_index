@@ -1,0 +1,3 @@
+[kobuki_bumper2pc, catkin, diagnostic_aggregator, zeroconf_avahi, robot_state_publisher,
+  turtlebot_description, kobuki_safety_controller, openni_launch, kobuki_node, create_node,
+  depthimage_to_laserscan, rocon_app_manager, robot_pose_ekf, linux_hardware]
