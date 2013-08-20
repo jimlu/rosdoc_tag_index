@@ -1,1 +1,1 @@
-[catkin, urdfdom_headers, console_bridge, tinyxml, boost, pkg-config]
+[catkin, urdfdom_headers, console_bridge, cmake_modules, tinyxml, boost, pkg-config]
