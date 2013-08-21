@@ -1,1 +1,2 @@
-[sensor_msgs, actionlib, object_manipulation_msgs, pr2_controllers_msgs]
+[pr2_controller_manager, pr2_gripper_sensor_action, actionlib, sensor_msgs, object_manipulation_msgs,
+  pr2_controllers_msgs]

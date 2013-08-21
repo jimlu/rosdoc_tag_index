@@ -1,4 +1,7 @@
-[dynamic_reconfigure, trajectory_filter_server, pr2_arm_navigation_perception, pr2_arm_navigation_actions,
-  pr2_arm_navigation_filtering, pr2_arm_navigation_planning, interpolated_ik_motion_planner,
-  pr2_gripper_grasp_planner_cluster, object_manipulator, pr2_manipulation_controllers,
-  pr2_arm_navigation_kinematics, pr2_gripper_grasp_controller]
+[pr2_controller_manager, pr2_arm_navigation_filtering, interpolated_ik_motion_planner,
+  pr2_manipulation_controllers, pr2_gripper_grasp_controller, robot_self_filter_color,
+  pr2_arm_navigation_config, pr2_gripper_reactive_approach, planning_environment,
+  pr2_arm_navigation_planning, pr2_machine, laser_filters, mongodb, move_arm_head_monitor,
+  robot_self_filter, pr2_arm_navigation_kinematics, object_manipulator, collider,
+  dynamic_reconfigure, trajectory_filter_server, pr2_arm_navigation_perception, pr2_arm_navigation_actions,
+  pr2_gripper_grasp_planner_cluster, pr2_mechanism_controllers, openni_launch]

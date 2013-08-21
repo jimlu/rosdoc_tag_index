@@ -23,24 +23,24 @@
   package: pr2_manipulation_controllers}
 - {docs_url: ../../../api/pr2_gripper_grasp_planner_cluster/html, location: pr2_gripper_grasp_planner_cluster.tag,
   package: pr2_gripper_grasp_planner_cluster}
-- {docs_url: ../../../api/pr2_gripper_grasp_controller/html, location: pr2_gripper_grasp_controller.tag,
-  package: pr2_gripper_grasp_controller}
-- {docs_url: ../../../api/pr2_object_manipulation_launch/html, location: pr2_object_manipulation_launch.tag,
-  package: pr2_object_manipulation_launch}
-- {docs_url: ../../../api/pr2_tabletop_manipulation_launch/html, location: pr2_tabletop_manipulation_launch.tag,
-  package: pr2_tabletop_manipulation_launch}
+- {docs_url: ../../../api/robot_self_filter_color/html, location: robot_self_filter_color.tag,
+  package: robot_self_filter_color}
 - {docs_url: ../../../api/pr2_gripper_sensor_msgs/html, location: pr2_gripper_sensor_msgs.tag,
   package: pr2_gripper_sensor_msgs}
 - {docs_url: ../../../api/pr2_gripper_sensor_controller/html, location: pr2_gripper_sensor_controller.tag,
   package: pr2_gripper_sensor_controller}
 - {docs_url: ../../../api/pr2_gripper_sensor_action/html, location: pr2_gripper_sensor_action.tag,
   package: pr2_gripper_sensor_action}
+- {docs_url: ../../../api/pr2_gripper_grasp_controller/html, location: pr2_gripper_grasp_controller.tag,
+  package: pr2_gripper_grasp_controller}
 - {docs_url: ../../../api/pr2_gripper_reactive_approach/html, location: pr2_gripper_reactive_approach.tag,
   package: pr2_gripper_reactive_approach}
+- {docs_url: ../../../api/pr2_object_manipulation_launch/html, location: pr2_object_manipulation_launch.tag,
+  package: pr2_object_manipulation_launch}
+- {docs_url: ../../../api/pr2_tabletop_manipulation_launch/html, location: pr2_tabletop_manipulation_launch.tag,
+  package: pr2_tabletop_manipulation_launch}
 - {docs_url: ../../../api/pr2_pick_and_place_demos/html, location: pr2_pick_and_place_demos.tag,
   package: pr2_pick_and_place_demos}
-- {docs_url: ../../../api/robot_self_filter_color/html, location: robot_self_filter_color.tag,
-  package: robot_self_filter_color}
 - {docs_url: ../../../api/pr2_interactive_gripper_pose_action/html, location: pr2_interactive_gripper_pose_action.tag,
   package: pr2_interactive_gripper_pose_action}
 - {docs_url: ../../../api/pr2_navigation_controllers/html, location: pr2_navigation_controllers.tag,

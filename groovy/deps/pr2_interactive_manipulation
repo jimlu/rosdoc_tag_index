@@ -1,5 +1,7 @@
-[segmented_clutter_grasp_planner, dynamic_reconfigure, tabletop_collision_map_processing,
-  pr2_object_manipulation_msgs, std_srvs, object_manipulator, std_msgs, pr2_plugs_actions,
-  sensor_msgs, pr2_create_object_model, move_base_msgs, tf_throttle, pr2_interactive_gripper_pose_action,
-  pr2_marker_control, tf, pr2_interactive_object_detection, pr2_object_manipulation_launch,
-  pr2_wrappers, object_manipulation_msgs, robot_self_filter_color, pr2_controllers_msgs]
+[joint_trajectory_generator, pr2_create_object_model, image_rotate, pr2_interactive_object_detection,
+  robot_self_filter_color, pr2_tuck_arms_action, segmented_clutter_grasp_planner,
+  tabletop_collision_map_processing, pr2_2dnav, point_cloud_server, topic_tools, joy,
+  tf, pr2_2dnav_slam, pr2_object_manipulation_msgs, map_server, sensor_msgs, std_msgs,
+  pr2_teleop, tf_throttle, pr2_interactive_gripper_pose_action, move_base_msgs, pr2_object_manipulation_launch,
+  pr2_controllers_msgs, dynamic_reconfigure, std_srvs, pr2_marker_control, object_manipulator,
+  pr2_2dnav_local, pr2_plugs_actions, object_manipulation_msgs, pr2_wrappers]
