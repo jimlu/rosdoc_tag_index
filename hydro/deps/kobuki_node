@@ -1,4 +1,3 @@
-[catkin, diagnostic_updater, ecl_sigslots, ecl_exceptions, robot_pose_ekf, nav_msgs,
-  roscpp, kobuki_safety_controller, ecl_threads, tf, kobuki_keyop, nodelet, kobuki_driver,
-  kobuki_msgs, sensor_msgs, std_msgs, ecl_streams, rospy, angles, diagnostic_msgs,
-  pluginlib, geometry_msgs]
+[nav_msgs, kobuki_msgs, rospy, roscpp, pluginlib, std_msgs, sensor_msgs, kobuki_safety_controller,
+  catkin, ecl_streams, diagnostic_updater, geometry_msgs, angles, ecl_sigslots, tf,
+  kobuki_keyop, ecl_threads, ecl_exceptions, nodelet, diagnostic_msgs, kobuki_driver]
