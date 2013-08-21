@@ -1,1 +1,2 @@
-[mrl_robots_description, mrl_robots_teleop, mrl_robots_2dnav, mrl_robots_drivers]
+[mrl_robots_description, mrl_robots_sensors, mrl_robots_teleop, mrl_robots_2dnav,
+  mrl_robots_drivers]
