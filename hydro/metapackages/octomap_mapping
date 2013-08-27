@@ -1,1 +1,1 @@
-[octomap_server]
+[catkin, octomap_server]
