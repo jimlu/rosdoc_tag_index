@@ -1,2 +1,1 @@
-[arm_navigation, common_msgs, geometry, perception_pcl, ros, ros_comm, dynamic_reconfigure,
-  octomap, octomap_ros, octomap_msgs]
+[catkin, octomap_server]
