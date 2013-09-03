@@ -1,1 +1,2 @@
-[image_geometry, roscpp, iri_base_algorithm, image_transport, tf, cv_bridge, iri_perception_msgs]
+[image_geometry, roscpp, iri_nav_msgs, iri_base_algorithm, trajectory_msgs, image_transport,
+  iri_perception_msgs, tf, cv_bridge, actionlib]
