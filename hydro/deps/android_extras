@@ -1,1 +1,1 @@
-[rosjava_tools, rosjava_jmdns_suite, catkin, android_core]
+[zeroconf_jmdns_suite, rosjava_tools, catkin, android_core]
