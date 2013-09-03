@@ -1,4 +1,4 @@
-{humanoid_msgs: 359a57d468618759841dd91ddfa4b42bef11e407, humanoid_navigation: '4383',
-  jenkins_scripts-sys: 441857f1ddc21a8f356b7bde379cf213d5211621, nao_common: 14e67f1e0b58a2d5753ecde05a86b88e57fa7451,
+{humanoid_msgs: 359a57d468618759841dd91ddfa4b42bef11e407, humanoid_navigation: '4384',
+  jenkins_scripts-sys: 94747b8ea2fd44f5ab01accc054e461721de0114, nao_common: 14e67f1e0b58a2d5753ecde05a86b88e57fa7451,
   nao_robot: 97f5c81ad8b852b4db60676ff8389137ee44f579, nao_viz: cdf3f684bff0702b97f8aae5dd6d12169ea1cc28,
   rosdoc_lite-sys: 50f735fc7b74a31c0c630798229ccd2faf90ef64}
