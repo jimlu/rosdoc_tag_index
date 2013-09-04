@@ -1,1 +1,1 @@
-[common_msgs, geometry, nodelet_core, ros, ros_comm]
+[message_to_tf, hector_pose_estimation, catkin, hector_pose_estimation_core]
