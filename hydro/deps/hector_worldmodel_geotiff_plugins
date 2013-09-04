@@ -1,1 +1,1 @@
-[hector_geotiff, worldmodel_msgs]
+[catkin, hector_geotiff, hector_worldmodel_msgs]

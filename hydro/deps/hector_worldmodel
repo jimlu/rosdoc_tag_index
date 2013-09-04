@@ -1,1 +1,1 @@
-[common_msgs, geometry, hector_slam, ros, ros_comm, vision_opencv]
+[hector_worldmodel_msgs, catkin, hector_worldmodel_geotiff_plugins, hector_object_tracker]
