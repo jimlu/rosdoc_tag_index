@@ -1,1 +1,1 @@
-[hector_gazebo_plugins, gazebo, gazebo_ros]
+[hector_gazebo_plugins, catkin, gazebo, gazebo_ros]
