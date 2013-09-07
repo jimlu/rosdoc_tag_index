@@ -1,1 +1,1 @@
-[fanuc_driver, fanuc_assets, urdf, xacro]
+[xacro, rviz, fanuc_driver, fanuc_assets, robot_state_publisher, urdf, joint_state_publisher]
