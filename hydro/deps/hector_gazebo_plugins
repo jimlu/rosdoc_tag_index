@@ -1,1 +1,1 @@
-[nav_msgs, roscpp, std_msgs, geometry_msgs, tf, gazebo, gazebo_ros]
+[nav_msgs, std_srvs, roscpp, std_msgs, geometry_msgs, tf, catkin, gazebo, gazebo_ros]
