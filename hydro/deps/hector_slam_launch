@@ -1,1 +1,2 @@
-[hector_geotiff, hector_trajectory_server, hector_mapping, hector_map_server]
+[catkin, hector_trajectory_server, hector_geotiff, hector_geotiff_plugins, hector_map_server,
+  hector_mapping]

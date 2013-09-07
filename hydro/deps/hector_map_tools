@@ -1,1 +1,1 @@
-[nav_msgs, eigen]
+[nav_msgs, catkin, eigen]
