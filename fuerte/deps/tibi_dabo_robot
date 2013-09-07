@@ -1,1 +1,1 @@
-[ros]
+[ros, navigation, executive_smach, jostick_drivers, qt_ros]

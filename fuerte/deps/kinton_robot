@@ -1,1 +1,1 @@
-[ros]
+[ros, mav_tools, simulator_gazebo, ccny_vision]
