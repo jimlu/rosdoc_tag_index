@@ -1,2 +1,2 @@
-[dynamic_reconfigure, gazebo, image_transport, driver_base, gazebo_plugins, nodelet,
-  gazebo_ros]
+[dynamic_reconfigure, catkin, nodelet, image_transport, driver_base, gazebo_plugins,
+  gazebo, gazebo_ros]
