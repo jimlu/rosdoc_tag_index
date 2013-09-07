@@ -1,2 +1,2 @@
-[nav_msgs, laser_geometry, roscpp, message_filters, visualization_msgs, tf, tf_conversions,
-  eigen]
+[nav_msgs, laser_geometry, catkin, roscpp, message_filters, message_runtime, message_generation,
+  visualization_msgs, tf, boost, tf_conversions, eigen]

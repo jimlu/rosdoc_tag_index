@@ -1,1 +1,1 @@
-[nav_msgs, tf, hector_map_tools, hector_nav_msgs]
+[nav_msgs, hector_map_tools, roscpp, hector_nav_msgs, tf, catkin]
