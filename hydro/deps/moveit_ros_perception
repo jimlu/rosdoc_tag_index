@@ -1,3 +1,2 @@
 [pluginlib, moveit_core, pcl_conversions, roscpp, message_filters, rosconsole, glut,
-  urdf, image_transport, opencv2, opengl, octomap, pcl, tf, catkin, tf_conversions,
-  libglew-dev]
+  urdf, image_transport, opencv2, opengl, octomap, tf, catkin, tf_conversions, libglew-dev]
