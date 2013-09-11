@@ -1,0 +1,1 @@
+[nav_msgs, dynamic_reconfigure, corobot_msgs, catkin, roscpp, geometry_msgs, tf]

@@ -1,0 +1,2 @@
+[rosconsole, corobot_msgs, catkin, roscpp, sensor_msgs, std_msgs, diagnostic_updater,
+  joy, corobot_diagnostics]
