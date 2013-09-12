@@ -1,3 +1,4 @@
 [catkin, diagnostic_updater, ecl_sigslots, ecl_exceptions, nav_msgs, roscpp, kobuki_safety_controller,
-  ecl_threads, tf, kobuki_keyop, nodelet, kobuki_driver, kobuki_msgs, sensor_msgs,
-  std_msgs, ecl_streams, rospy, angles, diagnostic_msgs, rviz, pluginlib, geometry_msgs]
+  ecl_threads, tf, kobuki_keyop, nodelet, kobuki_driver, kobuki_msgs, diagnostic_aggregator,
+  sensor_msgs, std_msgs, ecl_streams, rospy, angles, diagnostic_msgs, rviz, pluginlib,
+  geometry_msgs]
