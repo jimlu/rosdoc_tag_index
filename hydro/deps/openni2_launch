@@ -1,0 +1,1 @@
+[image_proc, nodelet, tf, openni2_camera, rgbd_launch, catkin, depth_image_proc]
