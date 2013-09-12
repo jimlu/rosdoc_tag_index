@@ -1,0 +1,2 @@
+[dynamic_reconfigure, roslaunch, catkin, roscpp, sensor_msgs, diagnostic_updater,
+  rostest, nodelet]
