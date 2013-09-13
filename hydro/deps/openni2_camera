@@ -1,0 +1,2 @@
+[dynamic_reconfigure, libopenni2-dev, roscpp, camera_info_manager, sensor_msgs, image_transport,
+  catkin, nodelet]
