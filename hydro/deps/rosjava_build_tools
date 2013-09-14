@@ -1,1 +1,1 @@
-[ant, java, python-rospkg, rospy, catkin, rosinstall_generator]
+[ant, java, python-rosinstall-generator, python-rospkg, rospy, catkin]
