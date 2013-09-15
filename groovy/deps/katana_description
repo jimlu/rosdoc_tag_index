@@ -1,1 +1,1 @@
-[convex_decomposition, ivcon, urdf]
+[convex_decomposition, ivcon, urdf, pr2_gazebo_plugins]
