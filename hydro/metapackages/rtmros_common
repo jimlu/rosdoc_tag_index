@@ -1,0 +1,2 @@
+[hrpsys_ros_bridge, openrtm_tools, catkin, hrpsys_tools, rosnode_rtc, openrtm_ros_bridge,
+  rtmbuild]
