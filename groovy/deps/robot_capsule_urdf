@@ -1,1 +1,1 @@
-[python-rospkg, urdf_parser_py]
+[catkin, rospy, urdfdom_py]
