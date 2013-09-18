@@ -1,1 +1,1 @@
-[hector_gazebo_plugins, geometry_msgs, gazebo, roscpp, hector_uav_msgs]
+[roscpp, hector_gazebo_plugins, gazebo, geometry_msgs, hector_quadrotor_model, hector_uav_msgs]
