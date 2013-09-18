@@ -1,4 +1,6 @@
 - {docs_url: ../../../api/hector_uav_msgs/html, location: hector_uav_msgs.tag, package: hector_uav_msgs}
+- {docs_url: ../../../api/hector_quadrotor_model/html, location: hector_quadrotor_model.tag,
+  package: hector_quadrotor_model}
 - {docs_url: ../../../api/hector_quadrotor_gazebo_plugins/html, location: hector_quadrotor_gazebo_plugins.tag,
   package: hector_quadrotor_gazebo_plugins}
 - {docs_url: ../../../api/hector_quadrotor_teleop/html, location: hector_quadrotor_teleop.tag,
