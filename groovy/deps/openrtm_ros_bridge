@@ -1,1 +1,1 @@
-[openrtm_aist, openrtm_tools, catkin, roscpp, rostest, rtmbuild]
+[openrtm_tools, rostest, catkin, roscpp, rtmbuild]
