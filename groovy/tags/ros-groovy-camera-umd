@@ -1,3 +1,3 @@
-- {docs_url: ../../../api/jpeg_streamer/html, location: jpeg_streamer.tag, package: jpeg_streamer}
 - {docs_url: ../../../api/uvc_camera/html, location: uvc_camera.tag, package: uvc_camera}
+- {docs_url: ../../../api/jpeg_streamer/html, location: jpeg_streamer.tag, package: jpeg_streamer}
 - {docs_url: ../../../api/camera_umd/html, location: camera_umd.tag, package: camera_umd}
