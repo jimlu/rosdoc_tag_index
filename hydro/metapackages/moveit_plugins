@@ -1,1 +1,1 @@
-[moveit_simple_controller_manager, catkin]
+[moveit_simple_controller_manager, catkin, moveit_fake_controller_manager]
