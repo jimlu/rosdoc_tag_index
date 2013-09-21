@@ -1,0 +1,1 @@
+[kdl, roscpp, iri_base_algorithm, sensor_msgs, kdl_parser, eigen_conversions, geometry_msgs]
