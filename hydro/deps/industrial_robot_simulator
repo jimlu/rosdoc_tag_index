@@ -1,0 +1,2 @@
+[catkin, roscpp, industrial_robot_client, trajectory_msgs, sensor_msgs, control_msgs,
+  std_msgs]
