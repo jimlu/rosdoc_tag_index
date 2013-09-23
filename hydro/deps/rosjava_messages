@@ -1,0 +1,11 @@
+[household_objects_database_msgs, pr2_mechanism_msgs, underwater_sensor_msgs, catkin,
+  stereo_msgs, arbotix_msgs, actionlib_msgs, multimaster_msgs_fkie, object_recognition_msgs,
+  concert_msgs, uuid_msgs, tf2_msgs, ackermann_msgs, nav_msgs, map_store, std_msgs,
+  zeroconf_msgs, rosjava_build_tools, manipulation_msgs, kingfisher_msgs, velodyne_msgs,
+  hector_worldmodel_msgs, calibration_msgs, rocon_msgs, smach_msgs, turtlebot_msgs,
+  control_msgs, pr2_controllers_msgs, moveit_msgs, pr2_msgs, kobuki_msgs, rosjava_bootstrap,
+  trajectory_msgs, nmea_msgs, sensor_msgs, controller_manager_msgs, visualization_msgs,
+  gazebo_msgs, octomap_msgs, cob_srvs, rocon_app_manager_msgs, map_msgs, move_base_msgs,
+  std_srvs, diagnostic_msgs, audio_common_msgs, common_msgs, rosgraph_msgs, geographic_msgs,
+  shape_msgs, pcl_msgs, gateway_msgs, hector_nav_msgs, rosserial_msgs, geometry_msgs,
+  dynamixel_msgs, tf2_geometry_msgs]
