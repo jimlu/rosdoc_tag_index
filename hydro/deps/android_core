@@ -1,1 +1,1 @@
-[rosjava_tools, catkin, rosjava_core]
+[catkin, rosjava_core, rosjava_build_tools]

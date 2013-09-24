@@ -1,2 +1,2 @@
-[hector_gazebo_plugins, hector_quadrotor_gazebo_plugins, gazebo_plugins, message_to_tf,
-  hector_sensors_gazebo]
+[hector_quadrotor_gazebo_plugins, message_to_tf, hector_gazebo_plugins, robot_state_publisher,
+  gazebo_plugins, hector_sensors_gazebo]
