@@ -2,7 +2,7 @@
   tibi_dabo_head_tracking, tibi_dabo_gui, tibi_dabo_arm_kinematics, tibi_dabo_hri_teleop,
   tibi_dabo_base, tibi_dabo_platform_simulator, tibi_dabo_laser_3d, tibi_dabo_hri_client,
   tibi_dabo_head_client, tibi_dabo_tts_client, tibi_dabo_face_tracking, tibi_dabo_questions,
-  tibi_dabo_head_node, tibi_dabo_arm_node, tibi_dabo_hide_and_seek, tibi_dabo_kinect_arm,
-  tibi_dabo_arm_client, tibi_dabo_haod, tibi_dabo_pitch_estimator, tibi_dabo_msgs,
-  tibi_dabo_guide_nav, tibi_dabo_conversation, tibi_dabo_rosnav, tibi_dabo_battery_monitor,
+  tibi_dabo_head_node, tibi_dabo_arm_node, tibi_dabo_hide_and_seek, dabo_arm_node,
+  tibi_dabo_kinect_arm, tibi_dabo_arm_client, tibi_dabo_haod, tibi_dabo_pitch_estimator,
+  tibi_dabo_msgs, tibi_dabo_guide_nav, tibi_dabo_conversation, tibi_dabo_rosnav, tibi_dabo_battery_monitor,
   tibi_dabo_pitch_estimator_sin_laser_vertical, tibi_dabo_questions_server]

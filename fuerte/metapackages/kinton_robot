@@ -1,2 +1,2 @@
-[iri_ual_catec, arm_sim_controller, kinton_base, kinton_apps, kinton_vs_control, kinton_arm_tag_tracker,
-  iri_jointspub, kinton_arm, kinton_sim, kinton_odom, kinton_arm_task_priority_control]
+[iri_ual_catec, arm_sim_controller, kinton_apps, kinton_vs_control, kinton_base, iri_jointspub,
+  kinton_arm_node, kinton_arm_tag_tracker, kinton_sim, kinton_odom, kinton_arm_task_priority_control]
