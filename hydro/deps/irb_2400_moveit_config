@@ -1,0 +1,1 @@
+[moveit_simple_controller_manager, catkin, abb_common, moveit_ros_move_group]
