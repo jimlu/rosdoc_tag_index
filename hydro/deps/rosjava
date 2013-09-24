@@ -1,0 +1,2 @@
+[rosjava_bootstrap, catkin, rosjava_messages, zeroconf_jmdns_suite, rosjava_build_tools,
+  rosjava_extras, rosjava_core]
