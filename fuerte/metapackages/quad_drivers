@@ -1,0 +1,2 @@
+[quad_OF, quad_status, quad_esc, quad_fp, telemetry_settings, quad_link, quad_can_driver,
+  imu_parser, quad_PX4]
