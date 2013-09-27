@@ -1,2 +1,2 @@
-[roslaunch, python-yaml, catkin, message_runtime, std_msgs, geometry_msgs, rospy,
-  message_generation, std_srvs]
+[roslaunch, python-yaml, std_srvs, message_runtime, std_msgs, geometry_msgs, rostest,
+  rospy, rosservice, message_generation, catkin]
