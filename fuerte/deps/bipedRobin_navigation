@@ -1,0 +1,2 @@
+[nav_msgs, ar_kinect, roscpp, sensor_msgs, std_msgs, bipedRobin_msgs, footstep_planner,
+  rospy, kinect_aux, tf, geometry_msgs, opencv2.3, cv_bridge]

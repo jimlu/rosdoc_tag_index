@@ -1,0 +1,3 @@
+[bipedRobin_rviz_launchers, bipedRobinBase_local_planner, rqt_bipedRobinNavigation,
+  bipedRobin_local_planner, bipedRobin_msgs, bipedRobin_footstep_planner, bipedRobin_driver,
+  bipedRobin_description, bipedRobin_navigation, bipedRobin_teleop, rqt_bipedRobinDriver]

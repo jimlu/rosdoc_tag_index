@@ -1,0 +1,3 @@
+[nav_msgs, rosconsole, roscpp, costmap_2d, pluginlib, eigen, roslib, std_msgs, pcl,
+  nav_core, rospy, angles, visualization_msgs, tf, geometry_msgs, common_rosdeps,
+  base_local_planner, voxel_grid, pcl_ros]

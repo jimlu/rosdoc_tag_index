@@ -1,0 +1,2 @@
+[nav_msgs, dynamic_reconfigure, roscpp, costmap_2d, roslib, bipedRobin_msgs, nav_core,
+  footstep_planner, tf, base_local_planner]
