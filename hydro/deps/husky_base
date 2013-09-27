@@ -1,0 +1,2 @@
+[roslaunch, nav_msgs, catkin, diagnostic_aggregator, rospy, sensor_msgs, python_orocos_kdl,
+  clearpath_base, geometry_msgs, diagnostic_msgs]
