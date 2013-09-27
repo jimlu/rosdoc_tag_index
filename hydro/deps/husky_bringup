@@ -1,0 +1,2 @@
+[roslaunch, um6, catkin, robot_upstart, nmea_navsat_driver, husky_teleop, robot_pose_ekf,
+  husky_base, enu, husky_description, tf, imu_compass, nmea_comms]
