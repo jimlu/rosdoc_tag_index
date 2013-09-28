@@ -1,0 +1,2 @@
+[muparser, catkin, roscpp, libreadline, libreadline-dev, shared_serial, tinyxml, pkg-config,
+  libftdipp-dev]
