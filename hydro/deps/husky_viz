@@ -1,1 +1,1 @@
-[roslaunch, catkin, joint_state_publisher, husky_description, rviz]
+[roslaunch, husky_interactive_markers, catkin, rviz, joint_state_publisher, husky_description]
