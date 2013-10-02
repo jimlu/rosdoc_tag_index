@@ -7,5 +7,5 @@
   trajectory_msgs, nmea_msgs, sensor_msgs, controller_manager_msgs, visualization_msgs,
   gazebo_msgs, octomap_msgs, cob_srvs, rocon_app_manager_msgs, map_msgs, move_base_msgs,
   std_srvs, diagnostic_msgs, audio_common_msgs, common_msgs, rosgraph_msgs, geographic_msgs,
-  shape_msgs, pcl_msgs, gateway_msgs, hector_nav_msgs, rosserial_msgs, geometry_msgs,
-  dynamixel_msgs, tf2_geometry_msgs]
+  shape_msgs, pcl_msgs, gateway_msgs, hector_nav_msgs, sr_ronex_msgs, rosserial_msgs,
+  geometry_msgs, dynamixel_msgs, tf2_geometry_msgs]
