@@ -1,3 +1,3 @@
-[nav_msgs, std_srvs, roscpp, sensor_msgs, actionlib, message_runtime, std_msgs, pano_ros,
-  image_transport, geometry_msgs, message_generation, catkin, yocs_velocity_smoother,
-  turtlebot_bringup, eigen]
+[nav_msgs, std_srvs, roscpp, sensor_msgs, actionlib, std_msgs, pano_ros, image_transport,
+  geometry_msgs, turtlebot_msgs, catkin, yocs_velocity_smoother, turtlebot_bringup,
+  eigen]
