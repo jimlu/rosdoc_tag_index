@@ -1,0 +1,2 @@
+[rosjava_bootstrap, android_extras, catkin, rosjava_messages, rosjava_build_tools,
+  android_core, android_apps]
