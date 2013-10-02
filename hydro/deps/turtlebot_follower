@@ -1,2 +1,2 @@
-[dynamic_reconfigure, catkin, roscpp, message_runtime, visualization_msgs, message_generation,
-  nodelet, turtlebot_bringup, pcl_ros]
+[dynamic_reconfigure, catkin, roscpp, visualization_msgs, turtlebot_msgs, nodelet,
+  turtlebot_bringup, pcl_ros]
