@@ -1,3 +1,3 @@
 [dynamic_reconfigure, moveit_core, catkin, roscpp, rosconsole, actionlib, pluginlib,
-  moveit_ros_move_group, moveit_ros_planning, household_objects_database_msgs, tf,
-  moveit_msgs]
+  moveit_ros_move_group, manipulation_msgs, moveit_ros_planning, household_objects_database_msgs,
+  tf, moveit_msgs]
