@@ -1,0 +1,1 @@
+[catkin, roscpp, std_msgs, gazebo_msgs, gazebo_plugins, tf, gazebo, gazebo_ros]
