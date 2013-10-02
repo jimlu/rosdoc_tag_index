@@ -1,0 +1,1 @@
+[mrpt_libs, sensor_msgs, mrpt_msgs, opencv2, geometry_msgs, pcl, tf]
