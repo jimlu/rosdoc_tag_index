@@ -1,2 +1,2 @@
-[android_extras, catkin, rosjava_core, android_core, rocon_msgs, turtlebot_android,
-  rosjava_tools, android_apps]
+[rosjava_bootstrap, android_extras, catkin, rocon_msgs, rosjava_build_tools, android_core,
+  rosjava_core, android_apps]
