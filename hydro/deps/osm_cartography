@@ -1,2 +1,2 @@
-[dynamic_reconfigure, geographic_msgs, catkin, std_msgs, geometry_msgs, geodesy, visualization_msgs,
-  tf, rospy]
+[roslaunch, dynamic_reconfigure, catkin, geographic_msgs, std_msgs, rospy, geodesy,
+  visualization_msgs, tf, geometry_msgs]
