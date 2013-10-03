@@ -1,4 +1,5 @@
-[stereo_msgs, actionlib_msgs, pr2_arm_kinematics, hrl_pr2_arms, kinematics_msgs, pr2_manipulation_controllers,
-  roscpp, actionlib, cpl_visual_features, tf, cpl_superpixels, hrl_pr2_lib, sensor_msgs,
-  image_transport, opencv2, pcl16_ros, cv_bridge, tf_conversions, pr2_controllers_msgs,
-  pr2_camera_self_filter, robot_mechanism_controllers, geometry_msgs, pcl16]
+[roslib, stereo_msgs, actionlib_msgs, pr2_arm_kinematics, hrl_pr2_arms, kinematics_msgs,
+  pr2_manipulation_controllers, roscpp, actionlib, cpl_visual_features, tf, cpl_superpixels,
+  hrl_pr2_lib, sensor_msgs, image_transport, opencv2, pcl16_ros, cv_bridge, tf_conversions,
+  pr2_controllers_msgs, pr2_camera_self_filter, robot_mechanism_controllers, geometry_msgs,
+  pcl16]
