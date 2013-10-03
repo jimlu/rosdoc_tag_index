@@ -1,1 +1,1 @@
-[tf, iri_nav_msgs, iri_base_algorithm, roscpp, visualization_msgs]
+[tf, iri_base_algorithm, iri_perception_msgs, roscpp, visualization_msgs]
