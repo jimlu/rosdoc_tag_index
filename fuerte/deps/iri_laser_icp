@@ -1,1 +1,1 @@
-[csm, roscpp, iri_base_algorithm, sensor_msgs, geometry_msgs, tf, rospy]
+[nav_msgs, csm, roscpp, iri_base_algorithm, sensor_msgs, geometry_msgs, tf, rospy]
