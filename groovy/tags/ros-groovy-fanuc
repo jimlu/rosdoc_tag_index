@@ -1,0 +1,14 @@
+- {docs_url: ../../../api/fanuc_assets/html, location: fanuc_assets.tag, package: fanuc_assets}
+- {docs_url: ../../../api/fanuc_driver/html, location: fanuc_driver.tag, package: fanuc_driver}
+- {docs_url: ../../../api/fanuc_m430ia_support/html, location: fanuc_m430ia_support.tag,
+  package: fanuc_m430ia_support}
+- {docs_url: ../../../api/fanuc_m10ia_support/html, location: fanuc_m10ia_support.tag,
+  package: fanuc_m10ia_support}
+- {docs_url: ../../../api/fanuc_m16ib_support/html, location: fanuc_m16ib_support.tag,
+  package: fanuc_m16ib_support}
+- {docs_url: ../../../api/fanuc_m16ib20_arm_navigation/html, location: fanuc_m16ib20_arm_navigation.tag,
+  package: fanuc_m16ib20_arm_navigation}
+- {docs_url: ../../../api/fanuc_m430ia2f_arm_navigation/html, location: fanuc_m430ia2f_arm_navigation.tag,
+  package: fanuc_m430ia2f_arm_navigation}
+- {docs_url: ../../../api/fanuc_m10ia_arm_navigation/html, location: fanuc_m10ia_arm_navigation.tag,
+  package: fanuc_m10ia_arm_navigation}

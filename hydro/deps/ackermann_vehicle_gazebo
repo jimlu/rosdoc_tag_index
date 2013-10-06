@@ -1,0 +1,2 @@
+[gazebo_ros_control, catkin, controller_manager, std_msgs, ackermann_vehicle_description,
+  rospy, tf, xacro, gazebo_ros, ackermann_msgs]

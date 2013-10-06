@@ -1,0 +1,1 @@
+[xacro, robot_state_publisher, catkin, rviz, joint_state_publisher]
