@@ -1,1 +1,1 @@
-[move_base, amcl, rviz, stage]
+[move_base, amcl, catkin, rviz, stage]
