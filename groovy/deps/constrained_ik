@@ -1,0 +1,2 @@
+[moveit_core, catkin, roscpp, pluginlib, urdf, tf_conversion, kdl_parser, eigen_conversions,
+  gtest, orocos_kdl, boost, eigen]
