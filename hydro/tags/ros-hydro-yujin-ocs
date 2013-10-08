@@ -1,1 +1,5 @@
-- {docs_url: ../../../api/yujin_ocs/html, location: yujin_ocs.tag, package: yujin_ocs}
+- {docs_url: ../../../api/yocs_msgs/html, location: yocs_msgs.tag, package: yocs_msgs}
+- {docs_url: ../../../api/yocs_math_toolkit/html, location: yocs_math_toolkit.tag,
+  package: yocs_math_toolkit}
+- {docs_url: ../../../api/yocs_virtual_sensor/html, location: yocs_virtual_sensor.tag,
+  package: yocs_virtual_sensor}
