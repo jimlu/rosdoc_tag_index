@@ -1,1 +1,2 @@
-- {docs_url: ../../../api/moveit_plugins/html, location: moveit_plugins.tag, package: moveit_plugins}
+- {docs_url: ../../../api/moveit_controller_manager_example/html, location: moveit_controller_manager_example.tag,
+  package: moveit_controller_manager_example}
