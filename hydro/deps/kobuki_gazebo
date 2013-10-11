@@ -1,2 +1,2 @@
-[robot_state_publisher, cmd_vel_mux, kobuki_gazebo_plugins, kobuki_random_walker,
-  kobuki_safety_controller, catkin, gazebo_plugins, kobuki_description, gazebo_ros]
+[robot_state_publisher, kobuki_description, kobuki_gazebo_plugins, kobuki_random_walker,
+  kobuki_safety_controller, yocs_cmd_vel_mux, gazebo_plugins, catkin, gazebo_ros]
