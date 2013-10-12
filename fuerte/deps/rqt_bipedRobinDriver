@@ -1,1 +1,1 @@
-[roscpp, rqt_gui_cpp, rqt_gui, bipedRobin_msgs, rospy, rqt_gui_py]
+[std_srvs, roscpp, rqt_gui_cpp, rqt_gui, bipedRobin_msgs, rospy, geometry_msgs, rqt_gui_py]

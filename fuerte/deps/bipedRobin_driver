@@ -1,1 +1,2 @@
-[tf, geometry_msgs, std_msgs, roscpp, bipedRobin_msgs]
+[nav_msgs, std_srvs, roscpp, sensor_msgs, std_msgs, geometry_msgs, visualization_msgs,
+  tf, bipedRobin_msgs]
