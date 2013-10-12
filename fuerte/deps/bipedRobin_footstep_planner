@@ -1,2 +1,2 @@
-[map_server, roscpp, std_msgs, humanoid_nav_msgs, actionlib, sbpl, bipedRobin_msgs,
-  footstep_planner, rospy, gridmap_2d, angles, visualization_msgs, tf]
+[std_srvs, roscpp, std_msgs, humanoid_nav_msgs, bipedRobin_msgs, footstep_planner,
+  geometry_msgs, tf, rospy]
