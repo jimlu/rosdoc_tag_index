@@ -1,1 +1,1 @@
-[rostime, catkin]
+[rostime, cpp_common, catkin]
