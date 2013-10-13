@@ -1,2 +1,2 @@
-[cmd_vel_mux, yocs_virtual_sensor, yocs_math_toolkit, yocs_controllers, yocs_msgs,
-  yocs_diff_drive_pose_controller, catkin, yocs_velocity_smoother]
+[yocs_controllers, catkin, yocs_virtual_sensor, yocs_math_toolkit, yocs_cmd_vel_mux,
+  yocs_msgs, yocs_diff_drive_pose_controller, yocs_velocity_smoother]

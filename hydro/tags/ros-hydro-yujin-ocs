@@ -1,5 +1,1 @@
-- {docs_url: ../../../api/yocs_msgs/html, location: yocs_msgs.tag, package: yocs_msgs}
-- {docs_url: ../../../api/yocs_math_toolkit/html, location: yocs_math_toolkit.tag,
-  package: yocs_math_toolkit}
-- {docs_url: ../../../api/yocs_virtual_sensor/html, location: yocs_virtual_sensor.tag,
-  package: yocs_virtual_sensor}
+- {docs_url: ../../../api/yocs_cmd_vel_mux/html, location: yocs_cmd_vel_mux.tag, package: yocs_cmd_vel_mux}
