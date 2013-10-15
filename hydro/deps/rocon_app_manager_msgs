@@ -1,1 +1,1 @@
-[message_generation, message_runtime, catkin]
+[message_generation, rocon_std_msgs, message_runtime, catkin]
