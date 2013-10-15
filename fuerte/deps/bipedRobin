@@ -1,1 +1,2 @@
-[ros]
+[common_msgs, rqt, visualization, geometry, humanoid_msgs, robot_model, humanoid_navigation,
+  humanoid_msgs]
