@@ -1,1 +1,1 @@
-[geometry_msgs, sensor_msgs, roscpp]
+[geometry_msgs, sensor_msgs, roscpp, catkin]
