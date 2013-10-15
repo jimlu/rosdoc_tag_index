@@ -3,6 +3,8 @@
   package: hector_quadrotor_model}
 - {docs_url: ../../../api/hector_quadrotor_gazebo_plugins/html, location: hector_quadrotor_gazebo_plugins.tag,
   package: hector_quadrotor_gazebo_plugins}
+- {docs_url: ../../../api/hector_quadrotor_pose_estimation/html, location: hector_quadrotor_pose_estimation.tag,
+  package: hector_quadrotor_pose_estimation}
 - {docs_url: ../../../api/hector_quadrotor_teleop/html, location: hector_quadrotor_teleop.tag,
   package: hector_quadrotor_teleop}
 - {docs_url: ../../../api/hector_quadrotor_controller/html, location: hector_quadrotor_controller.tag,
