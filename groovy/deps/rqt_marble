@@ -1,1 +1,2 @@
-[rqt_cpp_common, catkin, rqt_gui_cpp, libmarble-dev, rqt_gui, rostest]
+[catkin, rqt_gui_cpp, libmarble-dev, rqt_gui, message_runtime, sensor_msgs, rostest,
+  message_generation]
