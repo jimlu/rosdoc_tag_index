@@ -1,4 +1,4 @@
 {default_cfg_fkie: 86962f3d3929d5316bc409c6c9a0c7e54653e375, jenkins_scripts-sys: e273406d01a18be7ed281412678df860193c9816,
   master_discovery_fkie: 86962f3d3929d5316bc409c6c9a0c7e54653e375, master_sync_fkie: 86962f3d3929d5316bc409c6c9a0c7e54653e375,
-  multimaster_fkie: 23a2bd679fa726b9b61824a4922bb543f040d8dd, node_manager_fkie: 86962f3d3929d5316bc409c6c9a0c7e54653e375,
+  multimaster_fkie: 1b75baa44a80d4338cfcda02cbb4482bcc89c9bb, node_manager_fkie: 86962f3d3929d5316bc409c6c9a0c7e54653e375,
   rosdoc_lite-sys: 0f6576d126f0dcf53d1f85985ab07dfe5edf79ac}
