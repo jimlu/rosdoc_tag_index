@@ -1,1 +1,2 @@
-- {docs_url: ../../../api/rocon_remocon/html, location: rocon_remocon.tag, package: rocon_remocon}
+- {docs_url: ../../../api/rocon_rqt_plugins/html, location: rocon_rqt_plugins.tag,
+  package: rocon_rqt_plugins}
