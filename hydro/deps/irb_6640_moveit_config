@@ -1,0 +1,1 @@
+[xacro, catkin, abb_common, moveit_ros_move_group]
