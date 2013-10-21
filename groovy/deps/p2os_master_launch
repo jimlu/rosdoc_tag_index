@@ -1,0 +1,1 @@
+[roscpp, p2os_dashboard, std_msgs, p2os_driver, rospy, p2os_enableMotor]
