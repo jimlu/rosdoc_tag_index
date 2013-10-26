@@ -1,1 +1,1 @@
-[robot_state_publisher, urdf]
+[catkin, roscpp, message_filters, robot_state_publisher, urdf, tf]
