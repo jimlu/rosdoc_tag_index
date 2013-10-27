@@ -1,1 +1,1 @@
-[nav_msgs, nao_msgs, std_srvs, joy, actionlib, nao_remote]
+[nav_msgs, joy, actionlib, nao_msgs, std_srvs]

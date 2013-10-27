@@ -1,0 +1,2 @@
+[nav_msgs, nao_msgs, std_srvs, roscpp, sensor_msgs, actionlib, std_msgs, move_base_msgs,
+  geometry_msgs, angles, tf]
