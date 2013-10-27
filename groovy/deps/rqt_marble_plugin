@@ -1,0 +1,1 @@
+[catkin, roscpp, rqt_gui_cpp, rqt_gui, sensor_msgs, visualization_marker]
