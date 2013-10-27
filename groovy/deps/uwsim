@@ -1,0 +1,3 @@
+[nav_msgs, underwater_sensor_msgs, catkin, roscpp, uwsim_osgocean, uwsim_bullet, urdf,
+  sensor_msgs, resource_retriever, image_transport, libopenscenegraph, opengl, geometry_msgs,
+  libxml++-2.6, uwsim_osgbullet, boost, uwsim_osgworks]
