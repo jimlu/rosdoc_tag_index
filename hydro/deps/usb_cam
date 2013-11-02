@@ -1,0 +1,2 @@
+[self_test, catkin, roscpp, std_msgs, camera_info_manager, sensor_msgs, image_transport,
+  ffmpeg]
