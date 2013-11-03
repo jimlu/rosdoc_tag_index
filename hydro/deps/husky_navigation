@@ -1,0 +1,2 @@
+[roslaunch, move_base, map_server, xacro, robot_state_publisher, urdf, gmapping, amcl,
+  catkin]
