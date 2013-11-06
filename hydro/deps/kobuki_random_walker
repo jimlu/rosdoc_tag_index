@@ -1,2 +1,2 @@
 [kobuki_msgs, catkin, roscpp, pluginlib, ecl_threads, std_msgs, yocs_controllers,
-  geometry_msgs, nodelet]
+  geometry_msgs, yocs_cmd_vel_mux, nodelet]
