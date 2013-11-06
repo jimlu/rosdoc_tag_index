@@ -1,1 +1,2 @@
-[iri_base_algorithm, roscpp]
+[roscpp, actionlib, tibi_dabo_msgs, iri_action_server, move_base_msgs, iri_base_algorithm,
+  iri_goal_database]
