@@ -1,1 +1,1 @@
-[catkin, wheeled_robin_teleop]
+[catkin, wheeled_robin_core_apps, wheeled_robin_teleop]
