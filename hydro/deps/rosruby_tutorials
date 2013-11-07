@@ -1,0 +1,2 @@
+[rosruby_actionlib, catkin, rosruby, message_runtime, std_msgs, geometry_msgs, roscpp_tutorials,
+  message_generation, actionlib_tutorials, genrb]
