@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/yocs_waypoints_navi/html, location: yocs_waypoints_navi.tag,
-  package: yocs_waypoints_navi}
+- {docs_url: ../../../api/yujin_ocs/html, location: yujin_ocs.tag, package: yujin_ocs}

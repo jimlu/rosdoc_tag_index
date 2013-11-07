@@ -1,2 +1,2 @@
 [nav_msgs, catkin, roscpp, yocs_math_toolkit, actionlib, move_base_msgs, geometry_msgs,
-  visualization_msgs, tf, actionlib_msgs]
+  yaml-cpp, visualization_msgs, tf, actionlib_msgs]
