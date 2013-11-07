@@ -1,1 +1,1 @@
-[tf, roscpp]
+[roslaunch, catkin, roscpp, std_msgs, geometry_msgs, tf]
