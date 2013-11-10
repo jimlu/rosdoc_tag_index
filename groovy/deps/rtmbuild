@@ -1,2 +1,2 @@
-[catkin, omniorb, message_runtime, std_msgs, message_generation, libblas-dev, liblapack-dev,
-  pkg-config]
+[catkin, omniorb, message_runtime, std_msgs, cmake_modules, message_generation, libblas-dev,
+  liblapack-dev, pkg-config]
