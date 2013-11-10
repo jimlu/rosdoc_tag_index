@@ -1,1 +1,1 @@
-[catkin, geometry_msgs, bullet, tf2]
+[catkin, pkg-config, geometry_msgs, bullet, tf2]
