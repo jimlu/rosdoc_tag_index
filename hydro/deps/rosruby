@@ -1,0 +1,2 @@
+[rosgraph_msgs, genmsg, catkin, rake, std_msgs, rosmsg, message_generation, roslang,
+  ruby, genrb]
