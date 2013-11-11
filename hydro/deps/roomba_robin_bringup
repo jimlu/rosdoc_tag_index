@@ -1,0 +1,3 @@
+[depthimage_to_laserscan, catkin, diagnostic_aggregator, zeroconf_avahi, robot_state_publisher,
+  rocon_app_manager, yocs_cmd_vel_mux, roomba_robin_description, openni_launch, turtlebot_description,
+  create_node, robot_pose_ekf, turtlebot_bringup, linux_hardware]
