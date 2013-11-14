@@ -1,0 +1,2 @@
+[dynamic_reconfigure, catkin, roscpp, message_filters, sensor_msgs, geometry_msgs,
+  tf, nodelet]
