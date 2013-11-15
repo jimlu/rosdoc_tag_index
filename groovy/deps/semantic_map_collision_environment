@@ -1,2 +1,2 @@
-[cram_reasoning, roslisp_runtime, cram_roslisp_common, cl_tf, cram_utilities, cl_semantic_map_utils,
-  visualization_msgs, cl_json_pl_client, cram_moveit, arm_navigation_msgs]
+[cram_reasoning, cram_roslisp_common, cl_tf, cram_utilities, cl_semantic_map_utils,
+  visualization_msgs, cl_json_pl_client, cram_moveit, sbcl, arm_navigation_msgs]
