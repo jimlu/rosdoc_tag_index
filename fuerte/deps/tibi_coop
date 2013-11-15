@@ -1,2 +1,2 @@
-[roscpp, actionlib, tibi_dabo_msgs, iri_action_server, move_base_msgs, iri_base_algorithm,
-  iri_goal_database]
+[roscpp, iri_base_algorithm, sensor_msgs, tibi_dabo_msgs, iri_action_server, wiimote,
+  move_base_msgs, actionlib, iri_goal_database]
