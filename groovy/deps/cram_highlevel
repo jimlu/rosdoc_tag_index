@@ -1,2 +1,2 @@
 [common, common_msgs, cram_core, ias_common, knowrob, motion_planning_common, point_cloud_perception,
-  ros, roslisp_common, roslisp_support, visualization_common]
+  ros, roslisp_common, visualization_common]

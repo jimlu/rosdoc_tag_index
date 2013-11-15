@@ -1,1 +1,1 @@
-[cffi_ros_utils, cl_transforms, cffi, roslisp_runtime, assimp]
+[cffi_ros_utils, cl_transforms, cffi, sbcl, assimp]
