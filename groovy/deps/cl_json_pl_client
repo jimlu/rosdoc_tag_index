@@ -1,1 +1,1 @@
-[cram_reasoning, alexandria, roslisp_runtime, cram_utilities, yason, json_prolog]
+[cram_reasoning, alexandria, cram_utilities, yason, json_prolog, sbcl]
