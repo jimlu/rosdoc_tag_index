@@ -1,2 +1,2 @@
 [dynamic_reconfigure, roscpp, iri_base_algorithm, std_msgs, move_base_msgs, iri_perception_msgs,
-  iri_action_server, tf, tibi_dabo_msgs, base_local_planner, actionlib]
+  iri_action_server, tf, tibi_dabo_msgs, base_local_planner, actionlib, iri_goal_database]
