@@ -1,2 +1,1 @@
-[catkin, roomba_robin_bringup, turtlebot_description, roomba_robin_description, turtlebot_bringup,
-  linux_hardware]
+[roomba_robin_description, catkin, roomba_robin_bringup]
