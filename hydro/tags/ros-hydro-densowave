@@ -1,0 +1,5 @@
+- {docs_url: ../../../api/denso_pendant_publisher/html, location: denso_pendant_publisher.tag,
+  package: denso_pendant_publisher}
+- {docs_url: ../../../api/denso_irex_ui/html, location: denso_irex_ui.tag, package: denso_irex_ui}
+- {docs_url: ../../../api/vs060A1_AV6_NNN_NNN_arm_navigation/html, location: vs060A1_AV6_NNN_NNN_arm_navigation.tag,
+  package: vs060A1_AV6_NNN_NNN_arm_navigation}
