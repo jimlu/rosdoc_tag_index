@@ -1,1 +1,1 @@
-[cmake, xpath-perl, boost, omniorb, catkin]
+[cmake, omniorb, xpath-perl, catkin, boost, pkg-config]
