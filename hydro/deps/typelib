@@ -1,1 +1,2 @@
-[cmake, libxml2, facets, utilrb, nokogiri, utilmm, libxslt, catkin, boost, gccxml]
+[cmake, libxml2, facets, utilrb, nokogiri, utilmm, libxslt, catkin, boost, gccxml,
+  pkg-config]
