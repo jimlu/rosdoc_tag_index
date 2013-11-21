@@ -1,2 +1,1 @@
-[nav_msgs, roscpp, iri_base_algorithm, sensor_msgs, geometry_msgs, tf, rospy, iri_laser_icp,
-  iri_segway_rmp_msgs]
+[nav_msgs, roscpp, iri_base_algorithm, sensor_msgs, geometry_msgs, tf, rospy, iri_segway_rmp_msgs]

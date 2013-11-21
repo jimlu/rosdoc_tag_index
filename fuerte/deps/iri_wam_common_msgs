@@ -1,2 +1,2 @@
-[nav_msgs, moveit_msgs, sensor_msgs, actionlib_msgs, std_msgs, actionlib, geometry_msgs,
+[nav_msgs, sensor_msgs, actionlib_msgs, trajectory_msgs, std_msgs, actionlib, geometry_msgs,
   manipulation_msgs, diagnostic_msgs]
