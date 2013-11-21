@@ -1,0 +1,2 @@
+[std_srvs, roscpp, humanoid_nav_msgs, std_msgs, biped_robin_msgs, footstep_planner,
+  geometry_msgs, tf, rospy]

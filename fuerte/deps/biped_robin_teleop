@@ -1,0 +1,2 @@
+[std_srvs, roscpp, std_msgs, sensor_msgs, biped_robin_msgs, geometry_msgs, visualization_msgs,
+  tf, rospy, joy]
