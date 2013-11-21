@@ -1,2 +1,2 @@
-[iri_perception_msgs, actionlib, sensor_msgs, geometry_msgs, pcl, object_manipulation_msgs,
-  actionlib_msgs]
+[actionlib_msgs, iri_perception_msgs, sensor_msgs, manipulation_msgs, geometry_msgs,
+  actionlib]

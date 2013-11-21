@@ -1,1 +1,1 @@
-[std_srvs, roscpp, iri_base_algorithm, sensor_msgs, rospy, pcl, iri_perception_msgs]
+[std_srvs, roscpp, iri_base_algorithm, sensor_msgs, manipulation_msgs, rospy, iri_perception_msgs]
