@@ -1,0 +1,2 @@
+[rtt_diagnostic_msgs, rtt_shape_msgs, rtt_stereo_msgs, rtt_visualization_msgs, rtt_nav_msgs,
+  rtt_actionlib_msgs, rtt_geometry_msgs, rtt_sensor_msgs, rtt_trajectory_msgs]
