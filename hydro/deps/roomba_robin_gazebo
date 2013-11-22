@@ -1,0 +1,3 @@
+[depthimage_to_laserscan, catkin, kobuki_gazebo_plugins, diagnostic_aggregator, robot_pose_ekf,
+  robot_state_publisher, gazebo_ros, yocs_cmd_vel_mux, roomba_robin_bringup, turtlebot_description,
+  roomba_robin_description, xacro, create_gazebo_plugins, turtlebot_bringup]
