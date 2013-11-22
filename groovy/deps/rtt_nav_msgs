@@ -1,0 +1,2 @@
+[nav_msgs, rtt_actionlib_msgs, rtt_rosnode, rtt_geometry_msgs, rtt_rosgraph_msgs,
+  rtt_std_msgs]
