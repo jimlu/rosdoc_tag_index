@@ -1,1 +1,1 @@
-[cmake, libxml2, facets, utilrb, nokogiri, utilmm, libxslt, boost, gccxml]
+[libxml2, facets, utilrb, nokogiri, utilmm, libxslt, boost, gccxml]
