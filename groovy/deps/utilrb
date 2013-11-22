@@ -1,1 +1,1 @@
-[cmake, facets, rake, nokogiri, libxslt, ruby]
+[nokogiri, libxslt, facets, rake, ruby]
