@@ -1,1 +1,1 @@
-[orocos_kdl, python-sip]
+[catkin, orocos_kdl, cmake, python-sip]
