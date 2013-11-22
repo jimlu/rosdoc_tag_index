@@ -1,1 +1,1 @@
-[cmake, typelib, ruby, utilrb]
+[rtt_typelib, typelib, rake, nokogiri, rtt, libxslt, ruby]
