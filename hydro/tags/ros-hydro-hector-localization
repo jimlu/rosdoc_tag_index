@@ -1,2 +1,2 @@
-- {docs_url: ../../../api/rtt_hector_pose_estimation/html, location: rtt_hector_pose_estimation.tag,
-  package: rtt_hector_pose_estimation}
+- {docs_url: ../../../api/hector_localization/html, location: hector_localization.tag,
+  package: hector_localization}
