@@ -1,2 +1,2 @@
-[alexandria, roslisp_runtime, lisp_unit, cram_utilities, cram_language, cram_execution_trace,
-  cram_process_modules]
+[alexandria, lisp_unit, cram_utilities, cram_language, cram_execution_trace, cram_process_modules,
+  sbcl]
