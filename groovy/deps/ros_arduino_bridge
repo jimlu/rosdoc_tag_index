@@ -1,1 +1,1 @@
-[ros, ros_comm, common_msgs, geometry]
+[ros_arduino_python, ros_arduino_firmware, catkin, ros_arduino_msgs]

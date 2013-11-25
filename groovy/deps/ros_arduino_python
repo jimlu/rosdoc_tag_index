@@ -1,2 +1,2 @@
-[nav_msgs, roscpp, ros_arduino_msgs, std_msgs, sensor_msgs, python-serial, geometry_msgs,
-  tf, rospy]
+[nav_msgs, catkin, ros_arduino_msgs, sensor_msgs, std_msgs, python-serial, rospy,
+  tf, geometry_msgs]
