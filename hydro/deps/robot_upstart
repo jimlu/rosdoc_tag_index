@@ -1,1 +1,1 @@
-[catkin, daemontools]
+[roslaunch, xacro, catkin, daemontools]
