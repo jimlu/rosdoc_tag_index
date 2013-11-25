@@ -1,0 +1,2 @@
+[rtt_roscomm, rtt_dynamic_reconfigure, catkin, rtt_ros, rtt_rosnode, rtt_actionlib,
+  rtt_rostime, rtt_rosparam, rtt_rospack, rtt_rosops]

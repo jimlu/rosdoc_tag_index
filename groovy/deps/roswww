@@ -1,1 +1,1 @@
-[rospy, catkin]
+[rospy, rosbridge_server, catkin]
