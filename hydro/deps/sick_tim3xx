@@ -1,1 +1,1 @@
-[dynamic_reconfigure, driver_base, sensor_msgs, roscpp, libusb-1.0-dev]
+[dynamic_reconfigure, roscpp, diagnostic_updater, sensor_msgs, driver_base, libusb-1.0-dev]

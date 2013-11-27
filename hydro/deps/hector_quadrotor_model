@@ -1,1 +1,1 @@
-[hector_uav_msgs, geometry_msgs, catkin]
+[hector_uav_msgs, geometry_msgs, eigen, catkin]
