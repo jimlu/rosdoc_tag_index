@@ -1,0 +1,1 @@
+[catkin, python-beautifulsoup, actionlib, trajectory_msgs, sensor_msgs, rospy, control_msgs]
