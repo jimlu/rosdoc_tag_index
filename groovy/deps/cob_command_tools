@@ -1,3 +1,3 @@
 [arm_navigation, cob_common, cob_driver, common, common_msgs, control, diagnostics_monitors,
-  geometry, navigation, pr2_apps, pr2_common, pr2_controllers, pr2_gui, pr2_power_drivers,
-  ros, ros_comm, rx, visualization]
+  geometry, navigation, pr2_apps, pr2_common, pr2_controllers, rqt_gui, rqt_pr2_dashboard,
+  pr2_power_drivers, ros, ros_comm, visualization]
