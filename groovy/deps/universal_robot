@@ -1,1 +1,1 @@
-[geometry_experimental, robot_model, actionlib, ros_comm, control, common_msgs]
+[ur_description, ur_bringup, ur_kinematics, catkin, ur_gazebo]
