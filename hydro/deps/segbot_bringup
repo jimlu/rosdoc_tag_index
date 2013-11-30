@@ -1,2 +1,2 @@
-[segway_rmp, catkin, python-netifaces, robot_state_publisher, joint_state_publisher,
+[roslaunch, segway_rmp, catkin, python-netifaces, robot_state_publisher, joint_state_publisher,
   segbot_description, tf, segbot_sensors]
