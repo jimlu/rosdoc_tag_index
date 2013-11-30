@@ -1,1 +1,2 @@
-[hokuyo_node, freenect_launch, pluginlib, tf, openni_launch, filters, laser_filters]
+[roslaunch, hokuyo_node, depthimage_to_laserscan, catkin, freenect_launch, camera1394,
+  tf, openni_launch, filters, laser_filters, nodelet, rviz]
