@@ -1,0 +1,1 @@
+[catkin, roscpp, pluginlib, rqt_gui_cpp, rqt_gui, std_msgs]
