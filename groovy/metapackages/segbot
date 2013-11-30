@@ -1,1 +1,1 @@
-[segbot_bringup, segbot_description, segbot_sensors]
+[segbot_sensors, segbot_bringup, segbot_description, catkin]

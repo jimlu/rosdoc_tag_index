@@ -1,1 +1,1 @@
-[urdf, xacro]
+[pr2_description, xacro, catkin]
