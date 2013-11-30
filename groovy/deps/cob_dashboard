@@ -1,2 +1,2 @@
-[rxtools, std_srvs, wxwidgets, pr2_dashboard, roslib, std_msgs, robot_monitor, pr2_power_board,
-  wxpython, rospy, pr2_msgs]
+[std_srvs, rqt_gui, roslib, std_msgs, robot_monitor, pr2_power_board, rospy, pr2_msgs,
+  rqt_pr2_dashboard]
