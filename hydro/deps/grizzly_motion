@@ -1,0 +1,2 @@
+[nav_msgs, catkin, eigen, grizzly_msgs, diagnostic_updater, geometry_msgs, tf, roscpp,
+  roboteq_msgs]

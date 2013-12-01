@@ -1,0 +1,2 @@
+[catkin, roscpp, robot_state_publisher, urdf, std_msgs, joint_state_publisher, rospy,
+  xacro]
