@@ -1,0 +1,2 @@
+[catkin, scheduler_msgs, roslint, rostest, rospy, rosunit, uuid_msgs, rocon_std_msgs,
+  unique_id]
