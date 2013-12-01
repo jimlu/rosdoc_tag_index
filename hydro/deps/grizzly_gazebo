@@ -1,0 +1,1 @@
+[catkin, grizzly_gazebo_plugins, grizzly_msgs, grizzly_motion, gazebo_ros, grizzly_description]
