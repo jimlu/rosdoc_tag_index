@@ -1,0 +1,2 @@
+[catkin, roscpp, actionlib, interactive_markers, pcl, visualization_msgs, actionlib_msgs,
+  pcl_ros]

@@ -1,0 +1,2 @@
+[image_geometry, catkin, eigen, image_transport, opencv2, pcl, visualization_msgs,
+  tf, roscpp, cv_bridge, pcl_ros]
