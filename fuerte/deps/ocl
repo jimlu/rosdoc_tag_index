@@ -1,0 +1,1 @@
+[cmake, libreadline-dev, rtt, netcdf, libncurses-dev, catkin, log4cpp, lua-dev]
