@@ -1,0 +1,9 @@
+- {docs_url: ../../../api/cob_lbr/html, location: cob_lbr.tag, package: cob_lbr}
+- {docs_url: ../../../api/prace_gripper_description/html, location: prace_gripper_description.tag,
+  package: prace_gripper_description}
+- {docs_url: ../../../api/prace_gripper_gazebo/html, location: prace_gripper_gazebo.tag,
+  package: prace_gripper_gazebo}
+- {docs_url: ../../../api/frida_description/html, location: frida_description.tag,
+  package: frida_description}
+- {docs_url: ../../../api/ur_description/html, location: ur_description.tag, package: ur_description}
+- {docs_url: ../../../api/ur_driver/html, location: ur_driver.tag, package: ur_driver}
