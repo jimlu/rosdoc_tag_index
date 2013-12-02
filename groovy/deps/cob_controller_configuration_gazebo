@@ -1,2 +1,3 @@
 [cob_relayboard, pr2_controller_manager, image_proc, cob_sick_s300, cob_bringup, joint_trajectory_action,
-  rostopic, schunk_simulated_tactile_sensors, cob_phidgets, cob_sound]
+  topic_tools, rostopic, schunk_simulated_tactile_sensors, cob_cam3d_throttle, cob_phidgets,
+  cob_sound]
