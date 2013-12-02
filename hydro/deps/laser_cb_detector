@@ -1,0 +1,2 @@
+[settlerlib, catkin, roscpp, message_filters, actionlib, std_msgs, opencv2, image_cb_detector,
+  cv_bridge, actionlib_msgs]
