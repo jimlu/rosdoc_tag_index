@@ -1,1 +1,1 @@
-[ros, segbot, simulator_gazebo]
+[segbot_gazebo, catkin]
