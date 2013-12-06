@@ -1,1 +1,1 @@
-[urdf, convex_decomposition, ivcon, rostest, gazebo]
+[ivcon, xacro, urdf, rostest, urdfdom, convex_decomposition]
