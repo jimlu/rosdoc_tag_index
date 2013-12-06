@@ -1,1 +1,1 @@
-[std_msgs, rospy, roscpp, visualization_msgs]
+[roscpp, actionlib, std_msgs, diagnostic_msgs, rospy, visualization_msgs, actionlib_msgs]

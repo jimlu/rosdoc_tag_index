@@ -1,3 +1,4 @@
 [audio_common, cob_common, cob_extern, common, common_msgs, control, diagnostics,
-  driver_common, geometry, laser_drivers, laser_pipeline, navigation, orocos_kinematics_dynamics,
-  pr2_common, pr2_controllers, robot_model, ros, ros_comm]
+  driver_common, geometry, laser_drivers, laser_pipeline, navigation, nodelet_core,
+  orocos_kinematics_dynamics, pluginlib, pr2_common, pr2_controllers, robot_model,
+  ros, ros_comm]
