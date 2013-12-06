@@ -1,1 +1,3 @@
-[catkin]
+[laser_cb_detector, message_filters, image_view, monocam_settler, trajectory_msgs,
+  sensor_msgs, interval_intersection, topic_tools, geometry_msgs, joint_states_settler,
+  std_msgs, rospy, image_cb_detector, calibration_msgs]

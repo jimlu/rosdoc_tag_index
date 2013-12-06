@@ -1,3 +1,2 @@
-[catkin, roscpp, message_filters, std_msgs, actionlib, message_runtime, sensor_msgs,
-  image_transport, opencv2, geometry_msgs, calibration_msgs, pcl, message_generation,
+[roscpp, actionlib, sensor_msgs, image_transport, opencv2, geometry_msgs, calibration_msgs,
   cv_bridge, actionlib_msgs, pcl_ros]
