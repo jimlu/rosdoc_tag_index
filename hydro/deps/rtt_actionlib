@@ -1,2 +1,1 @@
-[rtt_roscomm, catkin, ocl, rtt_ros, actionlib, rtt_actionlib_msgs, rtt, actionlib_msgs,
-  roscpp]
+[rtt_roscomm, catkin, roscpp, rtt_ros, actionlib, rtt_actionlib_msgs, actionlib_msgs]
