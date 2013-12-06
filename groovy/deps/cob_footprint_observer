@@ -1,1 +1,1 @@
-[tf, std_msgs, roscpp]
+[tf, geometry_msgs, std_msgs, roscpp]
