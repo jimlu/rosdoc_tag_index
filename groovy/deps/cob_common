@@ -1,1 +1,1 @@
-[common_msgs, robot_model, ros, ros_comm, simulator_gazebo]
+[common_msgs, robot_model, ros, ros_comm, urdf, urdfdom, xacro]
