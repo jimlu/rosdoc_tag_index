@@ -1,2 +1,2 @@
-[roscpp, actionlib, libqt4-dev, face_detector_mono, wiimote, tibi_dabo_msgs, qt_build,
-  iri_base_algorithm]
+[roscpp, actionlib, libqt4-dev, face_detector_mono, iri_action_server, wiimote, tibi_dabo_msgs,
+  qt_build, iri_base_algorithm, iri_goal_database]
