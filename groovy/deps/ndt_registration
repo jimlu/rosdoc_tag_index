@@ -1,1 +1,1 @@
-[pointcloud_vrml, ndt_map, catkin, pcl, tf, tf_conversions]
+[pointcloud_vrml, tf, ndt_map, catkin, tf_conversions]
