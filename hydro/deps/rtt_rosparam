@@ -1,1 +1,1 @@
-[rtt, rtt_rospack, catkin, roscpp, ocl]
+[rtt_ros, catkin, roscpp]

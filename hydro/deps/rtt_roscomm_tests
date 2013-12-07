@@ -1,1 +1,1 @@
-[rtt_roscomm, rostest, catkin, rtt_std_msgs, ocl]
+[rtt_roscomm, catkin, rtt_std_msgs, ocl]

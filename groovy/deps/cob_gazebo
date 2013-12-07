@@ -1,5 +1,4 @@
-[actionlib_msgs, cob_description, joint_trajectory_action, cob_ogre, single_joint_position_action,
-  gazebo_worlds, actionlib, tf, desire_description, gazebo, raw_description, robot_state_publisher,
-  image_transport, cob_srvs, gazebo_tools, gazebo_plugins, move_base_msgs, cob_gazebo_worlds,
-  cv_bridge, pr2_gazebo, pr2_gazebo_plugins, nodelet, cob_controller_configuration_gazebo,
-  cob_hardware_config]
+[cob_srvs, single_joint_position_action, actionlib_msgs, gazebo_worlds, robot_state_publisher,
+  raw_description, pr2_gazebo_plugins, joint_trajectory_action, cob_hardware_config,
+  move_base_msgs, gazebo_tools, cob_description, gazebo_plugins, tf, cob_controller_configuration_gazebo,
+  cob_gazebo_worlds, desire_description, gazebo, actionlib, pr2_gazebo]

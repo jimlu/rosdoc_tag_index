@@ -1,1 +1,1 @@
-[rtt_rospack, rospack, ocl, libxml2, rtt_rosnode, rtt, rtt_rosparam, catkin, roscpp]
+[rospack, ocl, libxml2, rostime, rtt, catkin]

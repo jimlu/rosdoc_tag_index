@@ -1,1 +1,2 @@
-[kdl, roscpp, brics_actuator, actionlib, sensor_msgs, cob_srvs, control_msgs, pr2_controllers_msgs]
+[roscpp, brics_actuator, actionlib, sensor_msgs, cob_srvs, control_msgs, orocos_kdl,
+  pr2_controllers_msgs]

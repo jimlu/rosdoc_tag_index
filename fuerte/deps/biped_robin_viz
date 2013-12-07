@@ -1,1 +1,1 @@
-[ros]
+[ros, common_msgs, std_msgs, robot_model, rqt, geometry, visualization]
