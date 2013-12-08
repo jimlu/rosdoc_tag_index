@@ -1,0 +1,2 @@
+[catkin, roscpp, diagnostic_aggregator, pluginlib, Python2.7, message_runtime, std_msgs,
+  yaml-cpp, message_generation, diagnostic_msgs]
