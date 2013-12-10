@@ -1,0 +1,2 @@
+[moveit_core, catkin, roscpp, sensor_msgs, eigen_conversions, moveit_ros_planning,
+  geometry_msgs, tf_conversions, tf, moveit_ros_planning_interface, eigen]
