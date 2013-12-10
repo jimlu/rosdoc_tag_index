@@ -1,2 +1,2 @@
 [roslaunch, catkin, grizzly_description, interactive_marker_twist_server, joint_state_publisher,
-  rviz]
+  robot_state_publisher, rviz]

@@ -1,0 +1,2 @@
+[catkin, grizzly_msgs, grizzly_viz, grizzly_teleop, rqt_console, rqt_robot_monitor,
+  roboteq_msgs]
