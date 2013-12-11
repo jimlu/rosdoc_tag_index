@@ -1,0 +1,2 @@
+[decision_making_parsing, catkin, roscpp, actionlib_msgs, std_msgs, diagnostic_updater,
+  rospy, message_generation, actionlib, robot_task]
