@@ -1,1 +1,2 @@
-[moveit_ros_planning, catkin, roslang, open_controllers_interface, roscpp]
+[catkin, roscpp, moveit_commander, moveit_ros_planning, open_controllers_interface,
+  roslang]
