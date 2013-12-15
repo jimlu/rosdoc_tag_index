@@ -1,0 +1,1 @@
+[hardware_interface, gazebo_ros_control, catkin, joint_limits_interface, angles, control_toolbox]
