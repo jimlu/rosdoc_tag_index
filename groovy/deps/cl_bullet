@@ -1,2 +1,2 @@
-[cl_transforms, bullet, cffi_ros_utils, roslisp_runtime, cffi, cram_utilities, trivial_garbage,
+[cl_transforms, bullet, cffi_ros_utils, cffi, cram_utilities, sbcl, trivial_garbage,
   split_sequence]
