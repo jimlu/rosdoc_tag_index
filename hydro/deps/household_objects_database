@@ -1,0 +1,2 @@
+[household_objects_database_msgs, sql_database, catkin, roscpp, actionlib, roslib,
+  rosgraph, rosservice, rospy, tf, manipulation_msgs]
