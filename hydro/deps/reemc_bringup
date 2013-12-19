@@ -1,0 +1,2 @@
+[catkin, reemc_controller_configuration, robot_state_publisher, reemc_description,
+  play_motion, joy_teleop]
