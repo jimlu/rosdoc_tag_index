@@ -1,0 +1,1 @@
+[catkin, roscpp, std_msgs, video_player, tf, geometry_msgs, move_base_msgs, rosserial]
