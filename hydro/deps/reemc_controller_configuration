@@ -1,0 +1,1 @@
+[joint_trajectory_controller, catkin, diff_drive_controller, controller_manager, joint_state_controller]
