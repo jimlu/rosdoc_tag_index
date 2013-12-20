@@ -1,1 +1,1 @@
-[sensor_msgs, actionlib_msgs, geometry_msgs]
+[catkin, actionlib_msgs, message_runtime, sensor_msgs, geometry_msgs, message_generation]

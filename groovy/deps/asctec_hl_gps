@@ -1,2 +1,1 @@
-[dynamic_reconfigure, std_srvs, roscpp, message_filters, asctec_hl_comm, actionlib,
-  sensor_msgs, diagnostic_updater, geometry_msgs, tf, eigen]
+[catkin, roscpp, message_filters, asctec_hl_comm, sensor_msgs, std_srvs]

@@ -1,1 +1,1 @@
-[common, common_msgs, diagnostics, driver_common, geometry, ros, ros_comm]
+[asctec_hl_gps, asctec_hl_comm, asctec_hl_firmware, catkin, asctec_hl_interface]
