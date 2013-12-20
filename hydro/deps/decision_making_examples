@@ -1,1 +1,2 @@
-[decision_making, catkin, roscpp, decision_making_parser]
+[catkin, roscpp, sensor_msgs, decision_making, random_numbers, decision_making_parser,
+  geometry_msgs]
