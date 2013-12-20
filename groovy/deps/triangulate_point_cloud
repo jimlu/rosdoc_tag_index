@@ -1,1 +1,1 @@
-[arm_navigation_msgs, sensor_msgs, roscpp, pcl, pcl_ros]
+[sensor_msgs, arm_navigation_msgs, pcl_conversions, roscpp, pcl_ros]
