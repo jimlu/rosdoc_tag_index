@@ -1,0 +1,3 @@
+[pr2_controller_manager, calvin_joint_commander, calvin_description, robot_state_publisher,
+  katana, robot_pose_ekf, katana_joint_movement_adapter, uos_gazebo_worlds, rostopic,
+  gazebo_ros, katana_arm_gazebo]

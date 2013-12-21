@@ -1,0 +1,4 @@
+[calvin_joint_commander, calvin_description, nodelet, calvin_common, robot_state_publisher,
+  calvin_2dnav, katana, openni_launch, calvin_map_server, sick_tim3xx, phidgets_imu,
+  volksbot_driver, imu_filter_madgwick, laser_filters, door_checking, move_base_straight,
+  robot_pose_ekf, libuvc_camera]
