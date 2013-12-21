@@ -1,3 +1,4 @@
-[nav_msgs, underwater_sensor_msgs, catkin, roscpp, uwsim_osgocean, uwsim_bullet, urdf,
-  sensor_msgs, resource_retriever, image_transport, libopenscenegraph, opengl, geometry_msgs,
-  libxml++-2.6, uwsim_osgbullet, boost, pluginlib, uwsim_osgworks]
+[nav_msgs, urdf, catkin, roscpp, opengl, uwsim_bullet, robot_state_publisher, libxml++-2.6,
+  sensor_msgs, kdl_parser, image_transport, resource_retriever, libopenscenegraph,
+  uwsim_osgocean, geometry_msgs, tf, uwsim_osgbullet, underwater_sensor_msgs, boost,
+  pluginlib, uwsim_osgworks]
