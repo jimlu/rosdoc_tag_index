@@ -1,0 +1,1 @@
+[nav_msgs, catkin, roscpp, openslam_gmapping, rostest, tf]
