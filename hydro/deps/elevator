@@ -1,0 +1,1 @@
+[catkin, roscpp, std_msgs, tf, geometry_msgs, move_base_msgs, rosserial]
