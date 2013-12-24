@@ -1,0 +1,2 @@
+[catkin, roscpp, std_msgs, message_runtime, gazebo_msgs, tf, bwi_planning_common,
+  geometry_msgs, bwi_tools, message_generation, boost]

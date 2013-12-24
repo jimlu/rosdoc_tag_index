@@ -1,2 +1,2 @@
-[roslaunch, map_server, catkin, segbot_navigation, segbot_description, gazebo_plugins,
-  segbot_bringup, gazebo_ros]
+[roslaunch, map_server, catkin, segbot_navigation, segbot_description, fake_localization,
+  gazebo_plugins, segbot_bringup, gazebo_ros]

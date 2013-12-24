@@ -1,1 +1,2 @@
-- {docs_url: ../../../api/segbot_simulator/html, location: segbot_simulator.tag, package: segbot_simulator}
+- {docs_url: ../../../api/segbot_simulation_apps/html, location: segbot_simulation_apps.tag,
+  package: segbot_simulation_apps}
