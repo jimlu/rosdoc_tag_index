@@ -1,1 +1,3 @@
-- {docs_url: ../../../api/segbot_apps/html, location: segbot_apps.tag, package: segbot_apps}
+- {docs_url: ../../../api/segbot_logical_translator/html, location: segbot_logical_translator.tag,
+  package: segbot_logical_translator}
+- {docs_url: ../../../api/segbot_gui/html, location: segbot_gui.tag, package: segbot_gui}

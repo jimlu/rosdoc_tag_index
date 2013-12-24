@@ -1,0 +1,2 @@
+[nav_msgs, catkin, roscpp, message_filters, actionlib, bwi_mapper, bwi_planning_common,
+  segbot_gazebo, utexas_gdc, tf, move_base_msgs, segbot_navigation]
