@@ -1,0 +1,2 @@
+[nav_msgs, hardware_interface, controller_interface, roscpp, pluginlib, urdf, kdl_parser,
+  catkin, realtime_tools, geometry_msgs, angles, tf, control_toolbox, orocos_kdl]
