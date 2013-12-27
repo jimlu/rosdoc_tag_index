@@ -1,1 +1,1 @@
-[tf, catkin, geometry_msgs, eigen, kdl_conversions]
+[catkin, eigen, kdl_conversions, geometry_msgs, tf, orocos_kdl]
