@@ -1,1 +1,2 @@
-[hector_uav_msgs, geometry_msgs, roscpp, catkin]
+[nav_msgs, hardware_interface, std_srvs, roscpp, sensor_msgs, catkin, geometry_msgs,
+  controller_interface, hector_uav_msgs]
