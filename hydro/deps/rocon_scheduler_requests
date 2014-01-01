@@ -1,1 +1,1 @@
-[catkin, scheduler_msgs, roslint, rostest, rospy, rosunit, uuid_msgs, unique_id]
+[catkin, scheduler_msgs, roslint, rostest, rospy, rosunit, unique_id]
