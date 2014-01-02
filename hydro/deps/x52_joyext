@@ -1,0 +1,1 @@
+[catkin, roscpp, message_runtime, std_msgs, libx52pro-dev, message_generation]
