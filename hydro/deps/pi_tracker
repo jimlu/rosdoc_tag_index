@@ -1,0 +1,2 @@
+[nav_msgs, skeleton_markers, catkin, roscpp, message_runtime, std_msgs, message_generation,
+  geometry_msgs, tf, rospy]
