@@ -1,2 +1,2 @@
-[catkin, roscpp, robot_state_publisher, urdf, sensor_msgs, kdl_parser, assimp, libpcl-all,
-  visualization_msgs, libpcl-all-dev, geometric_shapes, tf_conversions]
+[roscpp, robot_state_publisher, urdf, sensor_msgs, kdl_parser, assimp, pcl, visualization_msgs,
+  geometric_shapes, tf_conversions, pcl_ros]
