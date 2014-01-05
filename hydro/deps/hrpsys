@@ -1,2 +1,2 @@
-[subversion, doxygen, catkin, libglew-dev, libxml2, libqhull, libirrlicht-dev, opencv2,
-  openhrp3, sdl]
+[subversion, doxygen, catkin, libglew-dev, libxml2, glut, libqhull, libirrlicht-dev,
+  opencv2, openhrp3, sdl, libxmu-dev]
