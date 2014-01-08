@@ -1,1 +1,3 @@
-- {docs_url: ../../../api/nodelet_core/html, location: nodelet_core.tag, package: nodelet_core}
+- {docs_url: ../../../api/test_nodelet_topic_tools/html, location: test_nodelet_topic_tools.tag,
+  package: test_nodelet_topic_tools}
+- {docs_url: ../../../api/test_nodelet/html, location: test_nodelet.tag, package: test_nodelet}
