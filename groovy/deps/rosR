@@ -1,1 +1,1 @@
-[r-cran-rcpp, topic_tools, rosbag, roscpp, swig2.0]
+[r-cran-rcpp, roscpp, topic_tools, rospy, rosbag, swig2.0]
