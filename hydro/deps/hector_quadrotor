@@ -1,2 +1,3 @@
-[hector_quadrotor_gazebo_plugins, catkin, hector_quadrotor_teleop, hector_quadrotor_gazebo,
-  hector_quadrotor_model, hector_uav_msgs, hector_quadrotor_description]
+[hector_quadrotor_gazebo_plugins, catkin, hector_quadrotor_teleop, hector_quadrotor_controller,
+  hector_quadrotor_gazebo, hector_quadrotor_model, hector_quadrotor_controller_gazebo,
+  hector_uav_msgs, hector_quadrotor_description]
