@@ -1,2 +1,3 @@
 [nav_msgs, dynamic_reconfigure, pcl_conversions, roscpp, std_msgs, sensor_msgs, octomap_msgs,
-  octomap, octomap_ros, visualization_msgs, std_srvs, catkin, nodelet, pcl_ros]
+  octomap, octomap_ros, visualization_msgs, libpcl-all-dev, std_srvs, catkin, nodelet,
+  libpcl-all, pcl_ros]
