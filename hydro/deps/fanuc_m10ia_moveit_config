@@ -1,1 +1,2 @@
-[xacro, catkin, fanuc_m10ia_support, moveit_ros_move_group, moveit_simple_controller_manager]
+[xacro, fanuc_m10ia_support, moveit_ros_move_group, moveit_simple_controller_manager,
+  fanuc_m10ia_moveit_plugins, catkin]
