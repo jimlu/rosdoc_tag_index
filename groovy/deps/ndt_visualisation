@@ -1,1 +1,1 @@
-[catkin, ndt_map, glut, mrpt, libxmu-dev]
+[ndt_map, catkin, glut, libxmu-dev, libpcl-all-dev, mrpt, pcl_ros]
