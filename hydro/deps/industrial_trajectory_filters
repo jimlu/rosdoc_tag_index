@@ -1,0 +1,1 @@
+[moveit_core, catkin, pluginlib, trajectory_msgs, moveit_ros_planning, orocos_kdl]
