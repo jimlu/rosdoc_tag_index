@@ -1,0 +1,1 @@
+[nav_msgs, map_server, catkin, roscpp, actionlib, tf, nodelet, stdr_msgs]
