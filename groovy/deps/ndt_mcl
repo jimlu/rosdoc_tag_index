@@ -1,2 +1,3 @@
 [nav_msgs, pointcloud_vrml, ndt_map, catkin, message_filters, glut, sensor_msgs, libxmu-dev,
-  geometry_msgs, ndt_visualisation, visualization_msgs, tf, rosbag, mrpt, ndt_registration]
+  libpcl-all-dev, geometry_msgs, ndt_visualisation, visualization_msgs, tf, rosbag,
+  mrpt, ndt_registration]
