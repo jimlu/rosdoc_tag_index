@@ -1,2 +1,2 @@
-[cob_mapping_slam, cob_linear_nav, cob_navigation_config, cob_navigation_slam, cob_navigation_global,
-  cob_vel_integrator, cob_navigation_local]
+[cob_mapping_slam, cob_unified_scan_publisher, cob_navigation_slam, cob_navigation_config,
+  cob_linear_nav, cob_navigation_global, cob_navigation_local]
