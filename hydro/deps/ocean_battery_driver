@@ -1,1 +1,1 @@
-[diagnostic_updater, catkin, roscpp, diagnostic_msgs, pr2_msgs]
+[catkin, roscpp, diagnostic_updater, pr2_msgs, diagnostic_msgs, log4cxx]
