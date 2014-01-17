@@ -1,0 +1,2 @@
+[nav_msgs, image_geometry, std_srvs, roscpp, message_filters, message_runtime, sensor_msgs,
+  image_transport, message_generation, pcl, tf, catkin, cv_bridge, libfovis, pcl_ros]
