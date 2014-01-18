@@ -1,1 +1,2 @@
-[rocon_app_manager_msgs, concert_msgs, catkin, gateway_msgs]
+[catkin, gateway_msgs, rocon_service_pair_msgs, scheduler_msgs, rocon_app_manager_msgs,
+  concert_msgs]
