@@ -1,2 +1,2 @@
-[catkin, roscpp, controller_manager, pluginlib, transmission_interface, urdf, joint_limits_interface,
-  gazebo_ros]
+[control_toolbox, roscpp, controller_manager, pluginlib, transmission_interface, urdf,
+  joint_limits_interface, catkin, gazebo_ros]
