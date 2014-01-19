@@ -1,0 +1,2 @@
+[message_runtime, catkin, roscpp, openni_tracker, glut, libxi-dev, std_msgs, openni_camera,
+  message_generation, geometry_msgs, visualization_msgs, tf, rospy, orocos_kdl, libxmu-dev]
