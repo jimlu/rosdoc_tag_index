@@ -1,1 +1,1 @@
-[std_msgs, rostest, genmsg, rosgraph, catkin]
+[genmsg, catkin, rosgraph, std_msgs, rosbuild, rostest]
