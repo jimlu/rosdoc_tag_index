@@ -1,2 +1,2 @@
-[catkin, roscpp, pluginlib, rosconsole_bridge, urdfdom_headers, cmake_modules, urdf_parser_plugin,
-  urdfdom]
+[catkin, roscpp, pluginlib, rosconsole_bridge, urdfdom_headers, cmake_modules, rostest,
+  urdf_parser_plugin, urdfdom]
