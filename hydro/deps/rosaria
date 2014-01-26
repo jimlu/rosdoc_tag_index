@@ -1,0 +1,2 @@
+[nav_msgs, dynamic_reconfigure, catkin, libaria, sensor_msgs, tf, geometry_msgs, message_generation,
+  roscpp]
