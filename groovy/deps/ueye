@@ -1,2 +1,2 @@
-[dynamic_reconfigure, roscpp, cv_bridge, std_msgs, image_transport, opencv2, camera_calibration_parsers,
+[dynamic_reconfigure, catkin, roscpp, cv_bridge, std_msgs, image_transport, camera_calibration_parsers,
   nodelet]
