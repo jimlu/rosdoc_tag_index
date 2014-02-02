@@ -1,2 +1,2 @@
-[motoman_driver, catkin, motoman_config, sia10d_mesh_arm_navigation, mh5_mesh_arm_navigation,
-  sia20d_mesh_arm_navigation]
+[motoman_driver, catkin, motoman_config, motoman_sia20d_moveit_config, motoman_sia5d_support,
+  motoman_sia20d_support, motoman_sia10d_support, motoman_mh5_support]
