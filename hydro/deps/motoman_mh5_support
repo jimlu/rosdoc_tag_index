@@ -1,0 +1,1 @@
+[roslaunch, motoman_driver, catkin, rviz, robot_state_publisher, joint_state_publisher]
