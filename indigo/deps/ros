@@ -1,0 +1,2 @@
+[rosmake, rosboost_cfg, catkin, rosbash, roslib, roscreate, mk, rosbuild, rosclean,
+  rosunit, roslang]
