@@ -1,0 +1,2 @@
+[nav_msgs, image_geometry, sql_database, std_srvs, roscpp, message_filters, sensor_msgs,
+  image_transport, opencv2, libg2o, tf, catkin, cv_bridge, pcl_ros]
