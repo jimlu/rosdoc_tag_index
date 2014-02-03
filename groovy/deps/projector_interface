@@ -1,3 +1,3 @@
-[image_geometry, dynamic_reconfigure, pr2_python, python-imaging, projector_calibration,
-  pr2_pick_and_place_demos, sensor_msgs, python-scipy, python-qt-bindings, object_manipulator,
-  rospy, tf, geometry_msgs, python-kdtree, cv_bridge, tf_conversions]
+[image_geometry, dynamic_reconfigure, python-imaging, pr2_python, sensor_msgs, python-scipy,
+  python-qt-bindings, rospy, tf, geometry_msgs, python-kdtree, projector_calibration,
+  tf_conversions]
