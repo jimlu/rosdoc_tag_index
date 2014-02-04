@@ -1,3 +1,4 @@
-[roslaunch, hokuyo_node, depthimage_to_laserscan, catkin, freenect_launch, camera1394,
-  message_runtime, sensor_msgs, python-serial, roslint, message_generation, openni_launch,
-  rospy, filters, tf, laser_filters, nodelet, rviz]
+[pcl_conversions, camera1394, filters, catkin, pcl_ros, roscpp, laser_filters, tf2_ros,
+  message_generation, nodelet, freenect_launch, message_runtime, sensor_msgs, roslint,
+  tf, rospy, rviz, roslaunch, hokuyo_node, depthimage_to_laserscan, pluginlib, python-serial,
+  openni_launch]
