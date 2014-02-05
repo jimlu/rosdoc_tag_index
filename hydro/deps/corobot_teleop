@@ -1,0 +1,2 @@
+[nav_msgs, qt4, corobot_msgs, catkin, roscpp, Phidget_motor, corobot_joystick, sensor_msgs,
+  corobot_arm, corobot_phidget_ik, qt-ros, phidget_motor]
