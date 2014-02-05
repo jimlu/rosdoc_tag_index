@@ -1,0 +1,2 @@
+[rosconsole, catkin, roscpp, diagnostic_aggregator, pluginlib, xmlrpcpp, std_msgs,
+  diagnostic_msgs]

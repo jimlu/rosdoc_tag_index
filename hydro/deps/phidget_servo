@@ -1,0 +1,1 @@
+[corobot_msgs, catkin, roscpp, std_msgs, diagnostic_updater, corobot_diagnostics]
