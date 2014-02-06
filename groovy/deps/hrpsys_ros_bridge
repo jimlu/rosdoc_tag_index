@@ -1,4 +1,4 @@
-[openrtm_tools, hrpsys, catkin, rtmbuild, rosbuild, roscpp, python-rosdep, actionlib,
-  subversion, rostest, control_msgs, tf, roslang, hrpsys_tools, robot_state_publisher,
-  sensor_msgs, image_transport, diagnostic_msgs, dynamic_reconfigure, pr2_controllers,
-  python-psutil, camera_info_manager, mk]
+[dynamic_reconfigure, subversion, hrpsys, robot_state_publisher, roscpp, python-rosdep,
+  actionlib, camera_info_manager, sensor_msgs, image_transport, rtmbuild, rosbuild,
+  rostest, control_msgs, mk, tf, catkin, roslang, python-psutil, diagnostic_msgs,
+  hrpsys_tools]
