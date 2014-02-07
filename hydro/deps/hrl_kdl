@@ -1,1 +1,1 @@
-[catkin]
+[hrl_geom, catkin, pykdl_utils]
