@@ -1,2 +1,2 @@
-[stdr_robot, stdr_server, stdr_msgs, stdr_resources, stdr_launchers, stdr_gui, catkin,
-  stdr_samples]
+[stdr_robot, stdr_server, stdr_msgs, stdr_resources, stdr_launchers, stdr_parser,
+  stdr_gui, catkin, stdr_samples]

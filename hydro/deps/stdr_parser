@@ -1,0 +1,1 @@
+[catkin, roscpp, roslib, cmake_modules, yaml-cpp, tinyxml, stdr_msgs]

@@ -1,0 +1,2 @@
+[dynamic_reconfigure, catkin, roscpp, labust_base, std_msgs, message_runtime, sensor_msgs,
+  tf, rospy, auv_msgs, message_generation, labust_control, diagnostic_msgs, snippets]

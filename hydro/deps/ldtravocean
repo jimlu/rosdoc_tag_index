@@ -1,0 +1,2 @@
+[catkin, roscpp, rqt_gui, kdl_conversions, labust_navigation, auv_msgs, tf, rqt_gui_py,
+  snippets]

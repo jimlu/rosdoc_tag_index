@@ -1,2 +1,2 @@
-[image_geometry, image_proc, message_filters, cv_bridge, sensor_msgs, rospy, camera_calibration_parsers,
-  stereo_image_proc, catkin, rosbag]
+[image_geometry, image_proc, message_filters, cv_bridge, sensor_msgs, console_bridge,
+  rospy, camera_calibration_parsers, stereo_image_proc, catkin, rosbag]
