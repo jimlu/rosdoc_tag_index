@@ -1,1 +1,2 @@
-[stdr_robot, nav_msgs, stdr_server, roscpp, roslib, sensor_msgs, tf, catkin, stdr_msgs]
+[stdr_robot, nav_msgs, stdr_server, roscpp, roslib, sensor_msgs, stdr_parser, tf,
+  catkin, stdr_msgs]

@@ -1,1 +1,2 @@
-[nav_msgs, catkin, roscpp, actionlib, sensor_msgs, geometry_msgs, tf, nodelet, stdr_msgs]
+[nav_msgs, catkin, roscpp, actionlib, sensor_msgs, stdr_parser, tf, geometry_msgs,
+  nodelet, stdr_msgs]
