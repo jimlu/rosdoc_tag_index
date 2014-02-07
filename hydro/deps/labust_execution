@@ -1,0 +1,1 @@
+[rospy, std_msgs, navcon_msgs, catkin, roscpp]

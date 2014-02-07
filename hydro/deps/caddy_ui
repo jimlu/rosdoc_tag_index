@@ -1,0 +1,1 @@
+[catkin, roscpp, labust_base, rqt_gui_cpp, rqt_gui, rospy, auv_msgs, rqt_gui_py]
