@@ -1,1 +1,2 @@
-- {docs_url: ../../../api/ros_controllers/html, location: ros_controllers.tag, package: ros_controllers}
+- {docs_url: ../../../api/diff_drive_controller/html, location: diff_drive_controller.tag,
+  package: diff_drive_controller}
