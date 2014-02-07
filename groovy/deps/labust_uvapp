@@ -1,0 +1,2 @@
+[nav_msgs, dynamic_reconfigure, catkin, roscpp, labust_base, sensor_msgs, message_runtime,
+  std_msgs, kdl_conversions, tf, auv_msgs, message_generation, snippets]

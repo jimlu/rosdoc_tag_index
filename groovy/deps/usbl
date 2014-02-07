@@ -1,0 +1,2 @@
+[catkin, roscpp, labust_base, rospy, auv_msgs, tritech_sdk, tf, geometry_msgs, nodelet,
+  snippets]

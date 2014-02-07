@@ -1,0 +1,1 @@
+[catkin, roscpp, sensor_msgs, kdl_conversions, auv_msgs, tf, snippets]

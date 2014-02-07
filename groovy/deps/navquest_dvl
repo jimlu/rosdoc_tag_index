@@ -1,0 +1,1 @@
+[catkin, roscpp, geometry_msgs, auv_msgs, tf, snippets]
