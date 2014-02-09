@@ -1,1 +1,2 @@
-[catkin, rviz, fanuc_driver, fanuc_assets, robot_state_publisher, joint_state_publisher]
+[xacro, rviz, fanuc_driver, fanuc_assets, robot_state_publisher, joint_state_publisher,
+  catkin]
