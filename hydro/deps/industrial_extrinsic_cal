@@ -1,1 +1,1 @@
-[roslint, rosconsole, std_msgs, roscpp, catkin]
+[rosconsole, std_srvs, roscpp, roslib, std_msgs, roslint, catkin]
