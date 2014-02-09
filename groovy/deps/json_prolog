@@ -1,1 +1,1 @@
-[jpl, rosprolog, rospy, libjson-glib, rosjava_jni, libjson-java]
+[jpl, rosprolog, rospy, libjson-glib, rosjava_jni, libjson-java, json_prolog_msgs]

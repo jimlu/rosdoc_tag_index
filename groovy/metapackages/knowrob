@@ -1,4 +1,4 @@
 [knowrob_actions, jpl, srldb, semweb, ias_knowledge_base, comp_temporal, tf_prolog,
   comp_orgprinciples, comp_spatial, json_prolog, mod_probcog, thea, rosprolog, comp_cop,
-  mod_srdl, knowrob_omics, knowrob_common, comp_semantic_map, knowrob_objects, mod_vis,
-  ias_prolog_addons, knowrob_cad_parser, ias_semantic_map]
+  mod_srdl, knowrob_omics, knowrob_common, json_prolog_msgs, comp_semantic_map, knowrob_objects,
+  mod_vis, ias_prolog_addons, knowrob_cad_parser, ias_semantic_map]
