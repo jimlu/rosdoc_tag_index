@@ -7,6 +7,7 @@
 - {docs_url: ../../../api/knowrob_cad_parser/html, location: knowrob_cad_parser.tag,
   package: knowrob_cad_parser}
 - {docs_url: ../../../api/mod_vis/html, location: mod_vis.tag, package: mod_vis}
+- {docs_url: ../../../api/json_prolog_msgs/html, location: json_prolog_msgs.tag, package: json_prolog_msgs}
 - {docs_url: ../../../api/json_prolog/html, location: json_prolog.tag, package: json_prolog}
 - {docs_url: ../../../api/mod_probcog/html, location: mod_probcog.tag, package: mod_probcog}
 - {docs_url: ../../../api/comp_cop/html, location: comp_cop.tag, package: comp_cop}
