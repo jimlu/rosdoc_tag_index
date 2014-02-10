@@ -1,0 +1,2 @@
+[dynamic_reconfigure, catkin, roscpp, std_msgs, roslib, sensor_msgs, tf, rospy, message_generation,
+  pcl_ros]
