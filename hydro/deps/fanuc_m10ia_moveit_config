@@ -1,2 +1,2 @@
-[xacro, fanuc_m10ia_support, moveit_ros_move_group, moveit_simple_controller_manager,
+[xacro, industrial_robot_simulator, fanuc_m10ia_support, moveit_ros_move_group, moveit_simple_controller_manager,
   fanuc_m10ia_moveit_plugins, catkin]
