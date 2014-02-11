@@ -1,1 +1,1 @@
-[industrial_robot_client, catkin]
+[roslaunch, industrial_robot_client, catkin]
