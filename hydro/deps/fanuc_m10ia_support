@@ -1,2 +1,2 @@
-[xacro, rviz, fanuc_driver, fanuc_assets, robot_state_publisher, joint_state_publisher,
+[roslaunch, xacro, rviz, fanuc_driver, fanuc_assets, robot_state_publisher, joint_state_publisher,
   catkin]
