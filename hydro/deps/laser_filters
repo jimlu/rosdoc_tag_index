@@ -1,0 +1,2 @@
+[laser_geometry, angles, roscpp, message_filters, pluginlib, sensor_msgs, rostest,
+  filters, tf, catkin, pcl_ros]
