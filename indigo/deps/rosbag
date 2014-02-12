@@ -1,0 +1,2 @@
+[rosconsole, genpy, genmsg, catkin, roscpp, xmlrpcpp, roslib, roscpp_serialization,
+  python-rospkg, python-imaging, topic_tools, rospy, cpp_common, boost, rosbag_storage]

@@ -1,0 +1,2 @@
+[rosgraph_msgs, python-yaml, rosparam, catkin, roslib, python-rospkg, rosmaster, rosout,
+  rosclean, rosbuild, python-paramiko]

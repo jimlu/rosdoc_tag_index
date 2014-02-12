@@ -1,0 +1,1 @@
+[catkin, apr, rostime, rosbuild, rosunit, cpp_common, boost, log4cxx]

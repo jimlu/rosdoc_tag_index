@@ -1,0 +1,2 @@
+[genmsg, catkin, test_rosmaster, std_msgs, python-numpy, rosgraph, rosbuild, rostest,
+  rospy]
