@@ -1,1 +1,1 @@
-[katana_msgs, actionlib, sensor_msgs, roscpp]
+[sensor_msgs, actionlib, control_msgs, roscpp, katana_msgs]
