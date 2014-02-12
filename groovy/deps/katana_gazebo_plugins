@@ -1,2 +1,2 @@
 [control_toolbox, katana_msgs, object_manipulation_msgs, actionlib, trajectory_msgs,
-  sensor_msgs, spline_smoother, gazebo, pr2_controllers_msgs]
+  sensor_msgs, spline_smoother, control_msgs, gazebo, pr2_controllers_msgs]
