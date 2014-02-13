@@ -1,0 +1,1 @@
+[rosbuild, qt4-qmake, catkin, python-qt-bindings]
