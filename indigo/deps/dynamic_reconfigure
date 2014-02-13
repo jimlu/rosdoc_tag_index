@@ -1,0 +1,2 @@
+[roslib, catkin, roscpp, message_runtime, std_msgs, rosservice, rospy, message_generation,
+  boost]
