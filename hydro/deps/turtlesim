@@ -1,2 +1,2 @@
-[rosconsole, message_runtime, std_srvs, roscpp, std_msgs, roslib, rostime, roscpp_serialization,
-  qt4-qmake, libqt4, libqt4-dev, message_generation, catkin]
+[rosconsole, message_runtime, std_srvs, roscpp, std_msgs, roslib, rostime, libqt4-dev,
+  qt4-qmake, libqt4, geometry_msgs, roscpp_serialization, message_generation, catkin]
