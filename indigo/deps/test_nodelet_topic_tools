@@ -1,0 +1,2 @@
+[catkin, roscpp, message_filters, pluginlib, std_msgs, nodelet_topic_tools, rostest,
+  rospy, nodelet]
