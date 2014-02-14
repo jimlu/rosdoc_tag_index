@@ -1,2 +1,2 @@
-[robot_state_publisher, catkin, roscpp, controller_manager, actionlib, rostest, control_msgs,
-  joint_state_controller, joint_trajectory_controller, controller_manager_msgs]
+[robot_state_publisher, catkin, roscpp, controller_manager, actionlib, play_motion_msgs,
+  rostest, control_msgs, joint_state_controller, joint_trajectory_controller, controller_manager_msgs]
