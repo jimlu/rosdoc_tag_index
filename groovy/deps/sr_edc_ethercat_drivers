@@ -1,0 +1,1 @@
+[roscpp, ethercat_hardware, roslib, std_msgs, sr_robot_lib, binutils, sr_external_dependencies]
