@@ -1,0 +1,2 @@
+[rosconsole, catkin, roscpp, actionlib, message_runtime, std_msgs, geometry_msgs,
+  angles, message_generation, turtlesim, actionlib_msgs]
