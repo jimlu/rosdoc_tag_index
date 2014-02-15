@@ -1,0 +1,2 @@
+[message_runtime, catkin, roscpp, ethercat_hardware, sr_robot_msgs, roslib, std_msgs,
+  sr_robot_lib, message_generation, binutils, sr_external_dependencies]

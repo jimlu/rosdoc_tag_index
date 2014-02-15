@@ -1,0 +1,3 @@
+[sr_ethercat_hand_config, self_test, ivcon, catkin, roscpp, diagnostic_aggregator,
+  pr2_ethercat, urdf, pr2_bringup, diagnostic_updater, convex_decomposition, xacro,
+  sr_description, robot_mechanism_controllers, diagnostic_msgs]

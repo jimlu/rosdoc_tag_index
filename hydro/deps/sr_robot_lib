@@ -1,0 +1,3 @@
+[sr_ethercat_hand_config, pr2_mechanism_msgs, std_srvs, sr_external_dependencies,
+  sr_self_test, sr_robot_msgs, realtime_tools, catkin, diagnostic_updater, gtest,
+  sr_hardware_interface, rospy, rostest, sr_utilities, roscpp]
