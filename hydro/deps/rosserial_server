@@ -1,1 +1,1 @@
-[catkin, topic_tools, rosserial_msgs, std_msgs, roscpp]
+[catkin, roscpp, std_msgs, rosserial_python, topic_tools, rosserial_msgs]

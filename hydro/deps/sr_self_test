@@ -1,0 +1,1 @@
+[self_test, sr_hand, catkin, roscpp, gnuplot, sr_robot_msgs, gtest, rostest, sr_movements]

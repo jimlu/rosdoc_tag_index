@@ -1,0 +1,4 @@
+[nav_msgs, pr2_controller_manager, sr_self_test, dynamic_reconfigure, roscpp, pr2_hardware_interface,
+  sensor_msgs, urdf, std_msgs, tinyxml, catkin, diagnostic_msgs, diagnostic_updater,
+  cmake_modules, sr_hardware_interface, rospy, pr2_msgs, angles, geometry_msgs, gazebo_ros,
+  pr2_mechanism_model]

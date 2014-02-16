@@ -1,2 +1,1 @@
-[message_to_tf, rtt_hector_pose_estimation, hector_pose_estimation, world_magnetic_model,
-  hector_pose_estimation_core]
+[message_to_tf, hector_pose_estimation, catkin, hector_pose_estimation_core]
