@@ -1,0 +1,4 @@
+[rosconsole, catkin, angles, sr_robot_msgs, cmake_modules, sr_hardware_interface,
+  sr_utilities, roscpp, pr2_controller_interface, actionlib, gtest, rostest, std_msgs,
+  realtime_tools, tinyxml, control_toolbox, pr2_controllers_msgs, std_srvs, pluginlib,
+  xmlrpcpp, robot_mechanism_controllers, pr2_mechanism_controllers, pr2_mechanism_model]

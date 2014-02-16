@@ -1,0 +1,2 @@
+[sr_hand, catkin, roscpp, std_msgs, sr_robot_msgs, sensor_msgs, rostest, libmagick,
+  sr_utilities, pr2_controllers_msgs]

@@ -1,0 +1,3 @@
+[sr_hand, catkin, sr_mechanism_model, sr_example, sr_self_test, sr_robot_msgs, sr_mechanism_controllers,
+  sr_gazebo_plugins, sr_hardware_interface, sr_movements, sr_tactile_sensors, sr_description,
+  sr_utilities]

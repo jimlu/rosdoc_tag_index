@@ -1,0 +1,1 @@
+[catkin, roscpp, sr_robot_msgs, std_msgs, visualization_msgs, gazebo_ros]
