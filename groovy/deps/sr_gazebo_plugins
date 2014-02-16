@@ -1,0 +1,5 @@
+[pr2_controller_manager, tinyxml, urdf, diagnostic_updater, sr_hardware_interface,
+  python-numpy, nav_msgs, roscpp, pr2_msgs, gazebo, polled_camera, std_msgs, sensor_msgs,
+  image_transport, opencv2, pr2_hardware_interface, gazebo_tools, rospy, gazebo_plugins,
+  angles, cv_bridge, diagnostic_msgs, dynamic_reconfigure, pr2_gazebo_plugins, bullet,
+  opende, sr_self_test, geometry_msgs, pr2_mechanism_model]
