@@ -1,1 +1,2 @@
-- {docs_url: ../../../api/hector_models/html, location: hector_models.tag, package: hector_models}
+- {docs_url: ../../../api/hector_components_description/html, location: hector_components_description.tag,
+  package: hector_components_description}
