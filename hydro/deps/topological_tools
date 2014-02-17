@@ -1,2 +1,2 @@
-[catkin, roscpp, actionlib, message_runtime, std_msgs, message_generation, markov_decision_making,
+[catkin, roscpp, actionlib, message_runtime, std_msgs, mdm_library, message_generation,
   predicate_manager, actionlib_msgs]
