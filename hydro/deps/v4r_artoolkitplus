@@ -1,0 +1,1 @@
+[image_geometry, catkin, roscpp, image_transport, tf, cv_bridge]
