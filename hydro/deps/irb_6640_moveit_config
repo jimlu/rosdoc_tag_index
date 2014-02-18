@@ -1,1 +1,1 @@
-[xacro, catkin, abb_common, moveit_ros_move_group]
+[moveit_simple_controller_manager, catkin, abb_common, moveit_ros_move_group, industrial_robot_simulator]
