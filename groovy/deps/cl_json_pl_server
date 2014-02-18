@@ -1,1 +1,2 @@
-[cl_json_pl_client, cram_reasoning, sbcl]
+[cram_reasoning, roslisp, json_prolog_msgs, alexandria, cram_utilities, yason, cl_json_pl_client,
+  sbcl]
