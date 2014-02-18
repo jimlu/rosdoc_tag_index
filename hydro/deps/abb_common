@@ -1,1 +1,1 @@
-[urdf, industrial_robot_client, industrial_utils, catkin, roscpp]
+[industrial_robot_client, catkin, xacro]
