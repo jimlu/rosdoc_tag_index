@@ -1,0 +1,1 @@
+[roscpp, eigen, nav2d_msgs, tf, self_localizer, suitesparse]
