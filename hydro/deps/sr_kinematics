@@ -1,0 +1,1 @@
+[moveit_core, catkin, roscpp, urdf, sensor_msgs, kdl_parser, tf, orocos_kdl, tf_conversions]
