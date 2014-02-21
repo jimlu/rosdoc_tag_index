@@ -1,1 +1,1 @@
-[joy, robot_navigator, roscpp, robot_operator]
+[robot_operator, sensor_msgs, robot_navigator, catkin, roscpp]
