@@ -1,3 +1,3 @@
-[household_objects_database_msgs, cram_reasoning, alexandria, cram_manipulation_knowledge,
-  triangulate_point_cloud, cl_tf, cl_urdf, location_costmap, cl_semantic_map_utils,
-  cl_bullet_vis, cram_designators, cl_json_pl_client, cl_bullet, kdl_arm_kinematics]
+[household_objects_database_msgs, cl_semantic_map_utils, cram_reasoning, alexandria,
+  cram_manipulation_knowledge, triangulate_point_cloud, cl_tf, location_costmap, cram_json_prolog,
+  cl_bullet_vis, cram_designators, cl_urdf, cl_bullet]
