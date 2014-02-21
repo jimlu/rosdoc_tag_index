@@ -1,2 +1,2 @@
-[f2c, openrtm_aist, doxygen, catkin, eigen, libjpeg, collada-dom, subversion, openrtm_aist_python,
-  atlas, boost, libpng12-dev]
+[f2c, openrtm_aist, doxygen, catkin, eigen, libjpeg, collada-dom, subversion, rostest,
+  openrtm_aist_python, atlas, boost, libpng12-dev]
