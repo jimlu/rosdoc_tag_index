@@ -1,1 +1,1 @@
-[uos_gazebo_worlds, kurt_description]
+[uos_gazebo_worlds, gazebo_ros_control, controller_manager, kurt_description]
