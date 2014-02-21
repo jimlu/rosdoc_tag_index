@@ -1,1 +1,1 @@
-[openrtm_tools, hrpsys, catkin]
+[rostest, openrtm_tools, hrpsys, catkin]
