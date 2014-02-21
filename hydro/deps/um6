@@ -1,1 +1,1 @@
-[catkin, roscpp, message_runtime, sensor_msgs, message_generation, serial]
+[catkin, roscpp, message_runtime, sensor_msgs, roslint, message_generation, serial]
