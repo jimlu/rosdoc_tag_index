@@ -1,0 +1,2 @@
+[robot_operator, nav2d_tutorials, catkin, nav2d_msgs, robot_navigator, self_localizer,
+  remote_controller]
