@@ -1,1 +1,2 @@
-[nav_msgs, sensor_msgs, geometry_msgs, roscpp, tf]
+[nav_msgs, gazebo_ros_control, roscpp, transmission_interface, sensor_msgs, geometry_msgs,
+  tf]
