@@ -1,0 +1,1 @@
+[catkin, rqt_gui, rospy, sr_visualization_icons, sr_robot_msgs, rqt_gui_py, diagnostic_msgs]
