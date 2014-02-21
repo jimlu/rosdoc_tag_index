@@ -1,0 +1,2 @@
+[pr2_mechanism_msgs, sr_hand, catkin, rqt_gui, std_msgs, sr_robot_lib, rospy, sr_visualization_icons,
+  rqt_gui_py, sr_robot_msgs]
