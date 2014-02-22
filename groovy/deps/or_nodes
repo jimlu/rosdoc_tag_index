@@ -1,2 +1,2 @@
-[VectorGraphics, or_libs, roscpp, or_msgs, std_msgs, sensor_msgs, image_transport,
-  opencv2, cv_bridge, robbie_architecture, String]
+[or_libs, genmsg, catkin, roscpp, or_msgs, sensor_msgs, roslib, std_msgs, roscpp_serialization,
+  tf, message_generation, message_runtime, roslang, cv_bridge, robbie_architecture]

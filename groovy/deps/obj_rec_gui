@@ -1,0 +1,3 @@
+[or_libs, genmsg, catkin, roscpp, or_msgs, std_msgs, message_runtime, door_detection_messages,
+  libqt4-dev, sensor_msgs, roslib, geometry_msgs, or_nodes, message_generation, ptu,
+  speech_rec_messages, rviz]

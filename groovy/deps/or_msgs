@@ -1,1 +1,2 @@
-[sensor_msgs, std_msgs, roscpp]
+[genmsg, catkin, roscpp, sensor_msgs, message_runtime, std_msgs, roscpp_serialization,
+  tf, message_generation, roslang, cv_bridge]
