@@ -1,1 +1,1 @@
-[tf, self_localizer, nav2d_msgs, roscpp, catkin]
+[common_msgs, common_rosdeps, geometry, ros, ros_comm]
