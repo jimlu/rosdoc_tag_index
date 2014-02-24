@@ -1,1 +1,1 @@
-[std_msgs, orocos_kdl, geometry_msgs, eigen, catkin]
+[catkin, eigen, std_msgs, cmake_modules, geometry_msgs, orocos_kdl]
