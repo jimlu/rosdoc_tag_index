@@ -1,1 +1,1 @@
-[unzip, catkin, uuid, omniorb]
+[unzip, catkin, uuid, mk, rostest, omniorb]
