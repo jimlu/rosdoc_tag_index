@@ -1,1 +1,2 @@
-[p2os, joy, catkin, robot_navigator, stage_ros]
+[nav2d_navigator, nav2d_operator, catkin, joy, nav2d_localizer, p2os, nav2d_karto,
+  nav2d_remote, stage_ros]
