@@ -1,1 +1,1 @@
-[rtt_ros, catkin, roscpp, eigen]
+[rtt_ros, cmake_modules, catkin, roscpp, eigen]
