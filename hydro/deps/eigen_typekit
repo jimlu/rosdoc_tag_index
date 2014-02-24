@@ -1,1 +1,1 @@
-[rtt, catkin, eigen]
+[rtt, cmake_modules, catkin, eigen]
