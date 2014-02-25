@@ -1,0 +1,2 @@
+[hardware_interface, controller_interface, actionlib, realtime_tools, cmake_modules,
+  control_msgs, catkin]
