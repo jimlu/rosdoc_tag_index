@@ -1,3 +1,3 @@
-[calvin_joint_commander, controller_manager, calvin_description, robot_state_publisher,
-  katana, robot_pose_ekf, katana_joint_movement_adapter, uos_gazebo_worlds, rostopic,
-  gazebo_ros, katana_arm_gazebo]
+[calvin_joint_commander, uos_common_urdf, controller_manager, calvin_description,
+  robot_state_publisher, sick_tim3xx, katana, robot_pose_ekf, katana_joint_movement_adapter,
+  uos_gazebo_worlds, rostopic, volksbot_driver, katana_description, gazebo_ros, katana_arm_gazebo]
