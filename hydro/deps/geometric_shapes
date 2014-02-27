@@ -1,2 +1,3 @@
 [shape_tools, shape_msgs, catkin, eigen, libqhull, resource_retriever, assimp-dev,
-  assimp, octomap, random_numbers, eigen_stl_containers, console_bridge, boost]
+  assimp, octomap, random_numbers, eigen_stl_containers, console_bridge, boost, cmake_modules,
+  pkg-config]
