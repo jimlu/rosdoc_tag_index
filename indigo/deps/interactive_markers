@@ -1,0 +1,1 @@
+[rosconsole, catkin, roscpp, std_msgs, rostest, rospy, visualization_msgs, tf]
