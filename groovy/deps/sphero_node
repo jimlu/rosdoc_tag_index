@@ -1,0 +1,2 @@
+[dynamic_reconfigure, nav_msgs, catkin, rospy, sensor_msgs, message_runtime, std_msgs,
+  sphero_driver, tf, geometry_msgs, message_generation, sphero_description, python_orocos_kdl]
