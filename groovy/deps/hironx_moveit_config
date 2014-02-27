@@ -1,1 +1,2 @@
-[hironx_ros_bridge, pr2_moveit_plugins, catkin, moveit_ros_move_group, moveit_ros]
+[catkin, moveit_ros, pr2_moveit_plugins, moveit_ros_move_group, hironx_ros_bridge,
+  moveit_planners]
