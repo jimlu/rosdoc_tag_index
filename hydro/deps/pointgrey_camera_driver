@@ -1,0 +1,3 @@
+[dynamic_reconfigure, image_exposure_msgs, catkin, roscpp, libraw1394-dev, diagnostic_updater,
+  camera_info_manager, sensor_msgs, image_transport, roslint, driver_base, wfov_camera_msgs,
+  libusb-1.0-dev, nodelet]
