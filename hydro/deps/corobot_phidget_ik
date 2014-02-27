@@ -1,1 +1,1 @@
-[corobot_msgs, catkin, roscpp, sensor_msgs, std_msgs, corobot_diagnostics, tf]
+[corobot_msgs, std_srvs, roscpp, sensor_msgs, std_msgs, corobot_diagnostics, tf, catkin]
