@@ -1,1 +1,1 @@
-[sensor_msgs, rospy, catkin, geometry_msgs, grizzly_msgs]
+[catkin, grizzly_msgs, joy, sensor_msgs, rospy, geometry_msgs]
