@@ -1,1 +1,1 @@
-[nav_msgs, catkin, sensor_msgs, topic_tools, geometry_msgs, tf]
+[nav_msgs, catkin, roscpp, sensor_msgs, topic_tools, geometry_msgs, tf]
