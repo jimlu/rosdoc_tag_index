@@ -1,1 +1,2 @@
-[catkin, roscpp, rostime, std_msgs, gtest, rostest, geometry_msgs, rospy, curl, mongodb-dev]
+[catkin, roscpp, rostime, std_msgs, gtest, rostest, geometry_msgs, libssl-dev, rospy,
+  curl, mongodb-dev]
