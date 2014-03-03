@@ -1,0 +1,3 @@
+[image_geometry, std_srvs, roscpp, stereo_msgs, sensor_msgs, actionlib_msgs, message_runtime,
+  std_msgs, rosbag, image_transport, message_generation, geometry_msgs, people_msgs,
+  tf, catkin, cv_bridge, actionlib]
