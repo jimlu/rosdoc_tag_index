@@ -1,0 +1,2 @@
+[dynamic_reconfigure, catkin, roscpp, bullet, sensor_msgs, message_runtime, std_msgs,
+  rospy, message_generation, geometry_msgs, nodelet]
