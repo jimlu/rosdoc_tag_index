@@ -1,2 +1,1 @@
-[visp, roscpp, std_msgs, sensor_msgs, opencv2, rospy, camera_calibration_parsers,
-  visp_bridge]
+[message_generation, visp_bridge, catkin, camera_calibration_parsers]
