@@ -1,2 +1,2 @@
 [python-yaml, genpy, catkin, rocon_service_pair_msgs, roslib, rosgraph, rostest, rospy,
-  rosunit, uuid_msgs, rocon_console, unique_id]
+  rosunit, rosservice, uuid_msgs, rocon_console, unique_id]

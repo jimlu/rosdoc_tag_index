@@ -1,0 +1,1 @@
+[catkin, rospy, rocon_std_msgs, rocon_python_utils, rocon_console, rocon_python_comms]
