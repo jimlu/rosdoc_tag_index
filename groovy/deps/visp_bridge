@@ -1,1 +1,1 @@
-[visp, roscpp, std_msgs, sensor_msgs, geometry_msgs, rospy]
+[std_msgs, sensor_msgs, geometry_msgs, roscpp, catkin]

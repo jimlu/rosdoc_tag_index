@@ -1,0 +1,1 @@
+[catkin, roscpp, std_msgs, sensor_msgs, cv_bridge, pcl_ros]
