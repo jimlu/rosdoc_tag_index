@@ -1,2 +1,2 @@
-[dynamic_reconfigure, visp, image_proc, roscpp, bullet, std_msgs, sensor_msgs, resource_retriever,
-  image_transport, opencv2, boost, rospy, tf, geometry_msgs, nodelet, rosbag]
+[dynamic_reconfigure, catkin, roscpp, bullet, sensor_msgs, message_runtime, std_msgs,
+  rospy, message_generation, geometry_msgs, nodelet]
