@@ -1,0 +1,2 @@
+[genpy, catkin, rocon_python_utils, rocon_uri, python-rospkg, rospy, rocon_std_msgs,
+  rocon_python_comms, rocon_console, rocon_interaction_msgs, unique_id]
