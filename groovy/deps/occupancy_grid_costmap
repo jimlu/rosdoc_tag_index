@@ -1,2 +1,2 @@
-[nav_msgs, location_costmap, cram_roslisp_common, roslisp_utilities, cram_designators,
+[nav_msgs, location_costmap, catkin, cram_roslisp_common, roslisp_utilities, cram_designators,
   sbcl]

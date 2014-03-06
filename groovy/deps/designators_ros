@@ -1,1 +1,1 @@
-[cram_designators, cram_utilities, cram_roslisp_common, cram_reasoning, cl_tf]
+[cram_reasoning, catkin, cram_roslisp_common, cl_tf, cram_utilities, cram_designators]

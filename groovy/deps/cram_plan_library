@@ -1,2 +1,3 @@
-[cram_reasoning, cram_plan_knowledge, cram_plan_failures, cram_projection, cram_roslisp_common,
-  cram_utilities, alexandria, cram_designators, designators_ros, cram_language, cram_process_modules]
+[cram_reasoning, cram_plan_knowledge, catkin, cram_plan_failures, cram_projection,
+  cram_roslisp_common, cram_utilities, alexandria, cram_designators, designators_ros,
+  cram_language, cram_process_modules]

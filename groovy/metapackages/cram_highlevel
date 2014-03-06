@@ -1,6 +1,6 @@
-[location_designator_projection, occupancy_grid_costmap, execution_trace_server, cram_manipulation_knowledge,
-  object_location_designators, fake_process_modules, map_annotation, location_costmap,
-  cram_physics_utils, cram_roslisp_common, cram_plan_library, semantic_map_cache,
-  cram_plan_failures, designators_ros, cram_plan_knowledge, cram_plan_transformations,
-  cram_plan_actionserver, cffi_ros_utils, semantic_map_collision_environment, cl_semantic_map_utils,
-  semantic_map_costmap, perception_process_module]
+[cram_plan_failures/, occupancy_grid_costmap/, cram_manipulation_knowledge/, semantic_map_costmap/,
+  cram_roslisp_common/, catkin, cram_plan_actionserver/, fake_process_modules/, designators_ros/,
+  semantic_map_cache/, object_location_designators/, cram_plan_knowledge/, cffi_ros_utils/,
+  cl_semantic_map_utils/, cram_plan_library/, execution_trace_server/, cram_physics_utils/,
+  cram_plan_transformations/, semantic_map_collision_environment/, location_designator_projection/,
+  location_costmap/, perception_process_module/, map_annotation/]

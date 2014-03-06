@@ -1,1 +1,1 @@
-[cram_designators, cl_transforms, cram_roslisp_common, cram_json_prolog, cram_reasoning]
+[cl_transforms, catkin, cram_roslisp_common, cram_reasoning, cram_json_prolog, cram_designators]

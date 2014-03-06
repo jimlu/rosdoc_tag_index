@@ -1,2 +1,2 @@
-[cram_reasoning, roslisp, cram_physics_utils, shape_msgs, cram_utilities, cl_transforms,
-  cram_designators]
+[cram_reasoning, roslisp, catkin, cram_physics_utils, shape_msgs, cram_utilities,
+  cl_transforms, cram_designators]

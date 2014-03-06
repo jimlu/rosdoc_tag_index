@@ -1,1 +1,2 @@
-[cram_projection, cram_designators, cram_json_prolog, cl_semantic_map_utils, cram_reasoning]
+[cl_semantic_map_utils, cram_reasoning, catkin, cram_projection, cram_json_prolog,
+  cram_designators]

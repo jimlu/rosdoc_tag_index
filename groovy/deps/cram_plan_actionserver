@@ -1,2 +1,3 @@
-[actionlib, cram_roslisp_common, actionlib_lisp, cram_language, cram_execution_trace,
-  actionlib_msgs, sbcl]
+[message_runtime, catkin, roscpp, actionlib, cram_roslisp_common, actionlib_lisp,
+  rospy, message_generation, cram_language, cram_execution_trace, actionlib_msgs,
+  sbcl]

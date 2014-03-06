@@ -1,2 +1,2 @@
-[cram_reasoning, cram_execution_trace, cram_roslisp_common, cram_utilities, cram_json_prolog,
-  cram_plan_knowledge, cram_plan_library]
+[cram_reasoning, catkin, cram_execution_trace, cram_roslisp_common, cram_utilities,
+  cram_json_prolog, cram_plan_knowledge, cram_plan_library]

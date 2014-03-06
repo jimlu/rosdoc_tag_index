@@ -1,2 +1,2 @@
-[cram_reasoning, cram_plan_knowledge, cram_utilities, alexandria, cram_designators,
+[cram_reasoning, cram_plan_knowledge, catkin, cram_utilities, alexandria, cram_designators,
   cram_language, cram_plan_library]

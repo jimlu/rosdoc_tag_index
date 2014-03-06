@@ -1,1 +1,1 @@
-[cffi, sbcl, split_sequence]
+[catkin, cffi, sbcl, split_sequence]

@@ -1,2 +1,6 @@
-[common, common_msgs, cram_core, ias_common, knowrob, motion_planning_common, point_cloud_perception,
-  ros, roslisp_common, visualization_common]
+[cram_plan_failures/, occupancy_grid_costmap/, cram_manipulation_knowledge/, semantic_map_costmap/,
+  cram_roslisp_common/, catkin, cram_plan_actionserver/, fake_process_modules/, designators_ros/,
+  semantic_map_cache/, object_location_designators/, cram_plan_knowledge/, cffi_ros_utils/,
+  cl_semantic_map_utils/, cram_plan_library/, execution_trace_server/, cram_physics_utils/,
+  cram_plan_transformations/, semantic_map_collision_environment/, location_designator_projection/,
+  location_costmap/, perception_process_module/, map_annotation/]
