@@ -1,1 +1,1 @@
-[catkin]
+[rosbuild, catkin]
