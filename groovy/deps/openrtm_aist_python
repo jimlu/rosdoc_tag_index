@@ -1,1 +1,1 @@
-[rostest, unzip, catkin, python-omniorb, mk]
+[unzip, catkin, python-omniorb, mk, rosbuild, rostest]
