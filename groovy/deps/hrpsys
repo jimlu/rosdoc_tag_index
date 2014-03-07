@@ -1,2 +1,2 @@
 [python-tk, doxygen, catkin, libglew-dev, libxml2, glut, libqhull, mk, libirrlicht-dev,
-  opencv2, openhrp3, sdl, libxmu-dev, subversion]
+  opencv2, rostest, openhrp3, sdl, libxmu-dev, subversion]
