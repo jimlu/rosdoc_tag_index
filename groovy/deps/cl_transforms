@@ -1,1 +1,1 @@
-[cl_utils]
+[catkin, sbcl, cl_utils]

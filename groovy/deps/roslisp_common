@@ -1,1 +1,1 @@
-[common_msgs, geometry, ros, roslisp_support]
+[cl_transforms, catkin, cl_tf, actionlib_lisp, cl_utils, roslisp_utilities]

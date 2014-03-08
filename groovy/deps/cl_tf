@@ -1,1 +1,1 @@
-[tf, roslisp_runtime, cl_transforms]
+[tf, cl_transforms, roslisp, catkin, sbcl]
