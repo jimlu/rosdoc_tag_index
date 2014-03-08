@@ -1,2 +1,2 @@
-[bullet, common_msgs, driver_common, geometry, image_common, image_pipeline, robot_model,
-  ros, ros_comm, vision_opencv]
+[catkin, visp_camera_calibration, visp_hand2eye_calibration, visp_auto_tracker, visp_tracker,
+  visp_bridge]
