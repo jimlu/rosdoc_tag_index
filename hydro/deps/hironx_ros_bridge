@@ -1,1 +1,1 @@
-[hrpsys_ros_bridge, unzip, catkin]
+[hrpsys_ros_bridge, unzip, hrpsys, catkin]
