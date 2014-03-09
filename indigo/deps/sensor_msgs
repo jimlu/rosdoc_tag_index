@@ -1,0 +1,1 @@
+[message_generation, std_msgs, message_runtime, geometry_msgs, catkin]
