@@ -1,2 +1,1 @@
-[rosconsole, catkin, roscpp, actionlib, std_msgs, roscpp_serialization, settlerlib,
-  actionlib_msgs]
+[roscpp, actionlib_msgs, sensor_msgs, settlerlib, calibration_msgs, actionlib]

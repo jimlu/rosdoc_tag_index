@@ -1,1 +1,1 @@
-[rosconsole, rostime, boost, calibration_msgs, catkin]
+[roscpp, calibration_msgs]
