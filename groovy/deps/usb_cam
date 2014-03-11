@@ -1,1 +1,2 @@
-[self_test, roscpp, std_msgs, sensor_msgs, image_transport, libswscale-dev]
+[self_test, catkin, roscpp, std_msgs, camera_info_manager, sensor_msgs, image_transport,
+  ffmpeg]
