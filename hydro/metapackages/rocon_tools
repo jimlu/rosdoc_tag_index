@@ -1,2 +1,2 @@
-[catkin, rocon_master_info, rocon_semantic_version, rocon_python_redis, rocon_python_comms,
-  rocon_ebnf, rocon_python_utils, rocon_console, rocon_uri, rocon_python_wifi]
+[catkin, rocon_master_info, rocon_interactions, rocon_semantic_version, rocon_python_redis,
+  rocon_python_comms, rocon_ebnf, rocon_python_utils, rocon_console, rocon_uri, rocon_python_wifi]
