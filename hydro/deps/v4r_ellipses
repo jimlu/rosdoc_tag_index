@@ -1,0 +1,2 @@
+[dynamic_reconfigure, image_geometry, catkin, roscpp, v4r_msgs, nodelet, image_transport,
+  rospy, tf, cv_bridge]
