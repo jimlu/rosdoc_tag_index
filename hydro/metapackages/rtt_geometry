@@ -1,1 +1,1 @@
-[eigen_typekit, kdl_typekit, kdl_lua, catkin]
+[eigen_typekit, kdl_typekit, catkin]
