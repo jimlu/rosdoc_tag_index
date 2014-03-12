@@ -1,1 +1,2 @@
-[cram_reasoning, catkin, cram_roslisp_common, cl_transforms, rospy, geometry_msgs]
+[cram_reasoning, message_runtime, catkin, cram_roslisp_common, cl_transforms, rospy,
+  geometry_msgs]
