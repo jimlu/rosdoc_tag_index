@@ -1,2 +1,2 @@
-[dynamic_reconfigure, libusb-1.0-0-dev, catkin, driver_base, sensor_msgs, diagnostic_updater,
-  libusb-1.0-0]
+[dynamic_reconfigure, catkin, driver_base, libusb-1.0, sensor_msgs, diagnostic_updater,
+  libusb-1.0-dev]
