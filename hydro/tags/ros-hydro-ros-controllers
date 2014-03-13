@@ -1,4 +1,4 @@
-- {docs_url: ../../../api/gripper_action_controller/html, location: gripper_action_controller.tag,
-  package: gripper_action_controller}
 - {docs_url: ../../../api/diff_drive_controller/html, location: diff_drive_controller.tag,
   package: diff_drive_controller}
+- {docs_url: ../../../api/gripper_action_controller/html, location: gripper_action_controller.tag,
+  package: gripper_action_controller}
