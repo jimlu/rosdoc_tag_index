@@ -1,2 +1,2 @@
-[dynamic_reconfigure, image_geometry, catkin, roscpp, v4r_msgs, nodelet, image_transport,
-  rospy, tf, cv_bridge]
+[dynamic_reconfigure, image_geometry, catkin, roscpp, nodelet, message_runtime, image_transport,
+  message_generation, rospy, tf, geometry_msgs, cv_bridge]
