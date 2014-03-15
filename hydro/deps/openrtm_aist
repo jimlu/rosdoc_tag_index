@@ -1,1 +1,1 @@
-[unzip, catkin, uuid, mk, rosbuild, rostest, omniorb]
+[unzip, catkin, uuid, mk, rosbuild, rostest, rosbash, omniorb]
