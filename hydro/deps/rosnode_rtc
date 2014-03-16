@@ -1,1 +1,1 @@
-[rospy, openrtm_tools, catkin, rostopic, roscpp_tutorials]
+[catkin, openrtm_tools, rospy, rostopic, roscpp_tutorials]
