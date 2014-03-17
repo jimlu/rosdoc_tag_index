@@ -1,3 +1,2 @@
 [cram_roslisp_common, cl_transforms, location_costmap, designators_ros, cram_manipulation_knowledge,
-  cram_math, cram_reasoning, cl_tf, cram_utilities, roslisp, iai_kinematics_msgs,
-  sbcl]
+  cram_math, cram_reasoning, cl_tf, cram_utilities, iai_kinematics_msgs]

@@ -1,2 +1,2 @@
-[cram_reasoning, alexandria, cram_roslisp_common, actionlib_lisp, cram_designators,
-  cram_plan_knowledge, cram_process_modules, pr2_controllers_msgs]
+[cram_reasoning, alexandria, cram_moveit, cram_roslisp_common, actionlib_lisp, roslisp_utilities,
+  cram_designators, cram_plan_knowledge, cram_process_modules, pr2_controllers_msgs]
