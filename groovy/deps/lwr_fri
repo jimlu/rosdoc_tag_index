@@ -1,2 +1,2 @@
-[rtt_diagnostic_msgs, rtt_geometry_msgs, rtt, kuka_lwr_fri, rtt_std_msgs, rtt_sensor_msgs,
-  orocos_kdl, tf_conversions]
+[catkin, rtt_ros, message_runtime, std_msgs, kdl_conversions, rtt, kuka_lwr_fri, geometry_msgs,
+  message_generation, orocos_kdl, diagnostic_msgs]
