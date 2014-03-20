@@ -1,2 +1,2 @@
-[frida_description, prace_gripper_description, prace_gripper_gazebo, cob_lbr, ur_description,
-  ur_driver]
+[frida_description, prace_gripper_description, ur_description, cob_lbr, prace_gripper_driver,
+  ur_driver, frida_driver]
