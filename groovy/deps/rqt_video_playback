@@ -1,1 +1,1 @@
-[rosgraph_msgs, catkin, libphonon-dev, rqt_gui_cpp, rqt_gui, libphonon]
+[rosgraph_msgs, catkin, roscpp, libphonon-dev, rqt_gui_cpp, rqt_gui, libphonon]
