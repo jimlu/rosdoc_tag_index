@@ -1,1 +1,1 @@
-[rqt_gui_cpp, rqt_gui, catkin, rviz, pluginlib]
+[catkin, rviz, pluginlib, rqt_gui_cpp, rqt_gui, boost]
