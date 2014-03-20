@@ -1,4 +1,5 @@
-[hrpsys, catkin, rtmbuild, subversion, roscpp, python-rosdep, actionlib, rosbuild,
-  rostest, control_msgs, tf, roslang, hrpsys_tools, robot_state_publisher, sensor_msgs,
-  image_transport, angles, diagnostic_msgs, dynamic_reconfigure, pr2_controllers,
-  python-psutil, camera_info_manager, mk, pkg-config]
+[hrpsys, catkin, collada_urdf, rtmbuild, subversion, roscpp, python-rosdep, actionlib,
+  rosbuild, rostest, control_msgs, visualization_msgs, tf, roslang, hrpsys_tools,
+  diagnostic_aggregator, robot_state_publisher, sensor_msgs, image_transport, angles,
+  diagnostic_msgs, dynamic_reconfigure, pr2_controllers, python-psutil, camera_info_manager,
+  mk, pkg-config]

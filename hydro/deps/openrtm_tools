@@ -1,1 +1,1 @@
-[openrtm_aist, catkin, openrtm_aist_python, rtshell]
+[openrtm_aist, catkin, rosbash, rtshell, rostest, openrtm_aist_python]
