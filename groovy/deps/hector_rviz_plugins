@@ -1,1 +1,1 @@
-[catkin, geometry_msgs, rviz]
+[catkin, geometry_msgs, roscpp, rviz]
