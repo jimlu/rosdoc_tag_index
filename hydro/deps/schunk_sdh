@@ -1,0 +1,2 @@
+[urdf, catkin, roscpp, brics_actuator, actionlib, trajectory_msgs, sensor_msgs, message_generation,
+  cob_srvs, control_msgs, libpcan, message_runtime, libntcan, diagnostic_msgs, libusb-dev]
