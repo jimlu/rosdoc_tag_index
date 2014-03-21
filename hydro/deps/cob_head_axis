@@ -1,0 +1,2 @@
+[cob_canopen_motor, catkin, roscpp, cob_utilities, actionlib, urdf, sensor_msgs, cob_srvs,
+  rostest, control_msgs, cob_generic_can, diagnostic_msgs, libntcan]

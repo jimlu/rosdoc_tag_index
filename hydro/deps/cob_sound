@@ -1,0 +1,2 @@
+[catkin, roscpp, actionlib, message_runtime, std_msgs, diagnostic_msgs, cob_srvs,
+  rospy, message_generation, geometry_msgs, sound_play, actionlib_msgs]

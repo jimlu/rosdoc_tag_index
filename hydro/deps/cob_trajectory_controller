@@ -1,0 +1,2 @@
+[catkin, roscpp, brics_actuator, std_msgs, actionlib, message_runtime, sensor_msgs,
+  cob_srvs, control_msgs, message_generation, geometry_msgs, orocos_kdl, eigen]

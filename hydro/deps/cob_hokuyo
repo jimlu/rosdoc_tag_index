@@ -1,0 +1,1 @@
+[hokuyo_node, catkin, roscpp, sensor_msgs, rostest, control_msgs]
