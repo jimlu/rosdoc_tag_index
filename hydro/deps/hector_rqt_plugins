@@ -1,1 +1,1 @@
-[rosconsole, catkin, rqt_gui_cpp, rqt_gui, sensor_msgs, image_transport, cv_bridge]
+[rosconsole, catkin, roscpp, rqt_gui_cpp, rqt_gui, sensor_msgs, image_transport, cv_bridge]
