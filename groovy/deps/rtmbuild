@@ -1,2 +1,2 @@
-[catkin, omniorb, message_runtime, std_msgs, cmake_modules, message_generation, libblas-dev,
-  liblapack-dev, pkg-config]
+[openrtm_aist, catkin, omniorb, message_runtime, std_msgs, cmake_modules, rostest,
+  openrtm_aist_python, message_generation, libblas-dev, liblapack-dev, pkg-config]
