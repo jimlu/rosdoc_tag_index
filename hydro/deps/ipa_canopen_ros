@@ -1,0 +1,2 @@
+[catkin, roscpp, cob_srvs, sensor_msgs, urdf, std_msgs, ipa_canopen_core, brics_actuator,
+  rospy, yaml-cpp, libpcan, control_msgs]
