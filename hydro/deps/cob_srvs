@@ -1,0 +1,1 @@
+[trajectory_msgs, catkin, message_runtime, std_msgs, geometry_msgs, message_generation]
