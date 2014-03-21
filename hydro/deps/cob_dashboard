@@ -1,0 +1,2 @@
+[catkin, rqt_gui_cpp, roslib, std_msgs, pr2_power_board, rospy, pr2_msgs, rqt_pr2_dashboard,
+  std_srvs]

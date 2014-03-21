@@ -1,0 +1,2 @@
+[dynamic_reconfigure, nav_msgs, catkin, roscpp, cob_footprint_observer, move_base_msgs,
+  rospy, visualization_msgs, tf]

@@ -1,0 +1,2 @@
+[nav_msgs, cob_relayboard, catkin, roscpp, cob_utilities, sensor_msgs, diagnostic_updater,
+  geometry_msgs, tf, control_msgs, diagnostic_msgs]

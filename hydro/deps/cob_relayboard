@@ -1,0 +1,1 @@
+[catkin, roscpp, cob_utilities, message_runtime, std_msgs, rostest, pr2_msgs, message_generation]

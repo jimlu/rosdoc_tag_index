@@ -1,0 +1,2 @@
+[move_base_msgs, message_runtime, catkin, actionlib, trajectory_msgs, std_msgs, cob_sound,
+  cob_srvs, rospy, control_msgs, tf, geometry_msgs, message_generation, actionlib_msgs]
