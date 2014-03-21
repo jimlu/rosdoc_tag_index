@@ -1,1 +1,1 @@
-[message_generation, catkin, message_runtime, std_msgs]
+[catkin, std_msgs, message_runtime, rocon_service_pair_msgs, uuid_msgs, message_generation]
