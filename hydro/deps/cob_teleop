@@ -1,0 +1,2 @@
+[catkin, roscpp, brics_actuator, std_msgs, trajectory_msgs, sensor_msgs, cob_srvs,
+  geometry_msgs]
