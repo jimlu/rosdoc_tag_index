@@ -1,0 +1,1 @@
+[rospack, ocl, libxml2, rostime, rtt, cmake_modules, rtt_rosgraph_msgs, catkin, roscpp]
