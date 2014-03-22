@@ -1,0 +1,2 @@
+[dynamic_reconfigure, roscpp, cob_srvs, sensor_msgs, urdf, std_msgs, ipa_canopen_core,
+  brics_actuator, rospy, ipa_canopen_ros, control_msgs, diagnostic_msgs]

@@ -1,1 +1,2 @@
-[cob_common, cob_extern, common_msgs, pr2_controllers, ros, ros_comm]
+[cob_common, cob_extern, common_msgs, diagnostic_msgs, pr2_controllers, ros, ros_comm,
+  dynamic_reconfigure]
