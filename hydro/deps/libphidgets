@@ -1,0 +1,1 @@
+[catkin, libusb-dev, roslib, mk, rosbuild, rospack]
