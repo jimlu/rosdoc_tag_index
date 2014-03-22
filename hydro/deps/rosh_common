@@ -1,0 +1,2 @@
+[nav_msgs, catkin, std_msgs, actionlib, roslib, sensor_msgs, rospy, rosmsg, rosh,
+  rostopic]
