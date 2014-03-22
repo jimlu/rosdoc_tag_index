@@ -1,0 +1,27 @@
+- {docs_url: ../../../api/crlibm/html, location: crlibm.tag, package: crlibm}
+- {docs_url: ../../../api/nlopt/html, location: nlopt.tag, package: nlopt}
+- {docs_url: ../../../api/multi_map_server/html, location: multi_map_server.tag, package: multi_map_server}
+- {docs_url: ../../../api/jtalk/html, location: jtalk.tag, package: jtalk}
+- {docs_url: ../../../api/python_twitter/html, location: python_twitter.tag, package: python_twitter}
+- {docs_url: ../../../api/openni_tracker_jsk_patch/html, location: openni_tracker_jsk_patch.tag,
+  package: openni_tracker_jsk_patch}
+- {docs_url: ../../../api/laser_filters_jsk_patch/html, location: laser_filters_jsk_patch.tag,
+  package: laser_filters_jsk_patch}
+- {docs_url: ../../../api/stereo_synchronizer/html, location: stereo_synchronizer.tag,
+  package: stereo_synchronizer}
+- {docs_url: ../../../api/voice_text/html, location: voice_text.tag, package: voice_text}
+- {docs_url: ../../../api/ff/html, location: ff.tag, package: ff}
+- {docs_url: ../../../api/depth_image_proc_jsk_patch/html, location: depth_image_proc_jsk_patch.tag,
+  package: depth_image_proc_jsk_patch}
+- {docs_url: ../../../api/ffha/html, location: ffha.tag, package: ffha}
+- {docs_url: ../../../api/jsk_data/html, location: jsk_data.tag, package: jsk_data}
+- {docs_url: ../../../api/python_twoauth/html, location: python_twoauth.tag, package: python_twoauth}
+- {docs_url: ../../../api/julius/html, location: julius.tag, package: julius}
+- {docs_url: ../../../api/ee_cart_imped_jsk_patch/html, location: ee_cart_imped_jsk_patch.tag,
+  package: ee_cart_imped_jsk_patch}
+- {docs_url: ../../../api/image_view_jsk_patch/html, location: image_view_jsk_patch.tag,
+  package: image_view_jsk_patch}
+- {docs_url: ../../../api/opt_camera/html, location: opt_camera.tag, package: opt_camera}
+- {docs_url: ../../../api/move_arm_jsk_patch/html, location: move_arm_jsk_patch.tag,
+  package: move_arm_jsk_patch}
+- {docs_url: ../../../api/downward/html, location: downward.tag, package: downward}

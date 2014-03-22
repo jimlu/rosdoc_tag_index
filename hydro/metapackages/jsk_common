@@ -1,0 +1,2 @@
+[catkin, rosping, jsk_gui_msgs, dynamic_tf_publisher, rospatlite, jsk_footstep_msgs,
+  posedetection_msgs, jsk_topic_tools, jsk_hark_msgs, image_view2]
