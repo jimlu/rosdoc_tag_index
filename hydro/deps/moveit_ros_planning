@@ -1,2 +1,2 @@
-[dynamic_reconfigure, moveit_core, moveit_ros_perception, pluginlib, actionlib, angles,
-  catkin]
+[dynamic_reconfigure, moveit_core, moveit_ros_perception, pluginlib, actionlib, cmake_modules,
+  angles, catkin]
