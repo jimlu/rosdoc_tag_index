@@ -1,1 +1,2 @@
-[moveit_core, catkin, pluginlib, interactive_markers, moveit_ros_perception, moveit_ros_planning_interface]
+[moveit_core, moveit_ros_perception, pluginlib, interactive_markers, cmake_modules,
+  catkin, moveit_ros_planning_interface]
