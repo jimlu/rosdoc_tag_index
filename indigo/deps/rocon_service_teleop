@@ -1,0 +1,2 @@
+[catkin, unique_id, concert_service_utilities, rocon_scheduler_requests, concert_msgs,
+  rospy, scheduler_msgs, rocon_std_msgs, rocon_python_comms, rocon_service_msgs]
