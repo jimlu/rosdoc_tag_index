@@ -1,0 +1,2 @@
+[catkin, gateway_msgs, rocon_gateway_utils, rocon_tutorial_msgs, rocon_app_manager_msgs,
+  rospy, rocon_std_msgs, rocon_python_comms, turtlesim]
