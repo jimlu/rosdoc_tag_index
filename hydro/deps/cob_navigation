@@ -1,0 +1,2 @@
+[catkin, cob_mapping_slam, cob_unified_scan_publisher, cob_linear_nav, cob_navigation_config,
+  cob_navigation_slam, cob_navigation_global, cob_navigation_local]
