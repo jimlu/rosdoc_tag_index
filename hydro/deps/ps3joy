@@ -1,0 +1,2 @@
+[catkin, libusb-dev, rosgraph, sensor_msgs, bluez, rospy, joystick, python-bluez,
+  diagnostic_msgs]
