@@ -1,0 +1,1 @@
+[message_generation, rocon_std_msgs, message_runtime, rocon_service_pair_msgs, catkin]
