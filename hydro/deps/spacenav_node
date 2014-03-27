@@ -1,0 +1,1 @@
+[catkin, roscpp, sensor_msgs, libspnav-dev, geometry_msgs, spacenavd, libx11-dev]

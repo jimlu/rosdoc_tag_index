@@ -1,0 +1,1 @@
+[catkin, roscpp, sensor_msgs, diagnostic_updater, joystick, rosbag]
