@@ -1,0 +1,1 @@
+[rospy, rocon_python_redis, gateway_msgs, catkin, rocon_gateway_utils]

@@ -1,0 +1,2 @@
+[rocon_gateway, rocon_hub, rocon_launch, catkin, rocon_gateway_utils, rocon_hub_client,
+  rocon_gateway_tests, rocon_unreliable_experiments, rocon_test]

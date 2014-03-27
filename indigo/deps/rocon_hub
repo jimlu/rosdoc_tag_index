@@ -1,0 +1,2 @@
+[rocon_gateway, catkin, rosgraph, rocon_semantic_version, rocon_python_redis, avahi-utils,
+  avahi-daemon, std_srvs, redis-server, rocon_console, rocon_python_comms]

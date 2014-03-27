@@ -1,0 +1,1 @@
+[roslaunch, rocon_launch, catkin, rostest, rocon_python_utils, rosunit, rospy, rocon_console]

@@ -1,0 +1,1 @@
+[catkin, gateway_msgs, rosgraph, rostest, rocon_python_comms, rosunit, rocon_console]
