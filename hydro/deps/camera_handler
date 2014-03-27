@@ -1,0 +1,1 @@
+[catkin, sensor_msgs, roscpp, image_transport, vrep_ros_plugin]
