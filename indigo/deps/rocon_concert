@@ -1,0 +1,2 @@
+[concert_conductor, catkin, concert_schedulers, concert_master, concert_service_link_graph,
+  concert_service_manager, concert_service_utilities, rocon_tf_reconstructor, concert_utilities]
