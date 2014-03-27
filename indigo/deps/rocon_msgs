@@ -1,0 +1,2 @@
+[catkin, gateway_msgs, scheduler_msgs, rocon_app_manager_msgs, concert_msgs, rocon_std_msgs,
+  rocon_annotation_msgs]
