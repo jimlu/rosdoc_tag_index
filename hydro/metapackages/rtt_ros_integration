@@ -1,2 +1,1 @@
-[rtt_roscomm, rtt_rospack, catkin, rtt_ros, rtt_rosnode, rtt_actionlib, rtt_tf, rtt_rosparam,
-  rtt_kdl_conversions]
+[rtt_roscomm, rtt_rospack, catkin, rtt_ros, rtt_rosnode, rtt_actionlib, rtt_tf, rtt_rosparam]
