@@ -1,0 +1,2 @@
+[roslaunch, genpy, catkin, rocon_interactions, std_msgs, concert_msgs, rocon_python_utils,
+  rospy, rocon_console, unique_id]
