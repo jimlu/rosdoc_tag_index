@@ -1,0 +1,3 @@
+[catkin, roscpp, actionlib, message_runtime, std_msgs, moveit_ros_move_group, cob_moveit_interface,
+  tf, moveit_msgs, rospy, cob_grasp_generation, message_generation, geometry_msgs,
+  actionlib_msgs, moveit_ros_planning_interface]

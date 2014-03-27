@@ -1,0 +1,2 @@
+[cob_tray_monitor, catkin, cob_moveit_config, cob_moveit_interface, cob_kinematics,
+  cob_pick_place_action, cob_grasp_generation, cob_lookat_action, cob_tactiletools]
