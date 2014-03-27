@@ -1,0 +1,2 @@
+[moveit_core, message_runtime, catkin, roscpp, pluginlib, moveit_msgs, urdf, std_msgs,
+  geometry_msgs, message_generation, liblapack-dev, tf_conversions]

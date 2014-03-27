@@ -1,0 +1,2 @@
+[catkin, moveit_msgs, actionlib, message_runtime, std_msgs, tf, rospy, message_generation,
+  geometry_msgs, actionlib_msgs]

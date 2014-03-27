@@ -1,0 +1,1 @@
+[xacro, catkin, moveit_ros_move_group, cob_hardware_config]
