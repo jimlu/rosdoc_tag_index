@@ -1,1 +1,1 @@
-[cob_relayboard, catkin, rospy, cob_script_server]
+[cob_relayboard, rospy, catkin, cob_script_server]
