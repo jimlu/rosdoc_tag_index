@@ -1,1 +1,1 @@
-[flex, python, mercurial, g++-multilib, gawk, bison]
+[flex, rospack, python, mercurial, g++-multilib, roslib, gawk, bison, mk, catkin]

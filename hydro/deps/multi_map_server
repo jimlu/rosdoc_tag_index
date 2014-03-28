@@ -1,1 +1,2 @@
-[map_server]
+[nav_msgs, rosconsole, map_server, catkin, roscpp, python-yaml, python-imaging, sdl-image,
+  rospy, yaml-cpp, tf, jsk_tools, rosmake]
