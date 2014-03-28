@@ -1,2 +1,1 @@
-[python-sphinx, ffmpeg2theora, ffmpeg, vlc, wkhtmltopdf, arista, mjpeg_server, gifsicle,
-  recordmydesktop]
+[git, catkin]

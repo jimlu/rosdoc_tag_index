@@ -1,1 +1,1 @@
-[nodelet, depth_image_proc]
+[nodelet, depth_image_proc, stereo_msgs]
