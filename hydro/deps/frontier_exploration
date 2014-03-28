@@ -1,0 +1,3 @@
+[dynamic_reconfigure, libpcl-all-dev, catkin, roscpp, costmap_2d, actionlib, message_runtime,
+  std_msgs, message_generation, geometry_msgs, visualization_msgs, tf, move_base_msgs,
+  actionlib_msgs, libpcl-all, common_msgs]
