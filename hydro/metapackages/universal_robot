@@ -1,2 +1,2 @@
-[ur_gazebo, catkin, ur5_moveit_config, ur_kinematics, ur_description, ur_bringup,
-  ur_driver]
+[ur_gazebo, catkin, ur10_moveit_config, ur5_moveit_config, ur_kinematics, ur_description,
+  ur_bringup, ur_driver]
