@@ -1,0 +1,2 @@
+[roslaunch, catkin, roscpp, libpcap, pluginlib, diagnostic_updater, velodyne_msgs,
+  rostest, tf, nodelet]
