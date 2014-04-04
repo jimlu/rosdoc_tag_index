@@ -1,2 +1,3 @@
-[hardware_interface, controller_interface, actionlib, realtime_tools, cmake_modules,
-  control_msgs, catkin]
+[xacro, hardware_interface, urdf, controller_interface, controller_manager, actionlib,
+  trajectory_msgs, realtime_tools, catkin, cmake_modules, rostest, control_msgs, angles,
+  control_toolbox]
