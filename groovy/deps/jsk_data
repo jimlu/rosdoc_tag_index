@@ -1,0 +1,2 @@
+[rxtools, message_filters, image_view, sensor_msgs, geometry_msgs, rostopic, hrp2_controllers_msgs,
+  rosbag, jsk_sensor_msgs]

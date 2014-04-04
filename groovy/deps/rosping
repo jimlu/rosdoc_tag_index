@@ -1,0 +1,1 @@
+[rosboost_cfg, catkin, roscpp, std_msgs, mk, rosbuild, rostest]
