@@ -1,0 +1,3 @@
+[cob_relayboard, velocity_controllers, catkin, cob_sick_s300, cob_bringup, joint_trajectory_action,
+  robot_mechanism_controllers, rostopic, joint_state_controller, schunk_simulated_tactile_sensors,
+  image_proc, cob_phidgets, cob_sound, effort_controllers]
