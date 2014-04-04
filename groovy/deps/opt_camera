@@ -1,0 +1,2 @@
+[dynamic_reconfigure, image_proc, compressed_image_transport, sensor_msgs, catkin,
+  driver_base, camera_calibration_parsers, rospack, roslang, cv_bridge]
