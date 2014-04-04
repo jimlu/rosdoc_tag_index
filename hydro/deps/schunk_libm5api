@@ -1,1 +1,1 @@
-[libpcan, catkin, libntcan]
+[libpcan, roslib, catkin, libntcan]

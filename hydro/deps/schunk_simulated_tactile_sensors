@@ -1,1 +1,1 @@
-[geometry_msgs, catkin, rospy, schunk_sdh]
+[geometry_msgs, catkin, rostest, rospy, schunk_sdh]
