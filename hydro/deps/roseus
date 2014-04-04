@@ -1,3 +1,3 @@
-[rospack, actionlib_msgs, catkin, rosbash, actionlib, rosbuild, rostopic, tf2_ros,
-  visualization_msgs, message_generation, roslang, sensor_msgs, message_runtime, std_msgs,
-  tf, angles, roscpp, std_srvs, euslisp, mk, geometry_msgs, rosmsg]
+[rospack, actionlib_msgs, catkin, rosbash, actionlib, rosbuild, rostest, rostopic,
+  tf2_ros, visualization_msgs, message_generation, roslang, std_msgs, message_runtime,
+  sensor_msgs, tf, angles, roscpp, std_srvs, euslisp, mk, geometry_msgs, rosmsg]
