@@ -1,1 +1,1 @@
-[ivcon, catkin, gtest, urdfdom, convex_decomposition, gazebo_ros]
+[gtest, catkin, gazebo_ros, urdfdom]
