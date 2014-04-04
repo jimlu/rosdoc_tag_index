@@ -1,1 +1,1 @@
-[tf, message_generation, message_runtime, geometry_msgs, catkin]
+[catkin, message_runtime, tf, rospy, message_generation, geometry_msgs]
