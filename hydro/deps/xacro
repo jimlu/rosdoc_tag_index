@@ -1,1 +1,1 @@
-[roslaunch, rostest, catkin]
+[roslint, roslaunch, rostest, catkin]
