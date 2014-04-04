@@ -1,1 +1,2 @@
-[message_generation, catkin, rosbridge_library, message_runtime, rospy]
+[catkin, message_runtime, rosgraph, rosbridge_library, rospy, message_generation,
+  rosnode]
