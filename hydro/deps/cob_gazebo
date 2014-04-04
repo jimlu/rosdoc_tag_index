@@ -1,0 +1,4 @@
+[raw_description, single_joint_position_action, cob_hardware_config, catkin, actionlib_msgs,
+  cob_srvs, robot_state_publisher, joint_trajectory_action, actionlib, move_base_msgs,
+  cob_description, gazebo_plugins, tf, cob_controller_configuration_gazebo, cob_gazebo_worlds,
+  desire_description, gazebo_ros]
