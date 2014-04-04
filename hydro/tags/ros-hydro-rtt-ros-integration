@@ -1,2 +1,2 @@
-- {docs_url: ../../../api/rtt_ros_integration/html, location: rtt_ros_integration.tag,
-  package: rtt_ros_integration}
+- {docs_url: ../../../api/rtt_rosbuild_tests/html, location: rtt_rosbuild_tests.tag,
+  package: rtt_rosbuild_tests}
