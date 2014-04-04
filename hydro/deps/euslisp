@@ -1,2 +1,2 @@
-[git, xfonts-100dpi, rostest, opengl, libjpeg, mk, libpng12-dev, rosbuild, xfonts-75dpi,
-  cmake_modules, xfont-server, catkin, libxext, libx11-dev]
+[git, xfonts-100dpi, opengl, libjpeg, mk, libpng12-dev, rosbuild, xfonts-75dpi, cmake_modules,
+  rostest, xfont-server, libpq-dev, catkin, libxext, libx11-dev]
