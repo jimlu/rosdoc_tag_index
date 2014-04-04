@@ -1,0 +1,2 @@
+[catkin, cob_default_env_config, cob_gazebo, cob_default_robot_config, cob_gazebo_worlds,
+  gazebo_ros]
