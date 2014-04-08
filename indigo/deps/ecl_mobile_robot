@@ -1,0 +1,2 @@
+[catkin, ecl_license, ecl_formatters, ecl_linear_algebra, ecl_math, ecl_geometry,
+  ecl_errors]
