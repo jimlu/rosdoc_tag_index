@@ -1,0 +1,2 @@
+[dynamic_reconfigure, baxter_interface, catkin, actionlib, trajectory_msgs, sensor_msgs,
+  baxter_core_msgs, rospy, control_msgs, cv_bridge]
