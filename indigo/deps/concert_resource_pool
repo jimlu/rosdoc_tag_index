@@ -1,0 +1,2 @@
+[python-yaml, catkin, scheduler_msgs, roslint, rocon_app_manager_msgs, concert_msgs,
+  rospy, rosunit, rocon_std_msgs, rostest, unique_id]
