@@ -1,0 +1,1 @@
+[catkin, roscpp, std_msgs, sensor_msgs, rovio_shared, geometry_msgs, joy, rovio_av]

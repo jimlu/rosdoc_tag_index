@@ -1,0 +1,1 @@
+[catkin, rovio_shared, std_msgs, roscpp, gscam]
