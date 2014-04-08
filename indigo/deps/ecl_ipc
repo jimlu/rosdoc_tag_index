@@ -1,0 +1,2 @@
+[catkin, ecl_license, ecl_errors, ecl_time_lite, ecl_time, ecl_config, ecl_build,
+  ecl_exceptions]
