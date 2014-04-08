@@ -1,0 +1,2 @@
+[catkin, roscpp, moveit_ros_robot_interaction, eigen_conversions, geometry_msgs, visualization_msgs,
+  graph_msgs, tf_conversions]
