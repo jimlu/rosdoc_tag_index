@@ -1,0 +1,2 @@
+[baxter_interface, catkin, sensor_msgs, baxter_core_msgs, baxter_maintenance_msgs,
+  rospy, geometry_msgs, cv_bridge]
