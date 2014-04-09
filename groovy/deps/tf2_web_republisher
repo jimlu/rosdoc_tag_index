@@ -1,1 +1,1 @@
-[catkin, roscpp, actionlib_msgs, geometry_msgs, tf2_ros, tf, actionlib]
+[catkin, roscpp, actionlib, geometry_msgs, tf2_ros, tf, actionlib_msgs]
