@@ -1,0 +1,2 @@
+[self_test, catkin, diagnostic_analysis, diagnostic_aggregator, diagnostic_updater,
+  diagnostic_common_diagnostics]

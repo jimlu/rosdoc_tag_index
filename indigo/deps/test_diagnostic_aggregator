@@ -1,0 +1,1 @@
+[catkin, roscpp, diagnostic_aggregator, pluginlib, rostest, rospy, diagnostic_msgs]
