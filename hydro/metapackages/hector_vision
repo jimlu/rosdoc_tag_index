@@ -1,1 +1,1 @@
-[hector_heat_detection, hector_thermal_self_filter, hector_qrcode_detection]
+[hector_thermal_self_filter, hector_heat_detection, hector_motion_detection, hector_qrcode_detection]
