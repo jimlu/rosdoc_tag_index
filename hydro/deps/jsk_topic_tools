@@ -1,2 +1,2 @@
-[catkin, message_runtime, topic_tools, rostest, rostopic, roscpp_tutorials, message_generation,
-  nodelet]
+[catkin, message_runtime, std_msgs, topic_tools, rostest, rostopic, roscpp_tutorials,
+  message_generation, nodelet]
