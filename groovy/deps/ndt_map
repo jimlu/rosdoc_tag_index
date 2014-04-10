@@ -1,1 +1,1 @@
-[pointcloud_vrml, catkin, opencv2, libpcl-all-dev, cv_bridge, pcl_ros]
+[pointcloud_vrml, catkin, opencv2, pcl, cv_bridge, pcl_ros]

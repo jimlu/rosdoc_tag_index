@@ -1,1 +1,1 @@
-[nav_msgs, rosconsole, catkin, tf, libpcl-all-dev, pcl_ros]
+[nav_msgs, rosconsole, catkin, pcl, tf, pcl_ros]

@@ -1,2 +1,1 @@
-[ndt_map, std_srvs, sensor_msgs, laser_geometry, ndt_visualisation, libpcl-all-dev,
-  catkin, ndt_registration]
+[ndt_map, std_srvs, sensor_msgs, laser_geometry, ndt_visualisation, pcl, catkin, ndt_registration]
