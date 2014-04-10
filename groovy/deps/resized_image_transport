@@ -1,0 +1,2 @@
+[std_srvs, message_runtime, sensor_msgs, image_transport, opencv2, driver_base, message_generation,
+  catkin, cv_bridge]
