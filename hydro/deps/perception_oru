@@ -1,0 +1,2 @@
+[pointcloud_vrml, ndt_map, ndt_mcl, ndt_fuser, ndt_map_builder, ndt_visualisation,
+  catkin, ndt_registration]
