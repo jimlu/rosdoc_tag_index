@@ -1,0 +1,3 @@
+[dynamic_reconfigure, tf2_geometry_msgs, catkin, roscpp, nodelet, image_transport,
+  eigen_conversions, libopencv-dev, cmake_modules, rostest, geometry_msgs, tf2_ros,
+  cv_bridge, tf2]
