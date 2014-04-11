@@ -1,0 +1,2 @@
+[image_geometry, catkin, message_filters, sensor_msgs, libopencv-dev, rostest, rospy,
+  std_srvs, cv_bridge]

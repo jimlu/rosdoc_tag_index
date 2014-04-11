@@ -1,0 +1,3 @@
+[image_geometry, catkin, stereo_msgs, message_filters, nodelet, boost, sensor_msgs,
+  image_transport, eigen_conversions, cmake_modules, rostest, tf2_ros, cv_bridge,
+  tf2]
