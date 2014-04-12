@@ -1,0 +1,2 @@
+[kdl, message_filters, stereo_synchronizer, sensor_msgs, opencv2, rospy, tf, geometry_msgs,
+  cv_bridge, tf_conversions]
