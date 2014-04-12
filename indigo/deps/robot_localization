@@ -1,0 +1,2 @@
+[nav_msgs, catkin, roscpp, sensor_msgs, std_msgs, cmake_modules, geometry_msgs, tf,
+  eigen]
