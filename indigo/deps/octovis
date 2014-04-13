@@ -1,0 +1,2 @@
+[libqtgui4, libqglviewer-qt4, catkin, libqglviewer-qt4-dev, libqt4-opengl, libqt4-opengl-dev,
+  libqt4-dev, octomap, cmake]
