@@ -1,1 +1,4 @@
-- {docs_url: ../../../api/jsk_recognition/html, location: jsk_recognition.tag, package: jsk_recognition}
+- {docs_url: ../../../api/cr_capture/html, location: cr_capture.tag, package: cr_capture}
+- {docs_url: ../../../api/posedetectiondb/html, location: posedetectiondb.tag, package: posedetectiondb}
+- {docs_url: ../../../api/orbit_pantilt/html, location: orbit_pantilt.tag, package: orbit_pantilt}
+- {docs_url: ../../../api/cr_calibration/html, location: cr_calibration.tag, package: cr_calibration}
