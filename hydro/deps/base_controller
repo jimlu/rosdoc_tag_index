@@ -1,1 +1,1 @@
-[android_core, catkin, rosjava_build_tools]
+[android_core, catkin, rosjava_build_tools, usb_serial_for_android]
