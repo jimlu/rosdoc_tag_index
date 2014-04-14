@@ -1,2 +1,2 @@
-[catkin, rosgraph, rocon_scheduler_requests, scheduler_msgs, rocon_app_manager_msgs,
+[concert_scheduler_requests, catkin, rosgraph, scheduler_msgs, rocon_app_manager_msgs,
   concert_msgs, rospy, uuid_msgs, rocon_console, rocon_uri, unique_id]
