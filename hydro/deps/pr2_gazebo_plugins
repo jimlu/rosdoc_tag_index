@@ -1,0 +1,5 @@
+[pr2_controller_manager, catkin, urdf, diagnostic_updater, message_generation, nav_msgs,
+  roscpp, gazebo_ros, driver_base, pr2_msgs, tf, gazebo, polled_camera, gazebo_msgs,
+  message_runtime, std_msgs, image_transport, pr2_hardware_interface, rospy, gazebo_plugins,
+  angles, cv_bridge, diagnostic_msgs, std_srvs, geometry_msgs, sensor_msgs, orocos_kdl,
+  pr2_mechanism_model]
