@@ -1,2 +1,2 @@
-[catkin, roscpp, moveit_ros_robot_interaction, eigen_conversions, geometry_msgs, visualization_msgs,
-  graph_msgs, tf_conversions]
+[moveit_core, catkin, roscpp, moveit_msgs, trajectory_msgs, std_msgs, moveit_ros_robot_interaction,
+  eigen_conversions, geometry_msgs, visualization_msgs, graph_msgs, tf_conversions]
