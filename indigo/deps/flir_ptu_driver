@@ -1,0 +1,2 @@
+[roslaunch, flir_ptu_description, catkin, roscpp, actionlib, sensor_msgs, roslint,
+  diagnostic_updater, rospy, tf, serial, boost, robot_state_publisher]
