@@ -1,1 +1,1 @@
-[alexandria, sbcl]
+[fiveam, alexandria, catkin, sbcl]

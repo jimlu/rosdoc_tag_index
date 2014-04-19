@@ -1,1 +1,1 @@
-[gsll, alexandria, sbcl]
+[gsll, alexandria, catkin, sbcl]
