@@ -1,1 +1,1 @@
-[bzip2, catkin, roscpp, rostime, zlib, sensor_msgs, mk, yasm, image_transport]
+[bzip2, git, catkin, roscpp, rostime, zlib, sensor_msgs, mk, yasm, image_transport]
