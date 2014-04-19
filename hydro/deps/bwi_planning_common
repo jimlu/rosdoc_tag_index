@@ -1,0 +1,2 @@
+[roslaunch, catkin, std_msgs, message_runtime, bwi_mapper, opencv2, utexas_gdc, bwi_tools,
+  message_generation]
