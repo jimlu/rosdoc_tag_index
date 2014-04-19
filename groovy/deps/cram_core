@@ -1,1 +1,2 @@
-[ros]
+[cram_reasoning, catkin, cram_projection, cram_math, cram_utilities, cram_designators,
+  cram_test_utilities, cram_language, cram_execution_trace, cram_process_modules]
