@@ -1,4 +1,4 @@
 [pcl_conversions, stereo_msgs, pcl_msgs, catkin, pcl_ros, eigen_conversions, tf_conversions,
-  tf2_ros, visualization_msgs, message_generation, boost, image_geometry, pcl, sensor_msgs,
-  message_runtime, std_msgs, image_transport, opencv2, tf, image_view2, dynamic_reconfigure,
-  rosboost_cfg, std_srvs, nodelet, geometry_msgs]
+  tf2_ros, visualization_msgs, message_generation, boost, image_geometry, sensor_msgs,
+  message_runtime, std_msgs, image_transport, opencv2, tf, cv_bridge, image_view2,
+  dynamic_reconfigure, rosboost_cfg, std_srvs, nodelet, geometry_msgs]
