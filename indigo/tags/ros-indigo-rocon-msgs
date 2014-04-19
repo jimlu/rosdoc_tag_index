@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/rocon_devices_msgs/html, location: rocon_devices_msgs.tag,
-  package: rocon_devices_msgs}
+- {docs_url: ../../../api/rocon_msgs/html, location: rocon_msgs.tag, package: rocon_msgs}
