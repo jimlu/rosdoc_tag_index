@@ -1,1 +1,1 @@
-[catkin, roscpp, message_filters, cv_bridge, sensor_msgs, image_transport, nodelet]
+[catkin, roscpp, message_filters, sensor_msgs, image_transport, cv_bridge]
