@@ -1,1 +1,2 @@
-[cram_language, cram_designators, alexandria, sbcl, lisp_unit]
+[cram_reasoning, alexandria, catkin, lisp_unit, cram_utilities, cram_designators,
+  cram_language, sbcl]

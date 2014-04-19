@@ -1,1 +1,2 @@
-[cram_utilities, alexandria, trivial_garbage, cram_test_utilities, synchronization_tools]
+[alexandria, catkin, cram_utilities, synchronization_tools, cram_test_utilities, trivial_garbage,
+  sbcl]

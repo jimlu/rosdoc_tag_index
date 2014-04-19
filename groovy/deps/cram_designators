@@ -1,1 +1,2 @@
-[cram_reasoning, alexandria, lisp_unit, cram_utilities, trivial_garbage, sbcl]
+[cram_reasoning, alexandria, catkin, lisp_unit, cram_utilities, cram_language, trivial_garbage,
+  sbcl]
