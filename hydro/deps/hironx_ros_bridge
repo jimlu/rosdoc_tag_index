@@ -1,1 +1,1 @@
-[hrpsys_ros_bridge, unzip, hrpsys, catkin]
+[hrpsys_ros_bridge, hrpsys, catkin, rosbash, mk, rosbuild, unzip, roslang]
