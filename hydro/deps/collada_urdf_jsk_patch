@@ -1,2 +1,3 @@
-[catkin, roscpp, collada_parser, collada-dom, urdf, resource_retriever, urdfdom_headers,
-  assimp_devel, collada_urdf, urdfdom, angles, tf, geometric_shapes, cmake_modules]
+[git, catkin, roscpp, collada_parser, pluginlib, collada-dom, urdf, resource_retriever,
+  mk, urdfdom_headers, assimp_devel, libgts, collada_urdf, urdfdom, angles, tf, rostest,
+  geometric_shapes, class_loader, cmake_modules]
