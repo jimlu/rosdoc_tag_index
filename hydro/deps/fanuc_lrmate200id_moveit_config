@@ -1,0 +1,3 @@
+[catkin, fanuc_lrmate200id_support, robot_state_publisher, moveit_planners_ompl, joint_state_publisher,
+  moveit_simple_controller_manager, moveit_ros_move_group, industrial_robot_simulator,
+  xacro, moveit_ros_visualization]
