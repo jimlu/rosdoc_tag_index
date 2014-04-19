@@ -1,1 +1,2 @@
-[collada_urdf, catkin]
+[catkin, roscpp, collada_parser, collada-dom, urdf, resource_retriever, urdfdom_headers,
+  assimp_devel, collada_urdf, urdfdom, angles, tf, geometric_shapes, cmake_modules]
