@@ -1,0 +1,1 @@
+[roslaunch, bwi_gazebo_entities, map_server, catkin, gazebo_ros]
