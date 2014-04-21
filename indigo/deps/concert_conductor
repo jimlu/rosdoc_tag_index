@@ -1,2 +1,2 @@
 [catkin, std_srvs, std_msgs, gateway_msgs, rosgraph, rocon_gateway_utils, rocon_app_manager_msgs,
-  concert_msgs, rocon_python_comms, rosservice, rospy, rocon_uri]
+  concert_msgs, rocon_python_comms, rosservice, rospy, rocon_console, rocon_uri]
