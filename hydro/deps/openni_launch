@@ -1,1 +1,1 @@
-[rgbd_launch, roslaunch, catkin, openni_camera, nodelet]
+[roslaunch, nodelet, rgbd_launch, catkin, openni_camera]
