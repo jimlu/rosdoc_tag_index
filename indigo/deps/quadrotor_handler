@@ -1,0 +1,1 @@
+[geometry_msgs, sensor_msgs, roscpp, catkin, vrep_ros_plugin]
