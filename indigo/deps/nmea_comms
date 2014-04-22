@@ -1,0 +1,1 @@
+[roslaunch, catkin, roscpp, nmea_msgs, roslint, rostest]
