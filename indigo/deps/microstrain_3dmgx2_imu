@@ -1,0 +1,2 @@
+[self_test, std_srvs, roscpp, std_msgs, message_runtime, sensor_msgs, diagnostic_updater,
+  tf, message_generation, catkin, log4cxx]
