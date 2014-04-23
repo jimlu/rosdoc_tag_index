@@ -1,1 +1,2 @@
-[kobuki_dashboard, kobuki_qtestsuite, catkin, kobuki_gazebo_plugins, kobuki_gazebo]
+[catkin, kobuki_gazebo_plugins, kobuki_qtestsuite, kobuki_dashboard, kobuki_rviz_launchers,
+  kobuki_gazebo]
