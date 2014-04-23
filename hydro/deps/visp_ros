@@ -1,0 +1,2 @@
+[image_geometry, catkin, roscpp, std_msgs, message_runtime, sensor_msgs, geometry_msgs,
+  visp_bridge, tf, rospy, cv_bridge]
