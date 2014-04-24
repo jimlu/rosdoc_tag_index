@@ -1,1 +1,1 @@
-[segbot_gazebo, catkin]
+[segbot_gazebo, catkin, segbot_simulation_apps]
