@@ -1,3 +1,3 @@
-[imagesift, image_geometry, mk, roseus, angles, eigen, nodelet, sensor_msgs, message_runtime,
-  std_msgs, image_transport, rosbuild, driver_base, rospy, dynamic_reconfigure, roscpp,
-  message_generation, geometry_msgs, catkin, cv_bridge, pcl_ros]
+[imagesift, catkin, eigen, pcl_ros, roscpp, rosbuild, driver_base, rostest, message_generation,
+  nodelet, image_geometry, std_msgs, message_runtime, sensor_msgs, image_transport,
+  rospy, angles, cv_bridge, dynamic_reconfigure, roseus, mk, geometry_msgs]
