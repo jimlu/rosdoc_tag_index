@@ -1,2 +1,2 @@
-[imu_handler, manipulator_handler, catkin, quadrotor_handler, vrep_ros_plugin, camera_handler,
-  rigid_body_handler]
+[imu_handler, manipulator_handler, catkin, quadrotor_handler, force_sensor_handler,
+  vrep_ros_plugin, camera_handler, rigid_body_handler]
