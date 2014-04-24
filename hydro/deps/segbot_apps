@@ -1,1 +1,1 @@
-[segbot_navigation, catkin]
+[segbot_gui, segbot_logical_translator, catkin, segbot_navigation]
