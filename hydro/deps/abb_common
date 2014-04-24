@@ -1,1 +1,1 @@
-[industrial_robot_client, catkin, xacro]
+[industrial_robot_client, simple_message, catkin, xacro]
