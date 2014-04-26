@@ -1,0 +1,2 @@
+[nav_msgs, dynamic_reconfigure, catkin, rviz, moveit_full_pr2, geneus, control_msgs,
+  pr2_msgs, move_base_msgs, pr2_controllers_msgs]
