@@ -1,0 +1,1 @@
+[roslaunch, catkin, segbot_gazebo, utexas_gdc, segbot_bringup, segbot_navigation]
