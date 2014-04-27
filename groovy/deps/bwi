@@ -1,3 +1,1 @@
-[bwi_planning, catkin, segbot_simulation, segbot, python-rosinstall, bwi_common, cmake_modules,
-  bwi_launch, rosemacs-el, openni_tracker, segbot_apps, python-wstool, python-bloom,
-  clasp]
+[bwi_desktop, bwi_desktop_full, catkin, bwi_launch]
