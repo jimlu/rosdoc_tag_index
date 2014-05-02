@@ -1,2 +1,2 @@
 [catkin, moveit_ros, pr2_moveit_plugins, moveit_ros_move_group, hironx_ros_bridge,
-  moveit_planners]
+  collada_urdf, moveit_planners]
