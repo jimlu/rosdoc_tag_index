@@ -1,1 +1,1 @@
-[cmake, python-empy, python-catkin-pkg, python-argparse, gtest, python-nose]
+[cmake, python-catkin-pkg, python-empy, python-argparse, gtest, python-nose]
