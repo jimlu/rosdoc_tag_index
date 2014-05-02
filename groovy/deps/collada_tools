@@ -1,0 +1,2 @@
+[urdf_parser, collada_parser, actionlib, urdf, sensor_msgs, assimp_devel, rospy, tf,
+  actionlib_msgs]

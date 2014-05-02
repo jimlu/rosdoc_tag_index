@@ -1,0 +1,3 @@
+[rosbuild, rosboost_cfg, libqhull, rospack, roscpp, collada_parser, collada-dom, urdf,
+  resource_retriever, mk, assimp_devel, cmake_modules, yaml-cpp, urdfdom, tf, catkin,
+  collada_urdf]

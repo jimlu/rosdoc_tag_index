@@ -1,0 +1,4 @@
+- {docs_url: ../../../api/euslisp_model_conversion_tester/html, location: euslisp_model_conversion_tester.tag,
+  package: euslisp_model_conversion_tester}
+- {docs_url: ../../../api/eusurdf/html, location: eusurdf.tag, package: eusurdf}
+- {docs_url: ../../../api/collada_tools/html, location: collada_tools.tag, package: collada_tools}
