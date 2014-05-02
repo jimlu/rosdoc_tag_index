@@ -1,3 +1,3 @@
 [roslaunch, std_srvs, roscpp, segbot_logical_translator, message_runtime, std_msgs,
-  segbot_gazebo, bwi_planning_common, gringo, utexas_gdc, segbot_gui, message_generation,
+  segbot_gazebo, bwi_planning_common, gringo, utexas_gdc, segbot_gui, yaml-cpp, message_generation,
   catkin, segbot_navigation, sound_play, segbot_simulation_apps, clasp]
