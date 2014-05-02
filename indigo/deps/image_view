@@ -1,2 +1,2 @@
-[rosconsole, std_srvs, roscpp, message_filters, cv_bridge, sensor_msgs, image_transport,
-  libopencv-dev, stereo_msgs, rostest, camera_calibration_parsers, catkin, nodelet]
+[rosconsole, std_srvs, roscpp, message_filters, nodelet, sensor_msgs, image_transport,
+  libopencv-dev, stereo_msgs, rostest, gtk2, camera_calibration_parsers, catkin, cv_bridge]
