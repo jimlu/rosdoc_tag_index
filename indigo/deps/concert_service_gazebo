@@ -1,0 +1,2 @@
+[rocon_launch, catkin, gateway_msgs, rocon_gateway_utils, rocon_python_utils, rospy,
+  rocon_console]

@@ -1,1 +1,2 @@
-[concert_service_turtlesim, concert_service_teleop, concert_service_admin, catkin]
+[concert_service_turtlesim, concert_service_teleop, concert_service_admin, catkin,
+  concert_service_gazebo]
