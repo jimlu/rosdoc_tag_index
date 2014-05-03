@@ -1,2 +1,2 @@
-[catkin, rqt_bag, rqt_gui, roslib, sensor_msgs, geometry_msgs, std_msgs, rospy, rqt_gui_py,
-  rosbag]
+[catkin, rqt_bag, rqt_gui, roslib, sensor_msgs, python-imaging, rospy, std_msgs, geometry_msgs,
+  rqt_gui_py, rosbag]
