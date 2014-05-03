@@ -1,2 +1,2 @@
-[nav_msgs, rosconsole, pcl_conversions, roscpp, costmap_2d, pluginlib, netpbm, nav_core,
-  geometry_msgs, visualization_msgs, tf, catkin, pcl_ros]
+[nav_msgs, rosconsole, pcl_conversions, roscpp, costmap_2d, pluginlib, netpbm, cmake_modules,
+  nav_core, geometry_msgs, visualization_msgs, tf, catkin, pcl_ros]

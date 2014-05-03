@@ -1,1 +1,1 @@
-[catkin, roscpp, costmap_2d, pluginlib, nav_core, geometry_msgs]
+[catkin, roscpp, costmap_2d, pluginlib, cmake_modules, nav_core, geometry_msgs]

@@ -1,1 +1,2 @@
-[catkin, eigen, costmap_2d, pluginlib, nav_core, tf, base_local_planner, roscpp]
+[catkin, roscpp, costmap_2d, pluginlib, cmake_modules, nav_core, tf, base_local_planner,
+  eigen]

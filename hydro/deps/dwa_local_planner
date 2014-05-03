@@ -1,2 +1,2 @@
-[dynamic_reconfigure, nav_msgs, pcl_conversions, eigen, costmap_2d, pluginlib, nav_core,
-  tf, catkin, base_local_planner, roscpp]
+[dynamic_reconfigure, nav_msgs, pcl_conversions, eigen, costmap_2d, pluginlib, cmake_modules,
+  nav_core, tf, catkin, base_local_planner, roscpp]
