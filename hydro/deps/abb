@@ -1,1 +1,1 @@
-[irb_2400_arm_navigation, catkin, abb_common, irb_5400_arm_navigation, abb_moveit_plugins]
+[irb_2400_moveit_config, catkin, abb_common, irb_6640_moveit_config, abb_moveit_plugins]
