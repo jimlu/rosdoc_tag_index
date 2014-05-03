@@ -1,3 +1,4 @@
+- {docs_url: ../../../api/pointmatcher/html, location: pointmatcher.tag, package: pointmatcher}
 - {docs_url: ../../../api/libnabo/html, location: libnabo.tag, package: libnabo}
 - {docs_url: ../../../api/ethzasl_gridmap_2d/html, location: ethzasl_gridmap_2d.tag,
   package: ethzasl_gridmap_2d}
