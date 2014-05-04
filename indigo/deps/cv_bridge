@@ -1,1 +1,1 @@
-[rosconsole, catkin, sensor_msgs, libopencv-dev, python-opencv, boost]
+[rosconsole, catkin, python, sensor_msgs, libopencv-dev, python-opencv, boost]

@@ -1,4 +1,4 @@
-[rocon_apps, python-rospkg, rocon_hub, roslib, catkin, rocon_python_utils, rocon_gateway,
-  rospy, gateway_msgs, std_msgs, rocon_gateway_utils, capabilities, roslint, python-catkin-pkg,
-  rocon_app_manager_msgs, rosmaster, rocon_python_comms, rocon_std_msgs, rocon_app_utilities,
-  rocon_console, rocon_uri]
+[rocon_apps, catkin, rocon_python_comms, rocon_std_msgs, rocon_console, rocon_master_info,
+  roslib, rocon_gateway_utils, capabilities, rocon_app_utilities, rocon_gateway, std_msgs,
+  python-rospkg, rocon_app_manager_msgs, rospy, roslint, rocon_hub, gateway_msgs,
+  python-catkin-pkg, rosmaster, rocon_python_utils, rocon_uri]
