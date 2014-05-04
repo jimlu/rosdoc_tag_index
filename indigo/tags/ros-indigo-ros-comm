@@ -1,9 +1,9 @@
 - {docs_url: ../../../api/test_roslaunch/html, location: test_roslaunch.tag, package: test_roslaunch}
 - {docs_url: ../../../api/test_rosgraph/html, location: test_rosgraph.tag, package: test_rosgraph}
 - {docs_url: ../../../api/test_roslib_comm/html, location: test_roslib_comm.tag, package: test_roslib_comm}
+- {docs_url: ../../../api/roslz4/html, location: roslz4.tag, package: roslz4}
 - {docs_url: ../../../api/test_rosbag_storage/html, location: test_rosbag_storage.tag,
   package: test_rosbag_storage}
 - {docs_url: ../../../api/test_rosmaster/html, location: test_rosmaster.tag, package: test_rosmaster}
 - {docs_url: ../../../api/test_rosservice/html, location: test_rosservice.tag, package: test_rosservice}
 - {docs_url: ../../../api/test_rospy/html, location: test_rospy.tag, package: test_rospy}
-- {docs_url: ../../../api/test_roscpp/html, location: test_roscpp.tag, package: test_roscpp}

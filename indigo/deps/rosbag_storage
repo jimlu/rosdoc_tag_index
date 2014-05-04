@@ -1,2 +1,2 @@
-[bzip2, catkin, rostime, roscpp_serialization, console_bridge, roscpp_traits, cpp_common,
-  boost]
+[roslz4, bzip2, catkin, rostime, roscpp_serialization, console_bridge, roscpp_traits,
+  cpp_common, boost]
