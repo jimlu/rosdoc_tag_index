@@ -1,0 +1,5 @@
+- {docs_url: ../../../api/pr2eus_armnavigation/html, location: pr2eus_armnavigation.tag,
+  package: pr2eus_armnavigation}
+- {docs_url: ../../../api/pr2eus_tutorials/html, location: pr2eus_tutorials.tag, package: pr2eus_tutorials}
+- {docs_url: ../../../api/pr2eus_moveit/html, location: pr2eus_moveit.tag, package: pr2eus_moveit}
+- {docs_url: ../../../api/pr2eus_impedance/html, location: pr2eus_impedance.tag, package: pr2eus_impedance}
