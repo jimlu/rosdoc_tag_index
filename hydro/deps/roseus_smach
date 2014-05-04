@@ -1,1 +1,1 @@
-[roseus, euslisp]
+[catkin, roseus, executive_smach, euslisp]
