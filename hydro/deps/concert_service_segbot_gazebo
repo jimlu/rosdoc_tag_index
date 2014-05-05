@@ -1,0 +1,2 @@
+[catkin, gazebo_msgs, concert_service_utilities, segbot_gazebo, concert_service_gazebo,
+  gazebo_ros]

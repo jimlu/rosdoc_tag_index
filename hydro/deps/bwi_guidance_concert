@@ -1,0 +1,4 @@
+[roslaunch, rocon_apps, concert_scheduler_requests, catkin, concert_service_admin,
+  rospy, concert_service_segbot_gazebo, zeroconf_msgs, concert_master, zeroconf_avahi,
+  rocon_app_manager, concert_msgs, rocon_python_comms, concert_service_gazebo, rocon_python_utils,
+  bwi_guidance_solver, rocon_uri]
