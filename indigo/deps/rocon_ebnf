@@ -1,1 +1,1 @@
-[catkin, rosunit]
+[python-catkin-pkg, catkin, rosunit]

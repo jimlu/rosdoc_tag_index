@@ -1,1 +1,1 @@
-[roslaunch, catkin, rosbash, rospy, rocon_python_utils, rocon_console]
+[roslaunch, catkin, rosbash, python-catkin-pkg, rocon_python_utils, rospy, rocon_console]

@@ -1,2 +1,2 @@
-[catkin, rospy, rocon_std_msgs, rocon_python_utils, rocon_console, rocon_python_comms,
-  rocon_icons]
+[catkin, rocon_python_utils, python-catkin-pkg, rocon_python_comms, rocon_std_msgs,
+  rospy, rocon_console, rocon_icons]

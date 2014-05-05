@@ -1,2 +1,3 @@
-[python-yaml, genpy, catkin, rocon_service_pair_msgs, roslib, rosgraph, rostest, rospy,
-  rostopic, rosservice, uuid_msgs, rosnode, rocon_console, unique_id, rosunit]
+[python-yaml, genpy, catkin, rocon_service_pair_msgs, roslib, rosgraph, python-catkin-pkg,
+  rostest, rospy, rostopic, rosservice, uuid_msgs, rosnode, rocon_console, unique_id,
+  rosunit]
