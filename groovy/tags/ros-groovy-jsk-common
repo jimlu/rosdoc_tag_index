@@ -3,8 +3,6 @@
 - {docs_url: ../../../api/jtalk/html, location: jtalk.tag, package: jtalk}
 - {docs_url: ../../../api/python_twitter/html, location: python_twitter.tag, package: python_twitter}
 - {docs_url: ../../../api/voice_text/html, location: voice_text.tag, package: voice_text}
-- {docs_url: ../../../api/ff/html, location: ff.tag, package: ff}
-- {docs_url: ../../../api/ffha/html, location: ffha.tag, package: ffha}
 - {docs_url: ../../../api/jsk_data/html, location: jsk_data.tag, package: jsk_data}
 - {docs_url: ../../../api/python_twoauth/html, location: python_twoauth.tag, package: python_twoauth}
 - {docs_url: ../../../api/julius/html, location: julius.tag, package: julius}

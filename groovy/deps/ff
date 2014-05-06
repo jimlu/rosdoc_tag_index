@@ -1,1 +1,1 @@
-[rosbuild, unzip, catkin, rosbash, mk]
+[flex, unzip, rospack, rosbash, roslib, mk, rosbuild, bison, catkin]
