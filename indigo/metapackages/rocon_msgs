@@ -1,3 +1,2 @@
-[concert_service_msgs, catkin, rocon_device_msgs, gateway_msgs, rocon_service_pair_msgs,
-  rocon_tutorial_msgs, rocon_app_manager_msgs, concert_msgs, scheduler_msgs, rocon_std_msgs,
-  rocon_annotation_msgs, rocon_interaction_msgs]
+[rocon_device_msgs, catkin, rocon_service_pair_msgs, gateway_msgs, concert_msgs, rocon_tutorial_msgs,
+  rocon_app_manager_msgs, concert_service_msgs, scheduler_msgs, rocon_std_msgs, rocon_interaction_msgs]
