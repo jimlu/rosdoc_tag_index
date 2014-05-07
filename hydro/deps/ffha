@@ -1,1 +1,1 @@
-[flex, rospack, roslib, mk, bison, gawk, catkin]
+[flex, rospack, roslib, mk, rosbuild, bison, gawk, catkin]
