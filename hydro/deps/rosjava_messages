@@ -31,5 +31,5 @@
   base_local_planner, jsk_pcl_ros, rosjava_bootstrap, jsk_gui_msgs, rosserial_arduino,
   baxter_core_msgs, rosbridge_library, p2os_driver, bride_tutorials, cob_base_drive_chain,
   laser_assembler, turtlesim, map_msgs, dynamic_reconfigure, pr2_gazebo_plugins, roseus,
-  qt_tutorials, hector_nav_msgs, sr_ronex_msgs, theora_image_transport, rosserial_msgs,
-  clearpath_base, sensor_msgs, p2os_urdf, hector_mapping]
+  pddl_msgs, qt_tutorials, hector_nav_msgs, sr_ronex_msgs, theora_image_transport,
+  rosserial_msgs, clearpath_base, sensor_msgs, p2os_urdf, hector_mapping]
