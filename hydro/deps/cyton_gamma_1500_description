@@ -1,1 +1,1 @@
-[catkin, xacro]
+[catkin, robot_state_publisher, xacro, rviz, joint_state_publisher]
