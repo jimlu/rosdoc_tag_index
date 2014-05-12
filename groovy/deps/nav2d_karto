@@ -1,1 +1,1 @@
-[tf, catkin, nav2d_localizer, nav2d_msgs, roscpp]
+[catkin, roscpp, nav2d_localizer, nav2d_msgs, tf, g2o, suitesparse]
