@@ -1,2 +1,2 @@
 [pr2_description, nav_msgs, roseus, catkin, euscollada, rostest, control_msgs, pr2_msgs,
-  roseus_msgs, move_base_msgs, dynamic_reconfigure, sound_play, pr2_controllers_msgs]
+  move_base_msgs, dynamic_reconfigure, sound_play, pr2_controllers_msgs]

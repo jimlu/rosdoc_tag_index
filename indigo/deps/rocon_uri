@@ -1,1 +1,1 @@
-[rospy, catkin, rosunit]
+[rocon_console, rosunit, catkin, rocon_ebnf, rospy]
