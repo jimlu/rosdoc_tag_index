@@ -1,2 +1,2 @@
 [python-tk, doxygen, catkin, libglew-dev, libxml2, glut, libqhull, mk, libirrlicht-dev,
-  opencv2, sdl, rostest, rosbash, openhrp3, rosbuild, roslang, libxmu-dev, subversion]
+  opencv2, sdl, rostest, openhrp3, rosbuild, git, roslang, libxmu-dev, rosbash]
