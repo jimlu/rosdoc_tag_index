@@ -1,0 +1,2 @@
+[nav_msgs, controller_interface, controller_manager, urdf, realtime_tools, catkin,
+  rostest, angles, tf, xacro]
