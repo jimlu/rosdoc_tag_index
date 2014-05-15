@@ -10,3 +10,4 @@
   package: ee_cart_imped_jsk_patch}
 - {docs_url: ../../../api/move_arm_jsk_patch/html, location: move_arm_jsk_patch.tag,
   package: move_arm_jsk_patch}
+- {docs_url: ../../../api/sklearn/html, location: sklearn.tag, package: sklearn}
