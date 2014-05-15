@@ -1,0 +1,2 @@
+[hardware_interface, catkin, roscpp, pluginlib, realtime_tools, ros_ethercat_eml,
+  diagnostic_updater, diagnostic_msgs]
