@@ -1,0 +1,3 @@
+[xacro, hardware_interface, trajectory_msgs, control_toolbox, roscpp, controller_manager,
+  actionlib, urdf, realtime_tools, catkin, rqt_plot, cmake_modules, rostest, control_msgs,
+  angles, controller_interface]
