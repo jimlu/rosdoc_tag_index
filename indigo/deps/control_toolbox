@@ -1,0 +1,2 @@
+[dynamic_reconfigure, catkin, roscpp, message_runtime, std_msgs, realtime_tools, cmake_modules,
+  tinyxml, message_generation]
