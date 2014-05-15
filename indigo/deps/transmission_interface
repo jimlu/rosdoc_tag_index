@@ -1,0 +1,2 @@
+[hardware_interface, catkin, roscpp, pluginlib, resource_retriever, cmake_modules,
+  tinyxml]
