@@ -1,0 +1,2 @@
+[pr2_mechanism_msgs, hardware_interface, catkin, roscpp, pluginlib, urdf, kdl_parser,
+  joint_state_controller]
