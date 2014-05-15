@@ -1,1 +1,1 @@
-[rospy, eigen, std_msgs, roscpp, pluginlib]
+[catkin, roscpp, pluginlib, message_runtime, std_msgs, rospy, message_generation]
