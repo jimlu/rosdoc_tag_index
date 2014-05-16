@@ -1,1 +1,1 @@
-[image_proc, nodelet, freenect_camera, tf, catkin, depth_image_proc]
+[image_proc, freenect_camera, tf, rgbd_launch, catkin, nodelet]
