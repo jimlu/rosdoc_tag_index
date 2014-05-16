@@ -1,0 +1,2 @@
+[catkin, diagnostic_aggregator, robot_state_publisher, nao_driver, nao_description,
+  nao_pose]
