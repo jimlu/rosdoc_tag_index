@@ -1,2 +1,1 @@
-- {docs_url: ../../../api/dna_extraction_msgs/html, location: dna_extraction_msgs.tag,
-  package: dna_extraction_msgs}
+- {docs_url: ../../../api/iai_common_msgs/html, location: iai_common_msgs.tag, package: iai_common_msgs}
