@@ -1,2 +1,2 @@
-{gazebo_ros_pkgs: e92ff2cf9e33bc484d990bbafdaa7117dfb8bb68, jenkins_scripts-sys: 37f85b1e084145e62687fd6ceea4cda8baf7b50e,
+{gazebo_ros_pkgs: b353b4aab77d14bc07f0e618357dfdd0a9a444c9, jenkins_scripts-sys: 37f85b1e084145e62687fd6ceea4cda8baf7b50e,
   rosdoc_lite-sys: 5d21c89ab42c98dedeaf1dc7e288a94e630a143a}
