@@ -1,0 +1,2 @@
+[std_srvs, roscpp, pluginlib, controller_manager_msgs, sr_ronex_utilities, std_msgs,
+  catkin, sr_ronex_msgs, ros_ethercat_model, controller_interface, sr_ronex_hardware_interface]
