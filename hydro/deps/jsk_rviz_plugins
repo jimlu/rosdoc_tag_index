@@ -1,0 +1,2 @@
+[catkin, wxwidgets, jsk_pcl_ros, std_msgs, diagnostic_msgs, jsk_footstep_msgs, message_generation,
+  jsk_hark_msgs, rviz]
