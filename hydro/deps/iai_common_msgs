@@ -1,1 +1,3 @@
-[designator_integration_msgs, iai_content_msgs, catkin]
+[catkin, mln_robosherlock_msgs, data_vis_msgs, saphari_msgs, designator_integration_msgs,
+  iai_content_msgs, sherlock_sim_msgs, iai_pancake_perception_action, dna_extraction_msgs,
+  iai_kinematics_msgs, scanning_table_msgs]
