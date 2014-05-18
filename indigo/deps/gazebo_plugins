@@ -1,0 +1,4 @@
+[rosconsole, pcl_conversions, urdf, diagnostic_updater, polled_camera, catkin, nav_msgs,
+  roscpp, driver_base, tf, nodelet, rosgraph_msgs, trajectory_msgs, sensor_msgs, gazebo_msgs,
+  image_transport, message_generation, rospy, angles, cv_bridge, gazebo_ros, dynamic_reconfigure,
+  std_srvs, gazebo, geometry_msgs]

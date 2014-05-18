@@ -1,0 +1,2 @@
+[rosgraph_msgs, dynamic_reconfigure, std_srvs, roscpp, std_msgs, roslib, gazebo_msgs,
+  message_generation, cmake_modules, geometry_msgs, tinyxml, tf, catkin, gazebo]
