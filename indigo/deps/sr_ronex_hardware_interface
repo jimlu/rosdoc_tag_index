@@ -1,0 +1,1 @@
+[ros_ethercat_model, ros_ethercat_hardware, catkin, roscpp, sr_ronex_external_protocol]
