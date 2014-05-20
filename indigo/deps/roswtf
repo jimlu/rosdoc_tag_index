@@ -1,2 +1,2 @@
-[roslaunch, rosbuild, catkin, roslib, rosgraph, python-rospkg, rostest, rosservice,
-  rosnode, python-paramiko]
+[roslaunch, rosbuild, catkin, roslib, rosgraph, python-rospkg, cmake_modules, rostest,
+  rosservice, rosnode, python-paramiko]
