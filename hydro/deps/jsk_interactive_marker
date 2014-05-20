@@ -1,3 +1,3 @@
-[roseus, catkin, actionlib, sensor_msgs, dynamic_tf_publisher, eigen_conversions,
+[roseus, catkin, geometry, actionlib, sensor_msgs, dynamic_tf_publisher, eigen_conversions,
   cmake_modules, jsk_footstep_msgs, geometry_msgs, tinyxml, visualization_msgs, tf,
-  orocos_kdl, jsk_pcl_ros, tf_conversions]
+  jsk_pcl_ros, tf_conversions]
