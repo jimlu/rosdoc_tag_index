@@ -1,0 +1,2 @@
+[interactive_markers, catkin, roscpp, roslib, sensor_msgs, designator_integration_msgs,
+  visualization_msgs, designator_integration, cv_bridge]
