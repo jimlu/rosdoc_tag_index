@@ -1,2 +1,5 @@
 - {docs_url: ../../../api/rtt_rosbuild_tests/html, location: rtt_rosbuild_tests.tag,
   package: rtt_rosbuild_tests}
+- {docs_url: ../../../api/rtt_ros_msgs/html, location: rtt_ros_msgs.tag, package: rtt_ros_msgs}
+- {docs_url: ../../../api/rtt_rosdeployment/html, location: rtt_rosdeployment.tag,
+  package: rtt_rosdeployment}
