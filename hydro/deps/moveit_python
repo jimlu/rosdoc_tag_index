@@ -1,0 +1,1 @@
+[shape_msgs, catkin, actionlib, geometry_msgs, tf, rospy, python-pyassimp, moveit_msgs]
