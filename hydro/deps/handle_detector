@@ -1,2 +1,3 @@
-[pcl_conversions, roscpp, message_runtime, std_msgs, eigen_conversions, tf, geometry_msgs,
-  visualization_msgs, message_generation, catkin, liblapack-dev, tf_conversions, pcl_ros]
+[pcl_conversions, roscpp, message_runtime, std_msgs, eigen_conversions, tf, cmake_modules,
+  geometry_msgs, visualization_msgs, message_generation, catkin, liblapack-dev, tf_conversions,
+  pcl_ros]
