@@ -1,1 +1,2 @@
-[tf, catkin, nav2d_localizer, nav2d_msgs, roscpp]
+[nav_msgs, catkin, roscpp, nav2d_localizer, nav2d_msgs, suitesparse, visualization_msgs,
+  tf, geometry_msgs, tbb, eigen]

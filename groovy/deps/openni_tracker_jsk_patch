@@ -1,1 +1,1 @@
-[openni-dev, roscpp, roslib, geometry_msgs, tf, orocos_kdl]
+[openni-dev, roscpp, geometry, roslib, geometry_msgs, tf]
